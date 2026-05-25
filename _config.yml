@@ -1,0 +1,11 @@
+title: Acute Brain CT Quickstart
+description: Practical CT brain teaching for ED physicians and junior radiologists.
+remote_theme: just-the-docs/just-the-docs
+permalink: pretty
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+aux_links:
+  "GitHub": "https://github.com/rosewarnedm/ct-brain-quickstart"
+plugins:
+  - jekyll-remote-theme
