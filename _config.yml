@@ -1,5 +1,7 @@
 title: Acute Brain CT Quickstart
 description: Practical CT brain teaching for ED physicians and junior radiologists.
+url: "https://rosewarnedm.github.io"
+baseurl: "/ct-brain-quickstart"
 remote_theme: just-the-docs/just-the-docs
 permalink: pretty
 color_scheme: light
