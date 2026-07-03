@@ -1,355 +1,310 @@
 ---
 layout: default
-title: "Chapter 02: Normal Brain Anatomy and Normal Variants on CT"
+title: "Chapter 02: Normal Brain Anatomy on CT"
 nav_order: 2
 ---
 
-# Normal Brain Anatomy and Normal Variants on CT
-## A Practical Guide for ED Physicians and Junior Radiologists
+> **⚠️ AI-generated content — requires human review.**
+> This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
+
+# Chapter 2: Normal Brain Anatomy on CT
 
 ---
 
-## CT Fundamentals: Attenuation Values You Must Know
+## Why this matters in the ED
 
-Attenuation (measured in Hounsfield Units, HU) is the foundation of CT interpretation. Memorise the key ranges:
+Every acute CT brain interpretation depends on knowing what normal looks like. Misreading a normal variant as pathology can trigger unnecessary anticoagulation, thrombolysis, or neurosurgical referral. Missing subtle abnormality against a "normal-looking" scan delays reperfusion or decompression. This chapter gives you the practical foundations.
 
-| Structure | Typical HU |
+---
+
+## CT fundamentals you need to know
+
+### Hounsfield units (HU) — what things look like and why
+
+| Structure | Approximate HU |
 |---|---|
 | Air | −1000 |
-| Fat | −100 to −50 |
-| CSF | <mark>0–15 HU</mark> |
-| White matter | <mark>~22–32 HU</mark> |
-| Grey matter | <mark>~32–42 HU</mark> |
-| Acute blood | <mark>~50–80 HU</mark> |
-| Calcification | <mark>~100–400 HU</mark> |
-| Cortical bone | ~1000–1500 |
+| Fat | −100 to −30 |
+| CSF | 0–15 |
+| White matter (WM) | 20–30 |
+| Grey matter (GM) | 35–45 |
+| Venous blood | 40–50 |
+| Acute clotted haemorrhage | 60–80 |
+| Calcification | >100 (often 150–400+) |
+| Cortical bone | 700–2000+ |
 
-The <mark>5–10 HU difference between grey matter (GM) and white matter (WM)</mark> is clinically important: loss of this distinction suggests early oedema or ischaemia.
+**Key practical points:**
+- GM is always slightly brighter (higher HU) than WM on NCCT. Loss of this contrast = abnormal until proved otherwise.
+- Fresh haemorrhage is bright (60–80 HU) — but not as bright as calcification (>100 HU). Use this to distinguish them.
+- Blood density rises with haematocrit. A dehydrated or polycythaemic patient has naturally denser vessels — don't overcall thrombus.
 
-### Windowing — use the right tool for the job
+### Windowing — always use the right one
 
-- **Brain window:** <mark>level ~35–45 HU, width ~80–100 HU</mark> — optimises GM–WM distinction.
-- **SAH search:** consider narrower width (~60–80 HU) and a slightly higher level.
-- **Bone window:** <mark>level ~300–500 HU, width ~2000–3000 HU</mark> — for skull, temporal bone, sinuses.
+| Window | Level / Width | Use it for |
+|---|---|---|
+| Brain | ~40 / ~80 | GM–WM differentiation, parenchyma |
+| Subdural | ~50 / ~200 | Extra-axial collections, isodense subdurals |
+| Bone | ~500 / ~2500 | Skull fractures, calcifications, sutures |
 
-Whenever you suspect pathology, adjust the window before concluding the scan is normal.
+**Never read an acute CT brain on brain window alone.** Scroll through subdural and bone windows routinely.
 
----
+### Technical pitfalls to know before you start
 
-## Systematic Approach — Always Use One
-
-Work through a fixed sequence every time:
-
-1. Patient identifiers, side markers, motion artefact, gantry tilt
-2. Scalp and soft tissues
-3. Calvarium and skull base — sutures vs fractures
-4. Extra-axial spaces (sulci, cisterns, fissures)
-5. Ventricular system and midline
-6. Deep grey nuclei and internal capsule
-7. Cerebral white matter and cortex
-8. Brainstem and posterior fossa
-9. Orbits, paranasal sinuses, mastoids
-10. Vascular hyperdensities and physiological calcifications
+- **Beam hardening** in the posterior fossa (from petrous bones) creates artefactual low attenuation — do not call this posterior fossa infarct on NCCT without clinical correlation. Get an MRI if in doubt.
+- **Thick slices (5 mm)** cause partial volume averaging at thin structures — subtle subdurals and small bleeds can be missed. Request thin reconstructions if available.
+- **Patient tilt/rotation** creates apparent asymmetry and pseudo-midline shift — check skull alignment first.
+- **Recent contrast or prior angiography** makes venous sinuses and choroid plexus look dense — check the history.
 
 ---
 
-## Supratentorial Anatomy
+## A systematic approach: eight levels to check
 
-### Cerebral Cortex and White Matter
+Work top-to-bottom (or bottom-to-top — be consistent). At each level confirm:
 
-Cortex is hyperattenuating relative to subcortical WM by <mark>~5–10 HU</mark>. Sulci contain CSF (<mark>0–15 HU</mark>). Mild sulcal asymmetry is normal — the dominant hemisphere often has a slightly deeper Sylvian fissure.
+1. **Symmetry** of parenchyma and CSF spaces
+2. **GM–WM differentiation** is preserved
+3. **Basal cisterns and sulci** are open, not effaced
+4. **Ventricular size and shape** are appropriate
+5. **Density of vessels and dural sinuses** is as expected
 
-**Pitfall:** Apparent loss of GM–WM differentiation may reflect poor windowing or motion rather than pathology. Adjust your window and compare both hemispheres symmetrically before concluding there is diffuse oedema.
+### The eight levels
 
-Periventricular low-attenuation "caps" and "bands" increase with age. When mild and symmetric, these are within the normal ageing spectrum; correlate with vascular risk factors.
-
-### Deep Grey Nuclei and Internal Capsule
-
-Caudate, putamen, and globus pallidus are slightly hyperattenuating to WM and similar to cortex. The posterior limb of the internal capsule appears as a subtly hypoattenuating linear band between the basal ganglia — this is normal.
-
-**Pitfall:** Symmetric punctate hyperdensities in the globus pallidus in older adults represent physiological mineralisation (~100–200 HU), not haemorrhage.
-
-### Corpus Callosum and Falx
-
-The corpus callosum (genu, body, splenium) is homogeneous WM attenuation. The falx commonly calcifies in elderly patients, producing a thin linear hyperdensity of <mark>~150–300 HU</mark>.
-
-**Pitfall:** Calcified falx or tentorium can mimic acute subdural blood. Distinguish by using bone windows — calcification is sharply marginated, very high HU, thin, and symmetric. Acute subdural haemorrhage is crescentic, broader, and may layer dependently.
-
----
-
-## Ventricular System and CSF Spaces
-
-### Lateral Ventricles
-
-- <mark>Evans index (maximal frontal horn width ÷ inner skull diameter at same level) <0.3</mark> effectively excludes hydrocephalus.
-- <mark>Temporal horns are normally slit-like (<2 mm)</mark>; preferential temporal horn enlargement is an early sign of hydrocephalus.
-- Calcified choroid plexus in the atria is very high HU, sharply marginated, and usually bilateral — do not mistake it for intraventricular haemorrhage.
-
-### Third and Fourth Ventricles
-
-- Third ventricle width: <mark>2–6 mm in young adults</mark>; can increase with age/atrophy.
-- Fourth ventricle should be midline and diamond-shaped in the posterior fossa.
-
-### Basal Cisterns
-
-Patent basal cisterns (suprasellar, interpeduncular, ambient, quadrigeminal) indicate the absence of significant raised ICP or downward herniation. Effaced cisterns are a critical finding requiring urgent escalation.
-
-**Pitfall:** Beam hardening at the tentorium can create apparent hyperdensity mimicking SAH. When querying SAH, also look for blood layering dependently in sulci at the vertex and in the Sylvian fissures.
+1. Foramen magnum / craniocervical junction
+2. Lower–mid pons, fourth ventricle, prepontine cistern
+3. Upper pons and midbrain, suprasellar and ambient cisterns
+4. Basal ganglia — the most diagnostically important level
+5. Thalami, pineal, quadrigeminal cistern, atria
+6. Bodies of lateral ventricles, centrum semiovale
+7. High convexities, falx, cortical sulci
+8. Vertex
 
 ---
 
-## Posterior Fossa and Brainstem
+## The ventricular system and CSF spaces
 
-Cerebellar hemispheres follow the same GM–WM attenuation pattern. The brainstem is homogeneous, similar to deep GM.
+### What's normal
 
-**Pitfall:** Streak artefact from the petrous bones is common and can obscure small haemorrhages or early infarction in the posterior fossa. If clinically suspected, request thin-slice reconstruction and appropriate reconstruction kernels, or proceed to MRI.
+- **Lateral ventricles:** frontal horns, bodies, atria, temporal horns, occipital horns. Mild asymmetry is common and normal if the midline is centred.
+- **Third ventricle:** slit-like midline structure; widens with age.
+- **Fourth ventricle:** symmetric rhomboid between brainstem and cerebellum; any distortion or asymmetry is significant.
+- **Temporal horns:** should be barely visible (≤2 mm). Dilatation is an early sign of hydrocephalus.
+- **Evans index** (frontal horn width ÷ maximum inner skull diameter): <0.30 is normal.
 
----
+### Basal cisterns — why they matter
 
-## Skull, Sutures, and Scalp
+The suprasellar, ambient, interpeduncular, prepontine, and quadrigeminal cisterns are patent in a normal scan. **Effacement of basal cisterns is a red flag for raised intracranial pressure.** In trauma or mass effect, this finding demands urgent senior review.
 
-### Sutures vs Fractures
+### Critical differential: choroid plexus calcification vs intraventricular haemorrhage
 
-Sutures are serrated, symmetric, and have sclerotic margins. Fractures are typically:
-- Sharp and non-sclerotic
-- May cross suture lines
-- Associated with overlying soft-tissue swelling and/or intracranial findings
+| Feature | Calcification | IVH |
+|---|---|---|
+| HU | >100 | 60–80 |
+| Margins | Sharp, lobulated | Variable, may layer |
+| Location | Typically bilateral at atria | Can be anywhere, often dependent |
+| Bone window | Confirms calcification | No |
 
-Vascular channels (venous lakes, emissary foramina) have smooth, corticated margins.
+### Pitfall: pseudo-subarachnoid haemorrhage
 
-**Pitfall:** Accessory sutures can closely mimic fractures. Always look for associated soft-tissue swelling and intracranial injury if uncertain. Hyperostosis frontalis interna (benign inner table thickening in older females) is incidental.
-
----
-
-## Orbits, Paranasal Sinuses, and Temporal Bones
-
-- Vitreous: ~0–15 HU; lens is hyperattenuating relative to vitreous.
-- Sinuses and mastoids should be aerated; retained secretions have higher attenuation than air (~0–30 HU) and may mimic soft tissue — look for air–fluid levels and chronic mucosal change.
-
----
-
-## Normal Vascular Structures
-
-### Arterial Hyperdensity
-
-<mark>The hyperdense MCA sign (acute thrombus) is unilateral, focal or segmental, and typically higher in attenuation than the choroid plexus and GM.</mark> Physiological arterial hyperdensity from high haematocrit or dehydration is bilateral and symmetric. Compare with venous sinuses.
-
-### Venous Sinuses
-
-Dural venous sinuses are commonly asymmetric — a dominant right transverse–sigmoid system is the norm. The non-dominant sinus can be small or even absent.
-
-**Pitfall:** Acute dural sinus thrombosis produces a hyperdense sinus, <mark>often >60–70 HU</mark>, with the appearance of the entire sinus cross-section being filled. Distinguish from physiological density (polycythaemia, dehydration) or beam hardening by clinical context and, where doubt persists, CT venography.
-
-Arachnoid granulations appear as focal low-attenuation filling defects along the sinus margin (usually transverse or sigmoid), often with smooth bony scalloping — these are normal.
+In **diffuse cerebral oedema** (e.g., cardiac arrest, hypoxia), the brain parenchyma becomes diffusely hypodense. The basal cisterns and Sylvian fissures then appear relatively bright by comparison — mimicking SAH. Look for:
+- Global low parenchymal density
+- Sulcal effacement
+- Small or slit-like ventricles
+- Symmetry (true SAH is often asymmetric or heaviest in dependent cisterns)
 
 ---
 
-## Age-Related Normal Appearances
+## Grey–white matter differentiation
 
-### Neonates and Infants
+### What's normal
 
-Unmyelinated WM is relatively hypoattenuating with reduced GM–WM conspicuity — do not mistake this for diffuse oedema. Shallow sulci and relatively larger CSF spaces are normal in early infancy.
+The GM–WM boundary is clearest at:
+- The **insular cortex** (insular ribbon)
+- The **caudate head** and **lentiform nucleus** margins
+- The **cortical convexities**
 
-**Benign external hydrocephalus (BEH):** Widened frontal subarachnoid spaces with normal or mildly enlarged ventricles and visible bridging veins traversing the widened CSF space. This is self-limiting and resolves by <mark>2–3 years</mark>. Do not misdiagnose as subdural haemorrhage — subdural collections are crescentic, may have different (e.g., proteinaceous or haemorrhagic) attenuation, and displace cortical veins inward rather than traversing the space.
+WM (internal capsule, corona radiata) is consistently darker than adjacent GM. This difference is subtle but reliable.
 
-### Children and Adolescents
+### Why this matters urgently
 
-Physiological calcifications (pineal, choroid plexus) are <mark>uncommon before adolescence</mark>. Frontal sinuses are often absent before <mark>6–8 years</mark>.
+**Loss of GM–WM differentiation is the earliest CT sign of ischaemia.** The sites most sensitive for early MCA stroke are:
+- **Insular ribbon loss** — focal hypodensity of the insular cortex
+- **Lentiform nucleus obscuration** — the putamen becomes the same density as surrounding WM
 
-### Adults and Elderly
+If you see either of these findings in a patient with stroke symptoms, this is a time-critical finding. Escalate immediately.
 
-- Third ventricle width often exceeds 6 mm with atrophy.
-- Physiological calcifications become increasingly prevalent: pineal, choroid plexus, falx/tentorium, globus pallidus, dentate nuclei.
-- Periventricular WM low-attenuation changes become more common; correlate with vascular risk factors.
-
----
-
-## Normal Variants — What They Look Like and How Not to Miss Them
-
-### 1. Physiological Intracranial Calcifications
-
-| Location | Appearance |
-|---|---|
-| Pineal gland | Central nodular, ~100–300 HU, midline |
-| Choroid plexus | Coarse, clustered, in atria; often asymmetric |
-| Falx / tentorium | Thin linear; ~150–300 HU |
-| Globus pallidus | Punctate, symmetric; increases with age |
-| Dentate nuclei | Fine, symmetric |
-
-**Key distinguishing features:** Symmetric, age-appropriate, typical locations, no surrounding oedema or mass effect.
-
-**Red flag for pathology:** Calcification that is early in onset, asymmetric, extensive, or accompanied by parenchymal change (consider metabolic/endocrine disorder, congenital infection, Sturge–Weber).
-
-### 2. Cavum Variants
-
-- **Cavum septi pellucidi (CSP):** CSF-attenuation midline space anterior to the foramen of Monro.
-- **Cavum vergae:** Posterior extension of CSP, behind the foramen of Monro.
-- **Cavum velum interpositum:** Triangular CSF-attenuation space beneath the fornices, above the third ventricle.
-
-All three show <mark>CSF attenuation (0–15 HU)</mark>, smooth margins, and no mass effect. They do not explain symptoms and require no action.
-
-### 3. Enlarged Perivascular (Virchow–Robin) Spaces
-
-Round or linear CSF-attenuation foci, typically <mark><5 mm</mark>, at the basal ganglia (along lenticulostriate arteries), centrum semiovale, and midbrain. No surrounding hypodensity, no mass effect.
-
-**Distinguish from lacunar infarcts:** Lacunes may have a wedge or ovoid shape with perilesional WM low attenuation (gliosis) and correlate with vascular risk. If uncertain, MRI clarifies.
-
-### 4. Mega Cisterna Magna (MCM)
-
-Enlarged cisterna magna (<mark>>10 mm craniocaudal</mark>) posterior to a normally formed and positioned vermis. CSF attenuation, no mass effect on cerebellum or fourth ventricle.
-
-**Distinguish from:**
-- **Posterior fossa arachnoid cyst:** Causes local mass effect, may scallop the inner table, may not communicate freely with subarachnoid space.
-- **Dandy–Walker malformation:** Vermian hypoplasia with superior rotation, enlarged fourth ventricle communicating with posterior fossa cyst, elevated tentorium.
-
-MCM is benign and incidental.
-
-### 5. Arachnoid Granulations in Dural Venous Sinuses
-
-Focal round/oval low-attenuation filling defects along the sinus wall (most common in transverse/sigmoid sinuses), often with smooth bony scalloping. These are normal vascular structures.
-
-**Distinguish from sinus thrombosis:** Thrombosis produces diffuse segmental hyperdensity (<mark>often >60–70 HU</mark>) occupying the full lumen, not a marginal defect; CT venography shows lack of enhancement throughout the segment.
-
-### 6. Ventricular Asymmetry
-
-Mild lateral ventricular asymmetry is common, related to head tilt, choroid plexus volume, or hemispheric dominance. Confirm no midline shift (assess falx and third ventricle position), no sulcal effacement, and consistency across slices before attributing asymmetry to pathology.
-
-### 7. Agenesis of the Corpus Callosum (ACC)
-
-On CT, complete ACC produces:
-- Parallel orientation of lateral ventricles
-- High-riding third ventricle
-- Colpocephaly (disproportionate dilatation of occipital horns)
-- Widely spaced frontal horns
-
-Partial ACC shows disproportionate posterior horn enlargement with an absent splenium. In adults this is often incidental; in children, correlate with developmental history.
-
-### 8. Choroid Plexus Xanthogranulomas
-
-Small, well-defined nodules in the atria of the lateral ventricles, iso- to slightly hypoattenuating relative to brain, may contain punctate calcification, no surrounding oedema. Entirely incidental — no action required.
-
-### 9. Benign External Hydrocephalus in Infants
-
-*(See Age-related section above.)* The presence of visible bridging veins traversing the widened frontal CSF space is the key distinguishing feature from subdural collections.
-
-### 10. Asymmetric / Hypoplastic Transverse Sinus
-
-A dominant right transverse–sigmoid system with a small or absent left counterpart is the most common variant. Bony hypoplasia of the corresponding groove and jugular foramen mirrors this. Distinguish from chronic thrombosis by the smooth taper of a hypoplastic sinus versus an abrupt occlusion with collateral venous channels.
+**Always compare with the contralateral side and adjust your window settings before calling subtle changes abnormal.**
 
 ---
 
-## Common Pitfalls — Rapid Reference
+## Deep grey matter and internal capsule
 
-| Pitfall | How to Avoid It |
-|---|---|
-| Pseudo-SAH (diffuse cerebral oedema) | Check for globally low brain attenuation, effaced cisterns, engorged superficial veins; correlate clinically |
-| Beam hardening mimicking posterior fossa haemorrhage | Use thin slices; check shape conforms to bony interface, not parenchyma |
-| Falx/tentorium calcification vs subdural blood | Bone windows; calcification is very high HU, thin, sharply marginated |
-| Choroid plexus calcification vs intraventricular haemorrhage | Location in atria, very high HU, bilateral, sharply marginated |
-| Arachnoid granulation vs sinus thrombosis | Granulation is marginal with bony scalloping; thrombosis is segmental, diffuse, and clinically contextualised |
-| Enlarged perivascular spaces vs lacunes | No surrounding gliosis or mass effect; MRI if uncertain |
-| Patient rotation mimicking midline shift | Check scout and localisers; confirm with falx and third ventricle position |
+### What's normal
 
----
+- **Caudate head:** sits anterolateral to the frontal horns; GM density.
+- **Putamen and globus pallidus (GP):** together form the lentiform nucleus, lateral to the internal capsule. GP is often marginally denser than putamen.
+- **Internal capsule:** hypodense relative to adjacent grey nuclei; anterior limb, genu, and posterior limb.
+- **Thalami:** medial deep grey, flanking the third ventricle; symmetric.
 
-## When to Escalate
+### Physiological calcification vs haemorrhage in the basal ganglia
 
-- Effaced basal cisterns → urgent neurosurgical/neurology review (raised ICP/herniation)
-- Unilateral focal hyperdense MCA sign → activate stroke pathway immediately
-- Hyperdense dural sinus with clinical risk factors (headache, papilloedema, focal deficit) → CT venography urgently; neurology review
-- Loss of GM–WM differentiation that cannot be attributed to windowing or technique → early ischaemia/oedema until proven otherwise
-- Skull fracture with underlying intracranial finding → escalate to neurosurgery
+| Feature | Physiological calcification | Haemorrhage |
+|---|---|---|
+| HU | >100 | 60–80 |
+| Shape | Punctate, bilateral, symmetric | Lentiform, irregular |
+| Surrounding oedema | No | Often yes (subacute) |
+| Mass effect | No | Possible |
+| Bone window | Confirms calcification | No |
 
----
-
-## Summary
-
-Safe acute CT brain interpretation depends on knowing normal attenuation values, recognising how age changes the appearance of normal brain, and confidently distinguishing common normal variants from true pathology. Use a systematic approach every time, adjust your window settings for the clinical question, and anchor your interpretation to symmetry, location, attenuation numbers, mass effect, and the clinical context. When in doubt, correlate with MRI or discuss with a senior colleague before escalating — or before dismissing a finding as normal.
+GP calcification is common in adults >40 years. Do not mistake it for haemorrhage.
 
 ---
 
-## Self-assessment MCQs
+## Midline structures
 
-**Q1.** A 72-year-old woman is brought to the ED with sudden-onset severe headache. Non-contrast CT is performed. On the brain window, there is a thin, linear hyperdensity along the inner aspect of the frontal bone extending into the interhemispheric fissure. On the bone window, this measures approximately 200 HU and has sharply marginated edges. There is no adjacent soft-tissue component and no evidence of midline shift.
+### What's normal
 
-A. Acute interhemispheric subdural haemorrhage requiring urgent neurosurgical review
-B. Acute subarachnoid haemorrhage in the interhemispheric fissure
-C. Physiological falx calcification — no acute action required
-D. Dural venous sinus thrombosis of the superior sagittal sinus
-E. Hyperostosis frontalis interna
+- **Corpus callosum:** hypodense to cortex; genu anteriorly, body, splenium posteriorly. The callosal angle on coronal views helps distinguish NPH from atrophy (see Ageing section).
+- **Septum pellucidum:** thin midline membrane between frontal horns; often barely visible.
+- **Falx cerebri:** linear hyperdense midline structure — dense due to fibrous dura. Partially calcified in many adults (>100 HU on bone window).
 
-**Q2.** A 6-week-old infant is referred from the GP with macrocephaly and a bulging fontanelle. CT brain shows widened bifrontal subarachnoid spaces with CSF-attenuation fluid. Thin hyperdense lines are visible traversing the widened frontal CSF spaces from the cortical surface towards the inner table. The ventricles are mildly prominent but not significantly enlarged. There is no midline shift.
+### Normal variants to recognise (and not misdiagnose)
 
-A. Bilateral subdural haemorrhages — safeguarding referral required
-B. Dandy–Walker malformation
-C. Communicating hydrocephalus requiring ventriculoperitoneal shunting
-D. Benign external hydrocephalus — clinical follow-up with reassurance
-E. Bilateral subdural hygromas following unwitnessed trauma
+| Variant | Appearance | Clinical significance |
+|---|---|---|
+| Cavum septi pellucidi | CSF-equivalent midline space between frontal horns | Benign if isolated |
+| Cavum vergae | CSF space posterior to the above | Benign |
+| Cavum velum interpositum | Triangular CSF space above third ventricle | Benign; can mimic cyst |
 
-**Q3.** A 45-year-old man has a CT brain following a first seizure. In the right lateral ventricle atrium there is a focal hyperdense nodule measuring approximately 180 HU, sharply marginated, without surrounding oedema. A similar, slightly smaller focus is present on the left. The remainder of the scan is unremarkable.
+### Critical differential: dense falx vs interhemispheric subdural
 
-A. Bilateral intraventricular haemorrhages — admit for investigation
-B. Bilateral choroid plexus metastases — refer to oncology
-C. Bilateral choroid plexus xanthogranulomas — incidental finding
-D. Physiological choroid plexus calcifications — incidental finding
-E. Ependymomas of the lateral ventricles
-
-**Q4.** A 58-year-old woman with polycythaemia vera presents with progressive headache over two weeks. Non-contrast CT shows the right transverse sinus to be hyperdense. Attenuation measured within the right transverse sinus is 65 HU. The left transverse sinus appears smaller but is of similar HU.
-
-A. Right transverse sinus thrombosis — anticoagulate immediately
-B. Physiological hyperdensity of a dominant right sinus — no action required
-C. Bilateral sinus thrombosis — urgent haematology referral
-D. Beam hardening artefact from the petrous bone — repeat with thin slices
-E. The findings are indeterminate — CT venography is required to distinguish thrombosis from physiological hyperdensity in this clinical context
-
-**Q5.** A junior radiologist reviews a CT brain of a 68-year-old man with increasing forgetfulness. The lateral ventricles appear mildly asymmetric, with the left slightly larger than the right. There is no apparent sulcal effacement, the falx is midline, the third ventricle is central and measures 7 mm, and the basal cisterns are patent. Bilateral periventricular low-attenuation changes are present.
-
-A. Left-sided obstructed hydrocephalus — urgent neurosurgical referral
-B. Space-occupying lesion causing left ventricular entrapment — contrast-enhanced CT needed urgently
-C. Age-related cortical atrophy with mild ventricular enlargement and small-vessel white matter change — no acute action
-D. Normal pressure hydrocephalus — refer for neurology assessment and lumbar puncture
-E. Early bilateral periventricular infarction — admit to stroke unit
+| | Normal falx | Interhemispheric subdural |
+|---|---|---|
+| Shape | Thin, linear | Crescentic, variable thickness |
+| Mass effect | None | May displace gyri |
+| HU | Dense but linear; higher if calcified | 60–80 HU acutely |
+| Bone window | May show calcification | No |
 
 ---
 
-### Answers
+## Posterior fossa
 
-**Q1. C — Physiological falx calcification**
-A thin, sharply marginated, very high HU (~200 HU) linear density along the falx in an elderly patient with no mass effect is characteristic of calcification, not acute blood. Bone windows confirm the high attenuation and sharp margins.
+### What's normal
 
-- **A (interhemispheric subdural):** Acute subdural blood is crescentic, broader, has lower attenuation (~50–80 HU), and may layer; calcification is much higher HU and confined to the falx.
-- **B (SAH):** Subarachnoid blood in the interhemispheric fissure would measure ~50–80 HU and be associated with clinical symptoms of SAH and filling of adjacent sulci; attenuation of 200 HU is far too high.
-- **D (superior sagittal sinus thrombosis):** Thrombosis occupies the sinus lumen and would require clinical risk factors, appropriate HU, and CT venography to diagnose; a thin linear falx density is not this.
-- **E (hyperostosis frontalis interna):** This is a thickening of the frontal inner table in older females, not an interhemispheric linear density.
+- Brainstem (medulla, pons, midbrain): homogeneous soft-tissue density; symmetric.
+- Fourth ventricle: midline, symmetric rhomboid. Any distortion or asymmetric compression requires explanation.
+- Cerebellar hemispheres: symmetric folia; GM–WM differentiation less obvious than supratentorially.
+- Basilar artery: central round/linear structure in the prepontine cistern at around 40–50 HU.
 
-**Q2. D — Benign external hydrocephalus**
-The visible bridging veins traversing the widened CSF space are the key distinguishing feature. In subdural collections (haemorrhagic or proteinaceous), cortical veins are displaced inward and the fluid is often crescentic with non-CSF attenuation. BEH is self-limiting, resolving by 2–3 years.
+### Key pitfalls
 
-- **A (bilateral subdural haemorrhage):** Subdural blood is crescentic and displaces bridging veins inward; the traversing veins here indicate the fluid is truly subarachnoid.
-- **B (Dandy–Walker):** This involves vermian hypoplasia, an enlarged posterior fossa cyst communicating with the fourth ventricle, and elevated tentorium — none of which are described.
-- **C (communicating hydrocephalus):** Significant ventricular enlargement out of proportion to the cortical spaces would be expected; mild ventricular prominence with dominant subarachnoid widening is more consistent with BEH.
-- **E (subdural hygromas):** Hygromas are crescentic collections with inward displacement of cortical veins, not traversing bridging veins.
+- **Beam hardening** from petrous temporal bones limits posterior fossa assessment on NCCT. Do not call brainstem or cerebellar infarct on NCCT alone — get MRI if posterior circulation stroke is suspected.
+- **Mega cisterna magna vs arachnoid cyst:**
+  - Mega cisterna magna: CSF density, contiguous with cisterna magna, no mass effect, no vermian displacement — a normal variant.
+  - Arachnoid cyst: may remodel adjacent bone, can displace the vermis — potentially significant.
 
-**Q3. D — Physiological choroid plexus calcifications**
-Bilateral, sharply marginated, very high HU (~180 HU) foci in the atria of the lateral ventricles without surrounding oedema are characteristic of choroid plexus calcification, a common incidental finding in adults. No action is required.
+---
 
-- **A (intraventricular haemorrhage):** Acute blood is ~50–80 HU; 180 HU is far too high and the bilateral symmetric distribution with sharp margins is not consistent.
-- **B (metastases):** Metastases are soft tissue attenuation, show enhancement on contrast, and have surrounding oedema; 180 HU foci without oedema are not metastases.
-- **C (xanthogranulomas):** Choroid plexus xanthogranulomas are iso- to hypoattenuating relative to brain (not hyperdense at 180 HU); the correct answer here is calcification.
-- **E (ependymomas):** Ependymomas are typically low to mixed attenuation tumours with enhancement, not bilateral symmetrical 180 HU nodules.
+## Vascular structures on NCCT
 
-**Q4. E — CT venography is required**
-In a patient with polycythaemia vera (a known risk factor for thrombosis) and a two-week history of headache, hyperdensity of the right transverse sinus at 65 HU is above the threshold that suggests thrombosis (often >60–70 HU), but polycythaemia itself raises blood attenuation. The findings are genuinely indeterminate and CT venography is mandatory before treatment decisions are made.
+### Arteries
 
-- **A (anticoagulate immediately):** Without confirming the diagnosis on CT venography or MR venography, immediate anticoagulation is premature and potentially harmful if the finding is physiological.
-- **B (physiological hyperdensity — no action):** In a patient with a clinical risk factor (polycythaemia) and two weeks of headache, dismissing hyperdensity without confirmatory imaging is unsafe.
-- **C (bilateral thrombosis):** There is no evidence of bilateral thrombosis; the left sinus is small but similar in attenuation, more consistent with a hypoplastic variant.
-- **D (beam hardening):** Beam hardening artefact typically occurs adjacent to dense bone and has a characteristic morphology conforming to bony interfaces; it does not account for sinus hyperdensity at 65 HU with clinical symptoms.
+Visible normal structures include: ICA (parasellar), M1/M2 MCA branches (Sylvian fissures), A1/A2 ACA (interhemispheric fissure), basilar artery (prepontine cistern), PCAs (ambient cisterns).
 
-**Q5. C — Age-related atrophy with small-vessel white matter change**
-Mild, symmetric ventricular enlargement without midline shift, sulcal effacement, or obstructing lesion, combined with a mildly widened third ventricle (7 mm) and bilateral periventricular low-attenuation changes in a 68-year-old with cognitive decline, is consistent with age-related atrophy and small-vessel disease. No acute action is required.
+Normal density ~40–50 HU. Calcified atherosclerotic plaque is curvilinear and very high HU (>100).
 
-- **A (obstructed hydrocephalus):** Obstructed hydrocephalus would show temporal horn enlargement, periventricular oedema, and a precipitating obstructing lesion; there is no midline shift or sulcal effacement here.
-- **B (ventricular entrapment):** Trapped temporal horn would show asymmetric isolated enlargement with an identifiable compressive lesion; mild overall asymmetry without mass effect does not support this.
-- **D (normal pressure hydrocephalus):** NPH classically presents with the triad of gait disturbance, cognitive decline, and urinary incontinence, with ventriculomegaly disproportionate to sulcal atrophy; mild ventricular enlargement proportionate to sulcal widening favours atrophy over NPH.
-- **E (bilateral periventricular infarction):** Periventricular white matter low attenuation in an elderly patient with likely vascular risk factors is consistent with chronic small-vessel disease, not acute bilateral infarction; acute infarction would require clinical correlation and typically MRI for confirmation.
+### The hyperdense artery sign — real or artefact?
+
+**Suggestive of thrombus:** focal, unilateral, HU >43–46, artery-to-brain ratio >1.2, with early ipsilateral parenchymal ischaemic change (insular ribbon loss, lentiform obscuration).
+
+**Physiological (high haematocrit/dehydration):** bilateral symmetry, proportional to all other vessels, no parenchymal changes.
+
+**This distinction matters enormously** — overcalling a hyperdense MCA affects thrombolysis and thrombectomy decisions. Always compare bilaterally, measure HU, and look for parenchymal correlates. If in doubt, escalate.
+
+### Dural venous sinuses
+
+Superior sagittal, transverse, sigmoid, straight sinuses. Normal venous blood ~40–50 HU. Sinuses may appear slightly denser in dehydrated patients — check symmetry.
+
+**Venous sinus thrombosis vs normal density:**
+- Thrombus: expansile hyperdensity, cord sign in straight sinus, asymmetric compared to contralateral side, HU typically higher than expected.
+- Both sinuses dense symmetrically + dehydrated patient = physiological.
+
+**Arachnoid granulations** are rounded low-density (CSF HU) filling defects in the transverse sinuses — normal, non-expansile. Do not call these thrombus.
+
+---
+
+## Physiological calcifications — recognise them
+
+| Site | When common | Notes |
+|---|---|---|
+| Choroid plexus (atria) | From adolescence | Often bilateral, lobulated, >100 HU |
+| Pineal gland | From childhood/adolescence | Central, coarse; pineal >1 cm warrants mention |
+| Habenular commissure | Adults | Punctate, just anterosuperior to pineal |
+| Falx / tentorium | Older adults | Linear sheets; bone window confirms |
+| Globus pallidus | Adults >40 yrs | Fine, symmetric, bilateral |
+
+---
+
+## Normal variation with age
+
+### Neonates and infants
+
+- Unmyelinated WM has high water content → **low attenuation, approaching CSF**. GM–WM contrast is markedly reduced. Do not mistake this for diffuse oedema.
+- Sulci are shallow; extra-axial CSF spaces may look prominent — normal in infancy.
+- Ventricles are proportionally larger; cavum variants common and normal.
+- Myelination progresses caudo-rostrally and posterior-to-anterior over ~2 years. By late infancy, GM–WM contrast approaches adult pattern.
+
+### Older adults
+
+- **Involutional change:** widened sulci, larger ventricles (ex vacuo). Third ventricle and temporal horns enlarge with age.
+- Physiological calcifications more prevalent.
+- Mild periventricular WM hypodensity may appear with chronic small vessel disease.
+
+### Normal pressure hydrocephalus vs atrophy — a common diagnostic problem
+
+| Feature | Atrophy | NPH |
+|---|---|---|
+| Ventricular size | Enlarged, proportionate | Disproportionately enlarged |
+| High-convexity sulci | Widened | Narrowed / effaced |
+| Sylvian fissures | Normal or wide | Enlarged |
+| Temporal horns | Mild dilatation | Often significantly dilated |
+| Clinical triad | — | Gait, cognition, incontinence |
+
+If you suspect NPH clinically and the CT shows disproportionate ventriculomegaly with tight convexity sulci, escalate for specialist review.
+
+---
+
+## Measurements used in acute decisions
+
+| Measurement | Normal | Clinical use |
+|---|---|---|
+| Midline shift | 0 mm | >5 mm = urgent escalation; >10 mm = crisis |
+| Evans index | <0.30 | Ventricular enlargement |
+| Temporal horn width | ≤2 mm | Early hydrocephalus marker |
+| Third ventricle width | <6 mm in young adults | Age-related increase is normal |
+| Basal cistern patency | Open / CSF density | Effacement = raised ICP until proved otherwise |
+
+---
+
+## Common high-stakes pitfalls — a quick reference
+
+| Pitfall | What you might call it | What it actually is | How to avoid it |
+|---|---|---|---|
+| Pseudo-SAH | SAH | Diffuse oedema with relative basal cistern density | Look for global low parenchymal HU, effaced sulci |
+| Dense falx | Interhemispheric subdural | Normal dura / calcified falx | Confirm linear thin structure on bone window |
+| Arachnoid granulation | Venous sinus thrombus | Normal CSF-density filling defect | Check HU (~0–15), non-expansile, typical location |
+| Bilateral dense sinuses | Sinus thrombosis | Dehydration / high haematocrit | Assess symmetry, compare with other vessels, check history |
+| Choroid plexus calcification | IVH | Physiological calcification | HU >100, bilateral, bone window |
+| Physiological GP calcification | Basal ganglia haemorrhage | Age-related mineralisation | HU >100, bilateral, symmetric, no oedema |
+| Beam hardening (posterior fossa) | Posterior fossa infarct | Artefact | MRI if posterior circulation stroke suspected |
+| Prominent perivascular spaces | Lacunar infarcts | Virchow–Robin spaces | CSF density, no surrounding oedema, typical locations; MRI if uncertain |
+| Partial volume (tentorium) | Tentorial subdural | Normal tentorium | Scroll through serial slices; bone window |
+
+---
+
+## Practical reading checklist for acute CT brain
+
+Use this every time:
+
+- [ ] **Windows** — reviewed on brain, subdural, and bone windows?
+- [ ] **Patient alignment** — rotation/tilt accounted for?
+- [ ] **Scalp and skull** — intact? Sutures vs fractures distinguished?

@@ -1,315 +1,247 @@
 ---
 layout: default
-title: "Chapter 03: Common Background Pathology: Small Vessel Disease, Atrophy, and Chronic Findings"
+title: "Chapter 03: A Systematic Approach to Reading Acute Brain CT"
 nav_order: 3
 ---
 
-# Chapter 3: Common Background Pathology — Small Vessel Disease, Atrophy, and Chronic Findings
+> **⚠️ AI-generated content — requires human review.**
+> This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-## Why This Chapter Matters in the Acute Setting
+# Chapter 3: A Systematic Approach to Reading Acute Brain CT
 
-Background brain changes are present on the majority of emergency CT scans in older patients. They matter because they:
-- Alter the conspicuity of early ischaemia and haemorrhage
-- Modify apparent mass effect — atrophic brains tolerate larger lesions before herniating
-- Carry direct management implications (thrombolysis and anticoagulation risk, suitability for CSF diversion)
-- Explain focal deficits unrelated to the current presentation
-
-Recognising these findings confidently — and separating them from acute pathology — is a core clinical skill.
+> **⚠️ AI-generated content — requires human review.**
+> This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
 ---
 
-## CT Attenuation Reference (Non-Contrast)
+## Purpose and Scope
 
-Knowing these values is fundamental to distinguishing chronic from acute change:
+This chapter gives you a reproducible, stepwise method for interpreting non-contrast brain CT (NCCT) in the acute setting. It is built around the scenarios you face in the emergency department: stroke, trauma, reduced consciousness, thunderclap headache, seizures, suspected infection, and hydrocephalus. The goal is pattern recognition, clinical correlation, and knowing when to escalate — not comprehensive neuroradiology.
 
-| Tissue | Approximate HU |
+---
+
+## Core Principles: What the Numbers Mean
+
+You do not need to memorise Hounsfield units (HU) precisely, but a working knowledge helps you avoid common errors.
+
+| Tissue / finding | Approximate HU |
 |---|---|
 | Air | −1000 |
-| Fat | −50 to −100 |
-| CSF/water | <mark>~0 to 15 HU</mark> |
-| White matter | <mark>~25 to 34 HU</mark> |
-| Grey matter | <mark>~35 to 45 HU</mark> |
-| Acute haemorrhage | <mark>~50 to 80 HU</mark> (declines with time) |
-| Calcification | <mark>typically >100 HU</mark> |
+| Fat | −100 to −50 |
+| CSF / water | 0–15 |
+| White matter | 20–30 |
+| Grey matter | 30–45 |
+| Acute clot | 50–80 |
+| Calcification | 80–400 |
+| Cortical bone | 1000–2000 |
 
-Always interpret attenuation values relative to the surrounding brain and contralateral side, not in absolute isolation. Scanner calibration and reconstruction kernels introduce variability.
+**Why this matters clinically:**
+
+- **Acute blood is bright (hyperdense)** because clotted haemoglobin is protein-dense. As blood breaks down over days to weeks, it becomes progressively less dense — eventually appearing dark (hypodense). This explains why a chronic subdural can be nearly invisible without careful technique.
+- **Acute ischaemia is dark (hypodense)** because dying cells swell with water, lowering tissue density. The drop is subtle early on (only 2–5 HU less than the opposite side), which is why early stroke signs are so easy to miss.
+- **Anaemia flattens the density of acute blood.** A patient on warfarin with a haematocrit of 20% may have a subdural that is nearly isodense to brain from the outset. Rely on mass effect rather than density in this situation.
 
 ---
 
-## Small Vessel Disease (SVD)
+## Before You Read: Context Is Everything
 
-### Overview
+Before you scroll through a single image, ask yourself:
 
-SVD results from arteriolosclerosis and lipohyalinosis of small perforating arterioles driven by age, hypertension, and diabetes. This produces chronic hypoperfusion and blood–brain barrier dysfunction in the deep and periventricular white matter. On CT it is visible in several overlapping forms.
+- **When did symptoms start?** (Stroke triage; determines thrombolysis and thrombectomy eligibility.)
+- **Is the patient anticoagulated or anaemic?** (Blood may not look hyperdense.)
+- **What is the mechanism?** (High-energy trauma versus simple fall versus thunderclap headache changes your search pattern entirely.)
+- **Is there immunosuppression or malignancy?** (Expands the differential for hypodense lesions and atypical haemorrhage.)
+- **Is there prior imaging?** (Knowing what is old versus new is critical — do not call a chronic infarct an acute one.)
 
-### White Matter Hypoattenuation ("Leukoaraiosis")
+---
 
-**What to look for:**
-- Attenuation <mark>typically ~20 to 30 HU</mark> — only slightly below normal white matter; subtle
-- Bilateral, symmetrical periventricular caps (around the frontal horns and atria) and patchy-to-confluent change in the centrum semiovale and corona radiata
-- U-fibres (subcortical arcuate fibres) relatively spared compared with deep white matter
-- No mass effect; no cortical involvement; stable on prior scans
-- Optimal windowing helps: try <mark>W: 80–100, L: 30–35</mark> to maximise contrast
+## Windowing: Use the Right Setting for the Job
 
-**Key distinction — SVD versus acute oedema:**
+The default brain window will miss things. Get into the habit of switching windows actively:
 
-| Feature | SVD/leukoaraiosis | Acute oedema |
-|---|---|---|
-| Symmetry | Bilateral, symmetric | Asymmetric or mass-like |
-| Mass effect | Absent | Often present |
-| Cortical involvement | Absent | May be present |
-| Clinical tempo | Chronic/stable | Acute change |
-
-### Lacunes (Chronic Cavitated Lacunar Infarcts)
-
-**What to look for:**
-- <mark>Size: classically 3–15 mm</mark>
-- <mark>Attenuation: CSF-density, 0–15 HU</mark> when fully cavitated; thin gliotic rim may be <mark>~20–30 HU</mark>
-- Locations: <mark>basal ganglia (putamen > caudate), thalamus, internal capsule, centrum semiovale, pons</mark>
-- Round/ovoid, sharply marginated, no surrounding oedema, no mass effect
-- May be accompanied by focal volume loss in adjacent structures
-
-**Distinguishing lacunes from enlarged perivascular spaces (EPVS):**
-
-| Feature | Lacune | EPVS |
-|---|---|---|
-| Size | <mark>3–15 mm</mark> | <mark>Commonly <3 mm</mark> |
-| Shape | Round/ovoid | Linear/tubular, follows vessel path |
-| Gliotic rim | Often present | Absent |
-| Volume loss | May be present | Absent |
-| Clustering | Isolated or scattered | Cluster in basal ganglia, centrum semiovale, midbrain |
-
-### Enlarged Perivascular Spaces (EPVS)
-
-- <mark>CSF attenuation: 0–15 HU</mark>, linear or punctate, following the course of penetrating vessels
-- Cluster in the basal ganglia (along lenticulostriate paths), centrum semiovale, and midbrain
-- When numerous, indicate increased SVD burden; no mass effect
-- No gliotic rim, no surrounding white matter change specific to the space itself
-
-### Microbleeds
-
-<mark>Not visible on CT</mark>. A normal CT does not exclude cerebral microhaemorrhages. These require MRI (SWI or GRE sequences) and are important for anticoagulation and thrombolysis risk stratification. If the patient has a prior MRI documenting microbleeds, factor this into management.
-
-### Key Differentials for White Matter Low Attenuation
-
-| Diagnosis | Distinguishing features |
+| Window | When to use |
 |---|---|
-| SVD/leukoaraiosis | Symmetric, periventricular/deep WM, no mass effect, older patient |
-| PRES | Posterior-predominant, symmetric, subcortical > periventricular, clinical context (eclampsia, hypertensive crisis, cytotoxics) |
-| Acute/subacute infarct | Wedge-shaped, arterial territory, cortical involvement, sulcal effacement, asymmetric |
-| Tumour/metastasis oedema | Asymmetric, mass effect, focal epicentre, may have haemorrhage or calcification |
-| Demyelination (MS) | Asymmetric, periventricular and juxtacortical, ovoid lesions, corpus callosum involvement; younger patient |
-| PRES | Posterior-predominant vasogenic oedema; subcortical emphasis |
-| Post-radiation | Within irradiation field, straight margins, may calcify |
+| **Brain** (WL 35, WW 80) | General parenchymal review |
+| **Blood / SAH** (WL 40–50, WW 130–200) | Detecting small haemorrhages, thin subdurals |
+| **Bone** (WL 600, WW 2800) | Fractures, calcification versus haemorrhage |
+| **Soft tissue** (WL 50, WW 350) | Scalp, orbits |
 
-### Clinical and Management Implications of SVD
-
-- <mark>Extensive leukoaraiosis increases the risk of haemorrhagic transformation following thrombolysis</mark> and after anticoagulation — always report SVD burden
-- SVD changes do not count as ASPECTS abnormalities unless they represent new acute ischaemia — overcounting artificially lowers the score and may exclude patients from treatment
-- Multiple chronic lacunes or confluent white matter change can account for stepwise cognitive and motor deficits; this may be the explanation for current symptoms even without a new acute lesion
-- <mark>Cerebral amyloid angiopathy (CAA) is a distinct SVD predominantly affecting cortical/leptomeningeal vessels</mark>; on CT it presents as lobar haemorrhage rather than extensive white matter change
+If you only ever use one window, you will miss thin subdurals, small subarachnoid blood, and skull base fractures.
 
 ---
 
-## Atrophy
+## The Systematic Checklist: Eight Areas, Every Scan
 
-### What You See on CT
+Work through these in order, every time. Resist the temptation to jump straight to where you think the problem is.
 
-**Generalised atrophy:**
-- Sulcal widening over convexities, enlarged Sylvian fissures, ventriculomegaly proportional to sulcal enlargement
-- Parenchymal density remains normal — this is a volumetric change, not a density change
-- No periventricular oedema; any periventricular low attenuation likely reflects coexistent SVD
+### 1. Scout and Coverage
+Confirm the scan covers from vertex to foramen magnum. Note gantry angle and any obvious artefacts before you start interpreting.
 
-**Regional patterns to recognise:**
-- *Mesial temporal/hippocampal atrophy:* medial temporal horn dilatation, widening of the choroidal fissure — suggests Alzheimer's pathology
-- *Frontotemporal atrophy:* knife-edge frontal and anterior temporal sulci with relative posterior preservation — suggests frontotemporal lobar degeneration
-- *Cerebellar atrophy:* widened cerebellar fissures, enlarged fourth ventricle — consider alcohol excess, anticonvulsants, degenerative ataxias
+### 2. Extracranial Soft Tissues
+- **Scalp:** Haematoma? Localise it — scalp swelling overlies the impact site and should prompt careful bone windowing beneath.
+- **Orbits:** Globe integrity, intraocular blood, retrobulbar haematoma, proptosis.
+- **Sinuses and mastoids:** Air–fluid levels suggest trauma or sinusitis; opacification with bony destruction raises the possibility of invasive fungal sinusitis (rare but life-threatening in immunocompromised patients).
 
-### Distinguishing Atrophy from Hydrocephalus
+### 3. Extra-Axial Spaces and Meninges
+Sweep methodically along:
+- The **falx** and **tentorium** (thin hyperdense lines here = parafalcine or tentorial subdural — a common miss).
+- **Convexities** and interhemispheric fissure.
+- **Basal cisterns**: suprasellar, ambient, quadrigeminal, prepontine. Effaced cisterns are an early and serious sign of raised intracranial pressure.
+- **Sylvian fissures** and cortical sulci (subarachnoid blood pools here).
 
-This is a critical distinction because NPH is treatable:
+### 4. Ventricles and CSF Pathways
+- Are the ventricles symmetrical?
+- Are the **temporal horns enlarged** (>2 mm is abnormal in the acute setting and suggests hydrocephalus)?
+- Is there **periventricular low attenuation** (transependymal CSF permeation — a sign of raised intraventricular pressure)?
+- If hydrocephalus is present, identify the level of obstruction: dilated lateral ventricles and third ventricle with a normal fourth ventricle points to aqueductal obstruction; all four ventricles dilated suggests communicating hydrocephalus.
 
-| Feature | Atrophy | NPH |
+### 5. Brain Parenchyma
+- Sweep from vertex to foramen magnum.
+- Assess **grey–white differentiation**: the insular ribbon and lentiform nucleus are key early ischaemia targets.
+- Look for focal **hypoattenuation** (ischaemia, oedema) and **hyperattenuation** (haemorrhage, calcification).
+- In trauma, contusions favour the inferior frontal and temporal lobes and gyral crests.
+- The **posterior fossa** is routinely degraded by beam hardening artefact — be especially systematic here and use narrow windows.
+
+### 6. Vascular Signs on Non-Contrast CT
+- **Hyperdense artery sign**: Look for a bright MCA, basilar artery, or ICA terminus. This represents acute thrombus and should trigger CTA immediately.
+- Check **dural venous sinuses** for hyperdensity (suggests thrombosis).
+
+### 7. Mass Effect and Herniation
+- Measure **midline shift** at the level of the septum pellucidum.
+- Note which **basal cisterns** are visible or effaced — this is a more sensitive and clinically meaningful indicator of raised ICP than midline shift alone.
+- Recognise herniation patterns (see dedicated section below).
+
+### 8. Targeted Re-Review for Common Misses
+Before you close the case, specifically look at:
+- Parafalcine and tentorial subdural blood (use the blood window, scroll slowly).
+- Small perimesencephalic and sulcal subarachnoid haemorrhage.
+- Subtle insular ribbon and lentiform nucleus changes.
+- Posterior fossa haemorrhage or infarct.
+- Dural venous sinuses for thrombosis.
+
+---
+
+## Extra-Axial Haemorrhage
+
+### Subdural Haematoma (SDH)
+
+**What it looks like:** Crescent-shaped hyperdense collection that moulds to the brain surface and can cross suture lines. Limited by dural reflections — hence it can extend along the falx and tentorium.
+
+**Density evolution — this is clinically important:**
+
+| Timing | Density | HU |
 |---|---|---|
-| Ventricular size | Proportional to sulcal widening | Disproportionately enlarged |
-| High-convexity sulci | Wide | Tight (sulcal crowding) |
-| Sylvian fissures | Enlarged symmetrically | Disproportionately enlarged (DESH pattern) |
-| Periventricular low attenuation | Absent or from SVD | Present (transependymal CSF flow) |
-| Callosal angle (coronal) | Wide (>100–120°) | <mark>Acute (<90°) suggests NPH</mark> |
-| Evans' index | May be raised | <mark>>0.30 supports ventriculomegaly</mark> |
-| Clinical triad | Absent | Gait disturbance, cognitive decline, urinary incontinence |
+| Acute (<1 week) | Hyperdense | 50–70 |
+| Subacute (1–3 weeks) | Isodense | ~30–40 |
+| Chronic (>3 weeks) | Hypodense | 0–20 |
+| Rebleed into chronic | Mixed / fluid level | Variable |
 
-When the ventricles look enlarged, ask: are the high-convexity sulci also enlarged? If they are tight while the ventricles are large, raise NPH.
+The **isodense phase** is the most dangerous time to miss a SDH. In an anaemic patient, it can be isodense from the outset. **Look for displaced cortical veins and asymmetric sulcal effacement rather than density.**
 
-### Subdural Spaces: Atrophy Versus Subdural Collection
+**When to escalate:** Thickness >10 mm or midline shift >5 mm are standard neurosurgical thresholds for decompression, though the decision is always individualised. Reverse anticoagulation promptly.
 
-- **Atrophy:** symmetrical, diffuse subarachnoid space enlargement; cortical veins are visible traversing the widened CSF spaces (the "cortical vein sign")
-- **Hygroma/chronic subdural:** crescentic extra-axial fluid, often slightly higher attenuation than pure CSF (proteinaceous), may show mass effect, lacks visible cortical veins traversing it; membranes may calcify in chronic subdurals
-
-### Imaging Pitfalls with Atrophy
-
-- **Blunted mass effect:** in a markedly atrophic brain, a significant haematoma may produce surprisingly little midline shift — focus on asymmetry, sulcal effacement, and grey–white differentiation rather than midline shift alone
-- **Pseudo-SAH sign:** in diffuse cerebral oedema, compressed engorged basal veins against low-density parenchyma can mimic hyperdense subarachnoid blood. <mark>True SAH layers in cisterns and sulci; pseudo-SAH occurs in the context of diffuse parenchymal low density and loss of sulci throughout</mark>
-- **Overcalling subdural collections:** widened subarachnoid spaces in atrophic brains can resemble subdurals — look for the cortical vein sign and absence of membranes
+**Key differential:** Enlarged subarachnoid space from atrophy (cortical veins traverse the space and are visible within CSF — they are not displaced to the inner table).
 
 ---
 
-## Other Chronic Findings Common on Acute CT
+### Extradural Haematoma (EDH)
 
-### Chronic Territorial Infarction and Encephalomalacia
+**What it looks like:** Biconvex (lens-shaped) hyperdense collection. Does not cross suture lines because the dura is adherent at sutures. Usually temporal in location.
 
-**CT evolution:**
-- *Subacute (days to weeks):* increasing hypodensity in vascular territory, sulcal effacement; cortical laminar necrosis may appear as <mark>gyriform hyperdensity (~30–60 HU) emerging ~2–3 weeks after infarction</mark>, following the gyral ribbon within the infarcted territory
-- *Chronic (months+):* <mark>CSF-density cavitation (0–15 HU)</mark>, sharp gliotic margins <mark>(~20–30 HU)</mark>, ex vacuo dilatation of adjacent ventricles/sulci, negative mass effect
+**Associations:** There is nearly always an underlying skull fracture — always check bone windows. The middle meningeal artery is the usual source. Look for a lucid interval in the history.
 
-**Critical pitfall — cortical laminar necrosis versus SAH:**
-- Laminar necrosis: <mark>gyriform hyperdensity confined to the ribbon of cortex within an established infarct</mark>; coexists with volume loss; does not layer in cisterns
-- SAH: diffuse sulcal and cisternal layering, especially the basal cisterns; no associated established territorial infarct
+**Why it is dangerous:** Mass effect can be rapidly progressive and disproportionate to initial symptoms. A patient who looks well can deteriorate within minutes.
 
-**Wallerian degeneration:** after large MCA infarcts, look for <mark>progressive low attenuation and volume loss in the ipsilateral cerebral peduncle and brainstem</mark> months later — do not overcall this as a new brainstem lesion.
-
-### Sequelae of Old Haemorrhage
-
-- Chronic intraparenchymal haematoma: evolves from hyperdense to isodense to hypodense; ultimately encephalomalacia ± peripheral calcification (<mark>>100 HU</mark>)
-- Chronic subdural haematoma: variable attenuation (low, iso, or mixed) depending on protein content and rebleeding; membranes may calcify ("armoured brain")
-- <mark>Haemosiderin from old haemorrhage/microbleeds is not visible on CT</mark> — only on MRI (SWI/GRE)
-
-### Calcifications
-
-**Physiological (normal variants — do not misread as haemorrhage):**
-- <mark>Pineal gland, choroid plexus, globus pallidus, falx, tentorium</mark>: symmetric, dense (<mark>>100 HU</mark>), well marginated, stable on prior imaging
-- Choroid plexus calcification should not be mistaken for intraventricular haemorrhage
-
-**Pathological calcifications to recognise:**
-- Gyriform cortical: prior infarct, Sturge–Weber
-- Oligodendroglioma: stippled cortical/subcortical
-- Neurocysticercosis (healed): eccentric calcific nodule, often in cortex or subarachnoid space
-- Atherosclerosis: carotid siphon, vertebrobasilar system
-
-### Postsurgical and Device-Related Changes
-
-- Note burr holes, craniotomy defects, ventricular catheter tracks, and clip/coil artefact
-- <mark>Always compare ventricular size to prior imaging when a shunt is present</mark> to assess function
-- Metallic artefact: adjust window/level and use thin slices to see adjacent structures
-
-### Chronic Trauma
-
-- Encephalomalacia in contusion-prone areas: <mark>inferior frontal lobes and anterior temporal poles</mark>
-- Old skull fractures: corticated (sclerotic) margins, no adjacent soft tissue swelling — distinguish from acute fractures which show sharp non-corticated edges with soft tissue swelling
+**When to escalate:** Volume >30 mL, thickness >15 mm, midline shift >5 mm, or any neurological deficit — urgent neurosurgical review.
 
 ---
 
-## Differentials at a Glance
+### Subarachnoid Haemorrhage (SAH)
 
-| Diagnostic Question | Key Distinguishing CT Features |
+**What it looks like:** Hyperdense blood filling the basal cisterns and/or cortical sulci. Sensitivity of CT for SAH is highest in the first six hours (>95%), then falls progressively — if CT is negative but clinical suspicion is high (thunderclap headache), lumbar puncture or CTA remains necessary.
+
+**Distribution helps localise the cause:**
+- **Basal cisterns and Sylvian fissures:** Aneurysmal. The predominant site (e.g., right Sylvian vs suprasellar) may point to the culprit aneurysm.
+- **Perimesencephalic only (prepontine / ambient cisterns):** Usually a benign venous pattern — lower rebleed risk, but still requires CTA to exclude aneurysm.
+- **Cortical sulci adjacent to contusions:** Traumatic.
+
+**Complications to look for immediately:**
+- **Acute hydrocephalus** (temporal horn dilatation, transependymal oedema) — may require urgent CSF diversion.
+- **Intraventricular extension** — worsens prognosis.
+
+**Key pitfall — pseudo-SAH:** In severe diffuse cerebral oedema, the brain becomes globally hypodense, making the relatively normal-density basal vasculature appear falsely bright. Recognise it by the generalised parenchymal darkness and effaced sulci throughout.
+
+**When to escalate:** All non-traumatic SAH requires CTA (or formal angiography) urgently to identify an aneurysm. Any patient with impaired consciousness and hydrocephalus needs immediate neurosurgical input.
+
+---
+
+## Intraparenchymal Haemorrhage (IPH)
+
+**What it looks like:** Focal hyperdense (50–80 HU) parenchymal collection, usually with surrounding hypodense oedema.
+
+**Location guides aetiology:**
+- **Putamen / external capsule, thalamus, pons, cerebellum:** Hypertensive small vessel disease.
+- **Lobar (cortical–subcortical), especially in the elderly:** Suspect cerebral amyloid angiopathy.
+- **Irregular, lobulated, or disproportionate oedema:** Consider tumour haemorrhage (look for calcification and oedema out of proportion to haematoma size).
+- **Not fitting an arterial territory with cortical involvement:** Consider venous thrombosis.
+
+**Density evolves over time:** Acute clot (hyperdense) → subacute isodense (~1–2 weeks) → chronic hypodense with encephalomalacia. In an anaemic patient, even acute clot may not be hyperdense.
+
+**What to assess on the scan:**
+- **Intraventricular extension:** Layering blood in the ventricles worsens prognosis and raises hydrocephalus risk.
+- **Volume:** Use the ABC/2 formula (A × B × C ÷ 2, where C is the number of 10 mm axial slices containing haemorrhage). This aids prognostication and surgical planning.
+- **Cerebellar haemorrhage:** Check the fourth ventricle — compression causes acute obstructive hydrocephalus. Cerebellar haemorrhage >3 cm with brainstem compression or hydrocephalus is a neurosurgical emergency.
+
+**Immediate management considerations:** Urgent blood pressure control and reversal of coagulopathy / anticoagulation. Early neurosurgical discussion for posterior fossa haemorrhage, large haematomas, or intraventricular extension.
+
+---
+
+## Acute Ischaemia on Non-Contrast CT
+
+Early ischaemia is subtle. The first 3 hours are the hardest. You are looking for a 2–5 HU drop compared to the same region on the other side — which is why these changes are easy to dismiss.
+
+### Early Signs to Specifically Target
+
+**Loss of the insular ribbon:** The insular cortex normally appears slightly denser than the underlying white matter. In early MCA territory infarction, this distinction is lost. This is one of the most reliable early signs.
+
+**Obscuration of the lentiform nucleus:** The putamen and globus pallidus normally have sharper margins than surrounding white matter. Early ischaemia blurs these boundaries.
+
+**Sulcal effacement:** The affected gyri swell, compressing adjacent sulci. Compare left and right sides systematically.
+
+**Hyperdense artery sign:** An acutely thrombosed artery appears bright against surrounding tissue. The **hyperdense MCA sign** is the most recognised. Look also for a hyperdense basilar artery — this is a posterior circulation emergency and easy to miss in a comatose patient if you are not specifically looking for it.
+
+### ASPECTS — Alberta Stroke Programme Early CT Score
+
+ASPECTS divides the MCA territory into 10 regions. Start at 10 (normal) and subtract 1 point for each region showing early ischaemic change.
+
+**Practical tips:**
+- Use thin slices and a narrower window than standard brain settings.
+- Only subtract points for acute change — do not penalise old infarcts.
+- An ASPECTS of ≥6 generally supports thrombectomy eligibility (centre-specific thresholds apply).
+- Extensive hypoattenuation and swelling (very low ASPECTS) suggests a large established infarct where reperfusion therapies may cause harm.
+
+### What Else Causes Low Attenuation?
+
+| Pattern | Key distinguishing features |
 |---|---|
-| SVD leukoaraiosis vs acute infarct | SVD: symmetric, no mass effect, no cortical involvement. Infarct: arterial territory, cortical ribbon loss, sulcal effacement |
-| Lacune vs EPVS | Lacune: <mark>3–15 mm</mark>, round, gliotic rim, may have volume loss. EPVS: <mark><3 mm</mark>, linear, no rim |
-| Atrophy vs NPH | Atrophy: proportional sulcal/ventricular enlargement. NPH: tight high-convexity sulci, transependymal oedema, DESH |
-| Encephalomalacia vs arachnoid cyst | Encephalomalacia: intra-axial, territorial, gliotic margin. Cyst: extra-axial, CSF density, may cause bone scalloping |
-| Cortical laminar necrosis vs SAH | Laminar necrosis: gyriform, within prior infarct, volume loss present. SAH: basal cisterns, diffuse sulcal layering |
+| Acute infarct | Vascular territory, cortical involvement, mass effect |
+| Vasogenic oedema (tumour/abscess) | White matter predominant, spares cortex, finger-like spread |
+| PRES | Parieto-occipital, bilateral, symmetric; clinical hypertension or eclampsia |
+| Encephalitis | Temporal predominance (HSV); fever, CSF changes |
+| Chronic small vessel change | Periventricular, no mass effect, no sulcal effacement |
+| Posterior fossa beam hardening | Artefact; check with thin slices and bone algorithm |
 
 ---
 
-## Practical Reporting Tips
+## Dural Venous Sinus Thrombosis (DVST)
 
-1. **Always state SVD burden** (mild/moderate/severe) and its distribution. Add: *"Severe leukoaraiosis may reduce sensitivity for early ischaemic change and <mark>increases haemorrhagic transformation risk with thrombolysis</mark>."*
-2. **Separate chronic from acute in stroke reports:** *"Extensive chronic small vessel ischaemic change; no new asymmetric low attenuation or cortical involvement to suggest acute infarction."*
-3. **Flag possible NPH:** *"Ventricular enlargement out of proportion to sulcal size with tight high-convexity sulci — correlate clinically for NPH."*
-4. **Chronic infarcts:** state territory, chronicity, negative mass effect: *"Chronic left MCA territory infarct with encephalomalacia and ex vacuo dilatation; no acute haemorrhage."*
-5. **Document baseline calcifications and postsurgical changes** to aid all future comparisons.
-6. **If uncertain between SVD and early acute infarct:** recommend clinical lateralisation correlation and consider CT perfusion or MRI.
+**Why it is missed:** The clinical presentation is variable (headache, focal deficit, seizure, reduced consciousness) and the CT findings are subtle.
 
----
+**What to look for on NCCT:**
+- **Hyperdense sinus sign:** Thrombus in the sagittal sinus, transverse sinus, or cortical vein appears brighter than normal. HU >60–70 is suspicious. Compare to the opposite side and to arterial blood.
+- **Haemorrhagic venous infarct:** Lobar, cortical–subcortical haemorrhage that does not respect an arterial territory. Oedema is often disproportionate.
+- Any unexplained lobar haemorrhage in a young person, or any haemorrhage not fitting an arterial territory, should prompt consideration of DVST.
 
-## Summary
+**Key pitfall:** High haematocrit or dehydration makes all venous blood denser. Check whether vessels are uniformly hyperdense throughout rather than focally.
 
-- <mark>SVD on CT: periventricular and deep white matter hypoattenuation (~20–30 HU), lacunes (CSF-density cavities, 3–15 mm), and EPVS (CSF-density linear structures, commonly <3 mm)</mark>. Symmetric, non–mass forming, chronic.
-- Atrophy is volumetric loss with proportionally widened sulci and ventricles; distinguish from NPH by high-convexity sulcal tightness, DESH, transependymal oedema, and Evans' index.
-- Chronic infarcts evolve to encephalomalacia with CSF-density cavitation, gliotic margins, and negative mass effect; subacute cortical laminar necrosis produces gyriform hyperdensity — do not confuse with SAH.
-- Physiological calcifications (pineal, choroid plexus, globus pallidus) are dense (>100 HU), symmetric, and stable — do not misread as haemorrhage.
-- <mark>Extensive leukoaraiosis and multiple microbleeds (visible only on MRI) increase haemorrhagic transformation risk and should be factored into thrombolysis and anticoagulation decisions</mark>.
-- In atrophic brains, mass effect is blunted — rely on asymmetry and grey–white differentiation rather than midline shift alone.
-
----
-
-## Self-assessment MCQs
-
-**Q1.** A 78-year-old man with known hypertension and type 2 diabetes presents with acute left arm weakness. Non-contrast CT shows bilateral, symmetrical periventricular low attenuation with no cortical involvement, no mass effect, and no sulcal effacement. There is no new asymmetric change. A colleague suggests the ASPECTS score should be reduced by 2 because of the white matter changes.
-
-A. Agree — bilateral periventricular low attenuation reduces the ASPECTS score regardless of acuity  
-B. Disagree — chronic SVD changes should not reduce the ASPECTS score unless they represent new acute ischaemia in an ASPECTS region  
-C. Agree — any white matter hypodensity within the MCA territory must be counted in ASPECTS  
-D. Disagree — ASPECTS is only applied to posterior circulation strokes  
-E. Agree — bilateral white matter change always represents bilateral acute infarction
-
-**Q2.** A 72-year-old woman is brought to the ED with a 6-hour history of confusion and gait instability. CT shows markedly enlarged lateral and third ventricles. The high-convexity sulci appear crowded and tight. There is subtle periventricular low attenuation. The Sylvian fissures are disproportionately prominent. Evans' index measures 0.38.
-
-A. This is hydrocephalus ex vacuo secondary to generalised atrophy; no further action needed  
-B. These findings are consistent with normal ageing; reassure and discharge  
-C. The appearances suggest normal pressure hydrocephalus; refer for neurology or neurosurgical review  
-D. The tight high-convexity sulci indicate raised intracranial pressure requiring emergency decompression  
-E. Periventricular low attenuation confirms acute bilateral infarction; activate stroke pathway
-
-**Q3.** A 65-year-old man with a history of a left MCA infarct 14 months ago presents with a new episode of right arm weakness. CT shows a region of gyriform hyperdensity following the cortical ribbon in the left frontoparietal region, within an area of established volume loss and CSF-density cavitation. The basal cisterns are clear.
-
-A. This is acute subarachnoid haemorrhage; perform urgent LP if CT is negative  
-B. This is acute intraparenchymal haemorrhage requiring reversal of any anticoagulation  
-C. This represents cortical laminar necrosis within a chronic infarct; correlate clinically for a new acute event elsewhere  
-D. This is cortical contusion from a new traumatic injury requiring CT angiography  
-E. This is gyriform calcification from Sturge–Weber syndrome; no acute significance
-
-**Q4.** An 81-year-old woman is found collapsed. CT shows a round, sharply marginated, CSF-density (approximately 4 HU) lesion measuring 6 mm in the right putamen with a faint higher-density rim. There is no surrounding oedema or mass effect. Multiple similar smaller linear CSF-density structures are noted in the bilateral basal ganglia following the expected lenticulostriate paths.
-
-A. The 6 mm lesion is an enlarged perivascular space; no further action needed  
-B. The 6 mm lesion is a chronic lacunar infarct; the smaller linear structures are likely EPVS; no acute haemorrhage  
-C. The 6 mm lesion is an acute lacunar infarct requiring immediate stroke thrombolysis  
-D. The 6 mm lesion represents a small cavernoma; MRI is required before any further assessment  
-E. All the CSF-density lesions are EPVS; no SVD is present
-
-**Q5.** A 69-year-old man on warfarin presents with acute onset headache and reduced consciousness. CT shows diffuse sulcal effacement, loss of grey–white differentiation throughout both hemispheres, and apparent hyperdensity in the basal cisterns. On review, the basal cistern "hyperdensity" measures approximately 28 HU and the parenchyma is globally very low density. The tentorium and falx are separately calcified.
-
-A. This is aneurysmal subarachnoid haemorrhage; proceed to CT angiography and reverse anticoagulation immediately  
-B. This is a bilateral subdural haematoma; call neurosurgery urgently  
-C. This is diffuse cerebral oedema with pseudo-SAH sign; the apparent basal hyperdensity reflects engorged veins against low-density parenchyma, not true SAH  
-D. This represents bilateral MCA territory infarction with haemorrhagic transformation  
-E. The basal hyperdensity at 28 HU confirms acute haemorrhage; proceed with neurosurgical referral
-
----
-
-### Answers
-
-**Q1. B**
-**Correct:** Chronic SVD white matter changes are background findings and should not reduce the ASPECTS score; only regions showing new acute ischaemia within the MCA territory count against the score. Reducing the score for chronic changes risks excluding patients from thrombolysis inappropriately.
-- **A** is wrong: ASPECTS counts new, acute ischaemic change only — not pre-existing SVD.
-- **C** is wrong: White matter hypodensity within the MCA territory only reduces ASPECTS if it is acutely ischaemic and within a defined ASPECTS region; chronic bilateral SVD does not qualify.
-- **D** is wrong: ASPECTS is applied to the anterior (MCA) circulation, not the posterior circulation.
-- **E** is wrong: Bilateral symmetric leukoaraiosis represents chronic SVD, not bilateral acute infarction.
-
-**Q2. C**
-**Correct:** Disproportionate ventriculomegaly (Evans' index >0.30), tight high-convexity sulci, enlarged Sylvian fissures (DESH pattern), and periventricular transependymal low attenuation in the clinical context of gait disturbance and confusion are the hallmarks of NPH — a potentially treatable condition requiring specialist referral.
-- **A** is wrong: Hydrocephalus ex vacuo shows proportional sulcal and ventricular enlargement; tight high-convexity sulci are a feature of NPH, not ex vacuo change.
-- **B** is wrong: Tight high-convexity sulci with disproportionate ventriculomegaly and Evans' index of 0.38 are not normal ageing findings and require clinical correlation.
-- **D** is wrong: Tight high-convexity sulci in NPH reflect CSF redistribution, not acutely raised ICP requiring emergency decompression; the clinical picture fits NPH.
-- **E** is wrong: Periventricular low attenuation in this context represents transependymal CSF flow from hydrocephalus, not bilateral acute infarction.
-
-**Q3. C**
-**Correct:** Gyriform cortical hyperdensity following the ribbon of cortex within an area of established infarct and volume loss, with clear basal cisterns, is the classic appearance of cortical laminar necrosis — a subacute/chronic finding reflecting mineralisation, not acute SAH or new haemorrhage.
-- **A** is wrong: SAH layers diffusely in the basal cisterns and sulci; gyriform hyperdensity confined to an established infarct territory with clear cisterns is not SAH.
-- **B** is wrong: The hyperdensity follows the cortical ribbon within known encephalomalacia — it is not a parenchymal haematoma and does not require anticoagulation reversal on this basis.
-- **D** is wrong: There is no clinical history of trauma given, and the findings are consistent with known prior infarct evolution rather than contusion.
-- **E** is wrong: While Sturge–Weber does produce gyriform calcification, it is a diagnosis of childhood onset with associated facial angioma; in a 65-year-old with a known prior MCA infarct the established infarct territory explains the findings.
-
-**Q4. B**
-**Correct:** A 6 mm round CSF-density lesion with a faint gliotic rim in the putamen is consistent with a chronic lacunar infarct (classically 3–15 mm, with a gliotic rim, round, no oedema); the smaller linear CSF-density structures following lenticulostriate paths are EPVS. Together these indicate SVD burden but no acute haemorrhage.
-- **A** is wrong: At 6 mm with a gliotic rim and round morphology, this exceeds the typical size and shape of EPVS (commonly <3 mm, linear); it is better characterised as a chronic lacune.
-- **C** is wrong: An acute lacunar infarct may be occult or faintly hypodense on CT; a well-defined CSF-density cavity with a gliotic rim indicates chronic cavitation, not acute ischaemia, and does not itself warrant thrombolysis.
-- **D** is wrong: Cavernomas are typically haemorrhagic with a "popcorn" appearance on MRI and may show calcification on CT; a CSF-density cavity with a gliotic rim is not a cavernoma.
-- **E** is wrong: The 6 mm round lesion with a gliotic rim and putaminal location exceeds EPVS criteria; calling all lesions EPVS would miss a chronic lacune and underestimate SVD burden.
-
-**Q5. C**
-**Correct:** The apparent basal hyperdensity measuring only ~28 HU (below the threshold for acute haemorrhage of 50–80 HU), combined with globally low-density parenchyma and diffuse sulcal effacement, is the pseudo-SAH sign — engorged basal veins appear relatively dense against severely oedematous brain. Separately identified calcified tentorium and falx confirm that the dense linear structures are not haemorrhage.
-- **A** is wrong: True SAH measures approximately 50–80 HU; a value of 28 HU does not reach this threshold and must be interpreted alongside diffuse parenchymal low density, making pseudo-SAH the more likely explanation before proceeding to angiography.
-- **B** is wrong: The findings describe diffuse bilateral parenchymal low density with sulcal effacement, not crescentic extra-axial collections; bilateral subdural haematoma is not supported.
-- **D** is wrong: Bilateral MCA infarction with haemorrhagic transformation would show hyperdense foci within the parenchyma conforming to vascular territories, not diffuse sulcal effacement with basal "hyperdensity" at 28 HU.
-- **E** is wrong: 28 HU does not represent acute haemorrhage (which requires ~50–80 HU); acting on this value as haemorrhage without considering the pseudo-SAH sign in the context of diffuse oedema risks mismanagement.
+**When to escalate:** If DVST is suspected, request CT venography urgently. Standard treatment is anticoagulation — even in the presence of haem
