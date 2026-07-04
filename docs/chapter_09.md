@@ -9,8 +9,6 @@ nav_order: 9
 
 # Chapter 9: Paediatric Head Injury
 
-> **⚠️ This chapter was produced automatically and has not been verified by a clinician. Do not rely on it for clinical decisions until reviewed by a qualified specialist.**
-
 ---
 
 ## Paediatric-Specific Considerations
