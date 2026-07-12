@@ -109,6 +109,12 @@ A bright basilar trunk on axial images through the clivus. Specific but not sens
 | PCA | Medial occipital (calcarine), inferomedial temporal; often little early mass effect |
 | Watershed | Linear/serpiginous cortical hypodensity at ACA–MCA or MCA–PCA junctions; think haemodynamic cause if bilateral |
 
+![Axial non-contrast CT showing an acute left posterior cerebral artery territory infarct in the left occipital lobe.]({{ '/docs/img/ctb_pca_infarct_left.png' | relative_url }})
+*Figure 10.1 — Acute left PCA-territory infarct. Axial non-contrast CT shows established low attenuation with loss of grey–white matter differentiation in the left occipital lobe (medial occipital/calcarine cortex), conforming to the PCA territory. Note the characteristically limited early mass effect — PCA infarcts are easy to overlook, so interrogate the occipital lobes deliberately whenever visual symptoms are reported.*
+
+![Axial non-contrast CT showing an acute right posterior cerebral artery territory infarct in the right occipital lobe.]({{ '/docs/img/ctb_pca_infarct_right.png' | relative_url }})
+*Figure 10.2 — Acute right PCA-territory infarct. Axial non-contrast CT shows low attenuation and loss of grey–white matter differentiation in the right occipital lobe. Shown alongside Figure 10.1 to demonstrate the same territory on the contralateral side and reinforce a symmetrical, side-to-side reading pattern.*
+
 ---
 
 ## Quantifying Early Ischaemic Change: ASPECTS
@@ -195,6 +201,9 @@ CTA defines the exact occlusion site, identifies tandem cervical ICA lesions, es
 | Acute | 6–24 h | Progressive hypoattenuation; territory-conforming swelling; sulcal and ventricular effacement; midline shift in large MCA infarcts. Petechial haemorrhagic transformation appears as patchy high attenuation (60–90 HU) within infarcted tissue. |
 | Subacute | 1–2 weeks | Peak mass effect at 3–5 days. **Fogging phenomenon** (days 7–21): the infarct may transiently appear nearly normal in attenuation due to macrophage infiltration and oedema resolution — do not be misled. |
 | Chronic | >1 month | Encephalomalacia, volume loss, ex vacuo ventricular dilatation; attenuation approaches CSF (0–15 HU); well-defined margins. |
+
+![Axial non-contrast CT showing an established left middle cerebral artery territory infarct.]({{ '/docs/img/ctb_mca_infarct_left.png' | relative_url }})
+*Figure 10.3 — Established left MCA-territory infarct with interval extension. Axial non-contrast CT at the basal ganglia level shows extensive hypoattenuation and loss of grey–white matter differentiation across the left MCA territory, involving the insula and lentiform nucleus, with effacement of the adjacent sulci. On comparison with the patient's earlier CT the hypodensity had become more extensive, indicating progression of the infarct — always review prior imaging to distinguish an evolving infarct from a new one.*
 
 ---
 

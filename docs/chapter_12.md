@@ -60,6 +60,9 @@ The location of heaviest bleeding can point toward the culprit aneurysm:
 
 This matters practically: if CTA shows multiple aneurysms, blood distribution helps identify the ruptured one.
 
+![Axial non-contrast CT at the level of the pons showing a rounded density at the basilar tip consistent with a basilar artery aneurysm.]({{ '/docs/img/ctb_basilar_artery_aneurysm.png' | relative_url }})
+*Figure 12.1 — Basilar artery aneurysm. Axial non-contrast CT at the level of the pons and suprasellar cistern shows a rounded soft-tissue-density lesion in the interpeduncular/prepontine region at the basilar tip. Posterior-circulation (basilar tip) aneurysms characteristically bleed into the interpeduncular and ambient cisterns; when blood is centred there, interrogate the basilar tip on CTA (see table above). Their deep, midline location makes them easy to miss on non-contrast CT.*
+
 ### Perimesencephalic Non-Aneurysmal SAH (PNSAH)
 
 **Pattern:** Blood confined to the prepontine and interpeduncular cisterns, anterior to the brainstem. Minimal or no extension into the Sylvian fissures, suprasellar cistern, or interhemispheric fissure. Little or no IVH.
