@@ -4,7 +4,7 @@ title: "Chapter 01: CT Physics and Technique"
 nav_order: 1
 ---
 
-> **⚠️ AI-generated content — requires human review.**
+> **⚠️ AI-generated content — requires human review.** Starting to review DMR
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
 # CT Physics and Technique for Acute Brain CT: A Practical Guide for ED Clinicians
