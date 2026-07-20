@@ -63,6 +63,12 @@ This matters practically: if CTA shows multiple aneurysms, blood distribution he
 ![Axial non-contrast CT at the level of the pons showing a rounded density at the basilar tip consistent with a basilar artery aneurysm.]({{ '/docs/img/ctb_basilar_artery_aneurysm.png' | relative_url }})
 *Figure 12.1 — Basilar artery aneurysm. Axial non-contrast CT at the level of the pons and suprasellar cistern shows a rounded soft-tissue-density lesion in the interpeduncular/prepontine region at the basilar tip. Posterior-circulation (basilar tip) aneurysms characteristically bleed into the interpeduncular and ambient cisterns; when blood is centred there, interrogate the basilar tip on CTA (see table above). Their deep, midline location makes them easy to miss on non-contrast CT.*
 
+![Axial non-contrast CT showing hyperdense subarachnoid blood filling the basal cisterns.]({{ '/docs/img/ctb_sah_basal_cisterns.png' | relative_url }})
+*Figure 12.2 — Acute aneurysmal subarachnoid haemorrhage. Young patient with sudden collapse and thunderclap headache during exertion. Axial non-contrast CT shows dense hyperattenuating blood filling and outlining the basal cisterns (suprasellar, interpeduncular, ambient) — the "star" configuration of aneurysmal SAH. Basal cisternal blood is aneurysmal until proven otherwise: proceed to CTA in the same sitting and refer to neurosurgery now.*
+
+![Axial non-contrast CT showing hyperdense blood layering within the lateral ventricles.]({{ '/docs/img/ctb_sah_ivh.png' | relative_url }})
+*Figure 12.3 — Intraventricular extension in the same presentation. Axial non-contrast CT at a higher level shows hyperdense blood layering within the lateral ventricles (intraventricular haemorrhage). IVH complicating SAH raises the modified Fisher grade, increases the risk of obstructive hydrocephalus and vasospasm, and worsens prognosis — check temporal horn size and periventricular attenuation, and escalate urgently if the conscious level is declining.*
+
 ### Perimesencephalic Non-Aneurysmal SAH (PNSAH)
 
 **Pattern:** Blood confined to the prepontine and interpeduncular cisterns, anterior to the brainstem. Minimal or no extension into the Sylvian fissures, suprasellar cistern, or interhemispheric fissure. Little or no IVH.

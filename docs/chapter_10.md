@@ -115,6 +115,12 @@ A bright basilar trunk on axial images through the clivus. Specific but not sens
 ![Axial non-contrast CT showing an acute right posterior cerebral artery territory infarct in the right occipital lobe.]({{ '/docs/img/ctb_pca_infarct_right.png' | relative_url }})
 *Figure 10.2 — Acute right PCA-territory infarct. Axial non-contrast CT shows low attenuation and loss of grey–white matter differentiation in the right occipital lobe. Shown alongside Figure 10.1 to demonstrate the same territory on the contralateral side and reinforce a symmetrical, side-to-side reading pattern.*
 
+![Axial non-contrast CT showing loss of the right insular ribbon in acute right MCA-territory ischaemia.]({{ '/docs/img/ctb_infarct_insular_right.png' | relative_url }})
+*Figure 10.3 — Right insular cortex acute infarct. Elderly patient presenting with left-sided weakness, facial droop and left-sided inattention (known atrial fibrillation, recently off anticoagulation). Axial non-contrast CT shows loss of the normal grey–white boundary of the right insular cortex — the insular ribbon sign — with early adjacent cortical hypoattenuation. This is frequently the earliest visible sign of MCA-territory ischaemia; narrow the window and compare directly with the contralateral insula whenever the clinical picture fits.*
+
+![Axial non-contrast CT showing early ischaemic change in the right MCA territory from an M1 segment occlusion.]({{ '/docs/img/ctb_mca_infarct_right.png' | relative_url }})
+*Figure 10.4 — Acute right MCA infarct from M1-segment occlusion. Wake-up presentation with left-sided weakness, facial droop, slurred speech and left-sided neglect (anticoagulated; prior aortic valve replacement). Axial non-contrast CT shows established right MCA-territory hypoattenuation with loss of grey–white differentiation and early sulcal effacement, the appearance of a large vessel occlusion. A left-sided clinical syndrome maps to the right hemisphere — confirm the occlusion on CTA and fast-track for thrombectomy assessment.*
+
 ---
 
 ## Quantifying Early Ischaemic Change: ASPECTS
@@ -203,7 +209,7 @@ CTA defines the exact occlusion site, identifies tandem cervical ICA lesions, es
 | Chronic | >1 month | Encephalomalacia, volume loss, ex vacuo ventricular dilatation; attenuation approaches CSF (0–15 HU); well-defined margins. |
 
 ![Axial non-contrast CT showing an established left middle cerebral artery territory infarct.]({{ '/docs/img/ctb_mca_infarct_left.png' | relative_url }})
-*Figure 10.3 — Established left MCA-territory infarct with interval extension. Axial non-contrast CT at the basal ganglia level shows extensive hypoattenuation and loss of grey–white matter differentiation across the left MCA territory, involving the insula and lentiform nucleus, with effacement of the adjacent sulci. On comparison with the patient's earlier CT the hypodensity had become more extensive, indicating progression of the infarct — always review prior imaging to distinguish an evolving infarct from a new one.*
+*Figure 10.5 — Established left MCA-territory infarct with interval extension. Axial non-contrast CT at the basal ganglia level shows extensive hypoattenuation and loss of grey–white matter differentiation across the left MCA territory, involving the insula and lentiform nucleus, with effacement of the adjacent sulci. On comparison with the patient's earlier CT the hypodensity had become more extensive, indicating progression of the infarct — always review prior imaging to distinguish an evolving infarct from a new one.*
 
 ---
 

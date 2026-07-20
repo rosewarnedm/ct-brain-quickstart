@@ -84,6 +84,9 @@ Location is your most useful guide to aetiology.
 - Typically solitary, ovoid, and homogeneous acutely
 - Background CT may show small vessel change: lacunes and periventricular white matter hypodensity
 
+![Axial non-contrast CT showing an acute hyperdense haematoma in the left basal ganglia.]({{ '/docs/img/ctb_ich_basal_ganglia_left.png' | relative_url }})
+*Figure 11.1 — Acute hypertensive-related intracerebral haemorrhage, left basal ganglia. Elderly patient on an anticoagulant (edoxaban) presenting with sudden right arm weakness and expressive dysphasia. Axial non-contrast CT shows a well-defined ovoid hyperdense haematoma centred on the left basal ganglia (putamen/external capsule) — the classic site for hypertensive arteriolopathy. Note the homogeneous acute clot; the anticoagulation history raises the priority for urgent reversal, so flag it explicitly.*
+
 ### Lobar (cortical–subcortical)
 
 - **In the elderly: cerebral amyloid angiopathy (CAA)**
@@ -92,6 +95,9 @@ Location is your most useful guide to aetiology.
   - Occipital and parietal lobes are preferentially affected
   - Often multiple haemorrhages at different ages
 - **In younger patients or atypical presentations: AVM, cavernoma, tumour, venous thrombosis, drug-related**
+
+![Axial non-contrast CT showing a large right temporal lobe haematoma with mass effect and subfalcine herniation.]({{ '/docs/img/ctb_ich_temporal_subfalcine.png' | relative_url }})
+*Figure 11.2 — Right temporal lobe haemorrhage with significant mass effect and subfalcine herniation, following aneurysm rupture. Patient with a previously clipped aneurysm (two decades earlier) presenting with headache and contralateral leg weakness. Axial non-contrast CT shows a large heterogeneous right temporal haematoma with surrounding hypodense oedema, effacement of the adjacent sulci and ventricle, and midline shift with subfalcine herniation of the midline structures across the falx. A ruptured aneurysm can bleed directly into adjacent brain parenchyma, so correlate with any subarachnoid blood and interrogate the vasculature on CTA — and always report the herniation and midline shift explicitly.*
 
 ### Posterior Fossa
 

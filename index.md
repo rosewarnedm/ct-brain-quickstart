@@ -8,8 +8,7 @@ nav_order: 0
 
 Practical CT brain teaching for ED physicians and junior radiologists.
 
-Each chapter covers a single topic: what to look for on CT, how to recognise
-it, what it means clinically, and when to escalate.
+Each chapter covers a single topic: what to look for on CT, how to recognise it, what it means clinically, and when to escalate.
 
 ## ⚠️ AI-generated content
 

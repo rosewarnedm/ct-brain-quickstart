@@ -61,6 +61,9 @@ Hyperdense crescent on standard brain windows. Look for:
 - **Basal cistern effacement** — suggests raised intracranial pressure (ICP) and impending herniation; this is a red flag requiring immediate escalation
 - **Swirl sign** — hypodense swirling areas within a hyperdense clot indicate active bleeding or unclotted blood; treat as an unstable, expanding haematoma
 
+![Coronal non-contrast CT showing a hyperdense crescentic collection over the left cerebral convexity.]({{ '/docs/img/ctb_sdh_acute_left.png' | relative_url }})
+*Figure 5.1 — Left acute subdural haematoma. Elderly patient presenting with dysarthria and left-sided weakness. Coronal non-contrast CT shows a hyperdense crescentic extra-axial collection over the left cerebral convexity with a concave inner margin — the classic acute SDH appearance. Coronal reformats are invaluable for confirming the crescentic shape and for judging convexity and vertex collections that can be underestimated on axial images alone. Assess midline shift and basal cistern patency before handing over.*
+
 ### Subacute / isodense SDH
 
 This is the most common diagnostic trap. The collection may be invisible on standard brain windows. Clues:
@@ -85,6 +88,9 @@ Classic mixed density: **hyperdense acute blood layering against or within a hyp
 - **Tentorial SDH:** Linear hyperdensity along the tentorium. Distinguish from **calcification** (which is >100 HU, sharply marginated, and usually symmetric).
 - **Bilateral thin SDH:** Each individual collection may look minor, but combined mass effect can be significant. Check the midline and basal cisterns regardless.
 - **Vertex SDH:** Easily missed on axial slices due to partial volume and beam hardening — **always review coronal reformats** of the parasagittal region.
+
+![Coronal non-contrast CT showing a linear hyperdensity along the left tentorium cerebelli.]({{ '/docs/img/ctb_sdh_tentorial_left.png' | relative_url }})
+*Figure 5.2 — Left tentorial subdural haematoma. Elderly patient on clopidogrel following an unwitnessed fall, with periorbital bruising and a frontal contusion. Coronal non-contrast CT shows a linear band of hyperdensity along the left tentorium cerebelli — the typical appearance of a tentorial SDH, best appreciated on coronal and sagittal reformats. Distinguish it from tentorial calcification, which is far denser (>100 HU), sharply marginated and usually symmetric. Antiplatelet therapy in this context lowers the threshold for a delayed rebleed, so recommend appropriate observation and review of the agent.*
 
 ---
 
