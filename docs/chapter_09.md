@@ -1,232 +1,236 @@
 ---
 layout: default
-title: "Chapter 09: Paediatric Head Injury"
+title: "Chapter 09: Skull Fractures and Base of Skull Injury"
 nav_order: 9
 ---
 
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 9: Paediatric Head Injury
+# Chapter 8: Skull Fractures and Base of Skull Injury
 
 ---
 
-## Paediatric-Specific Considerations
+## Scope and aims
 
-Children's heads are not simply small adult heads. Three practical differences shape how you read these scans:
-
-**The skull is more pliable.** Open sutures and a thin calvarium absorb energy, so focal contusions are less common than in adults — but the calvarium can buckle inward without breaking (ping-pong fracture), and sutures can split apart (diastatic fracture). Accessory sutures are common and can be mistaken for fractures.
-
-**The brain looks different on CT.** Incomplete myelination makes infant white matter relatively dark (20–30 HU) compared with grey matter (35–45 HU). Grey–white differentiation is therefore reduced even in health, which makes early oedema easy to miss. Know your baseline.
-
-**Acute blood may not look as bright as you expect.** In neonates and anaemic infants, the haematocrit is lower, so acute haemorrhage may only reach 30–50 HU rather than the typical 50–70 HU — potentially close to grey matter density. Always interpret density alongside morphology and mass effect.
+This chapter covers how to identify and interpret skull fractures and base of skull (BOS) injuries on CT, with practical guidance on pattern recognition, clinical correlation, and when to escalate or request further imaging. The focus is non-contrast CT head with bone windows, supplemented by temporal bone HRCT and CT angiography/venography (CTA/CTV) where indicated.
 
 ---
 
-## Imaging Pathway and CT Technique
+## Relevant anatomy — what you need to know clinically
 
-Use NICE or PECARN criteria to decide whether CT is indicated — radiation dose matters in children. When you do scan:
+### Calvarium
+The skull vault has three layers: outer cortical table (~1000–1500 HU), diploic marrow, and inner cortical table. Sutures are serrated, symmetric, corticated lines — knowing this helps you distinguish them from fractures. The middle meningeal artery (MMA) runs in a groove along the inner table of the temporoparietal bone; fractures crossing this groove carry a high risk of epidural haematoma (EDH).
 
-- **Request brain and bone algorithm reconstructions.** Brain windows (W80/L40) show parenchyma; subdural windows (W200/L50) are essential for thin extra-axial blood; bone windows with coronal and sagittal reformats and 3D reconstruction identify fractures, especially at the skull base.
-- **Always review coronal and sagittal reformats.** Interhemispheric, tentorial, and posterior fossa haemorrhages are easily missed on axials alone.
-- **Motion is common in children.** Repeat short stacks rather than accepting degraded images.
-- **Think about what CT cannot show.** CT is insensitive for diffuse axonal injury (DAI) and early hypoxic–ischaemic injury. If the clinical picture does not fit the CT, escalate to MRI (including SWI and DWI).
+### Skull base
+Think in three fossae:
 
----
+- **Anterior fossa:** cribriform plate, orbital roofs, posterior wall of frontal sinus. Thin and easily fractured; fractures here risk CSF rhinorrhoea and anosmia.
+- **Middle fossa:** sphenoid body, petrous temporal bone (carotid canal, cochlea/vestibule, facial nerve canal, tegmen tympani). Petrous fractures risk facial nerve injury, hearing loss, haemotympanum, and — critically — internal carotid artery (ICA) injury.
+- **Posterior fossa:** clivus, occipital condyles, foramen magnum, jugular foramen. Fractures here risk lower cranial nerve injuries (IX–XII) and craniocervical instability.
 
-## Scalp and Skull Injuries
-
-### Scalp Haematomas
-
-A focal scalp haematoma predicts an underlying fracture — scrutinise the adjacent bone on bone windows whenever you see one.
-
-- **Subgaleal haematoma:** crosses sutures, can be extensive. Significant blood loss is possible in neonates.
-- **Cephalhaematoma:** subperiosteal, sharply limited by sutures, lensiform.
-- **Caput succedaneum:** superficial, ill-defined, near-water density, crosses sutures; a birth-related finding.
-
-### Calvarial Fractures
-
-- **Linear fractures:** sharp lucent lines best seen on bone algorithm. Check whether a lucent line crosses the entire diploë (fracture) or follows a smooth, curvilinear arterial course (vascular groove).
-- **Diastatic fractures:** abnormal widening of a suture (>2 mm beyond age-expected). Common over the parietal bones in toddlers.
-- **Ping-pong fractures (infants):** inward buckling of the calvarium without cortical break. Easy to miss on axials — look at sagittal and coronal reformats for a subtle contour deformity.
-- **Growing skull fracture:** a delayed complication in young children with an underlying dural tear. Progressive widening of a fracture gap, smooth edges, and a low-density extra-axial collection contiguous with the fracture line. Needs neurosurgical referral for dural repair. Flag any diastatic fracture with an overlying collection for follow-up imaging.
-
-### Skull Base Fractures
-
-Look for indirect signs: mastoid/middle ear opacification, haemotympanum, sphenoid sinus fluid level, pneumocephalus, or air in the cavernous sinus. Assess whether the fracture involves the carotid canal (request CTA if so) or otic capsule. Complications include CSF leak, cranial nerve palsies, and venous sinus injury.
-
-### Fracture vs Normal Variant
-
-| Feature | Fracture | Accessory suture |
-|---|---|---|
-| Margins | Sharp, non-sclerotic | Serrated, sclerotic |
-| Bilateral? | Usually unilateral | Often bilateral/symmetric |
-| Soft tissue swelling | Usually present | Absent |
-| Orientation | May cross suture lines | Follows expected sutural position |
+Key conduits to check in any BOS fracture: carotid canal, optic canal, superior orbital fissure (SOF), jugular foramen, and facial nerve canal.
 
 ---
 
-## Extra-Axial Haemorrhage
+## CT technique — the practical essentials
 
-### Epidural (Extra-Dural) Haematoma (EDH)
+- **Standard scan:** non-contrast CT head, thin collimation (≤1 mm), bone algorithm, multiplanar reconstructions (axial, coronal, sagittal).
+- **Windowing:** bone windows (width 2000–4000, level ~500–700) for fractures; soft tissue windows (width ~80, level ~40) for haemorrhage and brain injury. You must review both.
+- **When to add temporal bone HRCT (0.4–0.6 mm):** suspected ossicular injury, CSF otorrhoea, facial nerve palsy after temporal bone fracture, or any finding suggesting otic capsule involvement.
+- **When to add CTA:** fracture involving carotid canal, sphenoid body, petrous apex, or cavernous sinus region. Low threshold — blunt cerebrovascular injury (BCVI) is the key concern.
+- **When to add CTV:** fracture crossing a dural venous sinus groove with adjacent hyperdensity, or clinical suspicion of sinus thrombosis.
 
-**What to look for:**
-- Biconvex (lentiform) hyperdense collection, typically 50–70 HU (30–50 HU in anaemia).
-- Does **not** cross suture lines.
-- An overlying fracture is present in ~70–90% — look for it on bone windows.
-- Swirl sign: hypodense areas within the clot indicate active bleeding and signal a surgical emergency.
-- Posterior fossa EDH often arises from transverse or sigmoid sinus tears and is associated with occipital fractures. Small volume does not mean low risk — posterior fossa haematomas can cause rapid brainstem compromise. Use coronal reformats.
+### Systematic review checklist
+Work through this on every head trauma CT:
 
-**Clinical significance:** Neurosurgical emergency. Even if the child currently appears well (the "lucid interval"), EDH can expand within hours. Call neurosurgery early.
-
-**Evolution:** The clot becomes isodense (~30–40 HU) by 3–7 days, making it harder to see. If the child deteriorates in the subacute phase, repeat CT and compare shapes rather than density.
-
-### Subdural Haemorrhage (SDH)
-
-**What to look for:**
-- Crescentic collection that conforms to the brain surface and **can** cross suture lines (unlike EDH).
-- Commonly seen along convexities, in the interhemispheric fissure, and over the tentorium — all require coronal/sagittal reformats to see.
-- Density evolves predictably:
-
-| Stage | Timing | Density |
-|---|---|---|
-| Acute | Hours–3 days | 50–70 HU (30–50 HU if anaemic) |
-| Subacute | 3–14 days | Isodense to cortex (~30–40 HU) ← easy to miss |
-| Chronic | >2–3 weeks | Hypodense (0–20 HU) |
-
-- **Mixed density** (hyperdense and hypodense within the same collection) suggests either rebleeding or sedimentation; either way it warrants careful clinical correlation.
-- **Isodense subacute SDH** is a classic pitfall. Look for sulcal effacement, asymmetric grey–white differentiation, and midline shift rather than relying on density alone. Subdural windowing helps.
-
-**Important infant-specific points:**
-- **Birth-related SDH:** Small, thin collections along the tentorium and posterior interhemispheric fissure are common after normal vaginal delivery and typically resolve within 2–3 months. They are usually symmetric and cause no mass effect.
-- **Benign enlargement of the subarachnoid spaces (BESS):** Enlarged frontal convexity CSF spaces (peak age 6–24 months). Key distinguishing feature: cortical veins traverse the fluid space (the "cortical vein sign"). In SDH, the cortical veins are displaced against the brain surface. Children with BESS have long bridging veins and are at increased risk of SDH after minor trauma — finding BESS does not exclude abuse, and any SDH in an infant still warrants thorough evaluation.
-
-**Clinical significance:** Thin, non-compressive SDH in a stable child may be observed with frequent neuro checks. Expanding or symptomatic collections need neurosurgery. SDH with encephalopathy in an infant needs urgent MRI and safeguarding assessment.
-
-### Subarachnoid Haemorrhage (tSAH)
-
-Acute hyperdense blood (50–70 HU) within sulci or cisterns. In trauma this is usually sulcal rather than basal.
-
-**Key pitfall — pseudo-SAH:** Diffuse cerebral swelling causes relative hyperattenuation of engorged basal veins against the low-attenuation swollen brain, mimicking basal SAH. Clues to pseudo-SAH: diffusely low-attenuation brain, slit ventricles, no focal cisternal clot. Do not request a lumbar puncture or CTA for aneurysm on the basis of pseudo-SAH alone — correlate clinically and consider MRI.
-
-### Intraventricular Haemorrhage (IVH)
-
-Layering hyperdensity in the occipital horns or atria. Check for obstructive hydrocephalus (periventricular low attenuation = transependymal CSF flow). **Pitfall:** Normal choroid plexus in infants is physiologically hyperdense (40–60 HU) and frond-like; it does not layer dependently.
+1. Scalp — subgaleal haematoma, lacerations, foreign bodies, surgical emphysema
+2. Calvarium — each table, sutures, vascular grooves
+3. Skull base by fossa — cribriform, orbital roofs, frontal sinus posterior wall; sphenoid, carotid canals, optic canals, SOF; temporal bones (tegmen, ossicles, otic capsule, facial canal); clivus, condyles, foramen magnum
+4. Paranasal sinuses and mastoids — air–fluid levels and attenuation (blood vs mucus vs CSF)
+5. Intracranial air — location, volume, and any tension features
+6. Intracranial haemorrhage — EDH, SDH, SAH, contusions
+7. Dural venous sinuses — fracture crossing grooves, hyperdensity within sinus
+8. Orbits and craniocervical junction
 
 ---
 
-## Parenchymal Injury
+## Calvarial fractures
 
-### Contusions and Intraparenchymal Haemorrhage
+### Linear (non-depressed) fractures
+**What to look for:** a sharply marginated, non-corticated lucent line crossing one or both tables. May be air-filled (−1000 HU) if open, blood-filled (50–75 HU), or fluid-filled (0–20 HU). Easier to see on bone windows.
 
-- Early CT may be subtle: ill-defined low attenuation at gyral crests with small petechial haemorrhages (50–70 HU foci).
-- **Blossoming:** Contusions frequently expand within 24–48 hours. If the child deteriorates or initial imaging shows early contusions, plan a repeat CT.
-- Surrounding vasogenic oedema appears as low attenuation (15–25 HU).
-- Children have fewer classic coup–contrecoup contusions than adults because the compliant skull absorbs energy — frontal and temporal lobe contusions still occur with high-energy mechanisms.
+**Why it matters:**
+- Fracture crossing the pterion/temporoparietal region → MMA injury → EDH risk. Even a small fracture here demands careful scrutiny of the adjacent epidural space.
+- Fracture crossing a dural sinus groove → venous EDH or sinus thrombosis risk.
 
-### Diffuse Axonal Injury (DAI)
+### Depressed fractures
+**What to look for:** inward displacement of bony fragments, step-off deformity, pneumocephalus. The inner table is typically more comminuted than the outer. Check for overlying scalp laceration (open fracture).
 
-**CT is insensitive** — the scan may look nearly normal despite severe injury. You might see:
-- Punctate hyperdense foci (1–5 mm) at grey–white junctions, in the splenium of the corpus callosum, or in the dorsolateral midbrain.
-- Subtle diffuse low attenuation without frank haemorrhage.
+**Why it matters:** higher risk of dural tear, cortical contusion, and venous injury. Neurosurgical discussion is appropriate when depression exceeds skull table thickness, when there is contamination, or when there is a neurological deficit.
 
-If clinical severity does not match CT findings, **escalate to MRI with SWI and DWI** — this is the investigation of choice for DAI.
+### Diastatic fractures and sutural injury
+**What to look for:** suture widening >2 mm in adults (age-adjusted in children), loss of interdigitations.
 
----
+**Pitfall:** accessory sutures are short, bilaterally symmetric, have sclerotic margins, and lack associated soft tissue swelling — do not overcall these as fractures.
 
-## Diffuse Cerebral Oedema and Hypoxic–Ischaemic Injury
-
-Paediatric-specific hazard. After even moderate trauma, children can develop rapid diffuse cerebral swelling.
-
-**CT signs:**
-- Generalised low attenuation of white matter (15–25 HU).
-- Loss of grey–white differentiation.
-- Slit-like ventricles and compressed basal cisterns.
-- Pseudo-SAH may appear at peak swelling.
-
-**If you see effaced cisterns, slit ventricles, or loss of grey–white differentiation — escalate immediately.** These are signs of critically raised intracranial pressure. Alert the neurosurgical team and initiate ICP reduction measures (head positioning, hyperosmolar therapy).
-
-Hypoxic–ischaemic injury (common in abusive head trauma and severe trauma) may look normal on early CT. MRI DWI detects it earlier. Watershed distribution or deep grey nuclei involvement may appear on later imaging.
+### Special patterns
+- **Hinge fracture:** transverse fracture across the middle cranial fossa, often bilateral temporal involvement with extensive middle fossa air. Frequently fatal; recognising it helps explain the mechanism and severity.
+- **Ring fracture:** encircles the foramen magnum; seen after falls from height landing on the feet or buttocks.
 
 ---
 
-## Vascular and Sinovenous Complications
+## Base of skull fractures
 
-- **Arterial dissection:** suspect with basilar skull fractures involving the carotid canal, unexplained ipsilateral stroke, or a Horner's syndrome. Request CTA.
-- **Dural venous sinus thrombosis:** non-contrast CT may show a hyperdense sinus (60–70 HU). Note that polycythaemia can cause a normally dense-appearing sinus — confirm with CT venography (CTV). Venous infarcts appear as oedema or haemorrhage in a non-arterial distribution.
-- **Venous sinus injury from fracture:** look for EDH adjacent to the transverse or sigmoid sinus; request CTV if suspected.
+### General CT signs to know
 
----
-
-## Abusive Head Trauma (AHT)
-
-Radiology's role is to describe findings accurately and flag inconsistencies — safeguarding decisions are multidisciplinary. Radiological features that should raise concern:
-
-- **Extra-axial haemorrhage:** bilateral SDH, interhemispheric and tentorial SDH, mixed-density collections.
-- **Parenchyma:** diffuse oedema, hypoxic–ischaemic injury pattern, DAI stigmata.
-- **Skull:** multiple fractures, complex or diastatic fractures, non-parietal fractures, or fractures inconsistent with the stated history.
-- **Spine:** spinal subdural haemorrhage and ligamentous injury (requires MRI of the whole spine).
-
-**CT alone is insufficient for AHT assessment.** CT identifies acute haemorrhage and fractures. MRI brain and whole spine with SWI and DWI are essential for complete evaluation. Arrange ophthalmology review (retinal haemorrhages) and skeletal survey. Activate your trust's safeguarding pathway.
-
-**Important caveats:** Birth-related tentorial SDH is common and typically minor. BESS can coexist with SDH caused by minor trauma. Neither finding excludes AHT, and neither confirms it. Age, clinical context, history, and the full multidisciplinary assessment determine the conclusion.
-
----
-
-## Quantitative Attenuation Reference
-
-| Structure | HU range |
+| Finding | Significance |
 |---|---|
-| Air | −1000 |
-| Fat/scalp | −100 to −50 |
-| CSF | 0–15 |
-| Infant unmyelinated white matter | 20–30 |
-| Cortical grey matter | 35–45 |
-| Subacute/chronic haemorrhage | 0–40 |
-| Acute haemorrhage (typical) | 50–70 |
-| Acute haemorrhage (anaemic/neonate) | 30–50 |
-| Cortical contusion oedema | 15–25 |
-| Bone cortex | >1000 |
+| Pneumocephalus (−1000 HU) | Dural breach; correlates with fracture site |
+| Pneumolabyrinth (−1000 HU within cochlea/vestibule) | Otic capsule violation — pathognomonic |
+| Haemotympanum (30–60 HU) | Temporal bone fracture; far more dense than simple effusion |
+| Haematosinus (50–90 HU) | Adjacent BOS fracture; blood, not mucus (10–30 HU) |
+| Air in cavernous sinus/sellar region | Sphenoid fracture with dural breach |
 
-These are guides, not thresholds. Scanner calibration and beam hardening introduce variability — always interpret density in context.
+Always use HU to distinguish blood from mucus from CSF — it directly changes management.
+
+### Anterior cranial fossa fractures
+**Structures at risk:** cribriform plate, orbital roofs, posterior frontal sinus wall.
+
+**What to look for on CT:**
+- Fracture lines through the cribriform/ethmoid roof; opacified frontal/ethmoid sinuses with hyperdense layering
+- Orbital roof fractures — check for fragments displacing into the orbit ("blow-in")
+- Frontal sinus posterior table fracture — look for pneumocephalus and check nasofrontal duct patency
+
+**Complications:** CSF rhinorrhoea, anosmia (CN I), delayed meningitis or brain abscess.
+
+**Escalate if:** suspected CSF leak (low-attenuation sinonasal fluid + adjacent bony defect), pneumocephalus, or orbital apex involvement with visual deficit. ENT and/or neurosurgical review. Most traumatic CSF leaks resolve conservatively within 5–7 days; persistent leak requires surgical repair.
+
+### Middle cranial fossa — temporal bone fractures
+This is the most clinically nuanced BOS region. Use the **otic capsule sparing (OCS) vs otic capsule violating (OCV)** classification rather than the traditional longitudinal/transverse scheme — it is more clinically relevant.
+
+**OCS fractures** (equivalent to longitudinal):
+- Fracture through the external auditory canal (EAC), mastoid, tegmen, and tympanic cavity
+- Ossicular disruption is common — incudostapedial joint separation most frequently
+- Labyrinthe intact
+- Conductive hearing loss; facial nerve injury at geniculate/tympanic segment
+
+**OCV fractures** (equivalent to transverse):
+- Fracture traverses the cochlea, vestibule, or semicircular canals
+- **Pneumolabyrinth** (tiny −1000 HU air dots within the labyrinthine structures) — do not miss this
+- Profound sensorineural hearing loss (SNHL) and vertigo
+- Facial nerve injury at the labyrinthine segment; higher risk of immediate complete palsy
+
+**Other findings to check:**
+- Tegmen tympani defect → CSF otorrhoea
+- Carotid canal involvement → CTA mandatory
+- Haemotympanum and mastoid opacification
+- Ossicular alignment on coronal HRCT (incudomalleolar and incudostapedial joints, stapes footplate)
+
+**Escalate:** immediate or complete facial palsy → urgent ENT (may need surgical exploration); delayed incomplete palsy is more likely neuropraxia and managed conservatively. Suspected ossicular injury, CSF otorrhoea, or pneumolabyrinth → HRCT temporal bones and ENT review. Carotid canal involvement → CTA.
+
+### Middle cranial fossa — sphenoid and parasellar region
+**Structures at risk:** sphenoid sinus walls, carotid canals, optic canals, SOF.
+
+**What to look for:** haematosinus (50–90 HU) in the sphenoid; cortical irregularity or deformity of the carotid canal; bony disruption at the optic canal or SOF.
+
+**Complications:**
+- **BCVI** (ICA dissection, pseudoaneurysm, carotid–cavernous fistula) — the most important
+- Optic neuropathy (CN II) with acute visual loss
+- SOF syndrome: ophthalmoplegia (CN III, IV, VI) + V1 sensory loss
+
+**Escalate:** low threshold for CTA if sphenoid body, carotid canal, petrous apex, or cavernous sinus region is involved. Optic canal fracture with visual deficit → urgent ophthalmology and neurosurgical discussion.
+
+### Posterior cranial fossa
+**Structures at risk:** clivus, occipital condyles, foramen magnum.
+
+**Occipital condyle fractures — Anderson–Montesano classification:**
+- **Type I** (impaction): usually stable
+- **Type II** (extension of BOS fracture): variable stability
+- **Type III** (alar ligament avulsion): potentially unstable — look for an avulsed fragment and assess atlanto-occipital alignment carefully
+
+**Clival fractures:** look for linear lucency; may extend to dorsum sellae. CN VI is vulnerable at Dorello's canal — new abducens palsy is a clue.
+
+**Complications:** lower cranial neuropathies (CN IX–XII), vertebral artery injury, craniocervical instability.
+
+**Escalate:** cervical immobilisation for any condyle fracture until stability is confirmed. Type III → spine service review; MRI for ligamentous assessment. Consider CTA if vertebral artery territory involved.
 
 ---
 
-## Evolution of Traumatic Findings
+## Associated intracranial haemorrhage and pneumocephalus
 
-| Finding | Acute | Subacute | Chronic |
-|---|---|---|---|
-| EDH | 50–70 HU, biconvex | Isodense ~3–7 days | Hypodense |
-| SDH | 50–70 HU, crescentic | Isodense ~3–14 days | Hypodense >2–3 weeks; membranes develop |
-| Contusion | Petechial foci, low attenuation | Blossoms 24–48 h | Encephalomalacia |
-| Diffuse oedema | May develop rapidly within hours | — | — |
+### Epidural haematoma (EDH)
+**CT:** biconvex, sharply marginated hyperdensity (50–80 HU), limited by sutures. Overlying fracture in ~85–95%. Venous EDH from sinus injury tends to occur along the occipital or temporo-occipital inner table and may be larger and slower to develop.
 
----
+### Pneumocephalus
+**Mount Fuji sign:** bilateral frontal air separating the frontal lobes — indicates tension pneumocephalus. **Escalate immediately** if there is mass effect, sulcal effacement, or midline shift. Urgent neurosurgical decompression required.
 
-## Key Differentials at a Glance
-
-**SDH vs BESS:**
-- SDH: cortical veins displaced against brain surface, may have mixed density or mass effect.
-- BESS: cortical veins traverse the fluid space, symmetric frontal predominance, no mass effect.
-
-**EDH vs cephalhaematoma:**
-- EDH: intracranial, biconvex, does not cross sutures, causes mass effect.
-- Cephalhaematoma: external to skull, subperiosteal, limited by sutures, no intracranial effect.
-
-**True tSAH vs pseudo-SAH:**
-- True SAH: normal brain attenuation, focal distinct sulcal/cisternal hyperdensity.
-- Pseudo-SAH: diffusely low attenuation brain, slit ventricles, apparent basal hyperdensity.
-
-**Contusion vs acute infarct:**
-- Contusion: gyral crest location, petechial haemorrhage, non-vascular territory.
-- Infarct: arterial territory, dense vessel sign, cortical ribbon oedema, no early haemorrhage.
+Simple pneumocephalus without mass effect is managed conservatively with high-flow oxygen to accelerate reabsorption.
 
 ---
 
-## Top Pitfalls
+## Vascular complications — when to image further
 
-1. **Isodense subacute SDH** — rely on sulcal effacement, asymmetry, and midline shift, not density alone.
-2. **Thin interhemispheric/tentorial SDH** — invisible on axials alone; always review coronal and sagittal reformats using subdural windowing.
-3. **Posterior fossa EDH** — small volume, potentially lethal; look for lensiform hyperdensity near the transverse/sigmoid sinuses and correlate with occipital fractures.
-4. **Haemorrhage in anaemic infants** — may appear nearly isodense to cortex; rely on morphology and mass effect.
-5. **Pseudo-SAH** — do not over-call aneur
+### Blunt cerebrovascular injury (BCVI)
+BCVI is under-recognised and under-imaged. Request CTA if any of the following are present:
+- Fracture involving the carotid canal or foramen lacerum
+- Sphenoid body or sinus fracture (especially with lateral recess involvement)
+- Severe facial fractures (Le Fort II/III)
+- Occipital condyle Type III fracture
+- Petrous apex fracture
+
+**CTA findings:** luminal irregularity, mural haematoma (wall thickening), pseudoaneurysm, occlusion, or arteriovenous fistula. Prompt neurosurgical and/or vascular input required; antithrombotic therapy guided by Biffl grade and local trauma protocol.
+
+### Dural venous sinus injury
+Suspect when a fracture crosses a sinus groove with adjacent hyperdensity (60–80 HU acutely = thrombus or EDH). Consider CTV. Unrecognised sinus thrombosis can cause venous infarction.
+
+---
+
+## CSF leak — recognising it on CT
+
+**Indirect signs:**
+- Low-attenuation fluid (0–20 HU) in paranasal sinuses or middle ear with an adjacent bony defect
+- Mastoid air cells opacified with air bubbles suggesting a pneumoencephalocele tract
+- Pneumocephalus at a known BOS fracture site
+
+**Direct signs:** a visible osseous defect with a CSF-density tract.
+
+If the leak site is uncertain, CT cisternography (intrathecal iodinated contrast, 100–250 HU in CSF) or MRI cisternography can localise it. Most traumatic leaks resolve with conservative measures; persistent leak beyond 5–7 days warrants surgical repair. Counsel regarding meningitis risk.
+
+---
+
+## Cranial nerve injury — fracture location as a guide
+
+| Fracture site | Nerve at risk | Clinical sign |
+|---|---|---|
+| Cribriform plate | CN I | Anosmia |
+| Optic canal | CN II | Acute visual loss |
+| SOF/orbital apex | CN III, IV, VI, V1 | Ophthalmoplegia, ptosis, V1 sensory loss |
+| Foramen rotundum | CN V2 | Midface numbness |
+| Facial nerve canal (temporal bone) | CN VII | Facial palsy — immediate = transection/entrapment; delayed = neuropraxia |
+| Otic capsule | CN VIII | Profound SNHL, vertigo |
+| Jugular foramen | CN IX–XI | Dysphagia, hoarseness, shoulder weakness |
+| Hypoglossal canal | CN XII | Tongue deviation/atrophy |
+| Clivus/petrous apex (Dorello's canal) | CN VI | Lateral gaze palsy |
+
+---
+
+## Paediatric considerations
+
+- **Synchondroses:** the spheno-occipital and petro-occipital synchondroses are smooth, corticated, symmetric lines in children — do not mistake for fractures.
+- **Accessory sutures:** bilaterally symmetric, sclerotic margins, zig-zag course, no overlying soft tissue swelling.
+- **Growing skull fracture (leptomeningeal cyst):** diastatic fracture with dural tear allows arachnoid/brain herniation. CT shows a widening, scalloped-edged defect over weeks to months. Requires neurosurgical referral.
+- **Non-accidental injury (NAI):** be alert to complex fractures crossing sutures, depressed fractures in young infants, or multiple fractures of different ages. Always correlate with the stated mechanism and escalate safeguarding concerns appropriately.
+
+---
+
+## Key differentials — sutures, grooves, and other mimics
+
+| Finding | Features distinguishing it from fracture |
+|---|---|
+| Sutures / accessory sutures | Corticated, serrated, symmetric, no soft tissue swelling |
+| Vascular grooves (MMA, sinuses) | Smooth, corticated, branching, intraosseous |
+| Arachnoid granulation | Smooth, round, CSF-density defect within sinus; bony remodelling, not acute |
+| Synchondroses (children) | Smooth, corticated, symmetric, age-appropriate location |
+| Lytic metastasis/myeloma | Geographic or moth-eaten lucency, non-sclerotic margins, no trauma history |
+| Congenital bony

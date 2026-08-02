@@ -1,196 +1,160 @@
 ---
 layout: default
-title: "Chapter 07: Contusions and Diffuse Axonal Injury"
+title: "Chapter 07: Traumatic Subarachnoid Haemorrhage"
 nav_order: 7
 ---
 
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 7: Contusions and Diffuse Axonal Injury
+---
+
+# Chapter 6: Traumatic Subarachnoid Haemorrhage (tSAH)
 
 ---
 
-## Overview
+## What Is It and Why Does It Matter?
 
-Traumatic brain injuries fall on a spectrum from focal cortical contusions to widespread shearing injury known as diffuse axonal injury (DAI). CT is your first-line tool: it is fast, available, and reliably detects haemorrhage and mass effect. MRI is more sensitive — particularly for non-haemorrhagic DAI — but is usually reserved for subacute assessment or prognostication once the patient is stabilised.
-
-The practical priorities are: recognising the pattern on CT, anticipating how it will evolve, knowing when to rescan, and identifying features that require urgent escalation.
+Traumatic subarachnoid haemorrhage (tSAH) is blood within the subarachnoid space caused by head injury — most commonly from torn small pial vessels adjacent to cortical contusions, or shearing of perforating vessels during acceleration–deceleration. Even when the volume looks small, tSAH is an independent marker of significant traumatic brain injury (TBI) and predicts a higher risk of clinical deterioration. It must be identified reliably, characterised accurately, and its pattern used to guide escalation decisions.
 
 ---
 
-## Cerebral Contusions
+## What to Look For on CT
 
-### What They Are and Where to Find Them
+### Typical Appearance
 
-Contusions are focal areas of cortical and subcortical bruising — a mixture of petechial haemorrhage and oedema — caused by the brain impacting the inner skull surface. The brain's poles and undersurfaces are most vulnerable because the skull base is irregular there.
+Acute tSAH appears as **hyperattenuating (bright) material filling sulci**, conforming to their shape. Key features:
 
-**Typical locations:**
-- Anteroinferior frontal lobes (orbitofrontal cortex)
-- Temporal poles and inferior temporal lobes
-- Site of direct impact (coup)
-- Opposite side to impact (contrecoup) — a posterior scalp haematoma should make you look hard at the frontal poles
-- Parasagittal frontal white matter ("gliding contusions") — curvilinear lesions running parallel to the falx, often with an adjacent interhemispheric subdural haematoma
+- **Attenuation: typically 45–65 HU.** In anaemia or heavy CSF dilution, this can fall to 35–45 HU — still above normal CSF (0–15 HU) but deceptively subtle.
+- **Morphology:** thin, linear or lace-like; it *tracks within* sulci rather than forming a smooth extra-axial layer.
+- **Practical tip:** if you're unsure, measure the HU directly. Values >45 HU in a sulcus strongly favour blood. Compare the suspect sulcus with its mirror image on the opposite side — asymmetric density is significant.
 
-### What to Look for on CT
+### Where to Find It
 
-**Acute (0–24 hours):**
-- Mixed-density, gyriform (following gyral contours) lesions in typical locations, usually touching the cortical surface
-- Hyperdense flecks (petechial haemorrhage, 50–80 HU) within surrounding hypodense oedema (20–30 HU) — the "salt-and-pepper" appearance
-- Local traumatic subarachnoid haemorrhage (tSAH) in adjacent sulci
-- Sulcal effacement and early mass effect
-- Check for overlying skull fractures, especially at the orbital roofs and sphenoid ridge
+tSAH has a characteristic distribution that differs from aneurysmal SAH:
 
-**24–72 hours ("blossoming"):**
-- Haemorrhagic components enlarge and coalesce — this is expected and common
-- Oedema and mass effect peak around 48–72 hours
-- New foci can appear, particularly at the frontal and temporal poles
-
-**Chronic (weeks to months):**
-- Encephalomalacia: focal volume loss with CSF-density tissue (0–15 HU), often with adjacent sulcal dilatation
-
-### Key Pattern: Burst Lobe
-
-A burst lobe is a large, lobar haemorrhagic contusion with irregular margins, markedly heterogeneous density, significant mass effect, and often an overlying acute subdural haematoma. This is a surgical pattern — escalate immediately.
-
-### Differentiating Contusions from Other Findings
-
-| Finding | Distinguishing features |
+| Location | Appearance in tSAH |
 |---|---|
-| Traumatic SAH | Follows sulcal contours, no parenchymal component, no surrounding oedema |
-| Hypertensive haemorrhage | Deep locations (basal ganglia, thalamus, cerebellum); no typical polar distribution |
-| Haemorrhagic metastasis | Rounded lesions at grey–white junction; non-traumatic context |
-| Cavernoma | Solitary, rounded, often calcified; not in typical contusion locations |
-| Cortical calcification | Very high attenuation (>100 HU); no surrounding oedema; stable on prior imaging |
+| **Convexity sulci** | Focal, thin, lace-like hyperattenuation adjacent to contusions — the *most common* site |
+| **Interhemispheric fissure** | Thin streaks along the falx anteriorly |
+| **Sylvian fissure** | Unilateral or asymmetric; typically shallow |
+| **Tentorial leaflets** | Fine hyperdense lines along the tentorium — easily missed |
+| **Occipital horns** | Dependent layering of blood indicating intraventricular extension |
 
-### Imaging Pitfalls — Don't Miss These
+### What Else to Look For
 
-- **Skull base beam hardening** obscures the inferior frontal and temporal poles. Always use thin sections, scroll carefully with adjusted windowing, and review coronal and sagittal reformats.
-- **Small early contusions can be CT-occult.** Haemorrhagic progression is common — if clinical severity seems disproportionate to the scan, plan a repeat CT.
-- **Anaemia reduces haemorrhage density.** In an anaemic patient, acute blood may only be 40–50 HU rather than the expected 60–80 HU — adjust your search accordingly.
-- **Partial volume with cortical veins** can mimic small haemorrhages. Veins track along sulci; contusions cross sulcal boundaries within the cortex.
-
-### When to Escalate
-
-- Expanding contusion or new lesions on follow-up CT
-- Midline shift (quantify in millimetres)
-- Effacement of basal cisterns
-- Any features of herniation
-- Burst lobe pattern
-- Deteriorating GCS
+Always look for associated traumatic findings that confirm the aetiology:
+- Cortical contusions (especially frontal and temporal poles, subfrontal, and at gyral crests)
+- Subdural or extradural haematoma
+- Skull or skull base fractures; scalp haematoma
+- Small haemorrhages at the grey–white junction or corpus callosum (diffuse axonal injury)
 
 ---
 
-## Diffuse Axonal Injury (DAI)
+## How tSAH Evolves on CT
 
-### What It Is
+- **0–24 hours:** most conspicuous; acute blood is clearly hyperdense
+- **1–3 days:** attenuation falls; sulcal films thin out
+- **3–7 days:** small deposits may become very difficult to detect or disappear entirely
+- **Beyond 7–14 days:** most tSAH is no longer visible on CT
 
-DAI results from rotational (angular) acceleration, which generates shear forces maximal at tissue interfaces — particularly the grey–white junction, corpus callosum, and brainstem. Axons stretch and fail; tiny adjacent vessels tear, producing microhaemorrhages. Crucially, much of this injury is invisible on CT.
-
-### The Important Clinical Point
-
-**A normal CT does not exclude DAI.** If a patient is in unexplained coma disproportionate to the CT findings, DAI is the diagnosis until proven otherwise. MRI (particularly susceptibility-weighted imaging and diffusion-weighted imaging) is far more sensitive and should be arranged once the patient is stable.
-
-### What to Look for on CT
-
-When DAI is haemorrhagic, look for **small punctate hyperdense foci (2–10 mm, 50–80 HU)** at these specific locations — in order of increasing severity:
-
-1. **Grey–white junction** in the frontal and temporal lobes (most common)
-2. **Corpus callosum**, especially the splenium and posterior body — review sagittal and coronal reformats specifically for this
-3. **Dorsolateral brainstem** (tectum, tegmentum, superior cerebellar peduncles) — the most severe pattern
-
-These lesions have minimal surrounding oedema and limited mass effect individually. Associated small intraventricular haemorrhage may occur with callosal lesions.
-
-In severe non-haemorrhagic DAI, you may see only **diffuse cerebral swelling** — loss of sulci, compressed ventricles, effaced basal cisterns — with no discrete lesions. This appearance with a severely reduced GCS should prompt urgent escalation.
-
-### Grading (Adams Classification)
-
-| Grade | Location | CT likely to show |
-|---|---|---|
-| I | Grey–white junction | Often normal or subtle punctate foci |
-| II | + Corpus callosum | Small callosal haemorrhages |
-| III | + Dorsolateral brainstem | Brainstem/tegmental foci |
-
-Higher grade correlates with worse prognosis.
-
-### Key Differentials
-
-- **Duret haemorrhages:** Midline tegmental haemorrhages in the midbrain and pons, caused by downward transtentorial herniation — there will be obvious mass effect and effaced basal cisterns. DAI brainstem lesions are dorsolateral and multiple; Duret haemorrhages are midline and occur in the context of herniation.
-- **Hypertensive microbleeds:** Deep grey matter distribution; non-traumatic context.
-- **Cavernoma:** Solitary, often calcified, not in typical DAI distribution.
-
-### Imaging Pitfalls
-
-- **Do not exclude DAI because the CT looks normal.** Document this explicitly when the clinical picture is severe.
-- **Posterior fossa beam hardening** can mimic or obscure brainstem lesions — always corroborate on multiplanar reformats before calling a brainstem haemorrhage.
-- **Review the corpus callosum on sagittal and coronal reformats** — callosal lesions are easily missed on axial slices alone.
-
-### When to Escalate
-
-- Any brainstem haemorrhagic foci (Grade III DAI) — these patients need ICU admission
-- Diffuse cerebral swelling with effaced basal cisterns
-- Severe or unexplained coma — even with a normal CT, these patients need intensive monitoring and consideration of urgent MRI
+This clearance is often faster than in aneurysmal SAH because volumes are typically smaller and more peripheral. If you are reviewing a delayed scan and tSAH is no longer visible, do not assume it was never there — earlier imaging is the reference.
 
 ---
 
-## Haemorrhagic Progression ("Blossoming")
+## Differentials: What Else Could It Be?
 
-Both contusions and haemorrhagic DAI lesions can enlarge substantially in the first 24–72 hours. This is not a complication — it is expected — but it can cause clinical deterioration and may cross surgical thresholds.
+The most important distinction is **traumatic versus aneurysmal SAH**, because the management pathways differ completely.
 
-**Risk factors for more pronounced blossoming:**
-- Anticoagulant or antiplatelet therapy
-- Thrombocytopenia or coagulopathy
-- Larger initial lesion burden
-- Hypotension
-- Older age
+### Aneurysmal SAH — Red Flag Pattern
+- **Thick, central cisternal blood** centred on the suprasellar/interpeduncular cisterns, extending symmetrically into both Sylvian fissures and the interhemispheric fissure
+- Often associated with **intraventricular haemorrhage and hydrocephalus**
+- Contusions, fractures, and scalp injury are absent or minor relative to the haemorrhage burden
+- **Action:** any central cisternal-dominant pattern in a trauma patient requires urgent CTA to exclude aneurysm rupture — a pre-existing aneurysm can rupture as the precipitant of the fall, not the consequence of it
 
-**Practical action:** Always ask about anticoagulants. Reversal should be considered urgently. Planned repeat CT at 6–24 hours is standard in moderate-to-severe TBI; rescan earlier if the patient deteriorates at all.
+### Other Differentials Worth Knowing
 
----
+**Pseudo-SAH:** In severe diffuse cerebral oedema, swollen, hyperaemic brain can make the basal cisterns appear falsely hyperdense. Measure the HU — it will typically be 20–40 HU, lacking discrete sulcal moulding. This pattern is seen in post-anoxic injury and is not true haemorrhage.
 
-## Temporal Evolution — What Changes and When
+**Cerebral amyloid angiopathy (CAA):** Convexity sulcal SAH in an elderly patient, often out of proportion to a minor fall, with associated lobar microbleeds on MRI. Not primarily a trauma diagnosis.
 
-| Timepoint | What to expect |
-|---|---|
-| 6–24 hours | Haemorrhagic progression; new foci may appear |
-| 48–72 hours | Peak oedema and mass effect; haemorrhages coalesce |
-| 3–7 days | Hyperdensity persists but begins to decrease |
-| 2–3 weeks | Haemorrhages become isodense — easy to miss without comparison to prior scans |
-| Months | Encephalomalacia; callosal thinning; diffuse atrophy |
+**Cortical vein thrombosis:** Sulcal blood adjacent to a thrombosed cortical vein; look for the hyperdense "cord sign" and associated venous infarcts. CT venography or MRI confirms.
+
+**Interhemispheric SDH mimicking SAH:** A subdural haematoma along the falx forms a **smooth crescent that displaces sulci**; SAH **interdigitates with gyri**. Coronal reconstructions make this distinction much clearer.
+
+**Calcification:** Falx, choroid plexus, and pineal calcification are very high attenuation (>100 HU), sharply marginated, and stable on serial imaging.
 
 ---
 
-## Practical Reporting Checklist
+## Common Pitfalls
 
-When reporting a head CT after trauma, work through the following:
+**Anaemia masking SAH.** In patients with low haematocrit, acute blood may only be 35–40 HU. Use thin slices, adjust your window settings, and compare with the contralateral side.
 
-**Contusions:**
-- [ ] Number, side, and location (frontal, temporal pole, parasagittal)
-- [ ] Maximum dimensions; proportion haemorrhagic versus oedematous
-- [ ] Any burst lobe pattern
-- [ ] Mass effect: sulcal effacement, ventricular compression, midline shift (mm), basal cistern status
-- [ ] Associated tSAH, subdural or extradural haematoma, intraventricular haemorrhage
-- [ ] Comparison with any prior imaging — evidence of blossoming
+**Missing vertex SAH.** High convexity sulcal blood is easily missed on thick axial slices. Always review **coronal reconstructions** and specifically examine the vertex.
 
-**DAI:**
-- [ ] Presence and distribution of haemorrhagic shearing lesions (grey–white junction / corpus callosum / brainstem)
-- [ ] Diffuse cerebral swelling
-- [ ] If CT normal but clinical picture severe — state explicitly that CT does not exclude DAI and recommend MRI
+**Posterior fossa beam hardening.** Thin prepontine or cerebellar fissure blood can be obscured by artefact. Adjust windowing and review sagittal/coronal planes.
 
-**Both:**
-- [ ] Overlying scalp haematoma (helps confirm coup/contrecoup)
-- [ ] Skull fractures
-- [ ] Features requiring urgent neurosurgical or critical care input
+**Missing tentorial SAH.** Scroll systematically along the tentorial leaflets — fine hyperdense lines here are easily skipped.
+
+**Missing intraventricular haemorrhage (IVH).** Subtle dependent layering in the occipital horns can look like normal CSF on standard windows. Narrow your window settings and inspect all four ventricles carefully.
+
+**Residual intravascular contrast.** If a non-contrast head CT follows a contrast-enhanced body CT, vessels and choroid plexus may appear hyperdense (>100 HU). Check the clinical history and imaging timing.
 
 ---
 
-## Key Takeaways
+## Clinical Implications and When to Escalate
 
-- **Classic contusion sites** are the anteroinferior frontal lobes and temporal poles — the skull base funnels impact energy here. Expect contrecoup injury opposite the site of scalp trauma.
-- **CT appearance:** mixed-density gyriform cortical/subcortical lesions with hyperdense petechiae (50–80 HU) in surrounding hypodense oedema (20–30 HU).
-- **Blossoming at 24–72 hours is expected** — plan a repeat CT and reverse anticoagulation promptly.
-- **DAI is predominantly a clinical and MRI diagnosis.** A normal CT with a severely injured patient is not reassuring — escalate and arrange MRI.
-- **When DAI is visible on CT**, look for punctate haemorrhages at the grey–white junction, corpus callosum splenium, and dorsolateral brainstem. Brainstem lesions (Grade III) indicate severe injury.
-- **Duret haemorrhages are not DAI** — they are midline, in the context of herniation and mass effect.
-- **Always review inferior frontal and temporal poles** with thin sections and adjusted windowing. Beam hardening hides small contusions in these critical locations.
-- **Repeat CT at 6–24 hours** is standard for moderate-to-severe TBI, sooner if the patient deteriorates.
+### Prognostic significance
+Even thin tSAH indicates significant TBI. It is associated with increased risk of deterioration and should never be dismissed as an incidental finding.
+
+### When to request CTA — do not delay
+- The haemorrhage is **central and cisternal-dominant** rather than peripheral and sulcal
+- There is **unexplained intraventricular haemorrhage or hydrocephalus**
+- The haemorrhage burden is **disproportionate to the visible traumatic findings**
+- There is a **skull base fracture crossing the carotid canal** or signs of blunt cerebrovascular injury
+- There is **unexplained neurological deterioration**
+
+### Vasospasm
+Less common and milder than in aneurysmal SAH. Routine nimodipine is not standard practice for isolated tSAH in the UK. Consider surveillance if there is thick cisternal blood or unexplained focal deficits.
+
+### Hydrocephalus
+Uncommon with thin convexity tSAH. Risk rises significantly with IVH or thick basal cisternal blood. Report ventricular size and look for transependymal oedema — acute hydrocephalus requires urgent neurosurgical input.
+
+### Anticoagulation and VTE prophylaxis
+Your report directly informs decisions about reversing anticoagulation and timing thromboprophylaxis. Many centres perform a **repeat CT at 6–24 hours** to confirm stability before commencing pharmacological prophylaxis. State clearly whether tSAH is present, its extent, and whether there is progression.
+
+### Repeat imaging
+Repeat CT is indicated for:
+- Neurological deterioration
+- Significant initial haemorrhage burden
+- Associated contusions at risk of progression
+- Anticoagulated patients
+
+### Paediatric safeguarding
+In infants with tSAH where the mechanism is unclear or the imaging and clinical picture are inconsistent, consider abusive head trauma and involve the safeguarding team.
+
+---
+
+## A Structured Approach to Reporting tSAH
+
+When you find (or suspect) tSAH, your report should address each of these points:
+
+1. **Is SAH present?** State your confidence level.
+2. **Distribution:** Which sulci, fissures, or cisterns are involved? Is it convexity-predominant or centrally cisternal?
+3. **Attenuation:** Quote HU measurements of the most conspicuous focus.
+4. **Extent:** Thin film or thick clot? Any dependent redistribution or ventricular layering?
+5. **IVH:** Present or absent? If present, is there hydrocephalus?
+6. **Mass effect:** Midline shift, cistern patency.
+7. **Associated injuries:** Contusions, SDH/EDH, fractures, DAI features.
+8. **Red flags:** Does the pattern raise concern for aneurysmal SAH? If so, recommend CTA explicitly.
+9. **Management statement:** Stability for anticoagulation decisions, recommendation for repeat CT or MRI where appropriate.
+
+---
+
+## Key Pearls
+
+- **Thin, focal sulcal hyperattenuation adjacent to contusions** is the archetypal tSAH. **Thick, central cisternal haemorrhage is not** — that pattern needs CTA.
+- **Measure the HU** in any equivocal sulcus rather than relying on visual impression alone.
+- **Anchor the diagnosis** by correlating the SAH pattern with the rest of the study: fractures, contusions, and scalp injury confirm a traumatic aetiology.
+- **Systematically review** the tentorium, high convexities, interhemispheric fissure, and occipital horns — these are the areas most often missed.
+- **Say what it means for management** in your report. If the pattern warrants CTA or repeat imaging, state that clearly.

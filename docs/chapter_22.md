@@ -1,303 +1,311 @@
 ---
 layout: default
-title: "Chapter 22: Metabolic and Toxic Encephalopathy"
+title: "Chapter 22: Acute Headache"
 nav_order: 22
 ---
 
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 22: Metabolic and Toxic Encephalopathy
+# Chapter 21: Acute Headache
 
 ---
 
-## Core Concepts
+## Imaging approach to the acutely painful head
 
-### Why CT matters here
+### When to scan
 
-Altered consciousness, seizures, or focal deficits in the context of a metabolic or toxic cause will almost always get a CT first. The primary role is to exclude haemorrhage and large infarct — but CT can also provide specific pattern-recognition clues that point directly to the underlying aetiology and direct immediate management.
+Request an urgent NCCT head for any of the following: thunderclap onset, focal neurology, reduced consciousness, meningism or fever, new severe headache in pregnancy or the postpartum period, known cancer or immunosuppression, anticoagulation, head trauma, age >50 with a new severe headache, or an exertional/Valsalva trigger.
 
-### What you are looking for
+NCCT is your first-line test to exclude SAH, intracranial haemorrhage, extra-axial collections, acute hydrocephalus, venous sinus thrombosis, pituitary apoplexy, and mass effect.
 
-Metabolic and toxic brain injury produces two broad CT changes:
+**Timing matters for SAH.** Within 6 hours of ictus, modern thin-slice NCCT is close to 100% sensitive. Beyond 6–12 hours sensitivity falls — if your clinical suspicion remains, proceed to LP and/or CTA per local protocol.
 
-- **Cytotoxic oedema** — cells swell due to energy failure; grey matter attenuation drops by roughly 3–8 HU, blurring the grey–white boundary and effacing sulci.
-- **Vasogenic oedema** — disruption of the blood–brain barrier causes water to accumulate in the *subcortical white matter*, producing patchy low attenuation with relative cortical sparing (classic in PRES).
+### Getting the most from the scan
 
-Certain brain structures are selectively vulnerable to specific insults — learning these pairings is the core skill of this chapter.
+Ask for thin slices (≤1.25 mm) with multiplanar reformats. Always review on a **blood window** (WL 60–80, WW 200–250) as well as the standard brain window (WL 35–40, WW 80–100) — subtle SAH and thin subdurals are easily missed on standard settings alone.
 
-### Normal CT attenuation values (approximate)
+**Key attenuation values to know:**
 
-| Structure | HU |
+| Tissue | Approximate HU |
 |---|---|
-| Grey matter | 35–45 |
-| White matter | 20–30 |
 | CSF | 0–15 |
-| Acute blood | 60–80 |
+| White matter | 20–30 |
+| Grey matter | 35–45 |
+| Acute clotted blood | 60–80 |
+| Vasogenic oedema | 18–25 |
 | Calcification | >100 |
 
-The grey–white gap is normally 10–15 HU. When it narrows to 3–5 HU, you have significant oedema.
-
-### Systematic approach
-
-Work through these areas every time:
-
-1. **Global mass effect** — sulcal effacement, ventricular compression, basal cistern patency, any herniation
-2. **Grey–white differentiation** — insular ribbon, lentiform nucleus outline, cortical ribbon
-3. **Deep grey nuclei** — symmetry and attenuation of putamen, globus pallidus, thalami
-4. **Regional low attenuation** — subcortical predominance (PRES/toxic leukoencephalopathy) vs diffuse cortical (hypoglycaemia, anoxia)
-5. **Haemorrhage** — including haemorrhagic necrosis within basal ganglia (methanol)
-6. **Brainstem and cerebellum** — central pontine hypoattenuation (osmotic demyelination), cerebellar white matter changes
-7. **Ancillary signs** — pseudo-subarachnoid sign, optic nerve/sheath swelling (methanol), unexpected subdural (hypernatraemia)
+**Haematocrit effect:** Anaemia reduces blood attenuation — SAH can appear near-isodense in an anaemic patient and be missed. Polycythaemia or dehydration raises attenuation and can mimic venous sinus thrombosis. Always correlate with clinical context.
 
 ---
 
-## Global Cerebral Oedema Patterns
+## Aneurysmal Subarachnoid Haemorrhage (aSAH)
 
-### Diffuse cerebral oedema
+### What to look for on CT
 
-**What it looks like on CT:**
-- Generalised low attenuation of parenchyma; grey–white HU gap narrows towards 3–5 HU
-- Sulcal and Sylvian fissure effacement; compressed ventricles; loss of basal cisterns
-- **Pseudo-subarachnoid sign** — the compressed, swollen brain appears relatively hypodense against normal venous blood in the subarachnoid space, which reads at ~30–45 HU. This *mimics* subarachnoid haemorrhage but is not it (see Pitfalls below)
+Hyperdense blood (60–70 HU) filling the **basal cisterns** — suprasellar, interpeduncular, ambient, and quadrigeminal — with extension into the Sylvian fissures and interhemispheric fissure. Look also for:
 
-**Causes to consider:** severe hypoxia–ischaemia, acute liver failure, profound hyponatraemia, heat stroke, toxic ingestion (cyanide), malignant status epilepticus
+- **Intraventricular haemorrhage (IVH):** layering blood in the occipital horns, third or fourth ventricle
+- **Parenchymal haemorrhage** adjacent to the ruptured aneurysm (e.g., temporal lobe haematoma suggests an MCA aneurysm)
+- **Acute hydrocephalus:** dilated ventricles with periventricular low attenuation (transependymal CSF seepage)
 
-**When to escalate:** Cisternal effacement indicates critical raised ICP. Escalate immediately — start head-of-bed elevation, consider osmotherapy, target normocapnia, and treat the underlying cause in parallel. Involve intensive care early.
+The more cisternal blood and the more IVH, the higher the vasospasm risk (modified Fisher scale).
 
----
+### Evolution
 
-## Specific Metabolic Entities
+Sensitivity is highest within 6 hours. By 3–5 days the blood becomes less conspicuous; by 1–2 weeks it may be isodense or cleared entirely.
 
-### Hypoglycaemic encephalopathy
+### Key differentials
 
-**CT findings:**
-- Often normal early
-- When positive: diffuse or parieto-occipital cortical low attenuation and swelling; possible bilateral basal ganglia hypoattenuation
-- Changes can appear within hours of prolonged hypoglycaemia
+- **Perimesencephalic SAH:** blood confined to pre-pontine and interpeduncular cisterns only — a favourable pattern (see below)
+- **Pseudo-SAH in diffuse cerebral oedema:** apparent cisternal hyperdensity at lower HU (~30–40), with effaced cisterns and generalised cerebral swelling — a sign of catastrophic injury, not haemorrhage
+- **Traumatic SAH:** predominates over the convexities; basal cisterns relatively spared unless injury is severe
 
-**Key differential:** Hypoxic–ischaemic encephalopathy (HIE) tends to affect the thalami, brainstem, and cerebellum more prominently. Post-ictal change is often unilateral or asymmetric.
+### Pitfalls
 
-**Action:** Give IV dextrose immediately — do not wait for imaging. CT is not used to prognosticate; that requires clinical course and MRI.
+- Subtle blood in the interpeduncular cistern missed on standard windows or thick slices — always use the blood window
+- Posterior fossa beam hardening obscuring posterior circulation SAH — use thin coronal and sagittal reformats
+- Anaemia rendering SAH near-isodense — if clinical suspicion is high, proceed to LP or CTA regardless of a "negative" CT
 
----
+### When to escalate
 
-### Hyperglycaemia — haemichorea/hemiballismus (non-ketotic hyperglycaemia)
-
-**CT hallmark:**
-- **Unilateral hyperattenuating putamen/caudate** (~40–50 HU) on the side *contralateral* to the choreiform movements
-- No surrounding oedema, no mass effect — this distinguishes it from haemorrhage
-
-**Key differentials:**
-- Acute basal ganglia haemorrhage: 60–80 HU, with oedema and mass effect
-- Calcification: >100 HU, sharply marginated
-
-**Action:** Confirm hyperglycaemia/hyperosmolar state; glycaemic correction usually resolves symptoms over days to weeks. No acute neurosurgical input needed.
+**Immediately.** Contact neurosurgery/neurovascular. Arrange urgent CTA to identify the aneurysm. If acute hydrocephalus and reduced consciousness, an external ventricular drain may be needed urgently. Start nimodipine.
 
 ---
 
-### Hyponatraemia and hypernatraemia
+## Perimesencephalic Non-Aneurysmal SAH
 
-**Hyponatraemia:**
-- Severe acute hyponatraemia → diffuse cerebral oedema on CT (as above); mild–moderate cases are CT-normal
-- The main CT concern arises *after treatment* if sodium is corrected too rapidly (>8–10 mmol/L per 24 hours) → osmotic demyelination (see below)
+### What to look for on CT
 
-**Hypernatraemia:**
-- Brain cell shrinkage → bridging vein tearing
-- CT may show widened sulci/ventricles (global volume loss), acute subdural or subarachnoid haemorrhage, particularly in infants and elderly patients
+Blood **limited to** the pre-pontine and interpeduncular cisterns, with minimal or no extension into the Sylvian fissures, interhemispheric fissure, or ventricles. Attenuation is similar to aSAH (60–70 HU) but volume is small. Blood clears quickly.
 
-**Action:** Slow, controlled sodium correction in both directions. If CT shows unexpected subdural haemorrhage in an elderly patient with hypernatraemia, the cause may be the sodium disorder rather than trauma.
+### Clinical relevance
+
+This is a benign pattern with low vasospasm risk and excellent prognosis. However, if blood extends into the Sylvian fissures or there is significant IVH, **treat as aSAH until CTA proves otherwise**. If the distribution is truly perimesencephalic and CTA is negative, many centres observe without invasive angiography — discuss with neurosurgery.
 
 ---
 
-### Osmotic demyelination syndrome (ODS)
+## Convexity Subarachnoid Haemorrhage (cSAH)
 
-**Context:** Classically follows overly rapid correction of chronic hyponatraemia, but can occur with other rapid osmolar shifts.
+### What to look for on CT
 
-**CT findings:**
-- **Symmetric central pontine hypoattenuation** (~20–25 HU vs normal ~30–35 HU)
-- Extrapontine involvement: symmetric low attenuation in caudate, putamen, thalami
-- **CT is often normal in the first 24–48 hours** — this is a critical pitfall
+Thin hyperdense blood (50–70 HU) within **cortical sulci over the convexity**, typically parasagittal or frontoparietal, sparing the basal cisterns. Often subtle — compare both sides and review on blood windows.
 
-**Key differentials:** Pontine infarction (usually asymmetric, vascular territory); pontine glioma (mass effect)
+### What it means
 
-**Action:** Prevention is everything — correct sodium slowly. If a patient deteriorates neurologically days after sodium correction, request urgent MRI even if CT is normal. There is no acute CT-specific intervention.
+cSAH has a different aetiology to aSAH. Key causes to consider:
 
----
+- **Cerebral amyloid angiopathy (CAA):** elderly patient, look for lobar haemorrhages; MRI will show microbleeds/superficial siderosis
+- **RCVS:** postpartum or vasoactive drug trigger; may also show ICH or PRES changes; CTA may show multifocal arterial "beading"
+- **CVST:** look for adjacent cortical oedema/haemorrhage and a dense venous sinus
+- **PRES:** posterior-predominant low attenuation; may coexist with cSAH
 
-### Hepatic encephalopathy and hyperammonaemia
+### Action
 
-**CT findings:**
-- **Acute liver failure/hyperammonaemic crisis:** diffuse cerebral oedema, potentially with pseudo-subarachnoid sign in severe cases — this is a neurocritical emergency
-- **Chronic hepatic encephalopathy:** CT usually normal or shows cerebral atrophy; basal ganglia manganese changes visible on MRI T1 sequences, not on CT
-
-**Action:** Urgent ammonia reduction (lactulose, rifaximin), treat the precipitant, neurocritical care for ICP monitoring. In immunocompromised cirrhotics, always consider co-existing infection. Escalate to liver team for transplant assessment where appropriate.
+cSAH drives targeted vascular imaging — CTA/CTV or MRA/MRV depending on the suspected cause.
 
 ---
 
-### Uraemic encephalopathy and dialysis disequilibrium
+## Intracerebral Haemorrhage (ICH)
 
-**CT findings:** Usually normal. Severe cases may show diffuse cerebral oedema.
+### What to look for on CT
 
-**Key consideration:** Always think of PRES in patients with renal failure, especially if hypertensive or on calcineurin inhibitors — look for parieto-occipital subcortical low attenuation.
+Acute haematoma: **hyperdense core (60–80 HU)**, often with a heterogeneous "swirl" of lower attenuation indicating active bleeding. A **hypodense rim** (18–25 HU) representing perihaematomal oedema develops over hours. Assess for mass effect, midline shift, herniation, and IVH.
 
----
+### Location guides the cause
 
-### Wernicke encephalopathy (thiamine deficiency)
-
-**CT findings:**
-- **Usually normal** — this is one of the most important normal CT diagnoses
-- Occasionally: symmetric low attenuation in medial thalami and periaqueductal region; rare punctate hyperdensities in mammillary bodies (small haemorrhages)
-
-**Key differentials:** Bithalamic infarcts (artery of Percheron territory); deep cerebral venous thrombosis (haemorrhagic thalamic lesions, look for dense straight sinus); viral encephalitis
-
-**Action:** Give **IV thiamine before IV glucose** in any patient with altered consciousness and suspected nutritional deficiency, alcohol dependence, or prolonged vomiting. Do not delay for imaging. A normal CT does not exclude Wernicke's — MRI is far more sensitive.
-
----
-
-## Specific Toxic Entities
-
-### Carbon monoxide (CO) poisoning
-
-**CT hallmark:**
-- **Symmetric hypoattenuation of the globus pallidus** (~20–25 HU vs normal ~35–40 HU)
-- Severe exposure may cause diffuse cerebral oedema
-- Delayed leukoencephalopathy (days to weeks later) is better seen on MRI
-
-**Key differential:** Cyanide (similar pattern but typically more cortical involvement and profound lactic acidosis)
-
-**Action:** 100% high-flow oxygen immediately; consider hyperbaric oxygen in selected cases (severe toxicity, pregnancy, neurological features); cardiac monitoring essential.
-
----
-
-### Methanol poisoning
-
-**CT hallmark:**
-- **Bilateral putaminal hypoattenuation, often with haemorrhagic components** (mixed densities 30–80 HU) — this combination of low attenuation *with* haemorrhagic flecks in the putamen is characteristic
-- May also involve caudate and subcortical white matter
-- Optic nerve sheath swelling may be visible
-
-**Evolution:** Early low attenuation may be subtle; haemorrhagic necrosis typically develops over 1–3 days.
-
-**Key differential:** CO poisoning preferentially affects the globus pallidus, not the putamen.
-
-**Action:** Fomepizole (or ethanol where fomepizole unavailable), sodium bicarbonate, urgent haemodialysis, folinic acid. Bilateral putaminal changes on CT strongly support this diagnosis — escalate toxicology and renal input immediately.
-
----
-
-### Ethylene glycol
-
-**CT findings:**
-- Low attenuation in basal ganglia and thalami; cerebellar involvement possible
-- Non-specific on CT; clinical context and metabolic acidosis with high osmolar gap are key
-
-**Action:** Fomepizole, bicarbonate, haemodialysis.
-
----
-
-### Cyanide
-
-**CT findings:**
-- Bilateral globus pallidus and cortical hypoattenuation; rapid diffuse oedema in severe cases
-
-**Key differential:** CO (globus pallidus pattern is similar — clinical context, carboxyhaemoglobin level, and lactic acidosis distinguish them)
-
-**Action:** Hydroxocobalamin (first-line in the UK); or nitrite–thiosulphate. This is a resuscitation-level emergency.
-
----
-
-### Toxic leukoencephalopathy (drugs and chemotherapy)
-
-**Causes:** Methotrexate, 5-fluorouracil, ciclosporin, inhalational heroin ("chasing the dragon"), environmental toxins
-
-**CT findings:**
-- Symmetric low attenuation in periventricular and subcortical white matter
-- Cerebellar white matter and posterior limb of internal capsule may be involved (particularly with inhalational heroin)
-- **Often subtle or normal on CT — MRI is required** if clinical suspicion is high
-
----
-
-### PRES (posterior reversible encephalopathy syndrome)
-
-**Triggers:** Acute hypertension, eclampsia, renal failure, calcineurin inhibitors (ciclosporin, tacrolimus), cytotoxic chemotherapy, sepsis
-
-**CT findings:**
-- **Bilateral parieto-occipital subcortical white matter low attenuation** — this is the hallmark
-- May extend to frontal lobes, cerebellum, brainstem
-- Haemorrhage (punctate or larger) may be present
-
-**Key differentials:**
-- Diffuse anoxic injury — more cortical and deep grey involvement
-- Posterior circulation infarction — wedge-shaped, involving cortex, with vascular occlusion signs
-
-**Action:** Urgent blood pressure control; remove or adjust the causative drug; seizure management. PRES is largely reversible with prompt treatment.
-
----
-
-## Evolution Over Time on CT
-
-| Timeframe | Expected changes |
+| Location | Likely cause |
 |---|---|
-| 0–6 hours | Subtle grey–white loss at insula and lentiform nuclei; PRES may be faint or invisible |
-| 6–48 hours | Generalised hypodensity more apparent; toxin-specific basal ganglia changes emerge; haemorrhagic necrosis (methanol) may appear |
-| 2–7 days | ODS hypoattenuation in pons becomes visible; mass effect peaks in diffuse oedema |
-| >2 weeks | Atrophy, ex vacuo ventricular dilatation; putaminal hyperdensity resolves in hyperglycaemic chorea; dystrophic calcification from cortical necrosis appears months later |
+| Putamen, thalamus, pons, cerebellum | Hypertensive ICH |
+| Lobar, subcortical, abutting cortex (elderly) | Cerebral amyloid angiopathy |
+| Lobar (younger patient) | AVM, cavernoma, tumour, coagulopathy, RCVS |
+
+**Cerebellar haemorrhage deserves special attention** — deterioration can be rapid and surgical intervention is often needed.
+
+### Pitfalls
+
+- **Calcification vs haemorrhage:** both appear bright, but calcification is usually >100 HU; check morphology and any prior imaging
+- **Anticoagulated patients** may have near-isodense acute blood — rely on mass effect and morphology rather than density alone
+- **Haemorrhagic tumour:** suspect if there is disproportionate oedema, irregular margins, or an atypical location; arrange contrast-enhanced CT or MRI after the acute phase
+
+### When to escalate
+
+**Urgent neurosurgical opinion** for cerebellar haemorrhage >3 cm, any haemorrhage with hydrocephalus or brainstem compression, or lobar haemorrhage with clinical deterioration. Manage blood pressure; reverse anticoagulation.
 
 ---
 
-## Key Differential Diagnoses by Pattern
+## Subdural and Extradural (Epidural) Haematomas
 
-### Bilateral basal ganglia abnormalities
+### Subdural haematoma (SDH)
 
-| Finding | Think of |
-|---|---|
-| Globus pallidus low attenuation | CO, cyanide, severe hypoxia |
-| Putaminal low attenuation ± haemorrhage | Methanol; atypical hypoxia |
-| Unilateral striatal hyperdensity, no oedema (~40–50 HU) | Non-ketotic hyperglycaemic chorea |
-| Basal ganglia haemorrhage with oedema (~60–80 HU) | Hypertensive bleed |
-| Symmetric pontine low attenuation | ODS |
+**Shape:** crescentic, follows the brain surface, crosses sutures, does not cross dural reflections (falx, tentorium).
 
-### Diffuse cortical/subcortical low attenuation
-Hypoglycaemia, HIE, status epilepticus/post-ictal state, toxic encephalopathy (cyanide), encephalitis (look for regional predilection and fever)
+**Attenuation by age:**
+- Acute: 60–80 HU (bright)
+- Subacute: mixed density, may show sedimentation levels
+- Chronic: 10–20 HU (near-CSF, dark); membranes may appear as iso- or hyperdense rims
 
-### Parieto-occipital subcortical low attenuation
-PRES (bilateral, subcortical); posterior circulation infarction (wedge-shaped, cortical involvement, check for vessel occlusion)
+Mass effect out of proportion to collection thickness suggests chronic SDH on an atrophic brain.
 
----
+### Extradural haematoma (EDH)
 
-## Imaging Pitfalls and Common Misses
+**Shape:** biconvex/lentiform, limited by suture lines. Usually bright (60–80 HU); look for an overlying skull fracture and scalp haematoma. This is typically arterial (middle meningeal artery) and can expand rapidly.
 
-### Pseudo-subarachnoid sign vs true SAH
-This is a critical distinction:
+### Pitfalls
 
-| Feature | Pseudo-SAH | True SAH |
-|---|---|---|
-| Attenuation | ~30–45 HU | ~60–70 HU |
-| Intraventricular blood | Absent | Often present |
-| Sulcal layering | Absent | Present |
-| Brain appearance | Diffusely swollen, hypodense | Usually normal parenchyma |
+- Acute SDH can be iso- or hypodense in severe anaemia — look for effacement of sulci and midline shift
+- Thin tentorial or falcine SDH missed without coronal/sagittal reformats
+- Hyperacute EDH before clot forms may be near-isodense — clinical context is key
 
-If in doubt, measure HU in the cisterns and compare with white matter. If the brain is clearly oedematous and cistern density is only mildly elevated, favour pseudo-SAH. Escalate if uncertain.
+### When to escalate
 
-### Mistaking hyperglycaemic chorea for haemorrhage
-The putaminal hyperdensity in hyperglycaemia reads at 40–50 HU — lower than acute blood (60–80 HU). Crucially, there is **no surrounding oedema and no mass effect**. Correlate with glucose and osmolality.
-
-### Missing subtle early grey–white loss
-Actively scrutinise the **insular ribbon** and **lentiform nucleus outline** on every scan with altered consciousness. Use narrow windowing and, if available, measure HU with an ROI in grey and adjacent white matter. Do not rely on gestalt alone.
-
-### Beam-hardening artefact in the posterior fossa
-Streak artefacts at the skull base can mimic low attenuation in the cerebellum and brainstem. Correlate across imaging planes.
-
-### Physiological basal ganglia calcification
-Normal calcification reads >100 HU with sharp margins. Do not confuse with the lower-density, haemorrhage-like appearance of hyperglycaemic chorea or the low attenuation of toxic injury.
-
-### ODS — do not rely on a normal CT
-CT is commonly normal in the first 24–48 hours of ODS. If a patient deteriorates neurologically after sodium correction, request **urgent MRI** regardless of CT findings.
+Acute SDH or EDH with mass effect or herniation is a **neurosurgical emergency**. Reverse coagulopathy urgently.
 
 ---
 
-## Clinical and Management Correlations
+## Cerebral Venous Sinus Thrombosis (CVST)
 
-| Diagnosis | Time-critical action |
-|---|---|
-| Hypoglycaemia | IV dextrose immediately — do not wait for
+### What to look for on CT
+
+**Direct signs on NCCT:**
+- **Hyperdense sinus sign:** a dural sinus (commonly superior sagittal or transverse) appearing brighter than adjacent vessels (~60–70 HU vs ~40–50 HU for a normal sinus). Compare sides and compare with MCA density.
+- **Cord sign:** a hyperdense cortical vein
+
+**Indirect/parenchymal signs:**
+- Cortical or subcortical low attenuation (venous oedema) ± haemorrhagic transformation
+- Haemorrhagic lesions that do **not** respect arterial territories — a key clue
+- Parasagittal distribution is characteristic of superior sagittal sinus thrombosis
+
+### Pitfalls
+
+- Dehydration or polycythaemia can cause dense-appearing sinuses without thrombosis — compare carefully and confirm with CTV or MRV if unsure
+- Posterior fossa sinuses (sigmoid, transverse) are particularly susceptible to beam hardening artefact
+- Residual contrast from prior imaging can mimic hyperdense thrombus
+
+### When to escalate
+
+Confirm with **CT venography or MR venography**. If confirmed, start anticoagulation — this applies even in the setting of haemorrhagic venous infarction unless there is a specific contraindication. Investigate for precipitants (postpartum state, oral contraceptive pill, thrombophilia, intracranial infection).
+
+---
+
+## Pituitary Apoplexy
+
+### What to look for on CT
+
+Enlarged pituitary/sellar mass with **high-attenuation components (50–90 HU)** indicating acute haemorrhage. May show:
+- Fluid–fluid levels within the sella
+- Suprasellar extension towards the optic chiasm
+- Sphenoid sinus fluid (blood-stained CSF) — a useful supporting sign
+- Blood in the suprasellar cistern
+
+A non-haemorrhagic macroadenoma will measure ~30–45 HU and appear as a soft-tissue density expansion without the bright signal.
+
+### When to escalate
+
+This is an **endocrine emergency**. Give **IV hydrocortisone** immediately for possible adrenal insufficiency. Urgent neurosurgical review if there is visual deterioration or ophthalmoplegia. Arrange **urgent MRI** to define chiasmal compression.
+
+---
+
+## Colloid Cyst with Acute Obstructive Hydrocephalus
+
+### What to look for on CT
+
+A round, well-defined lesion at the **anterosuperior third ventricle near the foramen of Monro**. It is often hyperdense (50–80 HU) due to proteinaceous content, though it can be isodense or hypodense. The critical associated finding is **acute obstructive hydrocephalus** — enlarged lateral ventricles (often asymmetric) with periventricular transependymal oedema.
+
+### When to escalate
+
+**Neurosurgical emergency** if the patient is deteriorating. Endoscopic removal is definitive.
+
+---
+
+## Posterior Reversible Encephalopathy Syndrome (PRES)
+
+### What to look for on CT
+
+**Bilateral, roughly symmetric low attenuation (18–25 HU)** in the parieto-occipital subcortical white matter. May extend to involve cortex, cerebellum, brainstem, or anterior circulation. Small haemorrhages or convexity SAH may be present.
+
+The CT can appear relatively subtle — **MRI is more sensitive** and is the investigation of choice if PRES is suspected clinically.
+
+### Context
+
+Think PRES in: severe hypertension, eclampsia, patients on calcineurin inhibitors or cytotoxic agents, or sepsis.
+
+### Differentials
+
+- **Bilateral PCA infarction:** tends to involve the calcarine cortex, more wedge-shaped, cytotoxic pattern
+- **Hypoglycaemic/hypoxic injury:** different distribution, deep grey matter involvement
+
+### Management
+
+Treat blood pressure, remove or adjust causative agents. In eclampsia: obstetric emergency — magnesium sulphate, BP control.
+
+---
+
+## Reversible Cerebral Vasoconstriction Syndrome (RCVS)
+
+### What to look for on CT
+
+**NCCT is often normal initially.** Possible findings include:
+- Convexity SAH (thin sulcal blood)
+- Lobar ICH
+- PRES-like posterior low attenuation
+
+**CTA** may show multifocal segmental arterial narrowing ("string of beads"), but early CTA can also be normal — repeat imaging may be required if suspicion persists.
+
+### Clinical context
+
+Recurrent thunderclap headaches in a postpartum woman or someone using vasoactive substances (e.g., triptans, SSRIs, cannabis, sympathomimetics). Exclude aSAH, CVST, and vasculitis.
+
+### Management
+
+Avoid vasoconstrictors; control blood pressure; calcium-channel blockers (nimodipine) are commonly used.
+
+---
+
+## Spontaneous Intracranial Hypotension (SIH)
+
+### What to look for on CT
+
+- **Bilateral thin subdural hygromas or haematomas** (attenuation ranging from near-CSF at ~0–15 HU if simple hygroma, to higher if haemorrhagic)
+- Slit-like ventricles
+- Prominent/engorged venous sinuses
+
+Brain sag and pachymeningeal enhancement are better seen on MRI, which is the definitive investigation.
+
+### Clinical clue
+
+The headache is **orthostatic** — worse on standing, better when lying flat. This history should prompt consideration of SIH even with a "near-normal" CT.
+
+### Management
+
+Epidural blood patch is first-line. Neurosurgical review if subdural haematomas are large or symptomatic.
+
+---
+
+## Sinonasal Disease with Intracranial Complications
+
+### What to look for on CT
+
+- Severe opacification of the frontal or ethmoid sinuses ± air–fluid levels
+- **Bony erosion of the inner table** suggests intracranial spread
+- **Subdural empyema:** crescentic extra-axial collection (10–20 HU, hypodense to brain), mass effect, ± gas — contrast-enhanced CT improves detection
+- **Cavernous sinus thrombosis:** asymmetric enlargement of the cavernous sinus, proptosis, dilated superior ophthalmic vein — seen better with contrast
+
+### When to escalate
+
+**Neurosurgical and ENT emergency.** Urgent IV antibiotics; surgical drainage of empyema and sinus; anticoagulation considered for cavernous sinus thrombosis.
+
+---
+
+## Additional entities to remember
+
+- **Cervical artery dissection:** acute neck or posterior head pain; NCCT often normal; look for associated infarct. Request **CTA of the neck** if suspected.
+- **Hypertensive emergency:** always measure the blood pressure; may manifest as PRES or ICH.
+- **Primary headache disorders (migraine, cluster headache):** NCCT is normal — do not over-interpret incidental findings.
+
+---
+
+## Common pitfalls and how to avoid them
+
+| Pitfall

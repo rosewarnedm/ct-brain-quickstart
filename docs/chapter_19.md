@@ -1,212 +1,208 @@
 ---
 layout: default
-title: "Chapter 19: Herniation Syndromes"
+title: "Chapter 19: Cerebral Oedema"
 nav_order: 19
 ---
 
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 19: Herniation Syndromes
-
-Intracranial herniation is a life-threatening, time-critical diagnosis. Your job on CT is to spot it early, identify the cause, recognise complications, and escalate without delay. The key principle throughout: **basal cisterns, midline, and ventricles tell the story**.
+# Chapter 18: Cerebral Oedema
 
 ---
 
-## Systematic CT Approach in Suspected Herniation
+## Definitions and classification
 
-Before diving into individual herniation types, use this checklist on every scan where herniation is possible:
+Cerebral oedema is excess water within the brain parenchyma. There are four patterns worth knowing, because mechanism predicts appearance on CT:
 
-1. **Cause of mass effect** — haemorrhage (60–80 HU), infarct with oedema, tumour, abscess, hydrocephalus
-2. **Midline shift (MLS)** — measure at the septum pellucidum; note pineal/third ventricle shift separately
-3. **Basal cisterns** — suprasellar, ambient, interpeduncular, quadrigeminal; look for effacement or asymmetry
-4. **Uncus and tentorial incisura** — medial temporal lobe displacement
-5. **Cingulate gyrus** — displacement under the falx
-6. **Posterior fossa and foramen magnum** — tonsillar descent, cisterna magna crowding
-7. **Ventricles** — compression, trapping, or obstructive hydrocephalus
-8. **Secondary complications** — territorial infarcts (PCA, ACA), brainstem haemorrhages (Duret), new hydrocephalus
-9. **Devices and skull defects** — craniectomy, EVD, shunt; risk of paradoxical herniation
+- **Vasogenic**: blood–brain barrier (BBB) breakdown lets fluid leak into the extracellular space, predominantly in white matter. Typical causes: tumour, abscess, PRES.
+- **Cytotoxic**: cell swelling from energy failure (ischaemia, hypoxia). Affects both grey and white matter. Typical cause: acute arterial infarction.
+- **Interstitial (hydrocephalic)**: raised intraventricular pressure forces CSF across the ependyma into periventricular white matter. Cause: hydrocephalus.
+- **Osmotic**: rapid plasma osmolality shifts drive water into the brain. Cause: severe acute hyponatraemia.
 
-**Window settings:** Brain window (W80/L40) for parenchyma and cisterns. Always obtain sagittal and coronal reformats — the foramen magnum and tentorial incisura are easily missed on axials alone. Use thin-section reconstructions; thick slices miss subtle cisternal obliteration and small brainstem haemorrhages.
-
-**Useful numbers:**
-- Acute blood: 60–80 HU
-- Grey matter: 35–45 HU; white matter: 20–30 HU
-- Oedema: high 20s HU, with loss of grey–white differentiation
-- CSF: 0–15 HU — obliteration is a qualitative, not numeric, call
+Mixed patterns are common in practice.
 
 ---
 
-## Types of Herniation: Imaging, Mechanism, and Complications
+## CT fundamentals: what to measure
 
-### 1) Subfalcine (Cingulate) Herniation
+On CT, oedema appears as **hypodensity** (low Hounsfield units, HU) combined with **mass effect**. Key reference values:
 
-**What is happening:** A unilateral hemispheric mass pushes the cingulate gyrus under the falx towards the opposite side.
+| Tissue | Approximate HU |
+|---|---|
+| Normal white matter | 20–30 |
+| Normal grey matter | 35–45 |
+| CSF | 0–15 |
+| Acute blood | 60–80 |
 
-**What to look for on CT:**
-- MLS at the septum pellucidum — mild 3–5 mm, moderate 6–10 mm, severe >10 mm
-- Ipsilateral frontal horn compressed; contralateral ventricle may be disproportionately enlarged (trapping)
-- Cingulate gyrus abutting or crossing under the falx; pericallosal sulci crowded
+Oedematous white matter typically falls to **10–25 HU**. Early cytotoxic change may reduce cortical attenuation by only **2–6 HU** — subtle but significant.
 
-**Key complication:** Compression of the pericallosal arteries → ACA territory infarct. Look for evolving parasagittal frontal hypodensity (~20–30 HU) on delayed scans.
-
-**Clinical significance:** Risk of bilateral leg weakness and abulia. Escalate early — don't wait for leg weakness to develop.
-
-**Pitfalls:**
-- Do not rely on MLS alone. Small MLS with cisternal effacement can still represent impending herniation.
-- Unilateral cerebral atrophy causes chronic MLS without the sulcal effacement and cisternal crowding you expect with a mass.
+**Windowing tip**: always review with a narrow "stroke" window (centre ~30–35 HU, width ~30–50 HU) in addition to standard brain windows (80/40). Always compare to the contralateral side.
 
 ---
 
-### 2) Uncal (Descending Transtentorial) Herniation
+## General CT signs of cerebral oedema
 
-**What is happening:** A temporal lobe mass pushes the uncus medially and inferiorly over the tentorial edge, compressing the ipsilateral midbrain, the third cranial nerve, and the posterior cerebral artery (PCA).
-
-**What to look for on CT:**
-- **Effacement of the ipsilateral ambient cistern** — this is the earliest and most reliable sign; asymmetry alone is enough to act on
-- Suprasellar and interpeduncular cisterns become slit-like
-- Medial uncal bulge toward the midbrain; ipsilateral temporal horn may dilate
-- Progressive midbrain compression and loss of quadrigeminal cistern contour
-- Hyperdense PCA sign occasionally visible acutely; wedge-shaped medial occipital hypodensity (PCA infarct) on later scans
-
-**Key complication:** Ipsilateral PCA infarct (medial occipital low attenuation, usually sparing the lateral convexity). Kernohan's notch — contralateral peduncle compressed by the tentorial edge — may cause ipsilateral hemiparesis (false localising sign, more reliably seen on MRI).
-
-**Clinical significance:** Correlate immediately with pupillary examination. A unilateral fixed dilated pupil with ipsilateral mass effect = uncal herniation until proven otherwise. Immediate neurosurgical escalation, reverse any coagulopathy, consider osmotherapy. This is a surgical emergency.
-
-**Pitfalls:**
-- Failing to inspect the ambient cisterns on every trauma or headache CT is the commonest miss in this diagnosis.
-- Beam hardening near the skull base can mimic cisternal loss — confirm on thin-section axial and coronal reformats.
+- **Hypodensity** of parenchyma relative to normal tissue
+- **Loss of grey–white differentiation**
+- **Sulcal effacement** (gyri appear compressed or absent)
+- **Ventricular compression**
+- **Midline shift** — measure at the septum pellucidum; ≥5 mm is clinically significant
+- **Basal cistern effacement** — indicates impending or active herniation; escalate immediately
 
 ---
 
-### 3) Central (Descending) Transtentorial Herniation
+## Imaging patterns by mechanism
 
-**What is happening:** Diffuse cerebral swelling or a central mass forces the diencephalon and midbrain downward through the tentorial incisura. Stretching of perforating brainstem vessels causes Duret haemorrhages.
+### Vasogenic oedema
 
-**What to look for on CT:**
-- **Symmetric, diffuse effacement of all basal cisterns** — suprasellar, perimesencephalic, and quadrigeminal (the "cisternless brain")
-- Slit-like lateral and third ventricles; fourth ventricle also narrows
-- Global sulcal effacement with poor grey–white differentiation (grey approaching mid-30s HU, white approaching high-20s HU)
-- **Duret haemorrhages:** linear or oval acute haemorrhages (60–80 HU) in the midline or paramedian midbrain and pons — a gravely sinister finding
+**Appearance**: finger-like or confluent hypodensity in the **white matter**, with relative sparing of the cortex (at least early). HU typically 10–25. Margins are feathery, following white matter tracts. Often marked mass effect.
 
-**Clinical significance:** Duret haemorrhages indicate severe, often irreversible brainstem injury. Prognosis is extremely poor once they appear. Management shifts to aggressive ICP control and treating the precipitating cause; avoid anything that further raises ICP (agitation, hypercapnia, hypotension).
+**Key point**: the oedema itself does not enhance — any enhancement is from the causative lesion (tumour capsule, abscess wall). Oedema does not respect vascular territories.
 
-**Key differential:** Intracranial hypotension can mimic central herniation — look for diffuse dural venous engorgement, subdural hygromas (0–15 HU), slit ventricles, and a history of lumbar puncture, shunt, or spontaneous CSF leak. Severe hypoxic–ischaemic injury also causes diffuse oedema and cisternal effacement — clinical context is decisive.
+**Common causes and clues**:
+- *Tumour/metastasis*: focal or multifocal, oedema radiates from a mass
+- *Abscess*: ring-enhancing lesion on contrast CT; surrounding vasogenic oedema; MRI (diffusion) confirms if available
+- *PRES*: bilateral, posterior-predominant (parieto-occipital) subcortical hypodensity; triggers include severe hypertension, eclampsia, calcineurin inhibitors, renal failure
 
-**Pitfalls:** Small brainstem haemorrhages are easily missed on thick slices. If a patient is deteriorating, review the brainstem carefully on thin soft-tissue reconstructions. New haemorrhages not present on a prior scan = Duret haemorrhages until proven otherwise.
+### Cytotoxic oedema
 
----
+**Appearance**: loss of grey–white differentiation involving **both cortex and deep grey nuclei**. Distribution follows an **arterial territory**. Sulcal effacement and cortical swelling are prominent. Early changes may be very subtle (2–6 HU).
 
-### 4) Upward (Ascending) Transtentorial Herniation
+**Specific signs in acute ischaemic stroke (AIS)**:
+- *Insular ribbon sign*: loss of definition of the insular cortex (MCA territory)
+- *Lentiform nucleus obscuration*: basal ganglia become indistinct
+- *Hyperdense artery sign*: acute thrombus in MCA or basilar (~55–70 HU) — not oedema itself, but a key supporting finding
 
-**What is happening:** A posterior fossa mass (cerebellar haemorrhage, infarct, tumour, abscess) forces the superior vermis and cerebellar hemispheres upward through the tentorial incisura, compressing the midbrain from below. This can be precipitated or worsened by supratentorial CSF diversion (e.g., a VP shunt) in the presence of an unaddressed posterior fossa mass.
+**Global hypoxic–ischaemic brain injury (HIBI)**: diffuse loss of grey–white differentiation throughout the brain. Watch for the **pseudo-SAH sign** — apparent sulcal hyperattenuation (~30–45 HU) due to venous engorgement and compressed CSF against swollen brain. Do not mistake this for true SAH (which measures ~60–70 HU and coats basal cisterns uniformly).
 
-**What to look for on CT:**
-- Loss of normal quadrigeminal plate CSF space; superior vermis/culmen abutting the tentorium
-- Superior indentation of the tectum; potential aqueductal obstruction
-- **Dilated lateral and third ventricles out of proportion to a compressed or effaced fourth ventricle** — this pattern is the key diagnostic clue
-- Compressed cisterna magna and prepontine cistern; mass or haemorrhage in the cerebellum or brainstem
+### Interstitial (hydrocephalic) oedema
 
-**Clinical significance:** Do not drain supratentorial CSF alone — this can precipitate or worsen upward herniation. The posterior fossa pathology must be addressed urgently (suboccipital decompression, with an EVD placed simultaneously if needed).
+**Appearance**: ill-defined periventricular low attenuation "caps" or bands (typically 10–20 HU), most prominent around the frontal and occipital horns. Accompanied by **ventriculomegaly** and bowing of the corpus callosum.
 
-**Pitfalls:** Quadrigeminal cistern effacement can be subtle on axials. Use sagittal reformats to inspect the tentorial incisura and the aqueduct — a key habit in any posterior fossa pathology.
+**Key point**: if you see periventricular low attenuation, always look for enlarged ventricles and temporal horn dilatation. This combination means raised intraventricular pressure — escalate urgently if the patient is deteriorating.
 
----
+### Osmotic oedema
 
-### 5) Tonsillar (Foramen Magnum) Herniation
-
-**What is happening:** The cerebellar tonsils descend through the foramen magnum, compressing the medulla and upper cervical cord. This can result from a posterior fossa mass, diffuse cerebral oedema, or inappropriate CSF removal in the setting of raised ICP.
-
-**What to look for on CT:**
-- **Obliteration of the cisterna magna**
-- On sagittal reformats: tonsils appear peg-like, projecting below the opisthion–basion line
-- Effacement of the premedullary and upper cervical CSF spaces
-- Associated posterior fossa mass or global oedema with supratentorial cisternal effacement
-
-**Clinical significance:** Any new tonsillar descent with cisternal obliteration in an acutely unwell patient is significant regardless of millimetric measurement — the "5 mm rule" from MRI is for chronic Chiari I assessment and does not apply here. **Lumbar puncture is absolutely contraindicated** if posterior fossa crowding is present. Secure the airway and escalate immediately to neurosurgery.
-
-**Key differential:** Chiari I malformation is chronic and typically symmetric, with preserved CSF scalloping around the tonsils and no acute mass effect. Intracranial hypotension may also show tonsillar descent but with characteristic subdural collections and dural changes on MRI.
-
-**Pitfalls:** Partial volume averaging at the craniocervical junction and dental or motion artefact can obscure the foramen magnum. Reconstruct thin sagittal images and re-review if in any doubt.
+CT is often normal or shows only subtle diffuse hypodensity with mild sulcal effacement. Posterior predominance can mimic PRES. Mainly a clinical diagnosis; CT is used to exclude other causes.
 
 ---
 
-### 6) External (Transcalvarial) and Paradoxical Herniation
+## Aetiology-based patterns on acute CT
 
-**What is happening:**
-- *External herniation:* Swollen brain extrudes through a skull defect (traumatic or post-craniectomy), driven by raised ICP.
-- *Paradoxical herniation:* In patients who have had a decompressive craniectomy, excessive CSF removal or atmospheric pressure acting over the defect draws the brain outward, producing midline shift *towards* the defect and central herniation physiology — paradoxically, despite low or normal ICP.
+### Acute ischaemic stroke (AIS)
 
-**What to look for on CT:**
-- *External:* Brain tissue extruding through a calvarial defect; stretched overlying scalp; persistent basal cistern effacement if global ICP remains high
-- *Paradoxical ("sinking skin flap"):* Inwardly concave scalp over the defect; MLS towards the defect (not away from it); slit ventricles; cisternal effacement; possible subdural hygromas (0–15 HU)
+| Time | CT appearance |
+|---|---|
+| Minutes–hours | Subtle hypodensity (2–6 HU drop); insular ribbon sign; lentiform obscuration; hyperdense artery |
+| 6–24 h | Clearer hypodensity in vascular territory; sulcal effacement |
+| 3–5 days | **Peak swelling and mass effect** — highest herniation risk |
+| ~2 weeks | **Fogging**: infarct may appear near-isodense as inflammation and protein transiently raise attenuation; do not underestimate infarct extent |
+| >3 weeks | Encephalomalacia — CSF-density with ex vacuo ventricular dilatation |
 
-**Clinical significance:**
-- *External:* Continue ICP-directed care; consider further decompression.
-- *Paradoxical:* Urgent positioning (supine or Trendelenburg), clamp EVD or shunt, give IV fluids. Definitive treatment is cranioplasty.
+**When to escalate**: >1/3 MCA territory hypodensity early on predicts malignant oedema and haemorrhagic transformation risk. Midline shift ≥5 mm with basal cistern effacement requires immediate senior/neurosurgical review. Decompressive hemicraniectomy may be considered within 48 hours in eligible patients.
 
-**Pitfalls:**
-- Do not assume a decompressive craniectomy has eliminated the risk of herniation.
-- MLS *towards* the craniectomy defect — rather than away from it — should immediately prompt consideration of paradoxical herniation.
+### Cerebral venous thrombosis (CVT)
 
----
+**CT appearance**: cortical and subcortical hypodensity **not conforming to any arterial territory**, commonly with haemorrhagic components (mixed hypo- and hyperdensity). The **cord sign** (hyperdense cortical vein) or **dense sinus** on non-contrast CT supports the diagnosis. Request **CT venography** whenever the distribution is atypical or CVT is suspected.
 
-## Secondary Vascular and Parenchymal Complications
+**Escalate**: anticoagulate even if haemorrhagic venous infarction is present — this is different from arterial haemorrhagic transformation.
 
-Always actively look for these on every herniation scan:
+### PRES
 
-| Complication | Location | CT appearance |
-|---|---|---|
-| PCA infarct (uncal herniation) | Medial occipital lobe | Wedge-shaped hypodensity, spares lateral convexity |
-| ACA infarct (subfalcine herniation) | Parasagittal frontal lobes | Hypodensity in the paramedian frontoparietal cortex |
-| Duret haemorrhages (central herniation) | Midline/paramedian midbrain and pons | Acute hyperdense foci 60–80 HU; may expand |
-| Obstructive hydrocephalus (upward herniation) | Lateral and third ventricles | Dilatation with compressed fourth ventricle |
-| Temporal pole/hippocampal contusions | Tentorial margin | Heterogeneous hyperdensity adjacent to tentorium |
+Bilateral posterior-predominant subcortical white matter hypodensity. May extend to cerebellum, brainstem, or frontal lobes. Haemorrhage occurs in a minority.
 
----
+**Action**: urgent blood pressure control (avoid precipitous drops), seizure management, remove offending drug if applicable. Expect reversibility with prompt treatment.
 
-## Evolution Over Time on CT
+### Traumatic brain injury (TBI)
 
-- **Minutes to hours:** Cisternal effacement and MLS develop or worsen; acute haemorrhage remains hyperattenuating (60–80 HU)
-- **Hours:** Duret haemorrhages may emerge; early ischaemic changes appear (subtle hypodensity, loss of grey–white definition)
-- **12–48 hours:** Established territorial infarcts reach 20–30 HU; oedema peaks around 3–5 days
-- **Post-decompression:** Look for partial cisternal re-expansion, but reassess carefully for residual shift and evolving infarcts or haemorrhage
+- **Contusional oedema**: hypodense areas adjacent to hyperdense haemorrhagic contusions, typically at cortical surfaces and grey–white junctions. Swelling progresses over 24–72 hours — repeat CT is essential.
+- **Diffuse cerebral oedema**: global hypodensity and effacement after severe head injury or secondary hypoxia.
 
----
+Watch for herniation patterns:
+- *Subfalcine*: midline shift; ipsilateral lateral ventricle compressed
+- *Uncal*: effaced ipsilateral ambient/crural cistern; brainstem compression
+- *Tonsillar*: crowded foramen magnum
 
-## Imaging Pitfalls and Common Misses
+Any of these require immediate neurosurgical involvement.
 
-- **Ignoring the basal cisterns** — the single most important early sign; always document patency and symmetry
-- **Over-relying on midline shift** — severe herniation can occur with minimal MLS (posterior fossa masses, diffuse oedema)
-- **Thick slices** — miss subtle cisternal crowding, foramen magnum compromise, and small brainstem haemorrhages; always use thin reconstructions with multiplanar review
-- **Beam hardening at the skull base** — can simulate cisternal loss; cross-check on adjacent levels and alternative planes
-- **Chronic tonsillar ectopia mistaken for acute herniation** — compare with prior imaging and assess clinical acuity
-- **Missing paradoxical herniation in craniectomy patients** — MLS towards the defect after CSF drainage is the clue
-- **Off-axis head position** — can produce apparent midline asymmetry; use the falx and ventricular landmarks to orientate correctly
+### Hypoxic–ischaemic brain injury (HIBI)
 
----
+Diffuse loss of grey–white differentiation and sulcal/ventricular effacement. Look specifically for the **pseudo-SAH sign** (see above) and avoid misdiagnosis. Early CT may significantly underestimate the degree of injury.
 
-## What to Communicate to the Neurosurgeon and Intensivist
+### Encephalitis (e.g., HSV)
 
-Your report or verbal handover should include:
+Hypodensity in the medial temporal lobes, insula, and cingulate — often asymmetric, may have haemorrhagic foci. **CT can be entirely normal early**. If clinical suspicion exists, request urgent MRI and start empirical aciclovir without waiting for imaging confirmation.
 
-1. **Type and severity of herniation** — use clear language:
-   - *"Effacement of the right ambient and suprasellar cisterns with medial uncal displacement — right uncal herniation"*
-   - *"Diffuse cisternal effacement with slit ventricles — central transtentorial herniation"*
-   - *"Quadrigeminal cistern obliteration from below with fourth ventricular compression — upward transtentorial herniation"*
-   - *"Foramen magnum crowding with tonsillar descent and premedullary cistern effacement — tonsillar herniation"*
-2. **Midline shift in mm** at the septum pellucidum; note pineal or third ventricular shift separately if present
-3. **Ventricular status** — compressed, trapped, or hydrocephalus pattern
-4. **Cause of mass effect** — e.g., *"75 HU left fronto-temporal acute subdural haematoma, maximum thickness 18 mm, with associated contusions and oedema"*
-5. **Complications** — PCA or ACA infarcts, Duret haemorrhages, obstructive hydrocephalus
-6. **Devices and defects** — craniectomy site, EVD or shunt position, evidence of overdrainage or paradoxical herniation
-7. **Urgency statement** — *"Findings require immediate neurosurgical review; lumbar puncture contraindicated"*
+### Metabolic and toxic causes
+
+- *Hyponatraemia*: diffuse swelling with sulcal effacement; correct slowly — rapid correction risks osmotic demyelination (an MRI diagnosis, not a CT oedema finding)
+- *Hepatic failure, DKA*: diffuse hypodensity; CT may be normal
+- *DKA in children*: avoid aggressive fluid resuscitation which can worsen cerebral oedema; CT for any neurological decline
 
 ---
 
-## Practical Pearls
+## Key differentials and how to distinguish them
 
-- **The ambient cistern is the canary in the coal mine for uncal herniation** — loss on one side is enough to escalate
-- **In any posterior fossa pathology, review the quadrigeminal cistern, aqueduct, fourth ventricle, and foramen magnum on sagittal images** — axials alone are insufficient
-- **New midline or paramedian brainstem hyperdensities in a deteriorating patient = Duret haemorrhages until proven otherwise**
-- **CSF diversion in the presence of a posterior fossa mass risks upward herniation** — always consider what
+| Differential | Key distinguishing features |
+|---|---|
+| Acute vasogenic oedema vs chronic small vessel disease (leukoaraiosis) | Acute: mass effect, cortical compression, new focal deficit. Chronic: symmetric, no mass effect, U-fibres preserved, known on previous imaging |
+| AIS (cytotoxic) vs PRES (vasogenic) | AIS: arterial territory, cortex + deep nuclei, unilateral, hyperdense artery. PRES: bilateral, posterior, subcortical, non-territorial, relevant triggers |
+| Venous vs arterial infarction | Venous: non-territorial, haemorrhagic, hyperdense sinus/cord, consider CT venography. Arterial: territorial, hyperdense artery |
+| Tumoural oedema vs abscess vs subacute infarct | Tumour: mass + disproportionate oedema. Abscess: ring enhancement, restricted diffusion on MRI. Subacute infarct: wedge-shaped territory, fogging on follow-up |
+| Interstitial oedema vs chronic periventricular change | Interstitial: ventriculomegaly + clinical deterioration, improves with CSF diversion. Chronic: stable, well-defined, no ventriculomegaly |
+
+---
+
+## Pitfalls and common misses
+
+- **Poor windowing**: standard windows alone will miss subtle hypodensity. Always use a narrow stroke window and compare both hemispheres.
+- **Pseudo-SAH**: measure HU in the sulci/cisterns — pseudo-SAH is ~30–45 HU, true SAH is ~60–70 HU. Clinical context also helps.
+- **Fogging at ~2 weeks**: subacute infarcts may appear near-normal or even slightly dense. Correlate with clinical timeline and previous imaging.
+- **Overcalling chronic white matter disease**: periventricular low attenuation is common in older patients. Look for mass effect before calling it acute.
+- **Missing interstitial oedema**: subtle periventricular low density may be the only early sign of acute hydrocephalus. Always check temporal horn size and callosal bowing.
+- **Missing CVT**: atypical oedema distribution or haemorrhage not fitting an arterial territory should prompt CT venography.
+- **Post-ictal change**: transient cortical swelling and hypodensity can mimic infarction. Distribution is not strictly vascular; clinical history and follow-up imaging resolve uncertainty.
+- **Beam hardening/artefact**: particularly in the posterior fossa; use multiple planes and reconstruction settings before concluding.
+
+---
+
+## Clinical and management correlations
+
+| Scenario | Action |
+|---|---|
+| Vasogenic oedema from tumour/metastasis | Dexamethasone reduces oedema rapidly |
+| Cytotoxic oedema (AIS, HIBI) | Steroids are **not** beneficial |
+| Abscess-related oedema | Steroids after antibiotics initiated |
+| Impending herniation (any cause) | Osmotherapy (hypertonic saline or mannitol), urgent neurosurgical review |
+| Malignant MCA infarction (≥5 mm shift, cisternal effacement, <48 h) | Consider decompressive hemicraniectomy; discuss with neurosurgery urgently |
+| Posterior fossa mass effect with brainstem compression | Urgent neurosurgical decompression |
+| Interstitial oedema + clinical deterioration | Urgent CSF diversion (EVD or shunt) |
+| PRES | Controlled BP reduction; avoid precipitous drops; seizure management |
+| CVT with haemorrhagic infarction | Anticoagulate |
+| Hyponatraemia | Cautious correction; rapid correction risks osmotic demyelination |
+
+---
+
+## Practical reporting checklist
+
+When you review a CT for possible oedema, work through these in order:
+
+1. **Global impression**: focal oedema, diffuse oedema, or normal?
+2. **Attenuation**: grey–white differentiation preserved? Any focal hypodensity? Estimate HU and compare to contralateral side.
+3. **Distribution**: arterial territory? Posterior predominance? Periventricular? Non-territorial?
+4. **Mass effect**: sulcal effacement? Ventricular compression? Midline shift (measure in mm)? Basal cistern status?
+5. **Aetiological clues**: hyperdense artery/sinus? Focal mass? Haemorrhage? Hydrocephalus?
+6. **Complications**: haemorrhagic transformation? Herniation signs? Obstructive hydrocephalus?
+7. **Clinical correlation**: hypertension/eclampsia (PRES)? Known malignancy? Hypoxic event? Immunosuppression?
+8. **Next steps**: CT angiography? CT venography? Urgent MRI? Neurosurgical referral?
+
+---
+
+## Key take-home messages
+
+- **Mechanism predicts morphology**: vasogenic oedema is white matter–predominant with cortical sparing; cytotoxic oedema involves cortex and deep grey nuclei in a vascular territory; interstitial oedema is periventricular and accompanies ventriculomegaly.
+- **Oedema on CT = hypodensity + mass effect**. Small HU differences matter — use narrow windowing and compare sides.
+- **Anticipate peak swelling at 3–5 days** after large infarcts and contusions; communicate early if the trajectory looks malignant.
+- **Know the mimics**: pseudo-SAH in HIBI, fogging in subacute infarction, chronic white matter disease.
+- **Tie imaging directly to action**: PRES → BP control; malignant MCA infarction → decompression discussion; hydrocephalus with interstitial oedema → CSF diversion; CVT → anticoagulation; impending herniation → osmotherapy and neurosurgery now.

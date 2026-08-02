@@ -1,251 +1,245 @@
 ---
 layout: default
-title: "Chapter 12: Subarachnoid Haemorrhage"
+title: "Chapter 12: Intracerebral Haemorrhage"
 nav_order: 12
 ---
 
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 12: Subarachnoid Haemorrhage
+# Chapter 11: Intracerebral Haemorrhage
 
 ---
 
-## Overview
+## Scope and Purpose
 
-Subarachnoid haemorrhage (SAH) is bleeding into the CSF-filled subarachnoid space. Your job in the ED is to spot it quickly, characterise its distribution, identify complications, and escalate appropriately. CT sensitivity is highest in the first six hours; after that, a normal CT does not rule it out.
-
----
-
-## What You Are Looking For on Non-Contrast CT
-
-### The Basic Finding
-
-Acute blood in the subarachnoid space appears **hyperdense** (bright white) compared with normal CSF, which is near-black.
-
-- **Thick cisternal clot:** 55–75 HU
-- **Thin sulcal film:** 35–55 HU (lower still if the patient is anaemic — do not be falsely reassured)
-- **Normal CSF:** 0–15 HU
-
-Always review at multiple window/level settings. A soft-tissue window (W80/L40) is standard, but narrowing the window slightly can make subtle sulcal blood more conspicuous. Review thin slices (≤1.25 mm) with coronal and sagittal reformats, particularly in the posterior fossa where beam-hardening artefact can cause confusion.
-
-### Where to Look
-
-Scan systematically through these locations every time:
-
-- **Basal cisterns:** suprasellar, interpeduncular, prepontine, ambient, quadrigeminal
-- **Sylvian fissures** (note if one side dominates)
-- **Interhemispheric fissure**
-- **Cortical sulci over the convexities**
-- **Ventricles:** occipital horns, third ventricle, fourth ventricle
+This chapter covers spontaneous intracerebral haemorrhage (ICH) on acute non-contrast CT (NCCT). The focus is on recognition, location-based aetiology, signs of deterioration risk, and when to escalate — pitched at the level of an ED middle-grade doctor reviewing scans alongside a radiologist or neurosurgical team.
 
 ---
 
-## Recognising the Distribution Pattern — and What It Means
+## What You Are Looking For on NCCT
 
-The distribution of blood is your most important clue to the underlying cause.
+Acute clotted blood appears **hyperdense** (bright white) relative to normal brain, typically **60–80 HU**, sometimes up to 100 HU in denser regions. For reference:
 
-### Aneurysmal SAH
-
-**Pattern:** Predominantly basal cisterns, often with bilateral Sylvian fissure extension and involvement of the anterior interhemispheric fissure. Intraventricular haemorrhage (IVH) is common.
-
-The location of heaviest bleeding can point toward the culprit aneurysm:
-
-| Dominant blood location | Likely aneurysm site |
+| Structure | Approximate HU |
 |---|---|
-| Anterior interhemispheric fissure / suprasellar | Anterior communicating artery (ACom) |
-| Unilateral Sylvian fissure ± insular haematoma | MCA bifurcation |
-| Ipsilateral carotid/Sylvian cistern | Posterior communicating artery (PCom) / ICA |
-| Interpeduncular + ambient cisterns | Basilar tip / SCA / PCA |
+| CSF | 0–15 |
+| White matter | 20–30 |
+| Grey matter | 35–45 |
+| Acute clotted blood | 60–80 (up to 100) |
+| Calcification | >100 (often 150–1000) |
 
-This matters practically: if CTA shows multiple aneurysms, blood distribution helps identify the ruptured one.
+For each haematoma, assess and report:
 
-![Axial non-contrast CT at the level of the pons showing a rounded density at the basilar tip consistent with a basilar artery aneurysm.]({{ '/docs/img/ctb_basilar_artery_aneurysm.png' | relative_url }})
-*Figure 12.1 — Basilar artery aneurysm. Axial non-contrast CT at the level of the pons and suprasellar cistern shows a rounded soft-tissue-density lesion in the interpeduncular/prepontine region at the basilar tip. Posterior-circulation (basilar tip) aneurysms characteristically bleed into the interpeduncular and ambient cisterns; when blood is centred there, interrogate the basilar tip on CTA (see table above). Their deep, midline location makes them easy to miss on non-contrast CT.*
-
-![Axial non-contrast CT showing hyperdense subarachnoid blood filling the basal cisterns.]({{ '/docs/img/ctb_sah_basal_cisterns.png' | relative_url }})
-*Figure 12.2 — Acute aneurysmal subarachnoid haemorrhage. Young patient with sudden collapse and thunderclap headache during exertion. Axial non-contrast CT shows dense hyperattenuating blood filling and outlining the basal cisterns (suprasellar, interpeduncular, ambient) — the "star" configuration of aneurysmal SAH. Basal cisternal blood is aneurysmal until proven otherwise: proceed to CTA in the same sitting and refer to neurosurgery now.*
-
-![Axial non-contrast CT showing hyperdense blood layering within the lateral ventricles.]({{ '/docs/img/ctb_sah_ivh.png' | relative_url }})
-*Figure 12.3 — Intraventricular extension in the same presentation. Axial non-contrast CT at a higher level shows hyperdense blood layering within the lateral ventricles (intraventricular haemorrhage). IVH complicating SAH raises the modified Fisher grade, increases the risk of obstructive hydrocephalus and vasospasm, and worsens prognosis — check temporal horn size and periventricular attenuation, and escalate urgently if the conscious level is declining.*
-
-### Perimesencephalic Non-Aneurysmal SAH (PNSAH)
-
-**Pattern:** Blood confined to the prepontine and interpeduncular cisterns, anterior to the brainstem. Minimal or no extension into the Sylvian fissures, suprasellar cistern, or interhemispheric fissure. Little or no IVH.
-
-**Clinical significance:** Generally a benign condition with low risk of rebleeding, vasospasm, or hydrocephalus. No aneurysm is found on high-quality CTA or DSA. However, do not apply this label unless the pattern is classic — diffuse or atypical SAH requires full aneurysm workup.
-
-### Traumatic SAH (tSAH)
-
-**Pattern:** Thin, multifocal sulcal blood over the convexities, often adjacent to contusions or scalp/skull injury. Basal cisterns are relatively spared unless there is severe injury.
-
-Correlate with other trauma findings (skull fractures, contusions, subdural or extradural haematoma, diffuse axonal injury).
-
-### Convexity SAH (cSAH)
-
-**Pattern:** Focal hyperdensity in one or two sulci over the high convexities, usually unilateral. Basal cisterns are clear.
-
-This pattern in isolation should prompt you to think about:
-
-- **Cerebral amyloid angiopathy (CAA):** Elderly patient, often recurrent episodes; look for superficial siderosis on MRI
-- **Reversible cerebral vasoconstriction syndrome (RCVS):** Thunderclap headache; postpartum or drug exposure; CTA may show segmental arterial narrowing
-- **Cerebral venous sinus thrombosis (CVST):** cSAH adjacent to a thrombosed cortical vein or sinus; request CTV
-- **PRES / vasculitis:** Often associated with parieto-occipital oedema
+- **Location** (deep vs lobar vs posterior fossa)
+- **Size** — use the ABC/2 method (see below)
+- **Internal architecture** — homogeneous or heterogeneous
+- **Surrounding oedema and mass effect** — sulcal effacement, midline shift (mm), ventricular compression
+- **Intraventricular extension (IVH)** and hydrocephalus
+- **Signs of herniation**
+- **Aetiological clues**
 
 ---
 
-## Complications to Actively Assess
+## CT Appearances by Time
 
-### Intraventricular Haemorrhage (IVH)
+### Hyperacute to Acute (0–72 hours)
 
-Look for layering clot in the occipital horns and dense blood in the third and fourth ventricles. IVH increases the risk of vasospasm and hydrocephalus and worsens prognosis.
+This is the phase you will most commonly see in the ED. The haematoma is hyperdense (60–80 HU), typically round or ovoid in deep locations and more irregular in lobar bleeds.
 
-### Hydrocephalus
+**Look for internal warning signs that predict haematoma expansion:**
 
-Check for:
-- **Temporal horn dilatation and rounding** (earliest sign)
-- **Evans index >0.3** (maximum frontal horn width divided by maximum biparietal diameter)
-- **Periventricular low attenuation** — indicates transependymal CSF flow under pressure
+- **Swirl sign** — hypodense swirls within a hyperdense clot, representing unclotted/actively bleeding blood. Marker of haemostatic instability.
+- **Blend sign** — a sharp, distinct interface between a hypodense and a hyperdense region within the clot.
+- **Black hole sign** — a markedly hypodense focus embedded within the acute hyperdense clot.
+- **Fluid–fluid (haematocrit) level** — layering within the haematoma; suggests coagulopathy or anticoagulation.
+- **Island sign / satellite foci** — small haemorrhagic foci separate from but adjacent to the main clot.
 
-Hydrocephalus with a declining conscious level is a **neurosurgical emergency** requiring urgent external ventricular drain (EVD) insertion. Escalate immediately.
+Any of these signs should raise concern for active or ongoing bleeding. Combined with a CTA **spot sign** (contrast pooling within the haematoma, indicating active extravasation), they represent strong predictors of expansion and worse outcome.
 
-### Parenchymal Haematoma
+**Oedema and mass effect** begin within hours but are usually modest at this stage. Perihaematomal oedema appears as a hypodense rim.
 
-A parenchymal haematoma adjacent to the subarachnoid blood suggests an aneurysm that has ruptured directly into the brain parenchyma (e.g., MCA bifurcation aneurysm → temporal/insular haematoma). Large haematomas can mask thin SAH — actively search the basal cisterns even when a clot dominates the picture.
+**Intraventricular extension** appears as hyperdense blood layering dependently in the occipital horns or casting the ventricles. This increases the risk of obstructive hydrocephalus — check temporal horn size and look for periventricular hypodensity (transependymal CSF seepage).
 
----
+### Subacute (3 days–2 weeks)
 
-## Time-Dependent Sensitivity — When CT Is Not Enough
+The haematoma becomes increasingly heterogeneous and less bright as the clot lyses. By 7–14 days, attenuation may fall to 30–40 HU, approaching grey matter — the **isodense stage**, where the haematoma can be surprisingly easy to miss. Clues at this stage are surrounding oedema and residual mass effect rather than intrinsic density.
 
-| Time from ictus | Approximate CT sensitivity |
-|---|---|
-| ≤6 hours | ~98–99% |
-| 6–24 hours | ~93–95% |
-| Days 2–3 | ~80–90% |
-| Days 5–7 | ~50% |
-| >1–2 weeks | May be normal |
+Oedema **peaks around day 5–7** and then begins to recede. Mass effect can therefore worsen in the first week even as the clot itself becomes less dense on CT.
 
-**Key message:** A normal CT more than six hours after a thunderclap headache does not exclude SAH. Discuss with the admitting team and consider lumbar puncture for xanthochromia (which appears from around 12 hours and persists for up to two weeks). MRI with FLAIR and susceptibility-weighted imaging (SWI) is more sensitive than CT for subacute blood.
+### Chronic (>2–3 weeks)
+
+The haematoma resolves to a hypodense cavity (0–20 HU), often slit-like, with surrounding gliosis. Haemosiderin deposition (the residual "rust" ring) is poorly seen on CT and is better detected on MRI (T2*/SWI).
 
 ---
 
-## CTA, CTV, and CT Perfusion
+## Location and Likely Aetiology
 
-### CTA Head (and Neck)
+Location is your most useful guide to aetiology.
 
-Request this in the same sitting for any SAH pattern that could be aneurysmal — i.e., basal cisternal blood, significant Sylvian haemorrhage, or IVH. Also consider if the pattern is equivocal and clinical suspicion is high.
+### Deep (basal ganglia, thalamus, pons, cerebellum)
 
-Look for:
-- Saccular aneurysm at arterial branching points — note size, neck, dome morphology, and relationship to adjacent vessels
-- Multiple aneurysms (present in 10–30%); correlate with blood distribution to identify the culprit
-- Vasospasm: focal or diffuse arterial narrowing, usually days 3–14 post-rupture
+- **Most likely: hypertensive arteriolopathy**
+- Classic sites: putamen/external capsule (most common), thalamus, pons, cerebellar hemispheres near the dentate nucleus
+- Typically solitary, ovoid, and homogeneous acutely
+- Background CT may show small vessel change: lacunes and periventricular white matter hypodensity
 
-**If CTA is negative but the SAH pattern is diffuse or does not fit a classic perimesencephalic distribution,** formal digital subtraction angiography (DSA) is required. Repeat vascular imaging at 7–10 days is recommended if the initial workup is negative and the pattern is atypical.
+![Axial non-contrast CT showing an acute hyperdense haematoma in the left basal ganglia.]({{ '/docs/img/ctb_ich_basal_ganglia_left.png' | relative_url }})
+*Figure 11.1 — Acute hypertensive-related intracerebral haemorrhage, left basal ganglia. Elderly patient on an anticoagulant (edoxaban) presenting with sudden right arm weakness and expressive dysphasia. Axial non-contrast CT shows a well-defined ovoid hyperdense haematoma centred on the left basal ganglia (putamen/external capsule) — the classic site for hypertensive arteriolopathy. Note the homogeneous acute clot; the anticoagulation history raises the priority for urgent reversal, so flag it explicitly.*
 
-### CTV
+### Lobar (cortical–subcortical)
 
-Consider if you suspect CVST as a cause of convexity SAH — look for filling defects in the dural venous sinuses and cortical veins.
+- **In the elderly: cerebral amyloid angiopathy (CAA)**
+  - Superficial location, often abutting the cortex
+  - May have finger-like projections into cortex or subarachnoid extension into adjacent sulci
+  - Occipital and parietal lobes are preferentially affected
+  - Often multiple haemorrhages at different ages
+- **In younger patients or atypical presentations: AVM, cavernoma, tumour, venous thrombosis, drug-related**
 
-### CT Perfusion
+![Axial non-contrast CT showing a large right temporal lobe haematoma with mass effect and subfalcine herniation.]({{ '/docs/img/ctb_ich_temporal_subfalcine.png' | relative_url }})
+*Figure 11.2 — Right temporal lobe haemorrhage with significant mass effect and subfalcine herniation, following aneurysm rupture. Patient with a previously clipped aneurysm (two decades earlier) presenting with headache and contralateral leg weakness. Axial non-contrast CT shows a large heterogeneous right temporal haematoma with surrounding hypodense oedema, effacement of the adjacent sulci and ventricle, and midline shift with subfalcine herniation of the midline structures across the falx. A ruptured aneurysm can bleed directly into adjacent brain parenchyma, so correlate with any subarachnoid blood and interrogate the vasculature on CTA — and always report the herniation and midline shift explicitly.*
 
-Used during the vasospasm window (days 3–14) in monitored patients. Prolonged mean transit time, reduced cerebral blood flow, and perfusion deficits indicate delayed cerebral ischaemia (DCI) and may prompt endovascular treatment. This is typically arranged by the neurosurgical or neurology team rather than initiated in the ED.
+### Posterior Fossa
+
+- **Cerebellar haemorrhage**: urgent. An ovoid hyperdense mass near the dentate nucleus can compress the brainstem and obstruct the fourth ventricle, causing acute obstructive hydrocephalus. Even a clinically stable patient can deteriorate rapidly.
+- **Pontine haemorrhage**: central tegmental hyperdensity. Beware beam-hardening artefact obscuring small bleeds — use thin slices and posterior fossa windows. Small volume, high morbidity.
+
+### Non-Territorial or Parasagittal Distribution
+
+- Consider **cerebral venous thrombosis (CVT)**, especially if the haemorrhage crosses arterial territories, is bilateral, or involves both thalami
+- Look for a hyperdense cortical vein ("cord sign") or dense dural sinus
+- Confirm with CTV; anticoagulation is standard treatment even with haemorrhagic infarction — flag this for the team urgently
 
 ---
 
-## Differential Diagnoses — Avoiding Overcalling and Undercalling
+## Aetiology at a Glance
 
-### Pseudo-SAH
+| Aetiology | Typical Location | Clues |
+|---|---|---|
+| Hypertensive arteriolopathy | Putamen, thalamus, pons, cerebellum | Deep, solitary, small vessel WM disease |
+| Cerebral amyloid angiopathy | Lobar, cortical–subcortical, occipital/parietal | Elderly, multiple bleeds of varying age |
+| AVM / dural AVF | Lobar, any age | Serpiginous vessels, calcification, younger patient |
+| Cavernous malformation | Any location | Small, minimal oedema, may calcify; "popcorn" on MRI |
+| Haemorrhagic tumour | Lobar, grey–white junction (metastases) | Nodular enhancement, disproportionate oedema, multiplicity |
+| Haemorrhagic arterial infarct | Vascular territory, gyriform | Background hypoattenuation, stroke context |
+| Cerebral venous thrombosis | Non-territorial, parasagittal, bilateral thalami | Hyperdense sinus/vein, crosses territories |
+| Coagulopathy / anticoagulation | Any | Fluid–fluid level, multifocal, larger volumes |
 
-Severe diffuse cerebral oedema (e.g., hypoxic–ischaemic injury, fulminant meningitis) causes the brain to become very dark, making the engorged superficial veins and dural structures appear relatively bright — mimicking SAH.
+---
 
-**How to distinguish:**
-- Measure HU: pseudo-SAH vessels typically 25–40 HU, not the 55–75 HU of a true thick clot
-- Look for global loss of grey–white differentiation and diffuse sulcal/cisternal effacement
-- There is no discrete hyperdense lamination within the cisterns
+## Measuring Haematoma Volume: The ABC/2 Method
+
+This is quick, reproducible, and feeds directly into clinical decision-making:
+
+1. **A** = maximum diameter on the largest slice (cm)
+2. **B** = diameter perpendicular to A on the same slice (cm)
+3. **C** = number of slices containing haematoma × slice thickness (cm)
+4. **Volume (ml) ≈ (A × B × C) ÷ 2**
+
+Report the volume explicitly — it feeds into the ICH score (along with GCS, age, infratentorial location, and IVH presence) and directly informs surgical and escalation decisions.
+
+---
+
+## Differential Diagnoses and How to Distinguish Them
 
 ### Calcification
 
-Falx, tentorium, choroid plexus, and pineal calcifications are common. They are sharply marginated, typically >100 HU, and confirmed on bone windows. Do not mistake them for SAH.
+- Very high HU (>100, often 150–1,000)
+- Typical locations: choroid plexus, pineal gland, globi pallidi, falx
+- No surrounding oedema or mass effect (unless within a tumour)
+- Stable on interval imaging; DECT or bone windows can confirm
 
-### Beam-Hardening Artefact in the Posterior Fossa
+### Iodinated Contrast Staining
 
-Streaky artefact can simulate prepontine hyperdensity. Confirm any suspected finding on thin-slice multiplanar reformats and compare with adjacent slices.
+- Occurs after thrombectomy, post-contrast studies, or with blood–brain barrier breakdown
+- HU can be very high (>90–300); may be cortical/subcortical and diffuse
+- Washes out on delayed imaging (hours to a day); separates on DECT iodine maps
+- Key rule: always obtain NCCT **before** contrast for this reason
 
-### Intrathecal Contrast
+### Traumatic Contusion
 
-If the patient has had recent myelography or intrathecal drug administration, residual contrast will appear very bright (often >150 HU). Check the clinical history.
+- Gyriform, coup/contrecoup sites
+- Look for skull fractures, scalp swelling, and clinical trauma history
+- DAI: multiple small haemorrhages at grey–white junction, corpus callosum, brainstem
 
-### Hyperdense Vessel / Thrombosis
+### Haemorrhagic Arterial Infarct
 
-A hyperdense MCA sign or cortical vein thrombosis can look like sulcal blood. The key is that vascular hyperdensity is tubular and follows the course of a vessel, rather than laminating within a sulcus.
+- Within a recognisable vascular territory
+- Gyriform petechiae (haemorrhagic infarction type 1) or confluent haematoma (type 2, worse)
+- Background hypoattenuation from the infarct itself
 
----
+### Haemorrhagic Tumour
 
-## Imaging Pitfalls — Common Misses
-
-- **Posterior fossa SAH missed on thick slices or bone kernel.** Always review thin-slice soft-tissue images with coronal/sagittal reformats.
-- **Anaemia making thin sulcal blood isoattenuating.** Keep clinical suspicion high; measure HU; proceed to CTA and/or LP.
-- **Choroid plexus or tentorial calcification misread as IVH/SAH.** Check HU and bone windows.
-- **Pseudo-SAH in hypoxic brain injury overcalled as SAH.** Measure HU and assess for global oedema.
-- **Early hydrocephalus missed.** Always check temporal horn size and periventricular attenuation.
-- **In multi-aneurysm cases, the wrong aneurysm identified as the culprit.** Match blood distribution to aneurysm location systematically.
-- **Convexity SAH in an elderly or postpartum patient attributed to trauma without considering CAA, RCVS, or CVST.** The cause changes management significantly.
-
----
-
-## When to Escalate
-
-| Finding | Action |
-|---|---|
-| Any SAH with suspected aneurysmal pattern | Urgent neurosurgical referral; CTA same sitting |
-| Hydrocephalus, especially with reduced GCS | Immediate neurosurgical referral for EVD |
-| Large parenchymal haematoma with mass effect or herniation | Immediate neurosurgery |
-| SAH with no aneurysm on CTA (non-perimesencephalic pattern) | Discuss DSA urgently with neurosurgery / neuroradiology |
-| Convexity SAH with suspected CVST | Expedited CTV; haematology/neurology involvement |
-| Normal CT >6 hours post-thunderclap headache | Discuss LP for xanthochromia with admitting team |
-
-**Rebleeding risk is highest in the first 24–48 hours.** Clear, prompt communication about aneurysm suspicion and likely location is essential — it directly influences the urgency of aneurysm securing (typically endovascular coiling or surgical clipping).
+- Disproportionate vasogenic oedema for haematoma size
+- Nodular or irregular enhancing components
+- Solid component persists or enlarges as blood resorbs (unlike primary ICH)
+- Multiple lesions at grey–white junction suggest metastases (melanoma, renal cell, choriocarcinoma are particularly prone to haemorrhage)
 
 ---
 
-## Modified Fisher Grade — Quick Reference
+## Pitfalls and Common Misses
 
-Used to predict vasospasm / delayed cerebral ischaemia (DCI) risk. Include this in your report for confirmed SAH.
-
-| Grade | CT appearances |
-|---|---|
-| 0 | No SAH, no IVH |
-| 1 | Thin SAH, no IVH |
-| 2 | Thin SAH + IVH |
-| 3 | Thick SAH, no IVH |
-| 4 | Thick SAH + IVH |
-
-Grades 3 and 4 carry the highest DCI risk. All patients with aneurysmal SAH receive **nimodipine** as standard, regardless of radiological grade.
+- **Hyperacute/isodense haemorrhage**: very early or lysing blood may be near-isodense to grey matter (~35–45 HU). Look for subtle sulcal effacement, focal brain swelling, and asymmetry compared with the other side.
+- **Anaemia**: lowers blood attenuation. Acute ICH may appear only mildly hyperdense (45–55 HU). Correlate with haemoglobin; use thin slices and careful windowing.
+- **Posterior fossa artefact**: beam hardening can obscure small brainstem and cerebellar bleeds. Use thin sections and posterior fossa windows; review across planes where available.
+- **Missing subtle IVH**: dependent blood in the occipital horns can be thin and easy to overlook. Scroll carefully through all ventricular components.
+- **Overlooking hydrocephalus**: always assess the temporal horns, third ventricle, and fourth ventricle. Check for transependymal CSF seepage (periventricular hypodensity).
+- **Calcification mistaken for IVH**: check symmetry, HU values (>100), typical sites, and absence of hydrocephalus.
+- **Pseudo-subarachnoid haemorrhage**: in diffuse cerebral oedema, the cortical veins and falx may appear relatively hyperdense against the swollen brain. This mimics SAH but occurs in the context of global hypoxic–ischaemic injury — not true SAH.
+- **Missing an underlying lesion**: lobar ICH (especially in younger patients or atypical presentations) may conceal an AVM or tumour. Organise interval MRI/CTA once the patient is stable.
 
 ---
 
-## Practical Reporting Checklist
+## When to Escalate and What to Tell the Team
 
-Use this structure for every SAH report:
+### Neurosurgery — escalate urgently if:
 
-1. **SAH present?** Yes/No. If yes: thin or thick; representative HU; which cisterns/fissures/sulci are involved.
-2. **IVH?** Which ventricles; degree of filling; any evidence of aqueduct obstruction.
-3. **Hydrocephalus?** Evans index; temporal horn size; periventricular oedema.
-4. **Parenchymal haemorrhage or infarct?** Location, size, mass effect.
-5. **Aetiological pattern:** Aneurysmal / perimesencephalic / traumatic / convexity-only — and why.
-6. **Modified Fisher grade.**
-7. **CTA findings:** Aneurysm (location, size, morphology); likely culprit; multiple aneurysms; vasospasm; alternative cause.
-8. **Recommended next steps:** DSA if indicated; CTV if CVST suspected; urgent neurosurgical referral if aneurysm or hydrocephalus present; LP if CT normal and >6 hours post-ictus.
+- **Cerebellar haemorrhage** >3 cm, with brainstem compression, fourth ventricular effacement, deteriorating GCS, or hydrocephalus → likely to need surgical evacuation or EVD
+- **IVH with obstructive hydrocephalus** → EVD
+- **Lobar ICH** with significant mass effect, deteriorating conscious level, or superficial location where evacuation may be considered
+- **Any ICH with clinical deterioration** — reassess imaging and repeat CT early
+
+### Haematology/pharmacy — escalate if:
+
+- Fluid–fluid levels, multifocal haemorrhage, or known anticoagulation → urgent reversal
+- Document these CT features explicitly in your assessment
+
+### Neurology/specialist stroke team — escalate if:
+
+- Suspicion of CVT (non-territorial haemorrhage, hyperdense sinus) → urgent CTV and anticoagulation decision
+- Lobar ICH in elderly patient suggesting CAA → MRI for microbleeds, antithrombotic decisions
+- Disproportionate oedema, nodular enhancement, or atypical features suggesting tumour → contrast MRI
+
+### Repeat CT:
+
+- Early repeat at 6–24 hours is standard practice if there are expansion risk signs (spot sign, heterogeneous architecture, clinical deterioration)
+- Interval MRI or CTA should be planned for any lobar ICH where an underlying lesion has not been excluded
 
 ---
 
-## Summary
+## Reporting Checklist
 
-- **Basal cisternal blood** → aneurysmal SAH until proven otherwise → CTA now, neurosurgical referral now.
-- **Prepontine/interpeduncular blood only, no IVH** → consider perimesencephalic non-aneurysmal SAH → still needs CTA, but prognosis is better.
-- **Convexity sulcal blood** → think CAA, RCVS, CVST, PRES → context matters; consider CTV.
-- **Thin sulcal blood after head injury** → traumatic SAH → manage associated injuries.
-- **Normal CT >6 hours after thunderclap headache** → CT is not sufficient to exclude SAH → LP or MRI.
-- **Hydrocephalus or declining GCS** → call neurosurgery immediately.
+Include all of the following in your documentation or handover:
 
-Measure HU, review thin slices in multiple planes, and always match the imaging pattern to the clinical context. A systematic approach saves lives.
+- [ ] **Location**: lobar (specify lobe), deep (putamen/caudate/thalamus), brainstem (pons/midbrain), cerebellar (hemisphere/vermis)
+- [ ] **Volume**: dimensions and ABC/2 estimate (ml)
+- [ ] **Internal architecture**: homogeneous or heterogeneous; swirl/blend/black hole signs; fluid–fluid level
+- [ ] **Perihaematomal oedema**: extent
+- [ ] **Mass effect**: sulcal effacement, midline shift (mm), ventricular compression
+- [ ] **IVH**: which ventricles, degree of layering/casting, hydrocephalus, transependymal oedema
+- [ ] **Herniation**: subfalcine, uncal, transtentorial, tonsillar
+- [ ] **Aetiological clues**: deep vs lobar, subarachnoid admixture, serpiginous vessels, calcification, disproportionate oedema
+- [ ] **Posterior fossa specifics**: fourth ventricular patency, brainstem compression
+- [ ] **Other findings**: skull fractures, prior lacunes/infarcts, white matter disease
+- [ ] **Recommendations**: CTA/CTV/MRI if indicated; follow-up timing; neurosurgical alert if appropriate
+
+---
+
+## Key Take-Home Points
+
+- Acute ICH is typically **60–80 HU** on NCCT. Conspicuity falls in the hyperacute period and with anaemia — if you suspect a bleed but can't clearly see one, look for mass effect, asymmetry, and sulcal effacement.
+- **Location guides aetiology**: deep → hypertensive; lobar in the elderly → CAA; lobar in the young or atypical → AVM, tumour, CVT.
+- **Internal heterogeneity** (swirl, blend, black hole signs) and a **CTA spot sign** predict haematoma expansion — quantify volume and escalate early.
+- **Cerebellar haemorrhage** and **IVH with hydrocephalus** are neurosurgical emergencies — do not wait for clinical deterioration before calling the team.
+- Always **exclude an underlying lesion** in lobar ICH, particularly in younger patients — arrange interval MRI/CTA when the acute haematoma allows.
+- Distinguish blood from calcification and contrast staining using HU values, distribution, clinical context, and DECT or delayed imaging if available.

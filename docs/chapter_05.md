@@ -1,182 +1,151 @@
 ---
 layout: default
-title: "Chapter 05: Subdural Haematoma"
+title: "Chapter 05: Extradural Haematoma"
 nav_order: 5
 ---
 
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
+# Chapter 4: Extradural Haematoma
+
 ---
 
-# Chapter 5: Subdural Haematoma
+## Overview and Definition
 
-## Overview
-
-A subdural haematoma (SDH) is a collection of blood between the dura and arachnoid, most commonly caused by tearing of bridging veins following head trauma. It is particularly common in the elderly (atrophied brains have stretched bridging veins), in patients on anticoagulants or antiplatelets, and in non-accidental injury (NAI). On CT, it appears as a **crescentic extra-axial collection** that can cross suture lines but is stopped by dural reflections (the falx and tentorium). Its density on CT changes predictably with time — recognising where a collection sits on that timeline is essential for correct interpretation.
+An extradural haematoma (EDH) is a collection of blood between the inner skull table and the outer (periosteal) layer of the dura. Most are arterial, caused by a torn middle meningeal artery (MMA), and can expand rapidly. They are neurosurgical emergencies. Prompt, accurate CT recognition is essential because clinical deterioration can be sudden and surgical decompression is life-saving.
 
 ---
 
 ## What You Are Looking For on CT
 
-### Shape and location
+### The Classic Appearance
 
-- **Crescentic** collection with a concave inner margin — the classic SDH shape.
-- Lies along the **convexity** most commonly, but also along the **interhemispheric fissure** (appears as a sickle-shaped or triangular density along the falx, often posteriorly) and the **tentorium** (a linear band of density).
-- **Crosses suture lines** — this distinguishes it from an epidural haematoma (EDH), which does not.
-- **Cannot cross dural reflections** (falx, tentorium) — this distinguishes it from subarachnoid blood, which fills sulci and cisterns freely.
+- **Biconvex (lentiform) hyperdense collection** hugging the inner skull table
+- **Density:** 60–80 HU — distinctly brighter than brain parenchyma
+- **Smooth inner margin**, tapering at both ends where the dura is tethered to sutures
+- **Does not cross suture lines** — this is the single most useful distinguishing feature
+- **Does not cross dural reflections** (falx, tentorium); midline extension is exceptional
+- **Overlying skull fracture** in >80% of arterial EDH — look along the MMA groove in the temporal squama
 
-### Density (Hounsfield units — HU)
+### Attenuation and What It Tells You
 
-Use these anchors when measuring:
-
-| Structure | Approximate HU |
-|---|---|
-| CSF | 0–15 |
-| Chronic SDH / hygroma | ~10–20 |
-| White matter | 20–30 |
-| Grey matter | 35–45 |
-| Isodense (subacute) SDH | ~30–45 |
-| Acute SDH | ~50–65 |
-| Calcified tentorium | >100 |
-
-### How density evolves with time
-
-- **Acute (hours to ~3 days):** Hyperdense relative to grey matter, typically 50–65 HU. Can be lower if the patient is severely anaemic or the blood is diluted with CSF.
-- **Early subacute (~3–7 days):** Density falls and the collection may become **isodense** to grey matter (~30–45 HU). This is when SDH is most easily missed.
-- **Late subacute (~1–3 weeks):** Slightly hypodense to grey matter but still denser than CSF; mixed density from intermittent rebleeding is common.
-- **Chronic (>3 weeks):** Near-CSF density (~10–20 HU); may contain internal membranes and loculations.
-
-Anaemia shifts this curve downward — an acute SDH in a severely anaemic patient may appear isodense or even hypodense immediately.
-
----
-
-## Recognising Specific Patterns
-
-### Acute SDH
-
-Hyperdense crescent on standard brain windows. Look for:
-- **Sulcal effacement** on the ipsilateral side
-- **Midline shift** (measure at the level of the foramen of Monro)
-- **Basal cistern effacement** — suggests raised intracranial pressure (ICP) and impending herniation; this is a red flag requiring immediate escalation
-- **Swirl sign** — hypodense swirling areas within a hyperdense clot indicate active bleeding or unclotted blood; treat as an unstable, expanding haematoma
-
-![Coronal non-contrast CT showing a hyperdense crescentic collection over the left cerebral convexity.]({{ '/docs/img/ctb_sdh_acute_left.png' | relative_url }})
-*Figure 5.1 — Left acute subdural haematoma. Elderly patient presenting with dysarthria and left-sided weakness. Coronal non-contrast CT shows a hyperdense crescentic extra-axial collection over the left cerebral convexity with a concave inner margin — the classic acute SDH appearance. Coronal reformats are invaluable for confirming the crescentic shape and for judging convexity and vertex collections that can be underestimated on axial images alone. Assess midline shift and basal cistern patency before handing over.*
-
-### Subacute / isodense SDH
-
-This is the most common diagnostic trap. The collection may be invisible on standard brain windows. Clues:
-- **Unilateral sulcal effacement** — the gyri are compressed inward but you cannot see why
-- **Buckling of the grey–white junction** away from the inner table
-- **Mass effect apparently disproportionate to any visible haemorrhage**
-- Always **switch to subdural windowing** (width ~200–300, level ~50) and review **coronal and sagittal reformats**
-
-### Chronic SDH
-
-Hypodense collection, often bilateral. May have internal septations and membranes. Patients often present with surprisingly few symptoms despite large collections. Bilateral chronic SDH is easy to underestimate — **assess cumulative mass effect** and always measure midline shift and check basal cisterns.
-
-### Acute-on-chronic SDH
-
-Classic mixed density: **hyperdense acute blood layering against or within a hypodense chronic collection**. Fluid–fluid levels may be visible. This pattern often indicates rebleeding, commonly precipitated by a minor fall in an elderly or anticoagulated patient.
-
----
-
-## Special Patterns to Know
-
-- **Interhemispheric SDH:** Triangular or sickle-shaped density along the falx — easiest to see on coronal views. May cause leg-dominant weakness. Important to consider in NAI in children.
-- **Tentorial SDH:** Linear hyperdensity along the tentorium. Distinguish from **calcification** (which is >100 HU, sharply marginated, and usually symmetric).
-- **Bilateral thin SDH:** Each individual collection may look minor, but combined mass effect can be significant. Check the midline and basal cisterns regardless.
-- **Vertex SDH:** Easily missed on axial slices due to partial volume and beam hardening — **always review coronal reformats** of the parasagittal region.
-
-![Coronal non-contrast CT showing a linear hyperdensity along the left tentorium cerebelli.]({{ '/docs/img/ctb_sdh_tentorial_left.png' | relative_url }})
-*Figure 5.2 — Left tentorial subdural haematoma. Elderly patient on clopidogrel following an unwitnessed fall, with periorbital bruising and a frontal contusion. Coronal non-contrast CT shows a linear band of hyperdensity along the left tentorium cerebelli — the typical appearance of a tentorial SDH, best appreciated on coronal and sagittal reformats. Distinguish it from tentorial calcification, which is far denser (>100 HU), sharply marginated and usually symmetric. Antiplatelet therapy in this context lowers the threshold for a delayed rebleed, so recommend appropriate observation and review of the agent.*
-
----
-
-## Key Differentials
-
-### SDH vs. epidural haematoma (EDH)
-
-| Feature | SDH | EDH |
+| Appearance | HU | Significance |
 |---|---|---|
-| Shape | Crescentic | Biconvex (lentiform) |
-| Crosses sutures? | Yes | No |
-| Crosses dural reflections? | No | May do |
-| Associated fracture | Less consistent | Common |
-| Cortical veins | Displaced away from skull | Abut the skull |
-
-Occasionally a loculated SDH appears biconvex — look for crescentic spread elsewhere, extension along the falx, and the position of cortical veins.
-
-### SDH vs. enlarged subarachnoid spaces (atrophy)
-
-Use the **cortical vein sign**:
-- In **SDH or hygroma**, cortical veins are displaced **medially away from the inner table** — you cannot see them in the collection.
-- In **cerebral atrophy**, veins course through the widened subarachnoid space and can be seen **abutting the inner table** within the fluid.
-
-### SDH vs. subdural hygroma
-
-A hygroma is a CSF-density subdural collection (0–15 HU), smooth and thin, without membranes. It can evolve into a chronic SDH over time. Use HU measurement and the cortical vein sign to distinguish it from atrophic widening.
+| Homogeneous hyperdense | 60–80 | Acute clotted blood — typical |
+| Mixed density with hypodense foci (**swirl sign**) | 30–45 within clot | Active ongoing haemorrhage — high risk of expansion |
+| Fluid–fluid level | Variable | Coagulopathy or severe anaemia — flag urgently |
+| Isodense to brain | ~30–40 | Subacute (~days 3–14) — easy to miss; look for mass effect |
+| Hypodense | <20 | Chronic — uncommon, as most are evacuated or resolve earlier |
 
 ---
 
-## Imaging Pitfalls
+## Windowing and Search Pattern
 
-| Pitfall | How to avoid it |
-|---|---|
-| Isodense acute SDH (e.g. in severe anaemia) | Use subdural windowing; look for sulcal effacement and asymmetry; review coronal reformats |
-| Vertex SDH missed on axials | Always review coronal reformats |
-| Tentorial/interhemispheric SDH missed | Use sagittal/coronal views; adjust windowing; confirm HU (calcification >100 HU) |
-| Bilateral thin SDH each appearing minor | Assess total mass effect — midline shift and basal cisterns |
-| Loculated SDH mistaken for EDH | Look for crescentic extension elsewhere; check cortical vein position |
-| Missing associated injuries | Systematically check for contusions (frontal/temporal poles), subarachnoid haemorrhage, intraventricular blood, and skull fractures |
-| Anaemia reducing apparent density | Measure HU formally; a 40 HU collection is not chronic if it occurred two hours ago |
+- **Brain window** (W80/L40): assess haematoma density and parenchymal injury
+- **Subdural window** (W200/L80): improves conspicuity of extra-axial collections, especially isodense ones
+- **Bone window** (W3000/L600): essential for fractures — trace the MMA groove and sinus sulci
+- Use **multiplanar reformats**: sagittal and coronal views are critical for vertex and posterior fossa collections
+
+**Search routine:** Trace the inner table all the way round on every slice. Pay particular attention to the temporal squama, high convexity (vertex), and posterior fossa — these are where collections are most often missed.
 
 ---
 
-## Clinical Significance and When to Escalate
+## Mass Effect and Herniation: What to Assess and Report
 
-### Escalate immediately to neurosurgery if:
+These findings determine urgency. Always comment on:
 
-- Acute SDH with **thickness >10 mm** or **midline shift >5 mm** — these are general surgical thresholds; always follow local protocols
-- **Any neurological deterioration** attributable to SDH
-- **Basal cistern effacement** — suggests transtentorial or uncal herniation is imminent
-- **Swirl sign** — implies active or ongoing bleeding
-- **Acute-on-chronic SDH with mass effect**
+- **Sulcal effacement** adjacent to the collection
+- **Basal cistern effacement** — loss of the ipsilateral ambient cistern is an early herniation warning
+- **Midline shift** — measure at the septum pellucidum
+- **Uncal displacement medially** — the classic precursor to ipsilateral pupil dilatation
+- **Brainstem compression** — Duret haemorrhages in the brainstem indicate severe, often irreversible herniation
 
-### Always consider and document:
+---
 
-- **Anticoagulation or antiplatelet use** — mixed density, fluid–fluid levels, or rapid expansion in this context should prompt urgent reversal
-- **Coagulopathy** — request urgent correction and involve haematology if needed
-- **NAI in children** — bilateral or interhemispheric SDH in a young child with an inconsistent or no history of trauma requires immediate safeguarding escalation; do not delay
+## Common Locations and Where Things Go Wrong
 
-### Intracranial hypotension
+### Temporoparietal (most common)
+Arterial, from the MMA. Fracture typically crosses the MMA groove. Usually straightforward to identify.
 
-Bilateral thin SDH with a disproportionately small-looking brain may reflect a CSF leak rather than trauma. Do not rush to drain surgically if the patient is clinically stable — addressing the underlying leak is the priority. MRI is more sensitive for this diagnosis.
+### Posterior Fossa
+Often **venous** (transverse or sigmoid sinus injury) with an occipital fracture. Can cause rapid brainstem compression with deceptively subtle early CT findings. Use thin slices and sagittal/coronal reformats. Discuss early with neurosurgery.
+
+### Vertex / Parasagittal
+**Frequently missed** due to beam hardening at the skull vertex. Scroll slowly through the high convexity; use sagittal reconstructions. Check the superior sagittal sinus for injury.
+
+### Paediatric EDH
+EDH may **cross a diastatic suture** in young children — an important exception to the "does not cross sutures" rule. Venous sources are more common. Always consider non-accidental injury when the mechanism is unclear.
+
+---
+
+## How to Distinguish EDH from Subdural Haematoma (SDH)
+
+| Feature | EDH | SDH |
+|---|---|---|
+| Shape | Biconvex, lentiform | Crescentic, concave inner margin |
+| Crosses sutures? | **No** | Yes |
+| Crosses falx/tentorium? | No | No |
+| Fracture | Common (>80%) | Less consistent |
+| Typical patient | Young, after direct trauma | Elderly, anticoagulated, bridging vein injury |
+| Density | 60–80 HU; homogeneous | Slightly lower; more often mixed |
+
+**Practical rule:** If a collection crosses a suture, it is not an EDH — call it a subdural until proven otherwise. If it does not cross sutures, it is not an SDH.
+
+---
+
+## Pitfalls and Common Misses
+
+- **Isodense subacute EDH** — look for the lenticular contour, sulcal effacement, and inward displacement of cortical veins even when density is unremarkable. Rewindow aggressively.
+- **Vertex EDH** — missed without sagittal reformats. Actively scroll through the high convexity on every head CT.
+- **Posterior fossa EDH** — small collections obscured by bone artefact; low threshold for discussion with neurosurgery if there is an occipital fracture and any clinical concern.
+- **Swirl sign overlooked** — hypodense foci within a hyperdense clot indicate active bleeding; do not dismiss as artefact.
+- **Scalp haematoma misidentified as EDH** — check bone windows; scalp collections lie superficial to the cortical bone and cause no intracranial mass effect.
+- **Missing the source fracture** — failure to identify a fracture crossing the MMA groove or a venous sinus sulcus means missing a critical piece of surgical planning information.
+
+---
+
+## When to Escalate: Clinical Correlations
+
+Contact neurosurgery **immediately** if any of the following are present:
+
+- EDH volume **>30 ml**
+- Maximum thickness **>15 mm**
+- Midline shift **>5 mm**
+- **Any neurological deterioration** — falling GCS, new focal deficit, or anisocoria — regardless of haematoma size
+- **Posterior fossa EDH** with any mass effect — brainstem compression can develop rapidly
+- **Swirl sign** or mixed density — indicates active bleeding and risk of rapid expansion
+- **Basal cistern effacement or herniation signs** — these require immediate decompression
+
+**Conservative management** (close observation and serial CT) may be appropriate for small EDH (<30 ml, <15 mm thick, <5 mm shift) in a neurologically intact patient, but this is a neurosurgical decision, not an ED one. Arrange repeat CT within 6–8 hours, or sooner if there is any clinical change.
+
+**Coagulopathy:** Mixed density or a fluid–fluid level suggests coagulopathy — identify and correct urgently, and flag the high re-bleeding risk explicitly.
+
+**Venous sinus proximity:** If the EDH abuts the transverse, sigmoid, or superior sagittal sinus, consider requesting CT venography (CTV) to assess for sinus injury or thrombosis — this changes operative strategy significantly.
 
 ---
 
 ## Structured Reporting Checklist
 
-When reporting a CT head with SDH, document:
+When dictating or handing over, cover:
 
-1. **Side(s) and location(s)** — convexity, interhemispheric, tentorial; supra- or infratentorial
-2. **Maximum thickness** (mm) and craniocaudal extent
-3. **Density and pattern** — HU, homogeneous/mixed, fluid–fluid levels, membranes/septations
-4. **Mass effect** — sulcal effacement, ventricular compression, midline shift (mm), basal cistern status (open/effaced)
-5. **Associated injuries** — contusions, subarachnoid haemorrhage, intraventricular blood, skull fractures
-6. **Swirl sign** — if present, flag as potentially active bleeding
-7. **Clinical modifiers** — anticoagulation, anaemia, known coagulopathy
-8. **Comparison with prior imaging** — interval change, new hyperdense foci within a chronic collection
-9. **Recommendation** — urgent neurosurgical discussion if surgical criteria are met or herniation is threatened; urgent coagulopathy reversal if relevant; consider MRI if an isodense collection is suspected but equivocal
+1. **Location** — side, region (temporal/parietal/frontal/occipital/posterior fossa/vertex), convexity vs skull base
+2. **Size** — maximum thickness (mm), estimated volume (ABC/2); note AP and craniocaudal diameters
+3. **Density** — homogeneous hyperdense vs mixed; swirl sign present/absent; approximate HU if equivocal
+4. **Morphology** — lentiform; suture/dural reflection relationship; midline crossing (if yes, reconsider diagnosis)
+5. **Mass effect** — sulcal effacement, basal cistern status, midline shift (mm), herniation signs
+6. **Fracture** — site, displacement, sutural diastasis, relation to MMA groove or sinus sulcus; pneumocephalus
+7. **Sinus involvement** — compression or laceration suspected; CTV recommended?
+8. **Associated injuries** — contusions, subarachnoid haemorrhage, SDH, diffuse axonal injury markers
+9. **Comparison** — change from prior imaging if available
+10. **Impression** — urgency, neurosurgical review required, further imaging recommended
 
 ---
 
-## Key Pearls
+## Key Take-Home Points
 
-- **SDH crosses sutures but not dural reflections. EDH does the opposite.**
-- Density evolves predictably: **acute ~50–65 HU → isodense ~3–14 days → near-CSF by >3 weeks**. Anaemia shifts the curve downward and can make an acute SDH look deceptively old.
-- An isodense SDH is invisible on standard brain windows — **always use subdural windowing and coronal reformats**, especially if there is unexplained sulcal effacement.
-- The **cortical vein sign** separates subdural collections (veins displaced medially, away from the skull) from enlarged subarachnoid spaces (veins visible within the fluid, abutting the skull).
-- **Mixed density or a swirl sign = unstable collection** — treat with urgency until proved otherwise.
-- Bilateral thin collections can have significant cumulative effect — **always assess midline shift and basal cisterns, not just collection thickness**.
+- **Biconvex + hyperdense + stops at sutures + overlying fracture = EDH until proven otherwise.** Act fast.
+- Acute EDH is 60–80 HU. A **swirl sign** (hypodense foci within the clot) means active bleeding — escalate immediately.
+- **EDH does not cross sutures or dural reflections.** If it does, think subdural haematoma, or paediatric sutural diastasis.
+- **Posterior fossa and vertex collections are the classic misses** — use reformats and a low threshold for neurosurgical discussion.
+- Your report directly drives the speed of neurosurgical response. Always state **volume, mass effect, herniation risk, and urgency** explicitly.

@@ -1,234 +1,244 @@
 ---
 layout: default
-title: "Chapter 24: The Acute Radiology Report"
+title: "Chapter 24: Brain Tumours: Glioma, Metastases, and Meningioma"
 nav_order: 24
 ---
 
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
----
-
-# Chapter 24: Reading the Acute CT Brain Report
-
-## Why this matters to you
-
-The acute CT brain is often the single investigation that determines whether your patient goes to theatre, gets thrombolysis, or needs an emergency neurosurgical call. Radiology reports are only as useful as your ability to act on them — and in the middle of the night, you may be reading the images yourself before the report arrives. This chapter gives you the pattern recognition skills to read the scan, interpret the report, and escalate appropriately.
+# Chapter 23: Brain Tumours — Glioma, Metastases, and Meningioma
 
 ---
 
-## A systematic approach: don't miss anything
+## Chapter aims
 
-Work through every scan in the same order. Consistency prevents misses.
-
-1. **Check the basics** — correct patient, correct clinical question, time of onset or injury, anticoagulation status, any prior imaging for comparison.
-2. **Assess image quality** — is there motion blur, dental streak, or posterior fossa beam hardening artefact that could hide pathology?
-3. **Look for blood** — intra-axial (within brain tissue) and extra-axial (outside brain tissue: epidural, subdural, subarachnoid, intraventricular).
-4. **Assess brain parenchyma** — early ischaemia signs, oedema, masses, haemorrhagic transformation.
-5. **Assess mass effect** — midline shift (in mm), ventricular compression, cistern status, herniation.
-6. **CSF spaces** — ventricle size, signs of hydrocephalus, transependymal oedema.
-7. **Vascular signs** — hyperdense artery or sinus.
-8. **Skull and orbits** — fractures, pneumocephalus, retrobulbar haemorrhage.
-9. **Sinuses, mastoids, soft tissues** — sinusitis as a source of intracranial sepsis, scalp haematoma to indicate impact site.
+By the end of this chapter you should be able to recognise the common CT appearances of glioma, cerebral metastases, and meningioma; identify life-threatening complications; and know when and how urgently to escalate.
 
 ---
 
-## What the numbers mean: CT attenuation at a glance
+## 1. Why CT Appearances Look the Way They Do
 
-Hounsfield units (HU) describe how bright or dark something appears on CT. Knowing the normal ranges lets you spot abnormalities immediately.
+You do not need detailed pathophysiology, but three concepts directly shape what you see:
 
-| Structure | Typical HU |
+**Enhancement** reflects a disrupted blood–brain barrier. Low-grade gliomas often have an intact barrier and may be near-invisible on plain CT; high-grade tumours and metastases have leaky vessels and enhance avidly with contrast (+10–40 HU above baseline, often more for meningiomas).
+
+**Vasogenic oedema** tracks through white matter (sparing cortex), producing finger-like low density spreading away from a mass. If hypodensity respects grey matter, think tumour or abscess rather than infarct.
+
+**Haemorrhage and calcification** alter density in predictable ways: acute blood is bright (50–90 HU), calcification is very bright (>100–400 HU), necrosis or cyst is dark (0–20 HU).
+
+---
+
+## 2. CT Technique: Practical Points
+
+- **Non-contrast CT (NCCT)** is always first: detects haemorrhage, calcification, acute mass effect, and hydrocephalus.
+- **Contrast-enhanced CT (CECT)** is essential whenever you suspect a tumour and there is no contraindication. It dramatically improves detection of small metastases and extra-axial disease. Use it liberally.
+- **Windowing matters:**
+  - Brain window (W80/L35) for parenchyma
+  - Bone window (W2500/L500) to detect hyperostosis (meningioma) or bone destruction (metastasis)
+  - Subdural window (W200/L60) for thin extra-axial collections
+- **Posterior fossa artefact:** beam hardening around the skull base and posterior fossa regularly obscures small lesions. If symptoms localise there, scrutinise carefully and request MRI.
+
+---
+
+## 3. Attenuation Reference Values
+
+| Structure | HU |
 |---|---|
-| Air | −900 to −1000 |
-| Fat | −80 to −120 |
-| CSF / water | 0–15 |
-| White matter | 28–33 |
-| Grey matter | 35–45 |
-| **Acute blood** | **60–80** (up to 90–100 with high haematocrit) |
-| Subacute blood (7–14 days) | 30–40 (approaching brain — can be invisible) |
-| Chronic blood (>3 weeks) | 0–20 (near CSF) |
-| Calcification | 80–400+ |
-
-**Clinical traps:**
-- **Anaemia** lowers blood attenuation — a haemorrhage may only measure 40–50 HU and look far less conspicuous. Think about this in your anaemic patients.
-- **Dehydration or polycythaemia** raises blood attenuation — can make normal sinuses or arteries look falsely hyperdense.
-
-**Window settings** matter. Always review with:
-- **Brain window** (width 80–100, level 35–45) for parenchyma and blood.
-- **Bone window** (width ~2500, level ~500) for fractures and pneumocephalus — this is not optional.
+| CSF | 0–15 |
+| White matter | 20–30 |
+| Grey matter | 30–40 |
+| Vasogenic oedema | 12–22 |
+| Solid tumour | 25–45 |
+| Necrosis / cyst | 0–20 |
+| Acute blood | 50–90 |
+| Calcification | >100 (often 150–400) |
 
 ---
 
-## Blood: recognising the key patterns
+## 4. Glioma
 
-### Extradural haematoma (EDH)
+### What you are looking for
 
-**What it looks like:** A biconvex (lens-shaped), hyperdense (60–80 HU) collection between the skull and dura. It does **not** cross suture lines because the dura is tethered there. There is almost always an adjacent skull fracture on bone windows. Look for the **swirl sign** — hypodense swirls within the collection indicate active arterial bleeding and impending expansion.
+**Low-grade glioma (LGG)** is frequently invisible on NCCT — this is a critical pitfall. If visible, it appears as a subtle, poorly defined area of mild hypodensity or isodensity in the cortex or subcortical white matter, with little or no oedema and minimal enhancement on CECT. Calcification (coarse or nodular, >150 HU) is common in oligodendroglioma, often in the frontal lobe.
 
-**Why it matters:** This is usually arterial bleeding (middle meningeal artery). It can expand rapidly. Even a patient with a lucid interval can deteriorate suddenly.
+**Glioblastoma (GBM)** is unmistakeable when classic: a large, heterogeneous mass with a thick, irregular enhancing rim surrounding a necrotic core (dark centre, 0–20 HU). Surrounding vasogenic oedema is often extensive. Intratumoural haemorrhage (50–90 HU) is common. A key feature is crossing of the corpus callosum to produce a "butterfly" pattern — this strongly suggests GBM.
 
-**Escalate immediately if:** thickness ≥15 mm, midline shift ≥5 mm, or any neurological deterioration. Reverse anticoagulation urgently if relevant.
+### Key differentials
 
----
+| Feature | GBM | Single metastasis | Abscess |
+|---|---|---|---|
+| Margins | Infiltrative, irregular | Sharper, more spherical | Very thin, smooth ring |
+| Number | Usually solitary | Often multiple | Usually solitary (or few) |
+| Location | Deep white matter, may cross corpus callosum | Grey–white junction | Variable |
+| Oedema | Extensive | Disproportionately large relative to lesion | Moderate |
+| Clinical clue | Progressive neurology | Known cancer | Fever, source of sepsis |
 
-### Subdural haematoma (SDH)
+Tumefactive demyelination mimics tumour but shows an **incomplete "open" ring** enhancement (opening faces the cortex), less mass effect than its size suggests, and the patient is typically younger with a relapsing history.
 
-**What it looks like:** A crescentic collection that conforms to the brain surface. It **crosses suture lines** but is stopped by dural reflections (the falx and tentorium). Acutely it is hyperdense (60–80 HU). The critical pitfall is the **subacute SDH (7–14 days)**, which becomes isodense to brain (30–40 HU) and can be nearly invisible — look instead for unilateral sulcal effacement and mass effect. Chronic SDH is hypodense (0–20 HU), similar to CSF.
+### Clinical pitfalls
 
-**Mixed-density (acute-on-chronic) SDH** with fluid–fluid levels is common in anticoagulated patients.
+- **A normal NCCT does not exclude glioma.** Any patient with new-onset seizure, unexplained focal deficit, or persistent headache requires MRI even if the CT is normal.
+- **GBM can mimic stroke:** vasogenic oedema with relative cortical sparing and no clear vascular territory should raise suspicion. An enhancing mass on CECT clinches it.
+- **Corpus callosum involvement** is easy to miss — look for subtle hypodensity in the splenium with contralateral oedema.
 
-**The report should always state:** maximal thickness (mm) and midline shift (mm).
+### When to escalate
 
-**Escalate if:** thickness >10 mm, midline shift >5 mm, or neurological decline. Obliterated ambient cistern = evolving uncal herniation = neurosurgical emergency.
-
-**Don't confuse with:** subdural hygroma (post-traumatic CSF collection, near-zero HU, no membranes, no mass effect) or subdural empyema (slightly denser than CSF, patient febrile with sinusitis or otitis, may contain gas).
-
----
-
-### Subarachnoid haemorrhage (SAH)
-
-**What it looks like:** Hyperdense blood (40–70 HU) filling the basal cisterns, sulci, and Sylvian fissures. CT sensitivity is highest within 6 hours of ictus (~98%) and declines thereafter.
-
-**Where the blood is tells you the likely source:**
-- Basal cisterns / anterior interhemispheric fissure → anterior communicating artery aneurysm
-- Sylvian fissure → MCA aneurysm
-- Blood confined to perimesencephalic cisterns only → likely benign venous (perimesencephalic) haemorrhage — lower risk, but still needs CTA
-
-**Critical pitfall — pseudo-SAH:** In severe diffuse brain oedema (e.g. hypoxic-ischaemic encephalopathy, HIE), the oedematous brain looks darker than normal, making the relatively denser normal vessels and dura appear falsely white in the sulci. Look at the brain parenchyma — if it is diffusely dark with loss of grey–white differentiation, you are likely looking at pseudo-SAH, not true SAH.
-
-**Complications to report explicitly:** hydrocephalus (ventricular enlargement with transependymal oedema) — this may need an emergency external ventricular drain (EVD).
-
-**Escalate immediately:** neurosurgical referral, urgent CTA to identify the aneurysm, blood pressure management, nimodipine.
+- Impending herniation (effaced basal cisterns, uncal shift, midline shift >5 mm) → **immediate neurosurgical review**
+- Obstructive hydrocephalus from a posterior fossa mass → **urgent neurosurgical review**
+- Significant vasogenic oedema + mass effect → commence dexamethasone (if clinically appropriate) and discuss with neurosurgery/oncology
+- **Do not perform lumbar puncture** in the presence of significant mass effect
 
 ---
 
-### Intraparenchymal haemorrhage (ICH)
+## 5. Cerebral Metastases
 
-**What it looks like:** A hyperdense (60–80 HU) focus within the brain with surrounding low-attenuation oedema and variable mass effect.
+### What you are looking for
 
-**Location guides the likely cause:**
-- **Deep structures** (basal ganglia, thalamus, pons, cerebellum) → hypertensive haemorrhage
-- **Lobar** (cortical–subcortical) in an older patient → consider cerebral amyloid angiopathy (CAA)
-- **Lobar in a young patient, or unusual site** → AVM, tumour, venous thrombosis — request CTA
+Metastases classically present as **multiple lesions at the grey–white junction** — this is where small arteries narrow and tumour emboli lodge. They are commonly found in the cerebellum, so always scrutinise the posterior fossa.
 
-**Signs of ongoing expansion** (important for management decisions):
-- **Blend sign:** adjacent haematoma regions of different density with a sharp interface
-- **Black hole sign:** a hypodense area within the haematoma
+**NCCT:** Lesions are often iso- or mildly hypodense and may be occult without contrast. The surrounding vasogenic oedema is often disproportionately large relative to the lesion itself — a useful clue.
 
-**Intraventricular extension** is common with deep ICH — look for dependent hyperdensity in the occipital horns and check for resulting hydrocephalus.
+**CECT:** Ring or nodular enhancement is characteristic and may reveal lesions completely invisible on NCCT.
 
-**Cerebellar haemorrhage** >3 cm, or causing 4th ventricle compression / brainstem compression, is a neurosurgical emergency.
+**Special appearances by primary tumour type:**
+- *Haemorrhagic* (50–90 HU): melanoma, renal cell, choriocarcinoma, thyroid — but lung adenocarcinoma can also bleed
+- *Calcified* (>150 HU): mucinous gastrointestinal/ovarian cancer, osteosarcoma
+- *Cystic* (low-attenuation centre with ring enhancement): squamous cell carcinoma, renal
 
-**Haemorrhagic metastasis** can look similar but tends to have irregular margins, disproportionate oedema, and may be multiple. Check for a known primary (melanoma, renal cell carcinoma, choriocarcinoma are particularly prone to bleed).
+**Dural metastases** appear as plaque-like or nodular extra-axial thickening. Unlike meningioma, the adjacent bone tends to be **destroyed** (lytic) rather than thickened. They may be multiple.
 
-**Escalate:** urgent blood pressure control, anticoagulation reversal, neurosurgical review. Consider CTA to exclude underlying vascular lesion, especially in lobar ICH or young patients.
+**Leptomeningeal carcinomatosis** is subtle or invisible on NCCT. On CECT, look for irregular sulcal or cisternal enhancement, ependymal enhancement, and hydrocephalus that is otherwise unexplained.
 
----
+### Key pitfalls
 
-## Brain parenchyma: recognising early ischaemia
+- **Do not assume haemorrhagic ICH is hypertensive** without considering the lesion location and context. Lobar haemorrhage + disproportionate oedema + known or suspected malignancy = haemorrhagic metastasis until proven otherwise. This matters urgently for anticoagulation decisions.
+- **Never skip posterior fossa review** in a cancer patient with acute headache or vomiting — cerebellar metastases cause obstructive hydrocephalus rapidly.
+- **Unexplained vasogenic oedema on NCCT** always warrants CECT or MRI: a small enhancing metastasis may be hiding within it.
 
-### Acute ischaemic stroke (AIS)
+### When to escalate
 
-Early CT changes are subtle — sometimes only 1–3 HU difference — but recognising them is essential for thrombectomy decisions.
-
-**Early signs (first few hours):**
-- **Loss of insular ribbon** — the thin grey matter strip of the insula loses its normal density contrast with adjacent white matter
-- **Lentiform nucleus obscuration** — the normally distinct basal ganglia become blurred
-- **Sulcal effacement** — swelling of ischaemic cortex smooths out the normal folds
-- **Hyperdense artery sign** — the affected artery (MCA, basilar, ICA terminus) appears denser than the contralateral side. An MCA measuring >43–50 HU with a side-to-side ratio >1.2 is significant. Always compare sides and document the HU values.
-
-**ASPECTS (Alberta Stroke Programme Early CT Score):** A 10-point score for MCA territory changes. Each region showing early ischaemia loses one point. Report this score whenever thrombectomy is being considered. An ASPECTS ≥6 generally indicates a substantial salvageable territory.
-
-**What to do:** Call the stroke team immediately. State: haemorrhage absent / present, ASPECTS score, hyperdense vessel sign present / absent. This drives the thrombectomy pathway.
-
-**Don't confuse early stroke with:**
-- **Post-ictal changes** — focal cortical swelling not respecting an arterial territory, often with a seizure history; resolves on follow-up
-- **Hypoglycaemia** — bilateral basal ganglia involvement; check glucose
+- Mass effect / herniation / obstructive hydrocephalus → **urgent neurosurgery**
+- Haemorrhagic metastasis in a patient on anticoagulants → **immediate senior review and haematology input**
+- Posterior fossa lesion with fourth ventricle compression → **urgent neurosurgical review**
+- New diagnosis of brain metastases → CT chest/abdomen/pelvis to find primary (after stabilising ICP)
+- Dexamethasone for significant oedema; CT venography if venous sinus involvement suspected
 
 ---
 
-### Haemorrhagic transformation
+## 6. Meningioma
 
-Blood appearing within an established infarct. Two patterns to know:
+### What you are looking for
 
-- **Petechial / haemorrhagic infarction (HI):** Small specks of blood within the infarct; no significant mass effect; expected and does not necessarily change management.
-- **Parenchymal haematoma type 2 (PH2):** Blood occupying >30% of the infarct with significant mass effect; high-risk finding.
+Meningioma is an **extra-axial** tumour. Recognising extra-axial location is the first step:
 
-**Pitfall:** After thrombectomy or contrast-enhanced studies, contrast staining can mimic haemorrhage. If uncertain, arrange a repeat CT at 24 hours or request dual-energy CT — contrast washes out, blood does not.
+- Broad dural base
+- CSF cleft between mass and cortex
+- Cortical "buckling" — the cortex is pushed inward rather than infiltrated
+- Adjacent cortical vessels displaced inward
+- **Hyperostosis** on bone windows — the adjacent skull is thickened and dense (not destroyed)
 
----
+**NCCT:** Meningiomas are typically **iso- to hyperdense** (35–60 HU) even without calcification — do not mistake this for haemorrhage. Many contain calcification (punctate to dense nodular, >150 HU). They are usually solitary.
 
-## Cerebral venous sinus thrombosis (CVST)
+**CECT:** Characteristically **avid, homogeneous enhancement** (+20–50 HU). A dural tail (enhancing thickening extending from the mass along the dura) is common but not specific.
 
-**Easy to miss; important not to.**
+**Bone windows are essential:** Hyperostosis is ground-glass or dense thickening of adjacent skull. Permeative or destructive bone change is atypical for a benign meningioma — consider atypical/malignant grade or dural metastasis instead.
 
-**CT signs:**
-- **Hyperdense sinus** on non-contrast CT (≥60–70 HU in the superior sagittal or transverse sinus) — compare with arteries and the contralateral sinus. Remember that dehydration raises sinus density; do not overcall in a dehydrated patient.
-- **Cord sign** — a hyperdense cortical vein.
-- **Haemorrhagic venous infarcts** — subcortical haemorrhage that does not conform to any arterial territory, often bilateral or crossing arterial boundaries, with surrounding oedema.
-- On contrast CT: **empty delta sign** (filling defect in the sinus with enhancing walls).
+### Acute complications to recognise
 
-**Escalate:** Confirm with CT venography (CTV) or MR venography (MRV). Anticoagulate unless strongly contraindicated. Check for mastoiditis or sinusitis as the underlying cause.
+- **Venous sinus involvement** (particularly parasagittal meningiomas and superior sagittal sinus): can cause venous infarction presenting as extensive oedema that does not follow an arterial territory. Request **CT venography** if you suspect this.
+- **Cranial nerve compression** (sphenoid wing, petroclival): sudden visual loss or cranial neuropathy.
+- Rarely, acute intratumoural haemorrhage — hyperattenuation within a known or newly identified extra-axial mass.
 
----
+### Key differentials
 
-## Posterior fossa: do not miss these
+| Feature | Meningioma | Dural metastasis |
+|---|---|---|
+| Bone | Hyperostosis | Destruction (lytic) |
+| Calcification | Common | Uncommon |
+| Enhancement | Avid, homogeneous | Often heterogeneous |
+| Number | Solitary | May be multiple |
+| History | Often incidental | Known malignancy |
 
-The posterior fossa is the hardest area to assess on CT because of bone artefact — but posterior fossa emergencies can deteriorate with terrifying speed.
+**Do not confuse a hyperdense meningioma for acute haemorrhage:** Look for the broad dural base, internal calcification, sharp margins, and avid enhancement on CECT.
 
-Scroll slowly through the brainstem and cerebellum every time. Look specifically at:
-- The **4th ventricle** — is it compressed or displaced?
-- The **basal cisterns and prepontine cistern** — are they open?
-- Any **hyperdensity** in the cerebellum or pons
+### When to escalate
 
-**Cerebellar haemorrhage:** Hyperdense focus compressing the 4th ventricle → obstructive hydrocephalus. Surgical emergency if >3 cm or causing brainstem compression.
-
-**Cerebellar infarct:** Hypodensity and swelling in a PICA or SCA territory. May look deceptively benign initially. Can cause malignant oedema within 48–72 hours compressing the brainstem and causing obstructive hydrocephalus. Arrange early neurosurgical review.
-
-**Brainstem haemorrhage:** Pontine hyperdensity. High mortality. Ensure the neurosurgical team is aware even if no intervention is planned.
-
----
-
-## Mass effect and herniation: what the report means
-
-The **basal cisterns** are your most important indicator of raised intracranial pressure (ICP):
-- **Open cisterns** — ICP likely manageable
-- **Partially effaced** — significant concern
-- **Obliterated** — critical; herniation is occurring or imminent
-
-**Midline shift:** Measured in mm at the septum pellucidum. Report should state this explicitly.
-
-**Herniation patterns to recognise:**
-- **Subfalcine:** Cingulate gyrus shifts under the falx. Can compress anterior cerebral artery → parasagittal infarcts.
-- **Uncal (transtentorial):** Medial temporal lobe herniates through the tentorial notch. Compresses ipsilateral CN III (fixed, dilated pupil) and posterior cerebral artery (occipital infarct). **This is a neurosurgical emergency.**
-- **Tonsillar:** Cerebellar tonsils herniate through the foramen magnum compressing the medulla. Causes sudden cardiorespiratory arrest.
+- Mass effect, significant oedema, or impending herniation → **urgent neurosurgical review** and dexamethasone
+- Suspected venous sinus involvement with venous infarction pattern → **CT venography** and neurosurgical input
+- Acute cranial neuropathy attributable to skull-base meningioma → urgent ophthalmology/neurosurgical review
 
 ---
 
-## Common pitfalls: what gets missed
+## 7. Acute Interpretation Framework
 
-| Pitfall | What to do |
-|---|---|
-| Subtle SAH in interpeduncular cistern or high convexity sulci | Scroll slowly on narrow brain window; compare sulci side to side |
-| Isodense subacute SDH looking like atrophy | Look for unilateral sulcal effacement and mass effect; sulci should be symmetric |
-| Hyperdense MCA/basilar sign overlooked | Measure HU; compare to contralateral side; document if ratio >1.2 |
-| Posterior fossa pathology hidden by artefact | Scrutinise the 4th ventricle, prepontine cistern, and cerebellar hemispheres systematically |
-| Small parafalcine or tentorial SDH | Always review coronal and sagittal reformats |
-| Skull base fractures | Always review bone windows; check carotid canal integrity |
-| Pneumocephalus | Look for −900 HU dark locules along convexities — implies dural breach |
-| Retrobulbar haemorrhage | Check orbits; hyperdensity in the cone with globe tenting is an ophthalmic emergency |
-| Pseudo-SAH in HIE | Check parenchymal attenuation — if diffusely dark with oedema, this is not aneurysmal |
-| Contrast staining after thrombectomy | Arrange 24-hour follow-up CT or dual-energy CT before concluding haemorrhage |
-| CVST missed | If haemorrhagic infarct in odd territory, check sinuses for hyperdensity; request CTV |
+Work through this sequence on every scan where a mass lesion is possible:
+
+1. **Intra-axial or extra-axial?**
+   Extra-axial signs (CSF cleft, dural base, cortical buckling, hyperostosis) → meningioma or dural pathology first.
+
+2. **Single or multiple?**
+   Multiple lesions at grey–white junction with disproportionate oedema → metastases. Scrutinise the posterior fossa.
+
+3. **Ring enhancement with necrosis and extensive oedema?**
+   GBM vs metastasis vs abscess. Corpus callosum crossing → GBM. Known primary + multiple lesions → metastases. Thin smooth ring + sepsis → abscess. Get MRI urgently.
+
+4. **Haemorrhagic component?**
+   Consider haemorrhagic metastasis. Note primary tumour type, multiplicity, lobar location.
+
+5. **Calcification?**
+   Oligodendroglioma (cortico-subcortical, frontal) or meningioma (extra-axial, dense nodular). Also treated lesions and mucinous primaries.
+
+6. **Life-threatening complications?** (See below — flag these first.)
 
 ---
 
-## Hydrocephalus: recognising and acting on it
+## 8. Clinical Urgencies to Flag Immediately
 
-**Obstructive (non-communicating):** A mass or haematoma blocks CSF flow before it reaches the arachnoid granulations. Ventricles upstream enlarge; the 4th ventricle may be small if the aqueduct is the block.
+These findings require immediate communication — do not leave them in the report queue:
 
-**Communicating:** Impaired CSF absorption (e.g. after SAH or meningitis). All ventricles enlarge together.
+- **Herniation or impending herniation:** effaced basal cisterns, uncal shift, midline shift >5–10 mm, tonsillar descent
+- **Obstructive hydrocephalus:** especially from posterior fossa lesion
+- **Haemorrhagic metastasis** in anticoagulated patient
+- **Venous sinus invasion/occlusion** with venous infarction pattern — request CT venography
+- **Leptomeningeal carcinomatosis** with acute hydrocephalus
 
-**Key sign:** **Transependymal oedema** — a halo of low attenuation in the periventricular white matter indicating CSF is being forced across the ependymal lining under pressure. This is acute and indicates raised ICP requiring urgent action.
+---
 
-**When to escalate urgently:** Hydrocephalus with SAH, intraventricular haemorrhage,
+## 9. Reporting Checklist
+
+When reporting an acute CT with a suspected brain tumour, cover:
+
+**The lesion:**
+- Intra- or extra-axial; location (lobe, deep nuclei, posterior fossa); size (3 planes); margins; solitary or multiple
+- Attenuation components (solid/necrotic/haemorrhagic/calcified/cystic)
+- Enhancement pattern and degree on CECT if performed
+
+**Oedema and mass effect:**
+- Extent of vasogenic oedema; sulcal effacement; ventricular compression; midline shift in mm
+- Herniation signs: uncal, subfalcine, transtentorial, tonsillar
+
+**Complications:**
+- Acute haemorrhage; hydrocephalus; arterial or venous infarction; venous sinus involvement; bone change (hyperostosis vs destruction)
+
+**Impression:**
+- Ranked differential with key supporting CT features
+
+**Recommendations:**
+- Dexamethasone if significant oedema/mass effect (flag for clinical team)
+- Urgent neurosurgical/oncology input if herniation risk, posterior fossa mass, or hydrocephalus
+- MRI brain with contrast (± perfusion/spectroscopy) for definitive characterisation
+- CT chest/abdomen/pelvis if metastatic work-up needed
+- CT/MR venography if sinus involvement suspected
+
+---
+
+## Key Take-home Points
+
+- **Work out intra- vs extra-axial first** — it immediately narrows your differential.
+- **NCCT alone misses tumours** — use CECT liberally and request MRI when clinical suspicion persists despite a normal plain CT.
+- **Vasogenic oedema spares cortex** — if grey matter is involved early, reconsider infarct, encephalitis, or seizure-related change.
+- **Always scrutinise the posterior fossa** — beam hardening hides lesions, and a missed cerebellar metastasis or glioma can cause rapid obstructive hydrocephalus.
+- **Haemorrhagic lobar ICH in a cancer patient is a metastasis until proven otherwise** — this directly changes management.
+- **Bone windows are not optional** for extra-axial masses: hyperostosis confirms meningioma; bone destruction suggests metastasis.
+- **Flag herniation, hydrocephalus, and haemorrhagic metastasis immediately** — these are the life-threatening complications that will not wait for a routine report.

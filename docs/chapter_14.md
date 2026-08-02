@@ -1,178 +1,214 @@
 ---
 layout: default
-title: "Chapter 14: Hypertensive Encephalopathy and PRES"
+title: "Chapter 14: Cerebral Venous Sinus Thrombosis"
 nav_order: 14
 ---
 
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 14: Hypertensive Encephalopathy and PRES
+# Chapter 13: Cerebral Venous Sinus Thrombosis
 
 ---
 
-## Synopsis
+## Scope and take-home
 
-Posterior Reversible Encephalopathy Syndrome (PRES) is the imaging manifestation of hypertensive encephalopathy — but it is not exclusive to hypertension. It reflects vasogenic oedema caused by failure of cerebrovascular autoregulation and/or endothelial injury. In the emergency department, the non-contrast CT (NCCT) is usually your first study. Knowing what to look for — and what not to miss — matters because PRES can be misdiagnosed as stroke, prompting inappropriate thrombolysis, or missed entirely if CT changes are subtle.
-
----
-
-## Clinical Contexts and Triggers
-
-PRES can occur in any of the following settings:
-
-- **Hypertensive emergencies**: malignant hypertension, renal artery stenosis, acute glomerulonephritis, phaeochromocytoma
-- **Obstetric**: pre-eclampsia, eclampsia, postpartum
-- **Immunosuppressants/chemotherapy**: ciclosporin, tacrolimus, cisplatin, anti-VEGF agents
-- **Systemic illness**: sepsis, SLE, thrombotic microangiopathy
-
-**Important:** BP does not need to be severely elevated. In toxin- or eclampsia-mediated PRES, BP may be only mildly raised or even normal. Always check medications, pregnancy/postpartum status, and renal function.
-
-**Clinical red flags**: acute headache, visual disturbance (including cortical blindness), new seizures, and encephalopathy — particularly in any of the above contexts — should prompt active consideration of PRES.
+Cerebral venous sinus thrombosis (CVST) is an underdiagnosed but potentially reversible cause of acute neurological deterioration. Non-contrast CT (NCCT) is frequently the first imaging performed and can suggest the diagnosis, but it is often subtle. CT venography (CTV) confirms it. The key clinical message: anticoagulation is first-line treatment **even when haemorrhage is present** — communicating this clearly in your report or referral matters.
 
 ---
 
-## CT Technique and Approach
+## Why this matters clinically
 
-NCCT is used first to exclude haemorrhage and large territorial infarction.
+Suspect CVST in any patient with:
 
-- Review with standard brain windows **and** narrow windows (W60–80 / L35–40) to bring out subtle low attenuation
-- Place small ROIs (1–2 cm²) in the suspicious area and in the contralateral normal-appearing white matter — a difference of ≥3–5 HU supports oedema
-- Normal white matter measures approximately 20–30 HU; vasogenic oedema typically measures 15–25 HU
-- If venous thrombosis or reversible cerebral vasoconstriction syndrome (RCVS) is suspected, add CTV or CTA respectively
+- New headache (often the dominant symptom, may be thunderclap)
+- Seizures, focal neurological deficits, or encephalopathy
+- Signs of raised intracranial pressure (ICP), including papilloedema
+- Isolated intracranial hypertension in a young woman
+
+**Risk factors worth knowing:** oral contraceptive pill, pregnancy or postpartum state, dehydration, prothrombotic disorders, local infection (mastoiditis, sinusitis), malignancy, trauma involving a dural sinus, and inflammatory conditions (e.g. inflammatory bowel disease).
 
 ---
 
-## What to Look for on Non-contrast CT
+## Imaging pathway
 
-### Classic Pattern (Parieto-occipital Predominance)
+- **Start with NCCT** — it is the standard first-line scan in the emergency department.
+- **Proceed to CTV in the same sitting** if CVST is clinically suspected or NCCT is suggestive. Do not wait.
+- **Request CTV upfront** if you see any of the following on NCCT:
+  - Lobar or juxtacortical haemorrhage without a clear arterial cause
+  - Convexity subarachnoid haemorrhage (SAH)
+  - Non-arterial distribution of oedema or infarction
+  - Unexplained diffuse brain swelling
+  - Skull fracture crossing a dural sinus groove
+  - Postpartum headache
 
-The hallmark is **bilateral, fairly symmetric, subcortical low attenuation in the parieto-occipital lobes**, with:
+---
 
-- Patchy to confluent hypodensity following gyral contours
-- Mild cortical swelling with sulcal effacement
-- **Mild mass effect disproportionate to the extent of hypodensity** — a useful clue
-- **Relative sparing of the calcarine cortex and paramedian occipital lobes** — helps distinguish PRES from posterior cerebral artery (PCA) infarction
-- May extend into the posterior frontal lobes, superior parietal lobules, or splenium of the corpus callosum
+## Non-contrast CT: what to look for in the sinuses
 
-### Atypical Distributions
+### Hyperdensity in the sinuses or cortical veins
 
-Do not anchor on "posterior." Involvement can also affect:
+Acute thrombus is clot-packed and protein-rich, making it denser than normal blood.
 
-- Frontal and temporal lobes
-- Deep white matter
-- Asymmetric or even unilateral distribution early on
+- **Normal venous sinus:** approximately 40–50 HU
+- **Acute thrombus:** typically 60–70 HU or higher — conspicuously denser than adjacent cortex or arterial blood
 
-### Infratentorial PRES
+**Named signs:**
+- **Dense triangle sign** — triangular hyperdensity in the posterior superior sagittal sinus (SSS) on axial NCCT
+- **Cord sign** — linear hyperdense cortical vein over the convexity; often short segment and easy to miss
 
-- Low attenuation in the cerebellar hemispheres and vermis
-- Brainstem (especially pons) may be involved — beware beam-hardening artefact mimicking low attenuation here
-- **Check fourth ventricle patency**: infratentorial oedema can cause obstructive hydrocephalus, which is a neurosurgical emergency
+**Practical measurement tips:**
+- Use thin slices (≤1.25 mm) and review in multiple planes
+- Place small ROIs centrally within the sinus, away from the walls and bone
+- Compare left versus right; compare sinus density to ipsilateral arterial density
+- Adjust windowing (try level 40, width 80) to distinguish sinus content from adjacent dura and bone
 
-### Haemorrhagic Complications
+**Pitfall:** Dehydration and polycythaemia raise haematocrit, which increases blood attenuation across all vessels — if arteries and veins are symmetrically dense throughout, consider haemoconcentration rather than thrombosis. CTV will clarify.
 
-These occur in a significant minority and must not be missed:
+### Evolution over time
 
-- **Small lobar haemorrhages**: hyperdense foci (60–80 HU) within oedematous brain
-- **Cortical/sulcal subarachnoid haemorrhage**: sulcal hyperdensity (45–60 HU)
-- Petechial haemorrhages are often CT-occult; SWI on MRI is far more sensitive
-- Haemorrhagic PRES still often reverses with trigger control, but carries a higher risk of deterioration
+- **Days 1–7:** thrombus most conspicuous on NCCT
+- **1–3 weeks:** attenuation falls toward isodensity — NCCT becomes unreliable; CTV remains diagnostic
+- **Beyond one month:** sinus may appear normal or contracted on NCCT; do not exclude CVST without CTV
 
-### Evolution Over Time
+---
 
-| Timeframe | CT Appearance |
+## Non-contrast CT: parenchymal findings
+
+### Venous oedema and infarction
+
+The key distinguishing feature of venous infarction is that it **does not follow an arterial territory**.
+
+- **SSS thrombosis** → parasagittal frontal/parietal lobes, vertex
+- **Transverse/sigmoid sinus thrombosis** → temporal, parietal, or cerebellar involvement; often associated with ipsilateral mastoiditis
+- **Deep venous thrombosis (straight sinus, internal cerebral veins)** → **bilateral thalami**, basal ganglia; may involve the splenium of the corpus callosum
+
+On CT, look for subcortical hypoattenuation with relative cortical sparing early on. Mass effect can be disproportionately severe relative to the extent of hypoattenuation.
+
+### Haemorrhage
+
+Venous infarcts haemorrhage early due to high venous pressure in congested, fragile vessels.
+
+- Petechial or frank haematoma(s), typically cortical or subcortical
+- Multiple lobar haemorrhages in a non-arterial distribution are a strong clue
+- Do **not** withhold anticoagulation on account of haemorrhage — communicate this explicitly when escalating
+
+### Convexity SAH
+
+- Sulcal hyperdensity over the convexities, often parasagittal and multifocal
+- Basal cisterns typically spared (distinguishing it from aneurysmal SAH)
+- Common with SSS or cortical vein thrombosis
+
+### Bilateral thalamic changes
+
+Symmetrical thalamic hypodensity ± petechial haemorrhage is a characteristic pattern of deep venous thrombosis. Look simultaneously for a hyperdense straight sinus.
+
+---
+
+## CT venography: what it shows and how to interpret it
+
+### What constitutes a normal CTV
+
+Dural sinuses should opacify homogeneously and brightly (commonly >150 HU depending on protocol). Adequate jugular opacification confirms you have a true venous phase.
+
+### Positive findings
+
+- **Intraluminal filling defect** — central or eccentric, partial or complete; best appreciated on multiplanar reconstructions along the sinus axis
+- **Sinus expansion** (acute thrombosis) or **sinus narrowing/contraction** (chronic)
+- **Non-opacification of cortical or deep veins** with or without collateral venous channels
+
+### Empty delta sign (CECT/delayed CTV)
+
+Triangular central non-enhancing filling defect in the posterior SSS, rimmed by enhancing dural collaterals. More conspicuous in the subacute phase (beyond several days).
+
+### Common pitfalls on CTV
+
+| Pitfall | How to avoid it |
 |---|---|
-| 0–12 hours | Normal or very subtle (1–3 HU drop) — high index of suspicion required |
-| 12–48 hours | Hypodensity becomes clearer; posterior subcortical pattern declares |
-| Days–2 weeks | With treatment, changes regress; CT may normalise |
-| Complicated | Denser cortical involvement, wedge-shaped infarcts, evolving haemorrhage — suggests cytotoxic conversion |
+| **Hypoplastic transverse sinus** mistaken for thrombosis | Smooth tapering from torcula, small bony groove and small jugular foramen on the same side, dominant contralateral sinus, no parenchymal changes |
+| **Arachnoid granulation** mistaken for thrombus | Round/ovoid, CSF attenuation on NCCT, well-defined, at the transverse–sigmoid junction, no adjacent oedema |
+| **Poor venous timing** causing pseudodefects | Check jugular opacification; repeat acquisition if poorly timed |
+| **Beam hardening at skull base** obscuring sigmoid/transverse sinuses | Always review coronal and sagittal MPRs |
+| **Partial volume with bone** at anterior SSS | Use thin slices; avoid ROIs near the sinus wall |
 
 ---
 
-## Key Differential Diagnoses
+## Distribution-specific patterns: quick reference
 
-### Bilateral PCA Territory Infarction
-- **Differences from PRES**: includes calcarine cortex; follows vascular territory; often asymmetric; more pronounced cortical than subcortical involvement; greater mass effect over time
-- **Clues favouring PRES**: subcortical predominance, calcarine sparing, symmetry, concurrent frontal/cerebellar changes, seizures, clinical context
-
-### Cerebral Venous Thrombosis (CVT)
-- Look for: haemorrhagic venous infarcts (often parasagittal), hyperdense dural sinus or cord sign on NCCT
-- Confirm with CTV if suspected — particularly if distribution is atypical or there is unexpected haemorrhage
-
-### Hypoxic–Ischaemic Encephalopathy
-- Diffuse cortical and subcortical hypodensity, loss of grey–white differentiation, basal ganglia involvement — widespread, not posterior-predominant
-
-### Toxic/Metabolic Leukoencephalopathy
-- Symmetric periventricular or deep white matter change; often frontal-predominant; subacute onset; less sulcal effacement
-
-### Encephalitis (e.g. HSV)
-- Asymmetric; limbic predilection (temporal lobes, insula, cingulate); haemorrhagic change in limbic structures; may enhance
-
-### Post-ictal Oedema
-- Focal gyral swelling in the seizure focus; typically unilateral; PRES shows broader bilateral posterior change
+| Sinus involved | Where to look on NCCT | Parenchymal pattern |
+|---|---|---|
+| Superior sagittal sinus | Dense triangle; hyperdense cortical veins at vertex | Parasagittal oedema/haemorrhage; convexity SAH |
+| Transverse/sigmoid sinus | Asymmetric sinus density; check for mastoiditis | Temporal, parietal, or cerebellar changes |
+| Straight sinus/deep veins | Hyperdense straight sinus; hyperdense internal cerebral veins | Bilateral thalamic hypodensity ± haemorrhage; splenial involvement |
 
 ---
 
-## Common Pitfalls
+## Key differentials
 
-| Pitfall | How to Avoid |
-|---|---|
-| **Normal early CT** | Up to a third of PRES cases may have a normal or near-normal CT in the first 12 hours. A normal CT does not exclude PRES — request MRI if clinical suspicion persists |
-| **Misdiagnosis as PCA infarction → inappropriate thrombolysis** | Check for symmetry, subcortical predominance, calcarine sparing, and involvement beyond a single arterial territory |
-| **Overcalling chronic small vessel disease** | PRES has acute subcortical confluent change with sulcal effacement and cortical swelling; chronic SVD is periventricular without cortical swelling |
-| **Posterior fossa beam-hardening artefact** | Cross-check on thin sections; adjust window/level; correlate with supratentorial findings |
-| **Missing small haemorrhages** | Actively review oedematous regions on blood windows; note that SWI on MRI is needed for petechial haemorrhage |
-| **Missing CVT** | Check for a hyperdense sinus; request CTV if distribution is atypical, haemorrhage is present, or pattern is parasagittal |
-| **Missing obstructive hydrocephalus** | Always assess fourth ventricle patency when there is infratentorial PRES |
-| **Assuming BP must be very high** | PRES occurs with normal or mildly elevated BP in eclampsia, sepsis, and immunosuppressant toxicity |
+- **Arterial infarction with haemorrhagic transformation** — follows an arterial territory; CTA shows arterial occlusion; no sinus abnormality
+- **Arachnoid granulation** — CSF density, well-defined, typical location (transverse sinus), no parenchymal oedema
+- **Hypoplastic transverse sinus** — smooth, tapered, congenital; verify bony groove size and jugular foramen asymmetry
+- **Haemoconcentration/polycythaemia** — diffuse symmetric hyperdensity in arteries and veins; no focal filling defect on CTV
+- **Post-contrast residual iodine** — generalised vascular hyperdensity; check imaging history; do CTV to clarify
+- **Dural AV fistula** — may cause venous congestion mimicking CVST; CTV may show early venous enhancement and dilated cortical veins; needs formal CTA or DSA
 
 ---
 
-## What to Say in Your Report
+## When to escalate and what to communicate
 
-Structure your report to include:
+**Escalate immediately** if you identify or suspect CVST. Key messages to convey:
 
-1. **Distribution**: lobes and regions involved; symmetry; supra- and/or infratentorial
-2. **Attenuation values**: approximate HU in affected areas vs. contralateral normal white matter
-3. **Cortical involvement**: degree of sulcal effacement
-4. **Complications**: haemorrhage (type, location, size), mass effect, hydrocephalus
-5. **Vessels/sinuses**: note any hyperdense artery or sinus; report CTA/CTV findings if performed
+1. **Probable or confirmed CVST** — location and extent of thrombosis
+2. **Presence of haemorrhage does not exclude anticoagulation** — make this explicit; therapeutic hesitancy is a common and avoidable error
+3. **Bilateral thalamic involvement or significant mass effect** — high-dependency monitoring warranted; may need neurosurgical or interventional input
+4. **Mastoiditis or sinusitis identified alongside lateral sinus thrombosis** — prompt ENT referral for source control
+5. **Skull fracture crossing a dural sinus groove** — CTV required; anticoagulation decisions are multidisciplinary in polytrauma
 
-**Example impression:**
-
-> "Bilateral, relatively symmetric subcortical low attenuation in the parieto-occipital lobes (measuring 17–20 HU, approximately 6–8 HU lower than contralateral normal white matter), with mild cortical swelling. No involvement of the calcarine cortex. Small lobar haemorrhage in the left occipital lobe. No large territorial infarct pattern. In the appropriate clinical context, appearances are in keeping with PRES. MRI (FLAIR, DWI, SWI) is recommended to confirm vasogenic oedema, exclude cytotoxic conversion, and characterise haemorrhage. CTV should be considered given the haemorrhagic component."
+Consider endovascular thrombectomy or thrombolysis for patients who deteriorate despite anticoagulation — your CTV report should document thrombus burden and venous outflow clearly to aid planning.
 
 ---
 
-## When to Escalate
+## Structured reporting checklist
 
-- **Infratentorial PRES with fourth ventricle effacement** → urgent neurosurgical review for potential obstructive hydrocephalus
-- **Haemorrhagic PRES** → discuss with neurosurgery and consider ITU-level monitoring
-- **Deteriorating consciousness or signs of raised intracranial pressure** → immediate escalation
-- **Any suspicion of eclampsia** → obstetric team immediately; magnesium sulphate and delivery planning
-- **Suspicion of RCVS** (thunderclap headache, postpartum, vasoconstriction on CTA) → discuss with stroke/neurology
-- **Suspicion of CVT** (atypical distribution, hyperdense sinus, parasagittal haemorrhage) → urgent CTV and neurology review
+**NCCT:**
+- Sinus attenuation (HU), symmetry, morphology (triangular/linear hyperdensity)
+- Cortical and deep vein hyperdensity
+- Parenchymal oedema: location, distribution (arterial vs non-arterial)
+- Haemorrhage: location, pattern, multiplicity
+- Convexity SAH
+- Bilateral thalami/basal ganglia
+- Signs of raised ICP
+
+**CTV:**
+- Filling defects: location, extent, partial vs complete
+- Sinus calibre (expanded or contracted)
+- Cortical and deep vein opacification
+- Collateral veins; jugular outflow
+- Variants: sinus dominance/hypoplasia, arachnoid granulations
+
+**Aetiological clues:**
+- Mastoiditis, sinusitis, skull fractures, intracranial masses
+
+**Impression:**
+- Diagnosis and extent; clinical urgency; explicitly state anticoagulation is appropriate including in the presence of haemorrhage; recommend MRI/MRV or follow-up CTV if needed
 
 ---
 
-## Clinical Management Correlations
+## Pattern pearls
 
-You do not prescribe, but understanding the priorities helps you communicate urgency appropriately:
-
-- **Controlled BP reduction** is the goal in hypertensive emergencies — precipitous drops risk ischaemia, particularly in patients with chronic hypertension
-- **Eclampsia**: magnesium sulphate and expedited delivery
-- **Immunosuppressant-related PRES**: dose reduction or cessation of the offending agent
-- **Seizure management**: ongoing cortical swelling warrants assessment for status epilepticus
-- **Reversibility**: with prompt treatment, CT changes typically resolve over days to weeks; failure to resolve suggests cytotoxic conversion and permanent injury
+- **Bilateral thalamic hypodensity ± petechial haemorrhage** → straight sinus/deep vein thrombosis; look for hyperdense straight sinus; proceed to CTV
+- **Lobar haemorrhage with subcortical oedema in a young postpartum woman** → inspect the SSS and cortical veins; convexity SAH is supportive; proceed to CTV
+- **Ipsilateral mastoiditis with headache** → scrutinise the sigmoid and transverse sinus on CTV; look for filling defects and perisinus dural enhancement
+- **Skull fracture crossing a transverse sinus groove** → CTV mandatory to exclude thrombosis or laceration
 
 ---
 
-## Key Take-home Points
+## Summary
 
-- **Think PRES** when you see bilateral posterior subcortical hypodensity with mild mass effect and calcarine sparing — even without markedly elevated BP
-- **Quantify** the HU difference between affected and normal white matter; note symmetry and lobar pattern
-- **A normal CT does not exclude PRES** — request MRI (FLAIR, DWI, SWI) when clinical suspicion is high
-- **The biggest pitfall** is misdiagnosis as PCA infarction; symmetry, subcortical predominance, calcarine sparing, and clinical context are your discriminators
-- **Always check the posterior fossa**: infratentorial PRES can obstruct CSF pathways and become life-threatening
-- **Always check the venous sinuses**: request CTV if haemorrhage, asymmetric oedema, or parasagittal involvement raises concern for CVT
-- **Haemorrhagic PRES** still often reverses — do not be reassured that it is benign, but do not assume it is non-PRES
+**Look for it:** NCCT detection of CVST requires systematic review of all dural sinuses and cortical/deep veins with HU measurement and multiplanar reformats. It is subtle and frequently missed.
+
+**Believe the pattern:** Non-territorial oedema or haemorrhage, parasagittal or juxtacortical distribution, bilateral thalamic changes, and convexity SAH are venous red flags.
+
+**Prove it:** CTV is reliable, fast, and should follow any suspicious NCCT. Know the pitfalls — poor timing, sinus variants, and arachnoid granulations — to avoid false positives and negatives.
+
+**Act on it:** CVST is a neurological emergency. Prompt escalation, clear communication about anticoagulation (including in the presence of haemorrhage), and identification of treatable causes (infection, trauma) directly improve patient outcomes.

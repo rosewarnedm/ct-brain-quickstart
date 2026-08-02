@@ -1,197 +1,173 @@
 ---
 layout: default
-title: "Chapter 17: Hydrocephalus"
+title: "Chapter 17: Brain Abscess"
 nav_order: 17
 ---
 
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 17: Hydrocephalus
+# Chapter 16: Brain Abscess
 
 ---
 
-## Scope and priorities
+## Scope and Relevance to Acute Brain CT
 
-In the emergency department, your job with hydrocephalus on CT is to answer four questions quickly:
-
-1. Are the ventricles genuinely enlarged (or is this atrophy)?
-2. Which ventricles are enlarged — and therefore where is the block?
-3. Is there evidence of acutely raised intracranial pressure (ICP)?
-4. Does this patient need neurosurgical input right now?
+Brain abscess is life-threatening and time-critical. CT is usually the first imaging you will have — it will not be perfect, but it needs to be good enough to prompt urgent treatment and the right referrals. MRI with diffusion-weighted imaging (DWI) is more specific, but CT is your starting tool. Know its limits and know when to push for MRI.
 
 ---
 
-## What hydrocephalus looks like on CT: the key signs
+## Routes of Spread — Why It Matters for Pattern Recognition
 
-**Ventricular enlargement** is the foundation. Useful measurements:
+Understanding how an abscess got there tells you where to look and what else to look for.
 
-- **Evans index**: maximum bifrontal horn width ÷ maximum inner skull diameter at the same level. **>0.30** suggests ventriculomegaly; **≥0.33** is more specific for hydrocephalus.
-- **Temporal horn width >2 mm** in an adult is abnormal and is often the **earliest, most sensitive sign** — look here first.
-- **Third ventricle width >6–7 mm** is enlarged in most adults.
+- **Haematogenous spread** (endocarditis, IV drug use, right-to-left cardiac shunt, pulmonary abscess): expect **multiple lesions at the grey–white junction**, predominantly in MCA territory.
+- **Frontal sinusitis**: look in the **frontal lobe**.
+- **Otitis media or mastoiditis**: look in the **temporal lobe or cerebellum**. Always check the mastoid air cells and middle ear on bone windows.
+- **Dental infection**: frontal or temporal lobe.
+- **Post-traumatic or post-surgical**: site-specific; look for bony defects or surgical bed changes.
+- **Immunocompromised patients**: fungal or nocardial infections tend to involve **deep grey nuclei and white matter tracts**; may be haemorrhagic and less obviously enhancing.
 
-**Transependymal oedema** is your most important marker of acutely raised intraventricular pressure. It appears as a smooth, symmetrical rim of low attenuation hugging the ventricular margins (10–20 HU — approaching CSF density). It represents CSF being forced through the ependyma into the surrounding white matter under pressure. If you see this, the situation is acute until proven otherwise.
-
-**Sulcal effacement** at the high convexities indicates raised ICP with cerebral swelling. Contrast with atrophy, where sulci are prominent.
-
-**Rounding and ballooning of the frontal horns** — normally pointed, they become rounded and expanded under pressure.
-
-**Downward bowing of the third ventricular floor** is a sign of significant pressure from above, and in the right context suggests the patient may be a candidate for endoscopic third ventriculostomy (ETV) — worth mentioning in your assessment.
+If you find an abscess, look for the source on the same scan — sinuses, mastoids, bone erosion. That drives ENT and neurosurgical co-management.
 
 ---
 
-## Localising the obstruction: which ventricles are enlarged?
+## CT Technique
 
-This is the most clinically useful pattern-recognition exercise.
-
-### One lateral ventricle enlarged → Foramen of Monro obstruction
-
-One lateral ventricle enlarged with the rest of the system normal. Causes include a colloid cyst, tumour, or post-haemorrhagic adhesion.
-
-- **Colloid cyst**: look for a rounded, often hyperdense (30–90 HU) lesion sitting at the anterior third ventricle between the two foramina of Monro. It may be isodense and easy to miss. This is a neurosurgical emergency — it can cause acute obstruction and sudden death.
-- Both foramina may be blocked simultaneously (e.g., by a colloid cyst), causing **both lateral ventricles** to enlarge with a normal or compressed third ventricle.
-
-### Both lateral ventricles + third ventricle enlarged, fourth ventricle normal → Aqueduct obstruction (triventricular hydrocephalus)
-
-The aqueduct of Sylvius is blocked. Causes include aqueductal stenosis, a tectal plate glioma (often subtle on CT — look for a small mass at the tectum on axial slices), pineal region mass, or intraventricular haemorrhage (IVH) clot within the aqueduct.
-
-- On sagittal reformats, check the aqueduct region and tectal plate carefully.
-- A triventricular pattern with a small fourth ventricle should always prompt a search for the obstructing lesion.
-
-### All four ventricles enlarged → Fourth ventricular outlet obstruction or communicating hydrocephalus (tetraventricular hydrocephalus)
-
-This is tetraventricular enlargement. The distinction between outlet obstruction and communicating hydrocephalus matters clinically.
-
-**Fourth ventricular outlet obstruction** (at the foramina of Magendie and Luschka):
-- Causes: posterior fossa tumour (medulloblastoma, ependymoma, cerebellar metastasis), large cerebellar infarct or haematoma, arachnoiditis.
-- Look for a posterior fossa mass compressing or displacing the fourth ventricle; effaced cisterna magna and compressed basal cisterns.
-- ⚠️ **Critical warning**: in posterior fossa masses, inserting a supratentorial EVD alone can precipitate **upward transtentorial herniation** by decompressing the supratentorial compartment while the posterior fossa remains under pressure. Always flag this to neurosurgery before any drainage.
-
-**Communicating hydrocephalus** (CSF resorption failure):
-- All four ventricles enlarged but the aqueduct and fourth ventricle outlets are patent.
-- Common causes in the ED: subarachnoid haemorrhage (SAH), meningitis/ventriculitis, leptomeningeal malignancy.
-- In chronic communicating hydrocephalus (e.g., normal pressure hydrocephalus, NPH), look for the **DESH pattern**: enlarged ventricles, tight high-convexity subarachnoid spaces (sulci appear crowded at the top despite ventricular enlargement), widened Sylvian fissures, and a narrow callosal angle (50–80°). This pattern alone does not confirm NPH — that requires clinical assessment and further testing — but it supports a referral.
-
-### Trapped compartment
-
-A focally enlarged ventricle or segment isolated by adhesions (post-haemorrhage or post-infection).
-
-- **Trapped temporal horn**: a unilaterally dilated temporal horn with adjacent oedema. **Do not attribute this to asymmetric atrophy** — it is a trapped horn until proven otherwise, and it can cause significant local pressure effects.
-- **Trapped fourth ventricle**: the fourth ventricle remains dilated after supratentorial shunting, causing posterior fossa mass effect and brainstem compression.
+- **Always start with non-contrast CT (NCCT)**: identifies mass effect, haemorrhage, hydrocephalus, and gross hypodensity. Use thin slices (≤1.25 mm) and review on **bone and lung windows** to detect small gas pockets and sinus or mastoid disease.
+- **Contrast-enhanced CT (CECT) is essential** if abscess is suspected and not contraindicated. Delayed images (3–5 minutes post-contrast) improve visualisation of thin ring enhancement.
+- **Consider CT venography** if you suspect cortical vein or dural sinus thrombosis — a real risk with otogenic or sinonasal sepsis.
 
 ---
 
-## Distinguishing hydrocephalus from atrophy (ex vacuo ventriculomegaly)
+## CT Findings in Detail
 
-This is a common pitfall. The key discriminators:
+### What to look for on NCCT
 
-| Feature | Hydrocephalus | Atrophy |
+- **Central cavity**: low attenuation, typically **5–25 HU** — slightly higher than CSF (0–15 HU) due to protein and cellular debris. May show a fluid–fluid level if haemorrhagic or if debris has layered.
+- **Gas within the cavity**: extremely low attenuation (−300 to −1000 HU), very sharp interface — this is **highly specific for abscess** in the right clinical context. Always check lung windows. Causes: gas-forming organisms, communication with sinuses or mastoid air cells, penetrating trauma, or post-surgical.
+- **The capsule/rim** is often **isoattenuating** to slightly hyperattenuating on NCCT and may not be visible without contrast.
+- **Vasogenic oedema**: extensive, finger-like, low attenuation (12–22 HU) spreading through white matter, often **disproportionately large** for the size of the lesion — this is a useful clue.
+- **Mass effect**: sulcal effacement, ventricular compression, midline shift.
+- **Early cerebritis** (first few days) is **subtle**: just an ill-defined area of hypodensity with mild mass effect and no rim. Easy to miss. Maintain suspicion in any febrile, encephalopathic patient with a relevant source.
+
+### What to look for on CECT
+
+- **Classic ring enhancement**: thin (1–4 mm), **smooth**, **continuous** ring around a non-enhancing low-attenuation core.
+- The ring is often **thinner on the medial (ventricular) side** — a useful feature, as this is also where rupture is most dangerous.
+- **Nodular or irregular inner margins** make tumour more likely than abscess.
+- **Meningeal enhancement** suggests concurrent meningitis.
+- **Ependymal enhancement** (linear periventricular) or **intraventricular debris** indicates ventricular rupture or ventriculitis — see escalation section below.
+
+### How the CT appearance evolves over time
+
+| Stage | Timing | CT Appearance |
 |---|---|---|
-| Sulci at high convexity | Effaced | Prominent |
-| Transependymal oedema | Present (if acute) | Absent |
-| Temporal horns | Enlarged out of proportion | Enlarged proportionally |
-| Callosal angle | Narrow (<80°) in communicating type | Wide (>100–120°) |
-| Clinical context | Acute deterioration | Gradual cognitive decline |
-
-Chronic leukoaraiosis (small vessel disease) can mimic transependymal oedema. Leukoaraiosis is patchy, often capped around the frontal horns, non-expansile, and slightly higher in attenuation than CSF. Transependymal oedema forms a smooth, continuous, low-attenuation rim tracking the entire ventricular margin and is associated with ventricular enlargement.
+| Early cerebritis | Days 1–3 | Ill-defined hypodensity; no or patchy enhancement; subtle mass effect |
+| Late cerebritis | Days 4–9 | Developing central low attenuation; irregular ring enhancement beginning; oedema increasing |
+| Early capsule | Days 10–13 | Smooth, thin, complete enhancing ring; maximal oedema and mass effect |
+| Late capsule | >2 weeks | Thicker rim; oedema gradually resolving with treatment; eventual calcification |
 
 ---
 
-## CT findings by common ED aetiology
+## Complications — What You Must Not Miss
 
-### Subarachnoid haemorrhage
+These findings require **immediate escalation to neurosurgery**:
 
-Hyperdense blood (50–70 HU) in basal cisterns and sulci. Hydrocephalus develops via clot occluding arachnoid granulations or IVH plugging ventricular outlets. It may develop or worsen over hours to days — **a single early CT does not exclude evolving hydrocephalus**. IVH clot often layers in the occipital horns. Acute hydrocephalus with declining GCS → urgent EVD.
-
-### Intraventricular haemorrhage
-
-Hyperdense clot within the ventricles. Look for clot at the foramina of Monro, within the aqueduct, or filling the fourth ventricle. A "casted" ventricle (entirely filled with clot) with surrounding hypodensity indicates significant obstruction. Requires EVD; intraventricular fibrinolysis is used in selected centres.
-
-### Posterior fossa mass or cerebellar infarct
-
-Obstructive tetraventricular hydrocephalus with posterior fossa mass effect. On CT, look for a hyper- or isoattenuating posterior fossa mass, fourth ventricular compression, effaced cisterna magna, and upward bowing of the tentorium. Beam hardening can degrade image quality in the posterior fossa — use dedicated posterior fossa windows and multiplanar reformats.
-
-### Meningitis and ventriculitis
-
-Communicating hydrocephalus from exudative blockage of arachnoid granulations. On non-contrast CT, basal cisterns may appear slightly hyperdense. Ventriculitis causes intraventricular debris or layering, ependymal thickening (best seen on contrast CT), and frank pus (which may be hyperattenuating and mimic blood on non-contrast CT). Management: antibiotics first; EVD if there is neurological decline.
+- **Impending ventricular rupture**: medial capsule wall is very thin or incomplete, abutting the ventricle. Even before rupture, this demands urgent neurosurgical review.
+- **Ventriculitis / ventricular rupture**: ependymal enhancement, intraventricular debris, periventricular low attenuation (transependymal spread), hydrocephalus. High mortality — neurosurgical emergency.
+- **Posterior fossa abscess with hydrocephalus or brainstem compression**: obstructive hydrocephalus can deteriorate rapidly.
+- **Large supratentorial abscess with significant midline shift or uncal herniation signs**: temporal lobe herniation, loss of basal cisterns.
+- **Subdural or epidural empyema**: crescentic (subdural) or lentiform (epidural) extra-axial collection with peripheral enhancement and marked mass effect, typically arising from adjacent sinusitis or mastoiditis. Do not mistake these for intra-axial abscess — the distinction matters surgically.
+- **Venous sinus thrombosis**: look for a hyperdense venous sinus on NCCT in otogenic or sinonasal sepsis; confirm with CT venography.
 
 ---
 
-## Attenuation values to know
+## Key Differential Diagnoses for Ring-Enhancing Lesions
 
-| Structure | HU (approx.) |
+CT cannot always distinguish these with certainty — that is when you push for MRI. However, these features help:
+
+| Diagnosis | Features that help distinguish from abscess |
 |---|---|
-| CSF | 0–15 |
-| Transependymal oedema | 10–20 |
-| White matter | 20–30 |
-| Grey matter | 30–40 |
-| Acute blood | 50–70 |
-| Choroid plexus calcification | Hundreds–>1000 |
+| **Necrotic metastasis** | Often multiple at grey–white junction; **irregular, nodular inner margins**; haemorrhagic components; known malignancy |
+| **High-grade glioma (GBM)** | **Thick, irregular, incomplete ring**; infiltrative margins; may cross corpus callosum ("butterfly" pattern) |
+| **Subacute infarct** | Follows a vascular territory; **gyriform/cortical enhancement**; not spherical; no fluid cavity |
+| **Resolving haematoma** | History of trauma or coagulopathy; central attenuation evolves from hyperacute high density downwards; fluid–fluid levels can occur |
+| **Tuberculoma** | Often multiple; basal predilection; less exuberant oedema; target calcification in chronic lesions |
+| **Toxoplasmosis** | Immunocompromised; multiple lesions, often basal ganglia/thalamus; variable ring |
+| **Tumefactive demyelination** | **Open ring** (incomplete enhancement, open towards cortex); mild mass effect relative to size; young adult |
+| **Neurocysticercosis** | Thin-walled cysts, often smaller and more numerous; eccentric scolex; colloidal stage has ring enhancement |
 
-Choroid plexus calcification appears very hyperdense and does **not** suppress on bone windows — do not mistake it for IVH. Always use non-contrast CT when assessing for haemorrhage.
-
----
-
-## After CSF diversion: what to look for on follow-up CT
-
-- **Expected**: reduction in temporal horn size, resolution of transependymal oedema, and reappearance of sulci.
-- **Failure to improve**: suggests ongoing obstruction, loculation, or catheter dysfunction — check tip position (should be in the frontal horn or third ventricle, not in parenchyma or the interhemispheric fissure).
-- **Overdrainage**: slit-like ventricles with subdural hygromas (crescentic low-attenuation extra-axial collections) or haematomas (hyperattenuating). May cause low-pressure headaches or intermittent symptoms.
-- **Trapped fourth ventricle**: dilated fourth ventricle with brainstem compression after supratentorial shunting — a distinct complication requiring its own drainage procedure.
-
----
-
-## Common pitfalls
-
-- **Calling atrophy hydrocephalus**: check for transependymal oedema and sulcal effacement; apply the callosal angle.
-- **Missing a triventricular pattern**: always check the fourth ventricle size and look at the aqueduct/tectum on sagittal reformats.
-- **Attributing a trapped temporal horn to asymmetric atrophy**: unilateral temporal horn dilatation with adjacent oedema is a trapped horn.
-- **Missing IVH at the foramina**: use thin slices and sagittal views; a small clot at Monro or in the aqueduct is easy to overlook.
-- **Posterior fossa underassessment**: beam hardening degrades image quality; use multiplanar reformats and posterior fossa windowing.
-- **Inducing upward herniation**: never recommend isolated supratentorial EVD when there is a posterior fossa mass — always flag this risk explicitly to neurosurgery.
-- **Reassurance from one normal CT in SAH**: hydrocephalus may evolve; serial imaging is essential if there is clinical deterioration.
+**Pointers that favour abscess on CT:**
+- Thin, smooth, complete ring with a homogeneous very low-attenuation core (5–25 HU)
+- Marked, disproportionate vasogenic oedema
+- Spherical shape
+- Intralesional gas
+- Contiguity with infected sinus, mastoid, or surgical bed
+- Multiple lesions at grey–white junction in a septic patient
 
 ---
 
-## When to escalate: red flags for urgent neurosurgical review
+## Imaging Pitfalls and Common Misses
 
-- Obstructive hydrocephalus (any pattern) with reduced GCS or clinical deterioration.
-- SAH or IVH with progressive ventriculomegaly and/or transependymal oedema.
-- Posterior fossa mass with fourth ventricular obstruction and brainstem compression.
-- Colloid cyst causing bilateral Monro obstruction — even if currently compensated, this requires urgent discussion.
-- Any tetraventricular hydrocephalus with effaced basal cisterns or signs of herniation.
-
----
-
-## Reporting checklist
-
-- **Ventricular size**: Evans index (state the value); temporal horn widths; third ventricle width; which ventricles are enlarged.
-- **Transependymal oedema**: present or absent; extent.
-- **Sulci**: effaced or preserved at high convexity.
-- **Basal cisterns**: patent, compressed, or effaced.
-- **Likely level of obstruction**: Monro, aqueduct, fourth ventricular outlets, or communicating.
-- **Cause**: identify any mass, clot, membrane, or haemorrhage.
-- **Herniation**: uncal, transtentorial, tonsillar, or upward — risk of each.
-- **Devices**: EVD or shunt tip position; any overdrainage collections.
-- **Recommendation**: urgent neurosurgical review; CTA if vascular cause suspected; contrast CT or MRI if infection or tumour suspected.
+- **Missing early cerebritis**: subtle hypodensity without ring enhancement on NCCT. If the patient is febrile with altered consciousness and a potential source, request CECT and/or MRI.
+- **Not requesting CECT**: ring enhancement may be the only diagnostic sign. NCCT alone is not sufficient when abscess is suspected.
+- **Mistaking necrotic tumour for abscess** (or vice versa): irregular inner margins and heterogeneous core favour tumour, but overlap is real. If uncertain, recommend urgent MRI.
+- **Missing small gas pockets**: always review on lung/bone windows.
+- **Pre-treatment with steroids or antibiotics**: can reduce or abolish enhancement and shrink oedema, masking the diagnosis. Factor this into your interpretation.
+- **Immunocompromised patients**: enhancement and oedema may be minimal despite serious infection. Maintain a lower threshold for concern.
+- **Mistaking a ring-enhancing infarct or haematoma for abscess**: look for vascular territory distribution (infarct) or temporal evolution of density with layering (haematoma).
+- **Confusing subdural empyema with intra-axial abscess**: extra-axial collections follow the inner table, are crescentic or lentiform, and are limited or not by sutures. Look for the cortical vein "embedded" within the collection.
+- **Confusing capsule calcification for gas**: calcification is >100 HU; gas is very negative HU. Check your windows and measure attenuation.
 
 ---
 
-## Key differentials at a glance
+## Clinical and Management Correlations
 
-| Pattern | Key CT features |
-|---|---|
-| Obstructive hydrocephalus | Upstream ventricles enlarged; downstream normal or small; find the obstructing lesion |
-| Communicating hydrocephalus | All four ventricles enlarged; patent aqueduct; DESH pattern in NPH; transependymal oedema if acute |
-| Ex vacuo ventriculomegaly (atrophy) | Proportional sulcal and ventricular enlargement; wide callosal angle; no transependymal oedema |
-| Trapped temporal horn | Focal unilateral dilatation with adjacent oedema; not explained by atrophy |
+### Lumbar puncture is contraindicated
+If there is a space-occupying lesion with mass effect, **do not perform LP** — state this clearly in your report. The herniation risk is real.
+
+### When does surgery happen?
+Lesions **>2.5 cm**, posterior fossa abscesses, and those with significant mass effect will generally need **neurosurgical drainage or aspiration** in addition to intravenous antibiotics. Aspirate culture guides targeted antimicrobial therapy.
+
+### What to communicate urgently
+Immediately contact the neurosurgical team if you identify:
+- Posterior fossa abscess with hydrocephalus or brainstem compression
+- Large abscess with midline shift or herniation
+- Signs of ventriculitis or ventricular rupture
+- Concurrent subdural or epidural empyema
+- Venous sinus thrombosis
+- Multifocal abscesses in an immunocompromised patient
+
+Also alert ENT if there is associated sinusitis or mastoiditis requiring source control.
+
+### Follow-up imaging
+CT can monitor mass effect and complications. MRI is preferred for assessing treatment response (DWI abnormality in the cavity can persist even as the patient improves clinically and enhancement fades). Note: early transient enlargement can occur during treatment — this does not always mean treatment failure, but warrants close monitoring.
 
 ---
 
-## Practical pearls
+## Reporting Checklist
 
-- **Temporal horn >2 mm** is your earliest and most sensitive sign — check it on every head CT.
-- **Transependymal oedema** means the pressure is raised now. Act accordingly.
-- **SAH and interval imaging**: one normal CT is not enough if the patient deteriorates.
-- **Small fourth ventricle** with enlarged lateral and third ventricles = aqueductal obstruction until proven otherwise — look at the sagittal reformat.
-- **Posterior fossa mass + hydrocephalus** = tell neurosurgery before anyone touches the drainage plan.
+When you report a suspected brain abscess, include:
+
+- [ ] Number, size, and location of lesions (lobe, left/right, deep/superficial, posterior fossa)
+- [ ] Central cavity attenuation in HU; presence of gas or fluid–fluid level
+- [ ] Wall/rim: thickness, uniformity, smooth vs nodular inner margin
+- [ ] CECT: complete vs partial ring; ependymal or meningeal enhancement
+- [ ] Extent of vasogenic oedema; midline shift; herniation signs
+- [ ] Relationship to ventricles: medial wall integrity; ventriculitis signs; hydrocephalus
+- [ ] Contiguous disease: sinusitis, mastoid/middle ear disease, bony erosion, surgical changes
+- [ ] Extra-axial collections: subdural or epidural empyema
+- [ ] Vascular complications: venous sinus thrombosis (recommend CT venography if suspected)
+- [ ] Impression: probability of abscess; urgent management alerts; recommend MRI with DWI and contrast if differentiation from tumour is uncertain
+
+---
+
+## Take-home Messages
+
+- The **CT hallmark** of pyogenic brain abscess is a **spherical lesion with a thin, smooth, complete enhancing ring** surrounding a **very low-attenuation core (5–25 HU)**, with **disproportionately marked vasogenic oedema**. **Intralesional gas is highly specific.**
+- The CT appearance **evolves over 1–2 weeks** — early cerebritis is subtle and easily missed; the classic ring enhancement develops in the capsule stage.
+- Always scrutinise for **life-threatening complications**: impending ventricular rupture, posterior fossa mass effect with hydrocephalus, subdural/epidural empyema, and venous sinus thrombosis.
+- Major mimics are **necrotic metastasis, high-grade glioma, subacute infarct, and resolving haematoma** — morphology and clinical context help, but **MRI is often required** for confident differentiation.
+- **LP is contraindicated** with mass effect — say so in your report.
+- **Call neurosurgery early** — your CT report directly determines whether the patient gets to theatre or gets an LP that could kill them.

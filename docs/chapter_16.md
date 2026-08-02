@@ -1,173 +1,248 @@
 ---
 layout: default
-title: "Chapter 16: Brain Abscess"
+title: "Chapter 16: Meningitis and Encephalitis"
 nav_order: 16
 ---
 
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 16: Brain Abscess
+# Chapter 15: Meningitis and Encephalitis on CT
+
+## Scope and Key Points
+
+CT is your first imaging step in any acutely unwell patient with suspected CNS infection. Its main jobs are:
+
+- **Ruling out contraindications to lumbar puncture** (mass effect, obstructive hydrocephalus, obliterated basal cisterns)
+- **Identifying life-threatening complications** (hydrocephalus, empyema, infarction, haemorrhage)
+- **Guiding empirical treatment** even before a definitive diagnosis
+
+**Crucial caveat:** Early CT is frequently normal in both meningitis and encephalitis. A normal CT never excludes CNS infection — do not let it delay antibiotics, antivirals, or LP where clinically indicated.
 
 ---
 
-## Scope and Relevance to Acute Brain CT
+## CT Technique Considerations
 
-Brain abscess is life-threatening and time-critical. CT is usually the first imaging you will have — it will not be perfect, but it needs to be good enough to prompt urgent treatment and the right referrals. MRI with diffusion-weighted imaging (DWI) is more specific, but CT is your starting tool. Know its limits and know when to push for MRI.
+- **Non-contrast CT (NCCT)** first: assesses haemorrhage, mass effect, hydrocephalus, early parenchymal change.
+- **Contrast-enhanced CT (CECT)** adds significant value: detects leptomeningeal enhancement, ependymal enhancement in ventriculitis, empyema, and abscess capsule. Give contrast promptly if there is no contraindication — allow adequate delay (3–5 minutes) for meningeal enhancement to be visible.
+- **Always review the paranasal sinuses, mastoids, and skull base** on bone windows — they may reveal the source of contiguous spread or suggest fungal invasion.
+- **CTA or CTV** if you are concerned about vasculitis, vasospasm, or venous sinus thrombosis.
+- Measure attenuation values (HU) in any suspicious region — this is not just for radiologists.
 
----
-
-## Routes of Spread — Why It Matters for Pattern Recognition
-
-Understanding how an abscess got there tells you where to look and what else to look for.
-
-- **Haematogenous spread** (endocarditis, IV drug use, right-to-left cardiac shunt, pulmonary abscess): expect **multiple lesions at the grey–white junction**, predominantly in MCA territory.
-- **Frontal sinusitis**: look in the **frontal lobe**.
-- **Otitis media or mastoiditis**: look in the **temporal lobe or cerebellum**. Always check the mastoid air cells and middle ear on bone windows.
-- **Dental infection**: frontal or temporal lobe.
-- **Post-traumatic or post-surgical**: site-specific; look for bony defects or surgical bed changes.
-- **Immunocompromised patients**: fungal or nocardial infections tend to involve **deep grey nuclei and white matter tracts**; may be haemorrhagic and less obviously enhancing.
-
-If you find an abscess, look for the source on the same scan — sinuses, mastoids, bone erosion. That drives ENT and neurosurgical co-management.
-
----
-
-## CT Technique
-
-- **Always start with non-contrast CT (NCCT)**: identifies mass effect, haemorrhage, hydrocephalus, and gross hypodensity. Use thin slices (≤1.25 mm) and review on **bone and lung windows** to detect small gas pockets and sinus or mastoid disease.
-- **Contrast-enhanced CT (CECT) is essential** if abscess is suspected and not contraindicated. Delayed images (3–5 minutes post-contrast) improve visualisation of thin ring enhancement.
-- **Consider CT venography** if you suspect cortical vein or dural sinus thrombosis — a real risk with otogenic or sinonasal sepsis.
-
----
-
-## CT Findings in Detail
-
-### What to look for on NCCT
-
-- **Central cavity**: low attenuation, typically **5–25 HU** — slightly higher than CSF (0–15 HU) due to protein and cellular debris. May show a fluid–fluid level if haemorrhagic or if debris has layered.
-- **Gas within the cavity**: extremely low attenuation (−300 to −1000 HU), very sharp interface — this is **highly specific for abscess** in the right clinical context. Always check lung windows. Causes: gas-forming organisms, communication with sinuses or mastoid air cells, penetrating trauma, or post-surgical.
-- **The capsule/rim** is often **isoattenuating** to slightly hyperattenuating on NCCT and may not be visible without contrast.
-- **Vasogenic oedema**: extensive, finger-like, low attenuation (12–22 HU) spreading through white matter, often **disproportionately large** for the size of the lesion — this is a useful clue.
-- **Mass effect**: sulcal effacement, ventricular compression, midline shift.
-- **Early cerebritis** (first few days) is **subtle**: just an ill-defined area of hypodensity with mild mass effect and no rim. Easy to miss. Maintain suspicion in any febrile, encephalopathic patient with a relevant source.
-
-### What to look for on CECT
-
-- **Classic ring enhancement**: thin (1–4 mm), **smooth**, **continuous** ring around a non-enhancing low-attenuation core.
-- The ring is often **thinner on the medial (ventricular) side** — a useful feature, as this is also where rupture is most dangerous.
-- **Nodular or irregular inner margins** make tumour more likely than abscess.
-- **Meningeal enhancement** suggests concurrent meningitis.
-- **Ependymal enhancement** (linear periventricular) or **intraventricular debris** indicates ventricular rupture or ventriculitis — see escalation section below.
-
-### How the CT appearance evolves over time
-
-| Stage | Timing | CT Appearance |
-|---|---|---|
-| Early cerebritis | Days 1–3 | Ill-defined hypodensity; no or patchy enhancement; subtle mass effect |
-| Late cerebritis | Days 4–9 | Developing central low attenuation; irregular ring enhancement beginning; oedema increasing |
-| Early capsule | Days 10–13 | Smooth, thin, complete enhancing ring; maximal oedema and mass effect |
-| Late capsule | >2 weeks | Thicker rim; oedema gradually resolving with treatment; eventual calcification |
-
----
-
-## Complications — What You Must Not Miss
-
-These findings require **immediate escalation to neurosurgery**:
-
-- **Impending ventricular rupture**: medial capsule wall is very thin or incomplete, abutting the ventricle. Even before rupture, this demands urgent neurosurgical review.
-- **Ventriculitis / ventricular rupture**: ependymal enhancement, intraventricular debris, periventricular low attenuation (transependymal spread), hydrocephalus. High mortality — neurosurgical emergency.
-- **Posterior fossa abscess with hydrocephalus or brainstem compression**: obstructive hydrocephalus can deteriorate rapidly.
-- **Large supratentorial abscess with significant midline shift or uncal herniation signs**: temporal lobe herniation, loss of basal cisterns.
-- **Subdural or epidural empyema**: crescentic (subdural) or lentiform (epidural) extra-axial collection with peripheral enhancement and marked mass effect, typically arising from adjacent sinusitis or mastoiditis. Do not mistake these for intra-axial abscess — the distinction matters surgically.
-- **Venous sinus thrombosis**: look for a hyperdense venous sinus on NCCT in otogenic or sinonasal sepsis; confirm with CT venography.
-
----
-
-## Key Differential Diagnoses for Ring-Enhancing Lesions
-
-CT cannot always distinguish these with certainty — that is when you push for MRI. However, these features help:
-
-| Diagnosis | Features that help distinguish from abscess |
+**Useful reference values:**
+| Material | Approximate HU |
 |---|---|
-| **Necrotic metastasis** | Often multiple at grey–white junction; **irregular, nodular inner margins**; haemorrhagic components; known malignancy |
-| **High-grade glioma (GBM)** | **Thick, irregular, incomplete ring**; infiltrative margins; may cross corpus callosum ("butterfly" pattern) |
-| **Subacute infarct** | Follows a vascular territory; **gyriform/cortical enhancement**; not spherical; no fluid cavity |
-| **Resolving haematoma** | History of trauma or coagulopathy; central attenuation evolves from hyperacute high density downwards; fluid–fluid levels can occur |
-| **Tuberculoma** | Often multiple; basal predilection; less exuberant oedema; target calcification in chronic lesions |
-| **Toxoplasmosis** | Immunocompromised; multiple lesions, often basal ganglia/thalamus; variable ring |
-| **Tumefactive demyelination** | **Open ring** (incomplete enhancement, open towards cortex); mild mass effect relative to size; young adult |
-| **Neurocysticercosis** | Thin-walled cysts, often smaller and more numerous; eccentric scolex; colloidal stage has ring enhancement |
-
-**Pointers that favour abscess on CT:**
-- Thin, smooth, complete ring with a homogeneous very low-attenuation core (5–25 HU)
-- Marked, disproportionate vasogenic oedema
-- Spherical shape
-- Intralesional gas
-- Contiguity with infected sinus, mastoid, or surgical bed
-- Multiple lesions at grey–white junction in a septic patient
+| Normal CSF | 0–10 |
+| Proteinaceous/purulent material | 15–45 |
+| Acute blood | 50–80 |
+| Grey matter | 35–45 |
+| White matter | 20–30 |
 
 ---
 
-## Imaging Pitfalls and Common Misses
+## Meningitis: CT Findings
 
-- **Missing early cerebritis**: subtle hypodensity without ring enhancement on NCCT. If the patient is febrile with altered consciousness and a potential source, request CECT and/or MRI.
-- **Not requesting CECT**: ring enhancement may be the only diagnostic sign. NCCT alone is not sufficient when abscess is suspected.
-- **Mistaking necrotic tumour for abscess** (or vice versa): irregular inner margins and heterogeneous core favour tumour, but overlap is real. If uncertain, recommend urgent MRI.
-- **Missing small gas pockets**: always review on lung/bone windows.
-- **Pre-treatment with steroids or antibiotics**: can reduce or abolish enhancement and shrink oedema, masking the diagnosis. Factor this into your interpretation.
-- **Immunocompromised patients**: enhancement and oedema may be minimal despite serious infection. Maintain a lower threshold for concern.
-- **Mistaking a ring-enhancing infarct or haematoma for abscess**: look for vascular territory distribution (infarct) or temporal evolution of density with layering (haematoma).
-- **Confusing subdural empyema with intra-axial abscess**: extra-axial collections follow the inner table, are crescentic or lentiform, and are limited or not by sutures. Look for the cortical vein "embedded" within the collection.
-- **Confusing capsule calcification for gas**: calcification is >100 HU; gas is very negative HU. Check your windows and measure attenuation.
+### General Patterns (All Causes)
+
+NCCT may be normal, particularly early. When abnormal, look for:
+
+- **Sulcal effacement** — diffuse cerebral swelling; loss of grey–white differentiation
+- **Subtly hyperattenuating sulcal or basal cisternal material** — proteinaceous/purulent exudate reads at 15–35 HU (dirtier and less bright than blood at 50–80 HU); look in dependent sulci and the basal cisterns
+- **Hydrocephalus** — communicating type is common (impaired CSF resorption); obstructive if exudate blocks the aqueduct or foramina
+
+On CECT, look for **smooth or nodular gyriform/sulcal enhancement** over convexities and within basal cisterns.
+
+### Pyogenic (Acute Bacterial) Meningitis
+
+- NCCT often normal; may show subtle sulcal hyperattenuation or cerebral swelling with slit-like ventricles
+- CECT: diffuse leptomeningeal enhancement; possible enhancing subdural collections
+
+**Complications to actively seek:**
+
+| Complication | What to look for on CT |
+|---|---|
+| **Ventriculitis** | Dependent hyperattenuating debris in occipital/temporal horns (15–35 HU), "dirty" ventricular CSF, ependymal irregularity; ependymal enhancement on CECT |
+| **Subdural empyema** | Crescentic extra-axial collection, hypo- to isoattenuating (20–40 HU), thin peripheral enhancement on CECT, significant mass effect; check for adjacent sinusitis |
+| **Cerebritis/abscess** | Ill-defined focal hypoattenuation (cerebritis) → ring-enhancing lesion with central near-CSF attenuation (abscess) |
+| **Arterial infarction** | Low attenuation in cortical/deep perforator territories from vasculitis or vasospasm |
+| **Venous sinus thrombosis** | Hyperdense sinus sign; haemorrhagic venous infarcts; confirm with CTV |
+
+### Tuberculous Meningitis (TBM)
+
+Think: **"Basal, blocked, and bilateral"**
+
+- **Basal**: iso- to slightly hyperattenuating material (20–35 HU) filling the interpeduncular, prepontine, and suprasellar cisterns — the cisternal CSF looks "dirty" or obliterated
+- **Blocked**: communicating hydrocephalus often dominates the early CT picture; later, obstructive hydrocephalus may develop
+- **Bilateral**: patchy low attenuation infarcts in basal ganglia, internal capsule, and thalami from perforator endarteritis — these are non-territorial and often bilateral
+
+On CECT: intense basal leptomeningeal enhancement extending along the Sylvian fissures is characteristic.
+
+Coexisting tuberculomas appear as isodense or hypodense nodules with ring or nodular enhancement; they may calcify chronically.
+
+**Escalate:** TBM carries high risk of rapid deterioration from hydrocephalus and vasculitic stroke — early neurosurgical involvement and urgent anti-tuberculous therapy plus corticosteroids are indicated.
+
+### Fungal Meningitis
+
+- Often subtle on NCCT; basal cisternal pattern similar to TBM
+- **Suspect rhino-cerebral mucormycosis or invasive aspergillosis** if you see: aggressive sinonasal disease, bone erosion, cavernous sinus engorgement, or orbital fat stranding — these are neurosurgical/ENT emergencies
+- Angioinvasive forms produce wedge-shaped haemorrhagic infarcts
+- Consider in immunocompromised patients (HIV, transplant, haematological malignancy, uncontrolled diabetes)
+
+### Viral Meningitis
+
+CT is almost always normal. If clinical suspicion is high, proceed to LP rather than relying on CT.
+
+### Ventriculitis
+
+- Seen with Gram-negative or device-related infection; high mortality
+- **NCCT:** Dependent layering debris in occipital and temporal horns (15–35 HU) — scroll slowly through these; irregular/striated ventricular CSF; periventricular hypoattenuation (transependymal oedema)
+- **CECT:** Ependymal enhancement, intraventricular septations
+- Always measure HU in the dependent horns and compare to CSF — this is your most reliable CT sign
 
 ---
 
-## Clinical and Management Correlations
+## Encephalitis: CT Findings
 
-### Lumbar puncture is contraindicated
-If there is a space-occupying lesion with mass effect, **do not perform LP** — state this clearly in your report. The herniation risk is real.
+### General Features
 
-### When does surgery happen?
-Lesions **>2.5 cm**, posterior fossa abscesses, and those with significant mass effect will generally need **neurosurgical drainage or aspiration** in addition to intravenous antibiotics. Aspirate culture guides targeted antimicrobial therapy.
+- NCCT often normal early. With progression: **parenchymal hypoattenuation** (3–10 HU below normal), sulcal effacement, ventricular compression, focal petechial hyperdensity within low-attenuation regions
+- CECT shows variable gyriform or patchy enhancement — useful but neither sensitive nor specific; absence does not exclude encephalitis
 
-### What to communicate urgently
-Immediately contact the neurosurgical team if you identify:
-- Posterior fossa abscess with hydrocephalus or brainstem compression
-- Large abscess with midline shift or herniation
-- Signs of ventriculitis or ventricular rupture
-- Concurrent subdural or epidural empyema
-- Venous sinus thrombosis
-- Multifocal abscesses in an immunocompromised patient
+### HSV-1 Encephalitis (Adults)
 
-Also alert ENT if there is associated sinusitis or mastoiditis requiring source control.
+Think: **"Limbic and leaky"**
 
-### Follow-up imaging
-CT can monitor mass effect and complications. MRI is preferred for assessing treatment response (DWI abnormality in the cavity can persist even as the patient improves clinically and enhancement fades). Note: early transient enlargement can occur during treatment — this does not always mean treatment failure, but warrants close monitoring.
+- **Distribution:** Medial temporal lobes, insula, inferior frontal lobes, cingulate gyri — **asymmetric**, **not conforming to a vascular territory**, and characteristically **sparing the basal ganglia**
+- **Timeline on CT:**
+  - 0–48 h: may be normal; subtle insular or medial temporal hypoattenuation
+  - 2–7 days: confluent low attenuation in mesial temporal lobe and insula with local swelling; petechial hyperdense foci (50–80 HU) within the low-attenuation area; temporal horn effacement
+  - >1 week: cortical necrosis, eventual volume loss
+- CECT: patchy/gyriform cortical and subcortical enhancement (may be minimal early)
 
----
+**Do not wait for CT confirmation before starting IV aciclovir** — treatment should begin immediately on clinical suspicion. A normal CT does not exclude HSV encephalitis.
 
-## Reporting Checklist
+### Arboviral Encephalitis (e.g., Japanese Encephalitis, West Nile)
 
-When you report a suspected brain abscess, include:
+- Symmetric or asymmetric **thalamic and basal ganglia low attenuation** ± haemorrhagic foci
+- Consider in the context of travel history, season, and epidemiological exposure
 
-- [ ] Number, size, and location of lesions (lobe, left/right, deep/superficial, posterior fossa)
-- [ ] Central cavity attenuation in HU; presence of gas or fluid–fluid level
-- [ ] Wall/rim: thickness, uniformity, smooth vs nodular inner margin
-- [ ] CECT: complete vs partial ring; ependymal or meningeal enhancement
-- [ ] Extent of vasogenic oedema; midline shift; herniation signs
-- [ ] Relationship to ventricles: medial wall integrity; ventriculitis signs; hydrocephalus
-- [ ] Contiguous disease: sinusitis, mastoid/middle ear disease, bony erosion, surgical changes
-- [ ] Extra-axial collections: subdural or epidural empyema
-- [ ] Vascular complications: venous sinus thrombosis (recommend CT venography if suspected)
-- [ ] Impression: probability of abscess; urgent management alerts; recommend MRI with DWI and contrast if differentiation from tumour is uncertain
+### VZV Encephalitis/Vasculopathy
+
+- Multifocal ischaemic or haemorrhagic lesions; cortical/subcortical infarcts
+- Consider CTA for vasculopathy or concurrent aneurysmal change
+
+### Autoimmune Limbic Encephalitis (Important Mimic)
+
+- CT often normal; if abnormal, shows mild bilateral mesial temporal low attenuation **without haemorrhage**
+- Subacute presentation (days to weeks) with memory impairment or psychiatric features — contrast with the acute febrile presentation of HSV
+- Escalate: requires MRI and autoimmune antibody panel; treatment is immunotherapy not antivirals
 
 ---
 
-## Take-home Messages
+## Evolution Over Time
 
-- The **CT hallmark** of pyogenic brain abscess is a **spherical lesion with a thin, smooth, complete enhancing ring** surrounding a **very low-attenuation core (5–25 HU)**, with **disproportionately marked vasogenic oedema**. **Intralesional gas is highly specific.**
-- The CT appearance **evolves over 1–2 weeks** — early cerebritis is subtle and easily missed; the classic ring enhancement develops in the capsule stage.
-- Always scrutinise for **life-threatening complications**: impending ventricular rupture, posterior fossa mass effect with hydrocephalus, subdural/epidural empyema, and venous sinus thrombosis.
-- Major mimics are **necrotic metastasis, high-grade glioma, subacute infarct, and resolving haematoma** — morphology and clinical context help, but **MRI is often required** for confident differentiation.
-- **LP is contraindicated** with mass effect — say so in your report.
-- **Call neurosurgery early** — your CT report directly determines whether the patient gets to theatre or gets an LP that could kill them.
+| Timeframe | Meningitis | Encephalitis |
+|---|---|---|
+| 0–48 h | Often normal; subtle swelling or sulcal hyperattenuation | Often normal; subtle low attenuation in predilection sites |
+| 2–7 days | Basal exudates more conspicuous; hydrocephalus; early infarcts | Confluent low attenuation; mass effect; petechial haemorrhage |
+| >1 week | Empyema/abscess risk; organised exudate; evolving infarcts | Necrosis; cortical laminar changes; progressive volume loss |
+
+---
+
+## Key Differentials and Distinguishing Features
+
+### Sulcal or Basal Hyperdensity
+
+| Diagnosis | HU | Key distinguishing features |
+|---|---|---|
+| **Aneurysmal SAH** | 50–80 | Sharply marginated; thunderclap headache; often intraventricular blood |
+| **Meningitic exudate** | 15–35 | "Dirty" CSF; diffuse/basal; fever and sepsis; enhances (not blood density) |
+| **Pseudo-SAH** | Variable | Diffuse cerebral oedema causing relative sulcal hyperdensity; very low parenchymal HU; poor grey–white differentiation |
+
+### Temporal Lobe Low Attenuation
+
+| Diagnosis | Pattern | Clues |
+|---|---|---|
+| **HSV encephalitis** | Medial temporal/insula/cingulate; asymmetric | Haemorrhagic foci; spares basal ganglia; non-territorial; acute fever |
+| **MCA territory infarct** | Vascular territory; insular ribbon sign; ± lentiform nucleus | Hyperdense MCA sign; vascular risk factors |
+| **Limbic encephalitis/status epilepticus** | Mesial temporal, often bilateral and symmetric | No haemorrhage; subacute course |
+
+### Basal Ganglia and Thalamic Lesions
+
+| Diagnosis | Key features |
+|---|---|
+| **TBM vasculitic infarcts** | Patchy, bilateral; coexisting basal cisternal changes and hydrocephalus |
+| **Deep venous thrombosis** | Bilateral thalamic low attenuation ± haemorrhage; hyperdense straight sinus or vein of Galen |
+| **Arboviral encephalitis** | Thalamic low attenuation ± haemorrhage; travel/exposure history |
+
+### Extra-Axial Collections
+
+| | Subdural empyema | Acute subdural haematoma |
+|---|---|---|
+| **HU** | 20–40 | 50–80 |
+| **Enhancement** | Thin peripheral rim on CECT | None acutely |
+| **Adjacent findings** | Sinusitis, osteomyelitis | Trauma history |
+| **Urgency** | Neurosurgical emergency | Neurosurgical emergency |
+
+---
+
+## Imaging Pitfalls: Do Not Miss These
+
+- **Normal early CT does not exclude infection** — if clinical suspicion is high, treat and proceed to MRI or LP
+- **Confusing exudate with haemorrhage** — measure HU; exudate is less dense (15–35 HU), more diffuse and "dirty"; blood is 50–80 HU
+- **Beam hardening at the skull base** mimics basal cisternal hyperdensity — confirm on coronal reformats and adjust windowing
+- **Missing ventriculitis** — always scroll slowly through the occipital and temporal horns and measure HU against normal CSF
+- **Missing deep perforator infarcts in TBM** — scrutinise the basal ganglia and thalami at narrow window settings and compare sides carefully
+- **Overlooking sinuses and mastoids** — always review for adjacent source of infection, especially if fungal disease is possible
+- **Post-LP meningeal enhancement** — mild meningeal enhancement can be a procedure effect; correlate with clinical timing
+
+---
+
+## When to Escalate
+
+| Finding | Action |
+|---|---|
+| **Mass effect, obliterated basal cisterns, midline shift, or obstructive hydrocephalus** | Unsafe for LP — neurosurgical review; do not delay antibiotics |
+| **Communicating hydrocephalus with clinical deterioration** | Urgent neurosurgical review; EVD may be needed |
+| **Subdural empyema or cerebral abscess** | Neurosurgical emergency — urgent drainage and IV antibiotics |
+| **Ventriculitis** | Senior review; consider device removal, CSF diversion, and specialist microbiology input |
+| **TBM pattern** | Infectious diseases and neurosurgery early; start anti-tuberculous therapy and corticosteroids promptly |
+| **HSV encephalitis pattern or clinical suspicion** | IV aciclovir immediately — do not wait for CT, MRI, or LP result |
+| **Suspected invasive fungal sinusitis** | ENT and neurosurgical emergency |
+| **Hyperdense sinus on NCCT (venous thrombosis)** | CTV to confirm; anticoagulation decision with senior input |
+
+---
+
+## Structured Reporting Checklist
+
+When reporting or reviewing a CT in suspected CNS infection, work through systematically:
+
+1. **Global brain:** Grey–white differentiation, diffuse swelling, sulcal effacement, herniation signs
+2. **Subarachnoid spaces:** Cisternal/sulcal attenuation (measure HU), distribution, symmetry; enhancement on CECT
+3. **Ventricles:** Size, transependymal oedema, dependent debris (measure HU), ependymal irregularity/enhancement, loculations
+4. **Parenchyma:** Focal low attenuation (site, symmetry, vascular vs non-vascular territory), mass effect, haemorrhage; specifically review mesial temporal lobes/insula and thalami/basal ganglia
+5. **Extra-axial spaces:** Collections (attenuation, enhancement, mass effect)
+6. **Vessels and sinuses:** Hyperdense artery or sinus sign; CTA/CTV if indicated
+7. **Skull base, sinuses, mastoids, orbits:** Source of infection, bone erosion, cavernous sinus involvement
+8. **Impression:** Likely diagnosis, key complications, specific management recommendations (LP safety, neurosurgical review, empirical treatment)
+
+---
+
+## Windowing Tips
+
+- **Standard brain:** W80/L40 for routine review
+- **Grey–white differentiation:** Narrow to W40/L35
+- **Detecting subtle sulcal exudate vs blood:** Widen to W120/L40
+- **Sinuses and skull base:** Bone algorithm (W2000–4000/L400–700)
+
+---
+
+## Summary
+
+CT in suspected CNS infection is primarily a **triage and complication-detection tool**. A normal CT does not exclude the diagnosis. Start treatment based on clinical assessment — never delay antibiotics or antivirals waiting for imaging.
+
+**Pattern recognition pointers:**
+- **TBM:** Basal cisternal "dirty" material + hydrocephalus + bilateral deep perforator infarcts
+- **HSV encephalitis:** Asymmetric medial temporal/insula low attenuation + petechial haemorrhage + non-territorial + acute fever
+- **Ventriculitis:** Dependent debris in occipital horns — measure it, do not assume it is normal
+- **Subdural empyema:** Isoattenuating crescentic collection with rim enhancement + adjacent sinusitis = surgical emergency

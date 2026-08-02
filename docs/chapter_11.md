@@ -1,245 +1,279 @@
 ---
 layout: default
-title: "Chapter 11: Intracerebral Haemorrhage"
+title: "Chapter 11: Ischaemic Stroke — Early CT Signs, ASPECTS, Large Vessel Occlusion"
 nav_order: 11
 ---
 
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 11: Intracerebral Haemorrhage
+# Chapter 10: Ischaemic Stroke — Early CT Signs, ASPECTS, Large Vessel Occlusion
 
 ---
 
-## Scope and Purpose
+## Overview
 
-This chapter covers spontaneous intracerebral haemorrhage (ICH) on acute non-contrast CT (NCCT). The focus is on recognition, location-based aetiology, signs of deterioration risk, and when to escalate — pitched at the level of an ED middle-grade doctor reviewing scans alongside a radiologist or neurosurgical team.
+Non-contrast CT (NCCT) is your first imaging step in suspected acute ischaemic stroke (AIS). Its three jobs are:
+
+1. **Exclude haemorrhage** before giving thrombolysis.
+2. **Identify early ischaemic change** to estimate infarct size and guide treatment.
+3. **Flag large vessel occlusion (LVO)** surrogates so you can fast-track CT angiography (CTA) and thrombectomy.
+
+A normal NCCT does **not** exclude AIS. If clinical suspicion is high, press on to CTA regardless.
 
 ---
 
-## What You Are Looking For on NCCT
+## What Happens on CT When Brain Ischaemia Begins
 
-Acute clotted blood appears **hyperdense** (bright white) relative to normal brain, typically **60–80 HU**, sometimes up to 100 HU in denser regions. For reference:
+You don't need the detailed biochemistry, but understanding *why* early changes are subtle helps you find them.
 
-| Structure | Approximate HU |
+Acutely ischaemic brain cells swell and take on water. This reduces the CT attenuation (Hounsfield units, HU) of affected tissue — but only by **1–4 HU** in the first few hours. Grey matter is hit earliest and hardest. The result is **blurring of the normal grey–white boundary** — the fundamental early sign you are hunting.
+
+Acute thrombus in an artery is rich in red blood cells and measures **~55–70 HU**, making it visibly brighter than normal flowing blood (~30–45 HU). This is the basis of hyperdense artery signs.
+
+---
+
+## How to Set Up Your Review
+
+### Windows
+
+| Window | Level (HU) | Width (HU) | Use |
+|---|---|---|---|
+| Standard brain | ~40 | ~80 | General review |
+| Stroke window | ~35 | 30–40 | Accentuates grey–white contrast |
+| Wide window | 50–60 | 200–300 | Inspecting for hyperdense artery |
+
+**Always** switch to the stroke window when looking for early ischaemic change — the difference between spotting and missing a subtle insular change often comes down to windowing alone.
+
+### Slice thickness
+
+Use ≤2.5 mm axial reconstructions with coronal and sagittal reformats. Thin slices reduce partial-volume effects that blur or fake grey–white changes near the skull base.
+
+### Search pattern
+
+1. Exclude haemorrhage first.
+2. Assess grey–white differentiation: **insula → lentiform nucleus → caudate → MCA cortex**.
+3. Look for sulcal effacement and focal gyral swelling.
+4. Inspect arteries for hyperdense thrombus: **M1, Sylvian fissure (M2 "dot"), carotid terminus, basilar artery**.
+5. Compare both hemispheres at matched levels throughout.
+
+---
+
+## Early CT Signs of Ischaemic Stroke
+
+### Normal attenuation values for reference
+
+- Grey matter: 30–40 HU
+- White matter: 20–30 HU
+- CSF: 0–15 HU
+- Normal arterial blood: 30–45 HU
+- Acute thrombus: 55–70 HU
+- Early ischaemic parenchyma: ~1–4 HU *lower* than the mirror-image contralateral region
+
+### Parenchymal changes
+
+**Insular ribbon sign**
+Loss of the normal sharp border between insular cortex and adjacent white matter. This is frequently the *earliest visible sign* in MCA territory ischaemia. If you think the insula looks blurred, narrow your window and compare carefully with the other side — trust your instinct.
+
+**Lentiform nucleus obscuration**
+Reduced attenuation and indistinct margins of the putamen and globus pallidus. The lentiform nucleus and insula share a terminal arterial supply with poor collaterals, making them early victims of M1 occlusion.
+
+**Caudate head obscuration**
+Less common as an isolated finding; often accompanies lentiform changes in proximal MCA occlusion.
+
+**Cortical hypoattenuation and sulcal effacement**
+Wedge-shaped cortical hypodensity conforming to a vascular territory, with loss of adjacent sulci. More obvious than deep grey changes but often develops slightly later.
+
+### Hyperdense artery signs
+
+**Hyperdense MCA sign**
+Dense linear structure along the M1 segment, typically >50 HU and >1.2 times the attenuation of the contralateral MCA.
+- Sensitivity ~30–50%; specificity ~90–95%.
+- Not subtle when present — a clearly bright MCA trunk is an LVO until proven otherwise.
+
+**MCA "dot" sign**
+A focal round/ovoid hyperdensity in the Sylvian fissure. Represents thrombus in an M2 or M3 branch. If it is brighter than the contralateral side and nearby veins, treat it as an M2 thrombus until CTA says otherwise.
+
+**Hyperdense ICA terminus sign**
+Increased attenuation at the carotid "T." Can be subtle due to beam hardening near the skull base — use thin slices and reformats.
+
+**Hyperdense basilar artery sign**
+A bright basilar trunk on axial images through the clivus. Specific but not sensitive. Compare with the adjacent venous sinuses; calcified plaque will be much brighter (>120 HU) and eccentric.
+
+### Vascular territory patterns
+
+| Territory | Early changes |
 |---|---|
-| CSF | 0–15 |
-| White matter | 20–30 |
-| Grey matter | 35–45 |
-| Acute clotted blood | 60–80 (up to 100) |
-| Calcification | >100 (often 150–1000) |
+| MCA | Insula, lentiform, caudate; opercular cortex |
+| ACA | Medial frontal and parietal lobes; parasagittal sulcal effacement |
+| PCA | Medial occipital (calcarine), inferomedial temporal; often little early mass effect |
+| Watershed | Linear/serpiginous cortical hypodensity at ACA–MCA or MCA–PCA junctions; think haemodynamic cause if bilateral |
 
-For each haematoma, assess and report:
+![Axial non-contrast CT showing an acute left posterior cerebral artery territory infarct in the left occipital lobe.]({{ '/docs/img/ctb_pca_infarct_left.png' | relative_url }})
+*Figure 10.1 — Acute left PCA-territory infarct. Axial non-contrast CT shows established low attenuation with loss of grey–white matter differentiation in the left occipital lobe (medial occipital/calcarine cortex), conforming to the PCA territory. Note the characteristically limited early mass effect — PCA infarcts are easy to overlook, so interrogate the occipital lobes deliberately whenever visual symptoms are reported.*
 
-- **Location** (deep vs lobar vs posterior fossa)
-- **Size** — use the ABC/2 method (see below)
-- **Internal architecture** — homogeneous or heterogeneous
-- **Surrounding oedema and mass effect** — sulcal effacement, midline shift (mm), ventricular compression
-- **Intraventricular extension (IVH)** and hydrocephalus
-- **Signs of herniation**
-- **Aetiological clues**
+![Axial non-contrast CT showing an acute right posterior cerebral artery territory infarct in the right occipital lobe.]({{ '/docs/img/ctb_pca_infarct_right.png' | relative_url }})
+*Figure 10.2 — Acute right PCA-territory infarct. Axial non-contrast CT shows low attenuation and loss of grey–white matter differentiation in the right occipital lobe. Shown alongside Figure 10.1 to demonstrate the same territory on the contralateral side and reinforce a symmetrical, side-to-side reading pattern.*
 
----
+![Axial non-contrast CT showing loss of the right insular ribbon in acute right MCA-territory ischaemia.]({{ '/docs/img/ctb_infarct_insular_right.png' | relative_url }})
+*Figure 10.3 — Right insular cortex acute infarct. Elderly patient presenting with left-sided weakness, facial droop and left-sided inattention (known atrial fibrillation, recently off anticoagulation). Axial non-contrast CT shows loss of the normal grey–white boundary of the right insular cortex — the insular ribbon sign — with early adjacent cortical hypoattenuation. This is frequently the earliest visible sign of MCA-territory ischaemia; narrow the window and compare directly with the contralateral insula whenever the clinical picture fits.*
 
-## CT Appearances by Time
-
-### Hyperacute to Acute (0–72 hours)
-
-This is the phase you will most commonly see in the ED. The haematoma is hyperdense (60–80 HU), typically round or ovoid in deep locations and more irregular in lobar bleeds.
-
-**Look for internal warning signs that predict haematoma expansion:**
-
-- **Swirl sign** — hypodense swirls within a hyperdense clot, representing unclotted/actively bleeding blood. Marker of haemostatic instability.
-- **Blend sign** — a sharp, distinct interface between a hypodense and a hyperdense region within the clot.
-- **Black hole sign** — a markedly hypodense focus embedded within the acute hyperdense clot.
-- **Fluid–fluid (haematocrit) level** — layering within the haematoma; suggests coagulopathy or anticoagulation.
-- **Island sign / satellite foci** — small haemorrhagic foci separate from but adjacent to the main clot.
-
-Any of these signs should raise concern for active or ongoing bleeding. Combined with a CTA **spot sign** (contrast pooling within the haematoma, indicating active extravasation), they represent strong predictors of expansion and worse outcome.
-
-**Oedema and mass effect** begin within hours but are usually modest at this stage. Perihaematomal oedema appears as a hypodense rim.
-
-**Intraventricular extension** appears as hyperdense blood layering dependently in the occipital horns or casting the ventricles. This increases the risk of obstructive hydrocephalus — check temporal horn size and look for periventricular hypodensity (transependymal CSF seepage).
-
-### Subacute (3 days–2 weeks)
-
-The haematoma becomes increasingly heterogeneous and less bright as the clot lyses. By 7–14 days, attenuation may fall to 30–40 HU, approaching grey matter — the **isodense stage**, where the haematoma can be surprisingly easy to miss. Clues at this stage are surrounding oedema and residual mass effect rather than intrinsic density.
-
-Oedema **peaks around day 5–7** and then begins to recede. Mass effect can therefore worsen in the first week even as the clot itself becomes less dense on CT.
-
-### Chronic (>2–3 weeks)
-
-The haematoma resolves to a hypodense cavity (0–20 HU), often slit-like, with surrounding gliosis. Haemosiderin deposition (the residual "rust" ring) is poorly seen on CT and is better detected on MRI (T2*/SWI).
+![Axial non-contrast CT showing early ischaemic change in the right MCA territory from an M1 segment occlusion.]({{ '/docs/img/ctb_mca_infarct_right.png' | relative_url }})
+*Figure 10.4 — Acute right MCA infarct from M1-segment occlusion. Wake-up presentation with left-sided weakness, facial droop, slurred speech and left-sided neglect (anticoagulated; prior aortic valve replacement). Axial non-contrast CT shows established right MCA-territory hypoattenuation with loss of grey–white differentiation and early sulcal effacement, the appearance of a large vessel occlusion. A left-sided clinical syndrome maps to the right hemisphere — confirm the occlusion on CTA and fast-track for thrombectomy assessment.*
 
 ---
 
-## Location and Likely Aetiology
+## Quantifying Early Ischaemic Change: ASPECTS
 
-Location is your most useful guide to aetiology.
+### What it is
 
-### Deep (basal ganglia, thalamus, pons, cerebellum)
+The Alberta Stroke Programme Early CT Score (ASPECTS) quantifies how much MCA territory shows early ischaemic change. **Start at 10; subtract 1 for each affected region.** It helps estimate infarct core and informs treatment decisions, but it is a surrogate — not a substitute for vascular imaging.
 
-- **Most likely: hypertensive arteriolopathy**
-- Classic sites: putamen/external capsule (most common), thalamus, pons, cerebellar hemispheres near the dentate nucleus
-- Typically solitary, ovoid, and homogeneous acutely
-- Background CT may show small vessel change: lacunes and periventricular white matter hypodensity
+### The 10 regions
 
-![Axial non-contrast CT showing an acute hyperdense haematoma in the left basal ganglia.]({{ '/docs/img/ctb_ich_basal_ganglia_left.png' | relative_url }})
-*Figure 11.1 — Acute hypertensive-related intracerebral haemorrhage, left basal ganglia. Elderly patient on an anticoagulant (edoxaban) presenting with sudden right arm weakness and expressive dysphasia. Axial non-contrast CT shows a well-defined ovoid hyperdense haematoma centred on the left basal ganglia (putamen/external capsule) — the classic site for hypertensive arteriolopathy. Note the homogeneous acute clot; the anticoagulation history raises the priority for urgent reversal, so flag it explicitly.*
+**Assessed at the ganglionic level** (basal ganglia visible):
 
-### Lobar (cortical–subcortical)
+| Code | Region |
+|---|---|
+| C | Caudate head |
+| L | Lentiform nucleus |
+| IC | Internal capsule (posterior limb) |
+| I | Insular ribbon |
+| M1 | Anterior MCA cortex (anterior frontal operculum) |
+| M2 | Lateral MCA cortex (along Sylvian operculum) |
+| M3 | Posterior MCA cortex (posterior temporal) |
 
-- **In the elderly: cerebral amyloid angiopathy (CAA)**
-  - Superficial location, often abutting the cortex
-  - May have finger-like projections into cortex or subarachnoid extension into adjacent sulci
-  - Occipital and parietal lobes are preferentially affected
-  - Often multiple haemorrhages at different ages
-- **In younger patients or atypical presentations: AVM, cavernoma, tumour, venous thrombosis, drug-related**
+**Assessed at the supraganglionic level** (above basal ganglia, at centrum semiovale):
 
-![Axial non-contrast CT showing a large right temporal lobe haematoma with mass effect and subfalcine herniation.]({{ '/docs/img/ctb_ich_temporal_subfalcine.png' | relative_url }})
-*Figure 11.2 — Right temporal lobe haemorrhage with significant mass effect and subfalcine herniation, following aneurysm rupture. Patient with a previously clipped aneurysm (two decades earlier) presenting with headache and contralateral leg weakness. Axial non-contrast CT shows a large heterogeneous right temporal haematoma with surrounding hypodense oedema, effacement of the adjacent sulci and ventricle, and midline shift with subfalcine herniation of the midline structures across the falx. A ruptured aneurysm can bleed directly into adjacent brain parenchyma, so correlate with any subarachnoid blood and interrogate the vasculature on CTA — and always report the herniation and midline shift explicitly.*
+| Code | Region |
+|---|---|
+| M4 | Anterior MCA cortex (frontal lobe) |
+| M5 | Lateral MCA cortex (lateral parietal) |
+| M6 | Posterior MCA cortex (superior parietal/temporal) |
 
-### Posterior Fossa
+### How to score in practice
 
-- **Cerebellar haemorrhage**: urgent. An ovoid hyperdense mass near the dentate nucleus can compress the brainstem and obstruct the fourth ventricle, causing acute obstructive hydrocephalus. Even a clinically stable patient can deteriorate rapidly.
-- **Pontine haemorrhage**: central tegmental hyperdensity. Beware beam-hardening artefact obscuring small bleeds — use thin slices and posterior fossa windows. Small volume, high morbidity.
+1. Use thin slices and stroke windows.
+2. At the ganglionic level: assess C, L, IC, I, M1, M2, M3.
+3. At the supraganglionic level: assess M4, M5, M6.
+4. Subtract one point per region with definite hypoattenuation **or** focal sulcal effacement attributable to acute infarction.
+5. Do **not** subtract for chronic lacunes or leukoaraiosis.
+6. Document which specific regions are affected, not just the total score.
 
-### Non-Territorial or Parasagittal Distribution
+### Clinical thresholds
 
-- Consider **cerebral venous thrombosis (CVT)**, especially if the haemorrhage crosses arterial territories, is bilateral, or involves both thalami
-- Look for a hyperdense cortical vein ("cord sign") or dense dural sinus
-- Confirm with CTV; anticoagulation is standard treatment even with haemorrhagic infarction — flag this for the team urgently
+| ASPECTS | Interpretation |
+|---|---|
+| 8–10 | Small core; favourable for IVT and EVT |
+| 6–7 | Moderate core; usually still eligible for IVT/EVT; assess mismatch |
+| ≤5 | Large core; previously a contraindication to EVT, but recent trials (SELECT2, ANGEL-ASPECT, RESCUE-Japan LIMIT) show EVT benefit in selected patients — decision is multidisciplinary |
+
+### Common ASPECTS pitfalls
+
+- **Chronic changes**: old lacunes and leukoaraiosis are sharply demarcated, CSF-density (0–15 HU), with surrounding volume loss — do not score these as acute.
+- **Beam hardening near the skull base**: can fake insular hypoattenuation; check coronal and sagittal reformats.
+- **Internal capsule**: frequently undercalled. Look for focal attenuation drop and subtle narrowing of the posterior limb compared with the opposite side.
+- **Motion artefact**: blurs grey–white margins and inflates apparent hypoattenuation; repeat acquisition if clinically feasible.
+- **Interobserver variability**: is real and significant. When uncertain, state your confidence level and recommend advanced imaging.
 
 ---
 
-## Aetiology at a Glance
+## Large Vessel Occlusion on NCCT
 
-| Aetiology | Typical Location | Clues |
+### Why it matters
+
+LVO (intracranial ICA, M1, proximal M2, basilar, occasionally proximal ACA/PCA) predicts large infarcts and high benefit from endovascular thrombectomy (EVT) up to 24 hours with appropriate imaging selection. Identifying LVO surrogates on NCCT should prompt **immediate CTA**.
+
+### NCCT clues to LVO
+
+- Hyperdense artery sign in M1, ICA terminus, basilar, or Sylvian fissure.
+- Early involvement of both the insula **and** lentiform nucleus (terminal supply territory).
+- Extensive early ischaemic change for a short time from onset.
+- A continuous hyperdense segment >8 mm suggests a longer clot that responds poorly to IV thrombolysis alone.
+
+### Confirm with CTA
+
+CTA defines the exact occlusion site, identifies tandem cervical ICA lesions, estimates thrombus length, and grades collaterals. Collateral status inversely predicts the extent of early NCCT changes — good collaterals often mean a deceptively "normal" early NCCT despite proximal occlusion.
+
+**A normal NCCT parenchyma with a convincing hyperdense M1 is still an emergency — do not be falsely reassured.**
+
+---
+
+## How Findings Evolve Over Time
+
+| Phase | Timing | CT appearances |
 |---|---|---|
-| Hypertensive arteriolopathy | Putamen, thalamus, pons, cerebellum | Deep, solitary, small vessel WM disease |
-| Cerebral amyloid angiopathy | Lobar, cortical–subcortical, occipital/parietal | Elderly, multiple bleeds of varying age |
-| AVM / dural AVF | Lobar, any age | Serpiginous vessels, calcification, younger patient |
-| Cavernous malformation | Any location | Small, minimal oedema, may calcify; "popcorn" on MRI |
-| Haemorrhagic tumour | Lobar, grey–white junction (metastases) | Nodular enhancement, disproportionate oedema, multiplicity |
-| Haemorrhagic arterial infarct | Vascular territory, gyriform | Background hypoattenuation, stroke context |
-| Cerebral venous thrombosis | Non-territorial, parasagittal, bilateral thalami | Hyperdense sinus/vein, crosses territories |
-| Coagulopathy / anticoagulation | Any | Fluid–fluid level, multifocal, larger volumes |
+| Hyperacute | 0–6 h | Subtle hypoattenuation (1–4 HU); grey–white blurring; focal sulcal effacement; hyperdense artery sign. NCCT may be normal. |
+| Acute | 6–24 h | Progressive hypoattenuation; territory-conforming swelling; sulcal and ventricular effacement; midline shift in large MCA infarcts. Petechial haemorrhagic transformation appears as patchy high attenuation (60–90 HU) within infarcted tissue. |
+| Subacute | 1–2 weeks | Peak mass effect at 3–5 days. **Fogging phenomenon** (days 7–21): the infarct may transiently appear nearly normal in attenuation due to macrophage infiltration and oedema resolution — do not be misled. |
+| Chronic | >1 month | Encephalomalacia, volume loss, ex vacuo ventricular dilatation; attenuation approaches CSF (0–15 HU); well-defined margins. |
+
+![Axial non-contrast CT showing an established left middle cerebral artery territory infarct.]({{ '/docs/img/ctb_mca_infarct_left.png' | relative_url }})
+*Figure 10.5 — Established left MCA-territory infarct with interval extension. Axial non-contrast CT at the basal ganglia level shows extensive hypoattenuation and loss of grey–white matter differentiation across the left MCA territory, involving the insula and lentiform nucleus, with effacement of the adjacent sulci. On comparison with the patient's earlier CT the hypodensity had become more extensive, indicating progression of the infarct — always review prior imaging to distinguish an evolving infarct from a new one.*
 
 ---
 
-## Measuring Haematoma Volume: The ABC/2 Method
+## Stroke Mimics: What Else Can Look Like This
 
-This is quick, reproducible, and feeds directly into clinical decision-making:
-
-1. **A** = maximum diameter on the largest slice (cm)
-2. **B** = diameter perpendicular to A on the same slice (cm)
-3. **C** = number of slices containing haematoma × slice thickness (cm)
-4. **Volume (ml) ≈ (A × B × C) ÷ 2**
-
-Report the volume explicitly — it feeds into the ICH score (along with GCS, age, infratentorial location, and IVH presence) and directly informs surgical and escalation decisions.
-
----
-
-## Differential Diagnoses and How to Distinguish Them
-
-### Calcification
-
-- Very high HU (>100, often 150–1,000)
-- Typical locations: choroid plexus, pineal gland, globi pallidi, falx
-- No surrounding oedema or mass effect (unless within a tumour)
-- Stable on interval imaging; DECT or bone windows can confirm
-
-### Iodinated Contrast Staining
-
-- Occurs after thrombectomy, post-contrast studies, or with blood–brain barrier breakdown
-- HU can be very high (>90–300); may be cortical/subcortical and diffuse
-- Washes out on delayed imaging (hours to a day); separates on DECT iodine maps
-- Key rule: always obtain NCCT **before** contrast for this reason
-
-### Traumatic Contusion
-
-- Gyriform, coup/contrecoup sites
-- Look for skull fractures, scalp swelling, and clinical trauma history
-- DAI: multiple small haemorrhages at grey–white junction, corpus callosum, brainstem
-
-### Haemorrhagic Arterial Infarct
-
-- Within a recognisable vascular territory
-- Gyriform petechiae (haemorrhagic infarction type 1) or confluent haematoma (type 2, worse)
-- Background hypoattenuation from the infarct itself
-
-### Haemorrhagic Tumour
-
-- Disproportionate vasogenic oedema for haematoma size
-- Nodular or irregular enhancing components
-- Solid component persists or enlarges as blood resorbs (unlike primary ICH)
-- Multiple lesions at grey–white junction suggest metastases (melanoma, renal cell, choriocarcinoma are particularly prone to haemorrhage)
+| Mimic | Clues to distinguish |
+|---|---|
+| **Hypoglycaemia** | Diffuse or multifocal changes; check capillary glucose immediately; changes reverse with correction |
+| **Post-ictal (Todd's) changes** | Cortical swelling not confined to one arterial territory; may involve hippocampus; history of seizure; often hyperperfusion on CT perfusion |
+| **Tumour** | Mass effect disproportionate to onset speed; crosses vascular territories; may have calcification or subacute haemorrhage; check for prior imaging |
+| **Encephalitis (e.g. HSV)** | Bilateral/asymmetric temporal and limbic involvement; fever; raised inflammatory markers |
+| **Migraine with aura** | Normal or near-normal CT; deficits transient; not territory-conforming on perfusion |
+| **Chronic small vessel disease** | Symmetric periventricular/deep white matter changes; spares cortex and deep grey; no sulcal effacement |
+| **Old infarct** | CSF-density, volume loss, well-demarcated; do not score as acute on ASPECTS |
 
 ---
 
-## Pitfalls and Common Misses
+## Imaging Pitfalls to Know
 
-- **Hyperacute/isodense haemorrhage**: very early or lysing blood may be near-isodense to grey matter (~35–45 HU). Look for subtle sulcal effacement, focal brain swelling, and asymmetry compared with the other side.
-- **Anaemia**: lowers blood attenuation. Acute ICH may appear only mildly hyperdense (45–55 HU). Correlate with haemoglobin; use thin slices and careful windowing.
-- **Posterior fossa artefact**: beam hardening can obscure small brainstem and cerebellar bleeds. Use thin sections and posterior fossa windows; review across planes where available.
-- **Missing subtle IVH**: dependent blood in the occipital horns can be thin and easy to overlook. Scroll carefully through all ventricular components.
-- **Overlooking hydrocephalus**: always assess the temporal horns, third ventricle, and fourth ventricle. Check for transependymal CSF seepage (periventricular hypodensity).
-- **Calcification mistaken for IVH**: check symmetry, HU values (>100), typical sites, and absence of hydrocephalus.
-- **Pseudo-subarachnoid haemorrhage**: in diffuse cerebral oedema, the cortical veins and falx may appear relatively hyperdense against the swollen brain. This mimics SAH but occurs in the context of global hypoxic–ischaemic injury — not true SAH.
-- **Missing an underlying lesion**: lobar ICH (especially in younger patients or atypical presentations) may conceal an AVM or tumour. Organise interval MRI/CTA once the patient is stable.
+- **High haematocrit/polycythaemia**: raises vascular attenuation — can produce a false hyperdense artery sign. Compare attenuation ratios side-to-side.
+- **Anaemia**: lowers vascular attenuation — may mask a true hyperdense sign.
+- **Vascular calcification**: attenuation typically >120 HU, eccentric, visible on bone windows. Intraluminal thrombus is 55–70 HU and conforms to the lumen.
+- **Overcalling symmetric hypoattenuation**: global cerebral oedema or dehydration can reduce background attenuation. True ischaemia is **asymmetric and territory-conforming**.
+- **Post-contrast iodine staining vs haemorrhagic transformation**: after EVT or CTA, iodine contrast can look like blood. Dual-energy CT differentiates them if available; iodine signal fades on delayed imaging.
+- **Fogging phase**: a subacute infarct can look deceptively normal. If the clinical timeline doesn't fit, request MRI.
 
 ---
 
-## When to Escalate and What to Tell the Team
+## Clinical and Management Correlations
 
-### Neurosurgery — escalate urgently if:
+**Intravenous thrombolysis (IVT)**
+Target window is 4.5 hours from onset. NCCT excludes haemorrhage and gross established infarction. Extensive hypoattenuation involving more than one-third of the MCA territory increases haemorrhagic transformation risk but is not an absolute contraindication — weigh against clinical factors and current guidelines.
 
-- **Cerebellar haemorrhage** >3 cm, with brainstem compression, fourth ventricular effacement, deteriorating GCS, or hydrocephalus → likely to need surgical evacuation or EVD
-- **IVH with obstructive hydrocephalus** → EVD
-- **Lobar ICH** with significant mass effect, deteriorating conscious level, or superficial location where evacuation may be considered
-- **Any ICH with clinical deterioration** — reassess imaging and repeat CT early
+**Endovascular thrombectomy (EVT)**
+Indicated for confirmed anterior circulation LVO up to 6 hours, and up to 24 hours with imaging-based selection (clinical–core mismatch and/or collateral status). Low ASPECTS alone no longer excludes EVT in many centres. Treatment decisions are **multidisciplinary** — your job is to provide accurate, complete imaging information promptly.
 
-### Haematology/pharmacy — escalate if:
+**When to escalate immediately**
+- Any hyperdense artery sign.
+- ASPECTS ≤7 in an acute clinical presentation.
+- Clinical LVO syndrome (high NIHSS, cortical signs, gaze deviation) regardless of NCCT findings.
+- Any uncertainty — call the stroke team and the on-call radiologist, and arrange CTA without delay.
 
-- Fluid–fluid levels, multifocal haemorrhage, or known anticoagulation → urgent reversal
-- Document these CT features explicitly in your assessment
+**Tandem occlusions**
+A hyperdense ICA terminus plus a hyperdense M1 should prompt urgent CTA to look for cervical ICA stenosis or occlusion. This changes the EVT approach (may require combined carotid intervention).
 
-### Neurology/specialist stroke team — escalate if:
-
-- Suspicion of CVT (non-territorial haemorrhage, hyperdense sinus) → urgent CTV and anticoagulation decision
-- Lobar ICH in elderly patient suggesting CAA → MRI for microbleeds, antithrombotic decisions
-- Disproportionate oedema, nodular enhancement, or atypical features suggesting tumour → contrast MRI
-
-### Repeat CT:
-
-- Early repeat at 6–24 hours is standard practice if there are expansion risk signs (spot sign, heterogeneous architecture, clinical deterioration)
-- Interval MRI or CTA should be planned for any lobar ICH where an underlying lesion has not been excluded
+**Inferior division MCA strokes**
+These can score well on NIHSS despite significant ischaemia. Do not undercall subtle insular ribbon loss just because the patient appears less disabled than expected.
 
 ---
 
-## Reporting Checklist
+## Practical Checklist for the On-Call CT Read
 
-Include all of the following in your documentation or handover:
-
-- [ ] **Location**: lobar (specify lobe), deep (putamen/caudate/thalamus), brainstem (pons/midbrain), cerebellar (hemisphere/vermis)
-- [ ] **Volume**: dimensions and ABC/2 estimate (ml)
-- [ ] **Internal architecture**: homogeneous or heterogeneous; swirl/blend/black hole signs; fluid–fluid level
-- [ ] **Perihaematomal oedema**: extent
-- [ ] **Mass effect**: sulcal effacement, midline shift (mm), ventricular compression
-- [ ] **IVH**: which ventricles, degree of layering/casting, hydrocephalus, transependymal oedema
-- [ ] **Herniation**: subfalcine, uncal, transtentorial, tonsillar
-- [ ] **Aetiological clues**: deep vs lobar, subarachnoid admixture, serpiginous vessels, calcification, disproportionate oedema
-- [ ] **Posterior fossa specifics**: fourth ventricular patency, brainstem compression
-- [ ] **Other findings**: skull fractures, prior lacunes/infarcts, white matter disease
-- [ ] **Recommendations**: CTA/CTV/MRI if indicated; follow-up timing; neurosurgical alert if appropriate
+- [ ] Exclude haemorrhage (intraparenchymal, subarachnoid).
+- [ ] Switch to stroke window and use thin slices with multiplanar reformats.
+- [ ] Assess insular ribbon, lentiform nucleus, caudate head, and MCA cortex bilaterally.
+- [ ] Look for sulcal effacement in an arterial territory distribution.
+- [ ] Inspect M1, Sylvian fissure, ICA terminus, and basilar artery for hyperdensity.
+- [ ] Score ASPECTS — document the specific regions affected, not just the total.
+- [ ] Recommend urgent CTA (±CT perfusion per local protocol) if any LVO surrogate is present or clinical suspicion is high.
+- [ ] Flag relevant pitfalls (calcification, haematocrit extremes, motion, chronic changes) and state your confidence.
 
 ---
 
-## Key Take-Home Points
+## Suggested Reporting Phrases
 
-- Acute ICH is typically **60–80 HU** on NCCT. Conspicuity falls in the hyperacute period and with anaemia — if you suspect a bleed but can't clearly see one, look for mass effect, asymmetry, and sulcal effacement.
-- **Location guides aetiology**: deep → hypertensive; lobar in the elderly → CAA; lobar in the young or atypical → AVM, tumour, CVT.
-- **Internal heterogeneity** (swirl, blend, black hole signs) and a **CTA spot sign** predict haematoma expansion — quantify volume and escalate early.
-- **Cerebellar haemorrhage** and **IVH with hydrocephalus** are neurosurgical emergencies — do not wait for clinical deterioration before calling the team.
-- Always **exclude an underlying lesion** in lobar ICH, particularly in younger patients — arrange interval MRI/CTA when the acute haematoma allows.
-- Distinguish blood from calcification and contrast staining using HU values, distribution, clinical context, and DECT or delayed imaging if available.
+**Early ischaemic change:**
+*"Subtle loss of grey–white differentiation in the right insular cortex and lentiform nucleus with mild sulcal effacement; attenuation reduced

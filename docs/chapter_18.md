@@ -1,208 +1,197 @@
 ---
 layout: default
-title: "Chapter 18: Cerebral Oedema"
+title: "Chapter 18: Hydrocephalus"
 nav_order: 18
 ---
 
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 18: Cerebral Oedema
+# Chapter 17: Hydrocephalus
 
 ---
 
-## Definitions and classification
+## Scope and priorities
 
-Cerebral oedema is excess water within the brain parenchyma. There are four patterns worth knowing, because mechanism predicts appearance on CT:
+In the emergency department, your job with hydrocephalus on CT is to answer four questions quickly:
 
-- **Vasogenic**: blood–brain barrier (BBB) breakdown lets fluid leak into the extracellular space, predominantly in white matter. Typical causes: tumour, abscess, PRES.
-- **Cytotoxic**: cell swelling from energy failure (ischaemia, hypoxia). Affects both grey and white matter. Typical cause: acute arterial infarction.
-- **Interstitial (hydrocephalic)**: raised intraventricular pressure forces CSF across the ependyma into periventricular white matter. Cause: hydrocephalus.
-- **Osmotic**: rapid plasma osmolality shifts drive water into the brain. Cause: severe acute hyponatraemia.
-
-Mixed patterns are common in practice.
+1. Are the ventricles genuinely enlarged (or is this atrophy)?
+2. Which ventricles are enlarged — and therefore where is the block?
+3. Is there evidence of acutely raised intracranial pressure (ICP)?
+4. Does this patient need neurosurgical input right now?
 
 ---
 
-## CT fundamentals: what to measure
+## What hydrocephalus looks like on CT: the key signs
 
-On CT, oedema appears as **hypodensity** (low Hounsfield units, HU) combined with **mass effect**. Key reference values:
+**Ventricular enlargement** is the foundation. Useful measurements:
 
-| Tissue | Approximate HU |
+- **Evans index**: maximum bifrontal horn width ÷ maximum inner skull diameter at the same level. **>0.30** suggests ventriculomegaly; **≥0.33** is more specific for hydrocephalus.
+- **Temporal horn width >2 mm** in an adult is abnormal and is often the **earliest, most sensitive sign** — look here first.
+- **Third ventricle width >6–7 mm** is enlarged in most adults.
+
+**Transependymal oedema** is your most important marker of acutely raised intraventricular pressure. It appears as a smooth, symmetrical rim of low attenuation hugging the ventricular margins (10–20 HU — approaching CSF density). It represents CSF being forced through the ependyma into the surrounding white matter under pressure. If you see this, the situation is acute until proven otherwise.
+
+**Sulcal effacement** at the high convexities indicates raised ICP with cerebral swelling. Contrast with atrophy, where sulci are prominent.
+
+**Rounding and ballooning of the frontal horns** — normally pointed, they become rounded and expanded under pressure.
+
+**Downward bowing of the third ventricular floor** is a sign of significant pressure from above, and in the right context suggests the patient may be a candidate for endoscopic third ventriculostomy (ETV) — worth mentioning in your assessment.
+
+---
+
+## Localising the obstruction: which ventricles are enlarged?
+
+This is the most clinically useful pattern-recognition exercise.
+
+### One lateral ventricle enlarged → Foramen of Monro obstruction
+
+One lateral ventricle enlarged with the rest of the system normal. Causes include a colloid cyst, tumour, or post-haemorrhagic adhesion.
+
+- **Colloid cyst**: look for a rounded, often hyperdense (30–90 HU) lesion sitting at the anterior third ventricle between the two foramina of Monro. It may be isodense and easy to miss. This is a neurosurgical emergency — it can cause acute obstruction and sudden death.
+- Both foramina may be blocked simultaneously (e.g., by a colloid cyst), causing **both lateral ventricles** to enlarge with a normal or compressed third ventricle.
+
+### Both lateral ventricles + third ventricle enlarged, fourth ventricle normal → Aqueduct obstruction (triventricular hydrocephalus)
+
+The aqueduct of Sylvius is blocked. Causes include aqueductal stenosis, a tectal plate glioma (often subtle on CT — look for a small mass at the tectum on axial slices), pineal region mass, or intraventricular haemorrhage (IVH) clot within the aqueduct.
+
+- On sagittal reformats, check the aqueduct region and tectal plate carefully.
+- A triventricular pattern with a small fourth ventricle should always prompt a search for the obstructing lesion.
+
+### All four ventricles enlarged → Fourth ventricular outlet obstruction or communicating hydrocephalus (tetraventricular hydrocephalus)
+
+This is tetraventricular enlargement. The distinction between outlet obstruction and communicating hydrocephalus matters clinically.
+
+**Fourth ventricular outlet obstruction** (at the foramina of Magendie and Luschka):
+- Causes: posterior fossa tumour (medulloblastoma, ependymoma, cerebellar metastasis), large cerebellar infarct or haematoma, arachnoiditis.
+- Look for a posterior fossa mass compressing or displacing the fourth ventricle; effaced cisterna magna and compressed basal cisterns.
+- ⚠️ **Critical warning**: in posterior fossa masses, inserting a supratentorial EVD alone can precipitate **upward transtentorial herniation** by decompressing the supratentorial compartment while the posterior fossa remains under pressure. Always flag this to neurosurgery before any drainage.
+
+**Communicating hydrocephalus** (CSF resorption failure):
+- All four ventricles enlarged but the aqueduct and fourth ventricle outlets are patent.
+- Common causes in the ED: subarachnoid haemorrhage (SAH), meningitis/ventriculitis, leptomeningeal malignancy.
+- In chronic communicating hydrocephalus (e.g., normal pressure hydrocephalus, NPH), look for the **DESH pattern**: enlarged ventricles, tight high-convexity subarachnoid spaces (sulci appear crowded at the top despite ventricular enlargement), widened Sylvian fissures, and a narrow callosal angle (50–80°). This pattern alone does not confirm NPH — that requires clinical assessment and further testing — but it supports a referral.
+
+### Trapped compartment
+
+A focally enlarged ventricle or segment isolated by adhesions (post-haemorrhage or post-infection).
+
+- **Trapped temporal horn**: a unilaterally dilated temporal horn with adjacent oedema. **Do not attribute this to asymmetric atrophy** — it is a trapped horn until proven otherwise, and it can cause significant local pressure effects.
+- **Trapped fourth ventricle**: the fourth ventricle remains dilated after supratentorial shunting, causing posterior fossa mass effect and brainstem compression.
+
+---
+
+## Distinguishing hydrocephalus from atrophy (ex vacuo ventriculomegaly)
+
+This is a common pitfall. The key discriminators:
+
+| Feature | Hydrocephalus | Atrophy |
+|---|---|---|
+| Sulci at high convexity | Effaced | Prominent |
+| Transependymal oedema | Present (if acute) | Absent |
+| Temporal horns | Enlarged out of proportion | Enlarged proportionally |
+| Callosal angle | Narrow (<80°) in communicating type | Wide (>100–120°) |
+| Clinical context | Acute deterioration | Gradual cognitive decline |
+
+Chronic leukoaraiosis (small vessel disease) can mimic transependymal oedema. Leukoaraiosis is patchy, often capped around the frontal horns, non-expansile, and slightly higher in attenuation than CSF. Transependymal oedema forms a smooth, continuous, low-attenuation rim tracking the entire ventricular margin and is associated with ventricular enlargement.
+
+---
+
+## CT findings by common ED aetiology
+
+### Subarachnoid haemorrhage
+
+Hyperdense blood (50–70 HU) in basal cisterns and sulci. Hydrocephalus develops via clot occluding arachnoid granulations or IVH plugging ventricular outlets. It may develop or worsen over hours to days — **a single early CT does not exclude evolving hydrocephalus**. IVH clot often layers in the occipital horns. Acute hydrocephalus with declining GCS → urgent EVD.
+
+### Intraventricular haemorrhage
+
+Hyperdense clot within the ventricles. Look for clot at the foramina of Monro, within the aqueduct, or filling the fourth ventricle. A "casted" ventricle (entirely filled with clot) with surrounding hypodensity indicates significant obstruction. Requires EVD; intraventricular fibrinolysis is used in selected centres.
+
+### Posterior fossa mass or cerebellar infarct
+
+Obstructive tetraventricular hydrocephalus with posterior fossa mass effect. On CT, look for a hyper- or isoattenuating posterior fossa mass, fourth ventricular compression, effaced cisterna magna, and upward bowing of the tentorium. Beam hardening can degrade image quality in the posterior fossa — use dedicated posterior fossa windows and multiplanar reformats.
+
+### Meningitis and ventriculitis
+
+Communicating hydrocephalus from exudative blockage of arachnoid granulations. On non-contrast CT, basal cisterns may appear slightly hyperdense. Ventriculitis causes intraventricular debris or layering, ependymal thickening (best seen on contrast CT), and frank pus (which may be hyperattenuating and mimic blood on non-contrast CT). Management: antibiotics first; EVD if there is neurological decline.
+
+---
+
+## Attenuation values to know
+
+| Structure | HU (approx.) |
 |---|---|
-| Normal white matter | 20–30 |
-| Normal grey matter | 35–45 |
 | CSF | 0–15 |
-| Acute blood | 60–80 |
+| Transependymal oedema | 10–20 |
+| White matter | 20–30 |
+| Grey matter | 30–40 |
+| Acute blood | 50–70 |
+| Choroid plexus calcification | Hundreds–>1000 |
 
-Oedematous white matter typically falls to **10–25 HU**. Early cytotoxic change may reduce cortical attenuation by only **2–6 HU** — subtle but significant.
-
-**Windowing tip**: always review with a narrow "stroke" window (centre ~30–35 HU, width ~30–50 HU) in addition to standard brain windows (80/40). Always compare to the contralateral side.
-
----
-
-## General CT signs of cerebral oedema
-
-- **Hypodensity** of parenchyma relative to normal tissue
-- **Loss of grey–white differentiation**
-- **Sulcal effacement** (gyri appear compressed or absent)
-- **Ventricular compression**
-- **Midline shift** — measure at the septum pellucidum; ≥5 mm is clinically significant
-- **Basal cistern effacement** — indicates impending or active herniation; escalate immediately
+Choroid plexus calcification appears very hyperdense and does **not** suppress on bone windows — do not mistake it for IVH. Always use non-contrast CT when assessing for haemorrhage.
 
 ---
 
-## Imaging patterns by mechanism
+## After CSF diversion: what to look for on follow-up CT
 
-### Vasogenic oedema
-
-**Appearance**: finger-like or confluent hypodensity in the **white matter**, with relative sparing of the cortex (at least early). HU typically 10–25. Margins are feathery, following white matter tracts. Often marked mass effect.
-
-**Key point**: the oedema itself does not enhance — any enhancement is from the causative lesion (tumour capsule, abscess wall). Oedema does not respect vascular territories.
-
-**Common causes and clues**:
-- *Tumour/metastasis*: focal or multifocal, oedema radiates from a mass
-- *Abscess*: ring-enhancing lesion on contrast CT; surrounding vasogenic oedema; MRI (diffusion) confirms if available
-- *PRES*: bilateral, posterior-predominant (parieto-occipital) subcortical hypodensity; triggers include severe hypertension, eclampsia, calcineurin inhibitors, renal failure
-
-### Cytotoxic oedema
-
-**Appearance**: loss of grey–white differentiation involving **both cortex and deep grey nuclei**. Distribution follows an **arterial territory**. Sulcal effacement and cortical swelling are prominent. Early changes may be very subtle (2–6 HU).
-
-**Specific signs in acute ischaemic stroke (AIS)**:
-- *Insular ribbon sign*: loss of definition of the insular cortex (MCA territory)
-- *Lentiform nucleus obscuration*: basal ganglia become indistinct
-- *Hyperdense artery sign*: acute thrombus in MCA or basilar (~55–70 HU) — not oedema itself, but a key supporting finding
-
-**Global hypoxic–ischaemic brain injury (HIBI)**: diffuse loss of grey–white differentiation throughout the brain. Watch for the **pseudo-SAH sign** — apparent sulcal hyperattenuation (~30–45 HU) due to venous engorgement and compressed CSF against swollen brain. Do not mistake this for true SAH (which measures ~60–70 HU and coats basal cisterns uniformly).
-
-### Interstitial (hydrocephalic) oedema
-
-**Appearance**: ill-defined periventricular low attenuation "caps" or bands (typically 10–20 HU), most prominent around the frontal and occipital horns. Accompanied by **ventriculomegaly** and bowing of the corpus callosum.
-
-**Key point**: if you see periventricular low attenuation, always look for enlarged ventricles and temporal horn dilatation. This combination means raised intraventricular pressure — escalate urgently if the patient is deteriorating.
-
-### Osmotic oedema
-
-CT is often normal or shows only subtle diffuse hypodensity with mild sulcal effacement. Posterior predominance can mimic PRES. Mainly a clinical diagnosis; CT is used to exclude other causes.
+- **Expected**: reduction in temporal horn size, resolution of transependymal oedema, and reappearance of sulci.
+- **Failure to improve**: suggests ongoing obstruction, loculation, or catheter dysfunction — check tip position (should be in the frontal horn or third ventricle, not in parenchyma or the interhemispheric fissure).
+- **Overdrainage**: slit-like ventricles with subdural hygromas (crescentic low-attenuation extra-axial collections) or haematomas (hyperattenuating). May cause low-pressure headaches or intermittent symptoms.
+- **Trapped fourth ventricle**: dilated fourth ventricle with brainstem compression after supratentorial shunting — a distinct complication requiring its own drainage procedure.
 
 ---
 
-## Aetiology-based patterns on acute CT
+## Common pitfalls
 
-### Acute ischaemic stroke (AIS)
+- **Calling atrophy hydrocephalus**: check for transependymal oedema and sulcal effacement; apply the callosal angle.
+- **Missing a triventricular pattern**: always check the fourth ventricle size and look at the aqueduct/tectum on sagittal reformats.
+- **Attributing a trapped temporal horn to asymmetric atrophy**: unilateral temporal horn dilatation with adjacent oedema is a trapped horn.
+- **Missing IVH at the foramina**: use thin slices and sagittal views; a small clot at Monro or in the aqueduct is easy to overlook.
+- **Posterior fossa underassessment**: beam hardening degrades image quality; use multiplanar reformats and posterior fossa windowing.
+- **Inducing upward herniation**: never recommend isolated supratentorial EVD when there is a posterior fossa mass — always flag this risk explicitly to neurosurgery.
+- **Reassurance from one normal CT in SAH**: hydrocephalus may evolve; serial imaging is essential if there is clinical deterioration.
 
-| Time | CT appearance |
+---
+
+## When to escalate: red flags for urgent neurosurgical review
+
+- Obstructive hydrocephalus (any pattern) with reduced GCS or clinical deterioration.
+- SAH or IVH with progressive ventriculomegaly and/or transependymal oedema.
+- Posterior fossa mass with fourth ventricular obstruction and brainstem compression.
+- Colloid cyst causing bilateral Monro obstruction — even if currently compensated, this requires urgent discussion.
+- Any tetraventricular hydrocephalus with effaced basal cisterns or signs of herniation.
+
+---
+
+## Reporting checklist
+
+- **Ventricular size**: Evans index (state the value); temporal horn widths; third ventricle width; which ventricles are enlarged.
+- **Transependymal oedema**: present or absent; extent.
+- **Sulci**: effaced or preserved at high convexity.
+- **Basal cisterns**: patent, compressed, or effaced.
+- **Likely level of obstruction**: Monro, aqueduct, fourth ventricular outlets, or communicating.
+- **Cause**: identify any mass, clot, membrane, or haemorrhage.
+- **Herniation**: uncal, transtentorial, tonsillar, or upward — risk of each.
+- **Devices**: EVD or shunt tip position; any overdrainage collections.
+- **Recommendation**: urgent neurosurgical review; CTA if vascular cause suspected; contrast CT or MRI if infection or tumour suspected.
+
+---
+
+## Key differentials at a glance
+
+| Pattern | Key CT features |
 |---|---|
-| Minutes–hours | Subtle hypodensity (2–6 HU drop); insular ribbon sign; lentiform obscuration; hyperdense artery |
-| 6–24 h | Clearer hypodensity in vascular territory; sulcal effacement |
-| 3–5 days | **Peak swelling and mass effect** — highest herniation risk |
-| ~2 weeks | **Fogging**: infarct may appear near-isodense as inflammation and protein transiently raise attenuation; do not underestimate infarct extent |
-| >3 weeks | Encephalomalacia — CSF-density with ex vacuo ventricular dilatation |
-
-**When to escalate**: >1/3 MCA territory hypodensity early on predicts malignant oedema and haemorrhagic transformation risk. Midline shift ≥5 mm with basal cistern effacement requires immediate senior/neurosurgical review. Decompressive hemicraniectomy may be considered within 48 hours in eligible patients.
-
-### Cerebral venous thrombosis (CVT)
-
-**CT appearance**: cortical and subcortical hypodensity **not conforming to any arterial territory**, commonly with haemorrhagic components (mixed hypo- and hyperdensity). The **cord sign** (hyperdense cortical vein) or **dense sinus** on non-contrast CT supports the diagnosis. Request **CT venography** whenever the distribution is atypical or CVT is suspected.
-
-**Escalate**: anticoagulate even if haemorrhagic venous infarction is present — this is different from arterial haemorrhagic transformation.
-
-### PRES
-
-Bilateral posterior-predominant subcortical white matter hypodensity. May extend to cerebellum, brainstem, or frontal lobes. Haemorrhage occurs in a minority.
-
-**Action**: urgent blood pressure control (avoid precipitous drops), seizure management, remove offending drug if applicable. Expect reversibility with prompt treatment.
-
-### Traumatic brain injury (TBI)
-
-- **Contusional oedema**: hypodense areas adjacent to hyperdense haemorrhagic contusions, typically at cortical surfaces and grey–white junctions. Swelling progresses over 24–72 hours — repeat CT is essential.
-- **Diffuse cerebral oedema**: global hypodensity and effacement after severe head injury or secondary hypoxia.
-
-Watch for herniation patterns:
-- *Subfalcine*: midline shift; ipsilateral lateral ventricle compressed
-- *Uncal*: effaced ipsilateral ambient/crural cistern; brainstem compression
-- *Tonsillar*: crowded foramen magnum
-
-Any of these require immediate neurosurgical involvement.
-
-### Hypoxic–ischaemic brain injury (HIBI)
-
-Diffuse loss of grey–white differentiation and sulcal/ventricular effacement. Look specifically for the **pseudo-SAH sign** (see above) and avoid misdiagnosis. Early CT may significantly underestimate the degree of injury.
-
-### Encephalitis (e.g., HSV)
-
-Hypodensity in the medial temporal lobes, insula, and cingulate — often asymmetric, may have haemorrhagic foci. **CT can be entirely normal early**. If clinical suspicion exists, request urgent MRI and start empirical aciclovir without waiting for imaging confirmation.
-
-### Metabolic and toxic causes
-
-- *Hyponatraemia*: diffuse swelling with sulcal effacement; correct slowly — rapid correction risks osmotic demyelination (an MRI diagnosis, not a CT oedema finding)
-- *Hepatic failure, DKA*: diffuse hypodensity; CT may be normal
-- *DKA in children*: avoid aggressive fluid resuscitation which can worsen cerebral oedema; CT for any neurological decline
+| Obstructive hydrocephalus | Upstream ventricles enlarged; downstream normal or small; find the obstructing lesion |
+| Communicating hydrocephalus | All four ventricles enlarged; patent aqueduct; DESH pattern in NPH; transependymal oedema if acute |
+| Ex vacuo ventriculomegaly (atrophy) | Proportional sulcal and ventricular enlargement; wide callosal angle; no transependymal oedema |
+| Trapped temporal horn | Focal unilateral dilatation with adjacent oedema; not explained by atrophy |
 
 ---
 
-## Key differentials and how to distinguish them
+## Practical pearls
 
-| Differential | Key distinguishing features |
-|---|---|
-| Acute vasogenic oedema vs chronic small vessel disease (leukoaraiosis) | Acute: mass effect, cortical compression, new focal deficit. Chronic: symmetric, no mass effect, U-fibres preserved, known on previous imaging |
-| AIS (cytotoxic) vs PRES (vasogenic) | AIS: arterial territory, cortex + deep nuclei, unilateral, hyperdense artery. PRES: bilateral, posterior, subcortical, non-territorial, relevant triggers |
-| Venous vs arterial infarction | Venous: non-territorial, haemorrhagic, hyperdense sinus/cord, consider CT venography. Arterial: territorial, hyperdense artery |
-| Tumoural oedema vs abscess vs subacute infarct | Tumour: mass + disproportionate oedema. Abscess: ring enhancement, restricted diffusion on MRI. Subacute infarct: wedge-shaped territory, fogging on follow-up |
-| Interstitial oedema vs chronic periventricular change | Interstitial: ventriculomegaly + clinical deterioration, improves with CSF diversion. Chronic: stable, well-defined, no ventriculomegaly |
-
----
-
-## Pitfalls and common misses
-
-- **Poor windowing**: standard windows alone will miss subtle hypodensity. Always use a narrow stroke window and compare both hemispheres.
-- **Pseudo-SAH**: measure HU in the sulci/cisterns — pseudo-SAH is ~30–45 HU, true SAH is ~60–70 HU. Clinical context also helps.
-- **Fogging at ~2 weeks**: subacute infarcts may appear near-normal or even slightly dense. Correlate with clinical timeline and previous imaging.
-- **Overcalling chronic white matter disease**: periventricular low attenuation is common in older patients. Look for mass effect before calling it acute.
-- **Missing interstitial oedema**: subtle periventricular low density may be the only early sign of acute hydrocephalus. Always check temporal horn size and callosal bowing.
-- **Missing CVT**: atypical oedema distribution or haemorrhage not fitting an arterial territory should prompt CT venography.
-- **Post-ictal change**: transient cortical swelling and hypodensity can mimic infarction. Distribution is not strictly vascular; clinical history and follow-up imaging resolve uncertainty.
-- **Beam hardening/artefact**: particularly in the posterior fossa; use multiple planes and reconstruction settings before concluding.
-
----
-
-## Clinical and management correlations
-
-| Scenario | Action |
-|---|---|
-| Vasogenic oedema from tumour/metastasis | Dexamethasone reduces oedema rapidly |
-| Cytotoxic oedema (AIS, HIBI) | Steroids are **not** beneficial |
-| Abscess-related oedema | Steroids after antibiotics initiated |
-| Impending herniation (any cause) | Osmotherapy (hypertonic saline or mannitol), urgent neurosurgical review |
-| Malignant MCA infarction (≥5 mm shift, cisternal effacement, <48 h) | Consider decompressive hemicraniectomy; discuss with neurosurgery urgently |
-| Posterior fossa mass effect with brainstem compression | Urgent neurosurgical decompression |
-| Interstitial oedema + clinical deterioration | Urgent CSF diversion (EVD or shunt) |
-| PRES | Controlled BP reduction; avoid precipitous drops; seizure management |
-| CVT with haemorrhagic infarction | Anticoagulate |
-| Hyponatraemia | Cautious correction; rapid correction risks osmotic demyelination |
-
----
-
-## Practical reporting checklist
-
-When you review a CT for possible oedema, work through these in order:
-
-1. **Global impression**: focal oedema, diffuse oedema, or normal?
-2. **Attenuation**: grey–white differentiation preserved? Any focal hypodensity? Estimate HU and compare to contralateral side.
-3. **Distribution**: arterial territory? Posterior predominance? Periventricular? Non-territorial?
-4. **Mass effect**: sulcal effacement? Ventricular compression? Midline shift (measure in mm)? Basal cistern status?
-5. **Aetiological clues**: hyperdense artery/sinus? Focal mass? Haemorrhage? Hydrocephalus?
-6. **Complications**: haemorrhagic transformation? Herniation signs? Obstructive hydrocephalus?
-7. **Clinical correlation**: hypertension/eclampsia (PRES)? Known malignancy? Hypoxic event? Immunosuppression?
-8. **Next steps**: CT angiography? CT venography? Urgent MRI? Neurosurgical referral?
-
----
-
-## Key take-home messages
-
-- **Mechanism predicts morphology**: vasogenic oedema is white matter–predominant with cortical sparing; cytotoxic oedema involves cortex and deep grey nuclei in a vascular territory; interstitial oedema is periventricular and accompanies ventriculomegaly.
-- **Oedema on CT = hypodensity + mass effect**. Small HU differences matter — use narrow windowing and compare sides.
-- **Anticipate peak swelling at 3–5 days** after large infarcts and contusions; communicate early if the trajectory looks malignant.
-- **Know the mimics**: pseudo-SAH in HIBI, fogging in subacute infarction, chronic white matter disease.
-- **Tie imaging directly to action**: PRES → BP control; malignant MCA infarction → decompression discussion; hydrocephalus with interstitial oedema → CSF diversion; CVT → anticoagulation; impending herniation → osmotherapy and neurosurgery now.
+- **Temporal horn >2 mm** is your earliest and most sensitive sign — check it on every head CT.
+- **Transependymal oedema** means the pressure is raised now. Act accordingly.
+- **SAH and interval imaging**: one normal CT is not enough if the patient deteriorates.
+- **Small fourth ventricle** with enlarged lateral and third ventricles = aqueductal obstruction until proven otherwise — look at the sagittal reformat.
+- **Posterior fossa mass + hydrocephalus** = tell neurosurgery before anyone touches the drainage plan.
