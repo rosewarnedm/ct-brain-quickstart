@@ -193,3 +193,44 @@ Before signing off any acute NCCT as normal, confirm you have:
 - **Posterior fossa findings** — low CT sensitivity; if symptoms localise here and CT looks normal, escalate for urgent MRI
 - **Possible DVST** — CTV or MRI urgently
 - **Iodine versus haemorrhage** post-reperfusion therapy — discuss antithrombotic management with stroke team; arrange DECT or delayed CT
+
+---
+
+## Self-Assessment
+
+*FRCR-style multiple true/false — decide True or False for each stem (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1. Regarding Hounsfield units (HU) and their calibration on CT:**
+- (a) By definition, water measures 0 HU and air measures −1000 HU.
+- (b) The attenuation difference between grey and white matter is typically only 5–10 HU.
+- (c) Acute clotted intracranial haemorrhage typically measures 50–80 HU.
+- (d) A well-defined hyperdense focus measuring 250 HU is most likely acute haemorrhage.
+- (e) Fat characteristically returns positive HU values in the region of +30 to +100.
+
+**Q2. Concerning the CT appearances and evolution of intracranial haematoma:**
+- (a) A subacute haematoma at 1–2 weeks may be isodense to brain and therefore easily missed.
+- (b) Chronic haematoma (>2 weeks) tends to fall to 0–20 HU, approaching CSF density.
+- (c) Effacement of sulci and midline shift can help identify an isodense subdural collection.
+- (d) The attenuation of a haematoma rises steadily as it ages over the first month.
+- (e) The hyperdensity of fresh clot reflects its high protein and packed red cell content.
+
+**Q3. Regarding window settings and slice selection on acute head CT:**
+- (a) Standard brain (parenchymal) windows are typically set at a window level of about 35 and a window width of about 80.
+- (b) A wider window width (around 160–200) is recommended for reviewing the posterior fossa.
+- (c) Bone windows are appropriate for detecting subtle subarachnoid haemorrhage.
+- (d) Partial volume averaging can conceal a thin subdural collection or hairline fracture on 4–5 mm slices.
+- (e) Blood/SAH windows (WW ~110–150) can reveal subtle subarachnoid blood not seen on standard brain windows.
+
+**Q4. Concerning artefacts and mimics on non-contrast head CT:**
+- (a) Beam-hardening artefact from the petrous bones can mimic or obscure posterior fossa pathology.
+- (b) In diffuse cerebral oedema the parenchyma becomes globally hyperdense, causing pseudo-SAH.
+- (c) The tentorium on thick axial slices may mimic subarachnoid haemorrhage in the basal cisterns.
+- (d) Polycythaemia or dehydration can cause vessels to appear mildly hyperdense bilaterally without thrombosis.
+- (e) Motion artefact produces blurring and double contours and may warrant a limited repeat.
+
+**Q5. Regarding contrast, advanced techniques and vascular signs:**
+- (a) After thrombolysis, extravasated iodinated contrast (contrast staining) can mimic haemorrhage on standard CT.
+- (b) On a delayed non-contrast CT at 12–24 hours, true haemorrhage fades while iodine staining persists.
+- (c) On dual-energy CT, haemorrhage persists on the virtual non-contrast image whereas iodine staining does not.
+- (d) Acute dural venous sinus thrombosis appears as a hyperdense sinus (~60–75 HU) — the "dense sinus sign".
+- (e) Fetal dose from a maternal head CT is so high that head CT is contraindicated in pregnancy.

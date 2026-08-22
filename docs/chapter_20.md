@@ -226,3 +226,44 @@ Your report or verbal handover should include:
 - **In any posterior fossa pathology, review the quadrigeminal cistern, aqueduct, fourth ventricle, and foramen magnum on sagittal images** — axials alone are insufficient
 - **New midline or paramedian brainstem hyperdensities in a deteriorating patient = Duret haemorrhages until proven otherwise**
 - **CSF diversion in the presence of a posterior fossa mass risks upward herniation** — always consider what
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 68-year-old man presents with a decreasing conscious level after a fall. Non-contrast CT shows a large acute right convexity subdural haematoma. The right lateral ventricle is effaced, there is 9 mm of midline shift at the septum pellucidum, and the left lateral ventricle appears disproportionately enlarged. Which single feature best explains the dilated contralateral ventricle?
+- (a) Global loss of grey–white differentiation from diffuse oedema
+- (b) Duret haemorrhage obstructing the aqueduct
+- (c) Bilateral pericallosal artery compression
+- (d) Trapping of the contralateral ventricle from obstruction at the foramen of Monro
+- (e) Upward transtentorial herniation compressing the fourth ventricle
+
+**Q2.** A 55-year-old woman with a right temporal lobe glioma becomes drowsy with a newly fixed, dilated right pupil. Which single CT finding is the earliest and most reliable indicator of the herniation responsible?
+- (a) Midline shift greater than 10 mm at the septum pellucidum
+- (b) Effacement of the ipsilateral (right) ambient cistern
+- (c) Wedge-shaped medial occipital hypodensity
+- (d) Obliteration of the cisterna magna
+- (e) Slit-like bilateral lateral ventricles with global sulcal effacement
+
+**Q3.** A 72-year-old man with severe traumatic brain injury and bifrontal contusions deteriorates. Repeat CT shows symmetric effacement of all basal cisterns, slit-like ventricles, and new linear hyperdense (70 HU) foci in the paramedian midbrain and pons not present on the prior scan. Which single statement is most accurate regarding these new foci?
+- (a) They represent beam-hardening artefact at the skull base and should be ignored
+- (b) They are typical of intracranial hypotension and warrant a search for a CSF leak
+- (c) They indicate a PCA territory infarct and predict a good recovery
+- (d) They are an incidental finding requiring only routine follow-up imaging
+- (e) They are Duret haemorrhages, indicating severe brainstem injury and a very poor prognosis
+
+**Q4.** A 60-year-old woman presents with acute cerebellar haemorrhage. CT shows dilated lateral and third ventricles with a compressed fourth ventricle and effacement of the quadrigeminal cistern from below. The referring team asks whether a ventricular drain alone will manage her hydrocephalus. What is the single most appropriate response to communicate?
+- (a) Isolated supratentorial CSF diversion may precipitate or worsen upward herniation, so the posterior fossa mass must be addressed urgently by neurosurgery
+- (b) A lumbar puncture is the safest way to relieve the raised pressure
+- (c) The imaging is reassuring and no urgent intervention is required
+- (d) The reader should site the ventricular drain to definitively treat the hydrocephalus
+- (e) Osmotherapy alone will resolve the ventricular dilatation without neurosurgical input
+
+**Q5.** A 48-year-old man who had a decompressive craniectomy two weeks ago, and recently had CSF drained, becomes increasingly drowsy. CT shows an inwardly concave scalp over the craniectomy defect, slit ventricles, cisternal effacement, and midline shift directed *towards* the defect. What is the single most appropriate immediate action for the reporting radiologist?
+- (a) Recommend urgent further decompressive craniectomy for raised intracranial pressure
+- (b) Reassure the team that a craniectomy has eliminated the risk of herniation
+- (c) Flag paradoxical herniation, advise supine/Trendelenburg positioning and stopping CSF overdrainage, and escalate immediately to neurosurgery and critical care
+- (d) Advise immediate mannitol administration to lower intracranial pressure
+- (e) Attribute the appearances to off-axis head positioning and take no further action

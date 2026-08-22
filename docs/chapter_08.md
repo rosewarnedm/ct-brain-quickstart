@@ -206,3 +206,44 @@ When reporting a head CT after trauma, work through the following:
 - **Duret haemorrhages are not DAI** — they are midline, in the context of herniation and mass effect.
 - **Always review inferior frontal and temporal poles** with thin sections and adjusted windowing. Beam hardening hides small contusions in these critical locations.
 - **Repeat CT at 6–24 hours** is standard for moderate-to-severe TBI, sooner if the patient deteriorates.
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 24-year-old is brought in after a fall, having struck the back of his head on a kerb. There is a large occipital scalp haematoma. Given the mechanism, which region should you scrutinise most carefully for contrecoup contusions?
+- (a) The occipital lobes deep to the scalp haematoma
+- (b) The basal ganglia and thalami bilaterally
+- (c) The anteroinferior frontal lobes and temporal poles
+- (d) The parieto-occipital watershed cortex
+- (e) The cerebellar hemispheres
+
+**Q2.** A 40-year-old sustains a head injury. The initial CT shows small bifrontal haemorrhagic contusions. A follow-up CT at 48 hours shows the haemorrhagic components have enlarged and coalesced, with increased surrounding oedema and new mass effect. How is this change on CT best characterised?
+- (a) Expected haemorrhagic progression ("blossoming"), typically peaking at 24–72 hours
+- (b) Rebleeding from a ruptured aneurysm
+- (c) Development of a superimposed cerebral abscess
+- (d) Contrast extravasation from a delayed scan phase
+- (e) Haemorrhagic transformation of an arterial infarct
+
+**Q3.** A CT after high-speed trauma shows a large, irregular, markedly heterogeneous lobar haemorrhagic contusion with significant mass effect and an overlying acute subdural haematoma — a "burst lobe". What is the most appropriate immediate action for the reporting radiologist?
+- (a) Recommend outpatient MRI in six weeks for characterisation
+- (b) Advise a repeat CT in one week to assess for blossoming
+- (c) Reassure the team that this is a self-limiting appearance
+- (d) Arrange a CT angiogram to exclude an underlying vascular malformation first
+- (e) Discuss urgently with neurosurgery for consideration of surgical management
+
+**Q4.** A 19-year-old is deeply comatose (GCS 4) after a motorcycle collision. The non-contrast CT head is essentially normal. What is the single most appropriate interpretation and next step?
+- (a) The normal CT excludes significant intracranial injury; step down monitoring
+- (b) A normal CT does not exclude diffuse axonal injury; refer to critical care/anaesthetics and arrange MRI once stable
+- (c) The clinical picture must be due to intoxication alone; await sobriety
+- (d) Immediate decompressive craniectomy is indicated
+- (e) Lumbar puncture to exclude subarachnoid haemorrhage
+
+**Q5.** On a trauma CT you identify punctate hyperdense foci at the grey–white junction and in the splenium of the corpus callosum, and additional foci in the dorsolateral brainstem. Using the Adams classification, which grade of diffuse axonal injury does the brainstem involvement indicate, and what does it signify?
+- (a) Grade I — grey–white junction only; good prognosis
+- (b) Grade I — normal-appearing CT; no escalation needed
+- (c) Grade II — callosal involvement; intermediate severity
+- (d) Grade III — dorsolateral brainstem involvement; the most severe pattern with the worst prognosis
+- (e) Grade II — brainstem sparing confirms a mild injury

@@ -335,3 +335,44 @@ Refer to the team that manages SIH locally (commonly neurology and/or the pain/a
 ## Summary
 
 In acute headache, NCCT read systematically can rapidly identify or strongly suggest life-threatening causes. Know the haematocrit effects on attenuation, scrutinise the basal cisterns and dural sinuses with appropriate windows, and interpret in the clinical context. Recommend targeted vascular or MR follow-up where needed, avoid the common pitfalls (anaemia, pseudo-SAH, beam hardening, calcification), and — when the imaging pattern mandates immediate intervention — escalate at once to the team that will act (e.g. the stroke team/interventional neuroradiology, neurosurgery, or the relevant medical/obstetric team).
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 44-year-old presents with a thunderclap headache that peaked within seconds 3 hours ago. Neurological examination is normal. A thin-slice non-contrast CT head is performed and reported as showing no haemorrhage. Which single statement best reflects the correct interpretation and next step?
+- (a) A negative CT at this time excludes subarachnoid haemorrhage with about 90% certainty, so no further investigation is required
+- (b) Proceed directly to catheter angiography to exclude an aneurysm
+- (c) Modern thin-slice CT within 6 hours of ictus is close to 100% sensitive for SAH, so a truly negative scan makes aneurysmal SAH very unlikely
+- (d) Repeat the non-contrast CT in 24 hours as sensitivity increases with time
+- (e) The scan is unreliable because a blood window was not used, so it should be disregarded
+
+**Q2.** A 32-year-old woman, 2 weeks postpartum, presents with a progressive headache, seizures and left-sided weakness. Non-contrast CT shows a right parasagittal haemorrhagic lesion that does not conform to an arterial territory, with adjacent low attenuation. Which single next investigation is most appropriate?
+- (a) CT angiography of the intracranial arteries
+- (b) Lumbar puncture
+- (c) Digital subtraction catheter angiography of the cerebral arteries
+- (d) Non-contrast CT of the neck
+- (e) CT venography
+
+**Q3.** A 58-year-old with sudden severe headache, reduced visual acuity and ophthalmoplegia has a CT showing an enlarged sellar mass containing high-attenuation (50–90 HU) material with a fluid–fluid level and blood in the suprasellar cistern. Beyond urgent imaging and specialist referral, which single intervention is the most time-critical to arrange immediately?
+- (a) Intravenous hydrocortisone for possible adrenal insufficiency
+- (b) Immediate transsphenoidal surgical decompression
+- (c) Intravenous mannitol to reduce mass effect
+- (d) Commencement of nimodipine
+- (e) Broad-spectrum intravenous antibiotics
+
+**Q4.** A 47-year-old with recurrent thunderclap headaches over the past week uses sumatriptan for migraine. Non-contrast CT shows thin hyperdense blood confined to a few frontoparietal cortical sulci over the convexity, with normal basal cisterns. Which single diagnosis best fits this convexity SAH pattern and history?
+- (a) Aneurysmal subarachnoid haemorrhage
+- (b) Perimesencephalic non-aneurysmal SAH
+- (c) Cerebral venous sinus thrombosis
+- (d) Reversible cerebral vasoconstriction syndrome
+- (e) Pituitary apoplexy
+
+**Q5.** A 39-year-old presents with acute headache, vomiting and drowsiness. Non-contrast CT shows a round, well-defined hyperdense (approximately 60 HU) lesion at the anterosuperior third ventricle near the foramen of Monro, with dilated lateral ventricles and periventricular low attenuation. What is the single most appropriate immediate action?
+- (a) Arrange outpatient MRI to characterise the lesion
+- (b) Refer immediately to neurosurgery for management of obstructive hydrocephalus
+- (c) Perform a lumbar puncture to relieve raised pressure
+- (d) Start intravenous antibiotics for suspected ventriculitis
+- (e) Request CT venography to exclude venous thrombosis

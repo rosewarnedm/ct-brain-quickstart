@@ -289,3 +289,44 @@ These can score well on NIHSS despite significant ischaemia. Do not undercall su
 
 **Early ischaemic change:**
 *"Subtle loss of grey–white differentiation in the right insular cortex and lentiform nucleus with mild sulcal effacement; attenuation reduced
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 72-year-old man presents 90 minutes after sudden-onset left-sided weakness, facial droop and gaze deviation. You are the reporting radiologist reviewing the non-contrast CT (NCCT) head. There is no haemorrhage, and the brain parenchyma appears essentially normal, but the right M1 segment is clearly brighter than the contralateral MCA, measuring 62 HU. What is the single most appropriate immediate action?
+- (a) Report the study as normal, as the parenchyma shows no established infarct
+- (b) Advise the referrer that thrombolysis is now contraindicated because of the hyperdense artery
+- (c) Fast-track CT angiography and refer urgently to the stroke team / interventional neuroradiology, as this appearance indicates a large vessel occlusion
+- (d) Personally arrange and administer intravenous thrombolysis before further imaging
+- (e) Recommend a follow-up NCCT in 24 hours to allow the infarct to declare itself
+
+**Q2.** Which of the following statements about the Alberta Stroke Programme Early CT Score (ASPECTS) is correct?
+- (a) Scoring begins at 0 and one point is added for each normal region
+- (b) Scoring begins at 10 and one point is subtracted for each region showing acute ischaemic change
+- (c) A chronic lacune should have a point subtracted because it represents tissue loss
+- (d) The score is calculated from the anterior and posterior cerebral artery territories combined
+- (e) An ASPECTS of 10 indicates extensive established infarction
+
+**Q3.** An 80-year-old woman with atrial fibrillation presents with left-sided weakness and inattention. On NCCT, which structure is most frequently the earliest visible site of parenchymal ischaemic change in middle cerebral artery territory stroke?
+- (a) The insular ribbon
+- (b) The posterior limb of the internal capsule
+- (c) The medial occipital (calcarine) cortex
+- (d) The superior parietal lobule
+- (e) The medial frontal lobe
+
+**Q4.** You are reviewing an NCCT and spot a focal round hyperdensity within the right Sylvian fissure that is brighter than the contralateral side and adjacent veins. It measures 60 HU and conforms to the vessel lumen; there is no eccentric calcification and no history of polycythaemia. Which single interpretation is most appropriate?
+- (a) Vascular calcification, which typically measures over 120 HU and is eccentric
+- (b) A normal cortical vein
+- (c) An MCA "dot" sign representing thrombus in an M2/M3 branch, to be treated as occlusion until CTA proves otherwise
+- (d) A false hyperdense sign due to a raised haematocrit
+- (e) Petechial haemorrhagic transformation of an established infarct
+
+**Q5.** A 68-year-old man presents 3 hours after stroke onset. His NCCT shows definite acute hypoattenuation in the caudate head, lentiform nucleus, insula and one MCA cortical region, giving an ASPECTS of 6, and there is a hyperdense right M1 sign. Regarding your role and the management pathway, which single statement is most accurate?
+- (a) An ASPECTS of 6 alone absolutely excludes endovascular thrombectomy, so no urgent referral is needed
+- (b) You should provide the ASPECTS, occlusion clue and clot burden promptly, arrange CTA and refer urgently, as the multidisciplinary team makes reperfusion decisions
+- (c) The reporting radiologist should independently decide on and deliver thrombectomy
+- (d) A normal parenchymal appearance would have excluded large vessel occlusion, so the hyperdense artery can be disregarded
+- (e) Thrombectomy can only be considered within 4.5 hours, so the pathway is irrelevant beyond this window

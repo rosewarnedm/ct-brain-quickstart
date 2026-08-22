@@ -330,3 +330,44 @@ The grey–white matter (GM–WM) difference is normally 5–10 HU and falls ear
 - Direct the pathway: NCCT is the gate; CTA/CTV/CECT/MRI are the next doors — know which to open and when.
 - Beware the pitfalls that delay life-saving intervention: posterior fossa disease, isoattenuating SDH, pseudo-SAH, calcification mimicking clot.
 - Clear, urgent, specific communication is as important as accurate image interpretation.
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 68-year-old man on apixaban for atrial fibrillation presents with sudden headache and a GCS of 10. The non-contrast CT brain shows a 40 mL left temporoparietal intracerebral haemorrhage with 7 mm of midline shift, intraventricular extension and partial effacement of the basal cisterns. What is the single most appropriate immediate next action?
+- (a) Arrange an outpatient MRI to characterise the underlying cause
+- (b) Perform a lumbar puncture to exclude an infective cause
+- (c) Continue the apixaban and repeat the CT in 24 hours
+- (d) Make an urgent referral to neurosurgery for possible CSF diversion and haemorrhage control, and to haematology for anticoagulation reversal
+- (e) Request a delayed dual-energy CT before contacting any team
+
+**Q2.** A 55-year-old woman has a thunderclap headache. Non-contrast CT shows hyperdense blood filling the basal cisterns, with dilated temporal horns, rounded frontal horns and periventricular low attenuation. Her GCS has dropped to 12. Which single next step is most appropriate?
+- (a) Immediately contact neurosurgery/critical care for consideration of an external ventricular drain, and request CTA head and neck to identify the aneurysm
+- (b) Perform an urgent diagnostic lumbar puncture to confirm subarachnoid haemorrhage
+- (c) Reassure and discharge, as the appearances are typical of benign perimesencephalic haemorrhage
+- (d) Arrange MRI brain the following morning before any referral
+- (e) Start empirical intravenous antibiotics for presumed meningitis
+
+**Q3.** A 72-year-old man with sudden right hemiplegia and aphasia presents 3 hours after onset. Non-contrast CT shows a hyperdense left M1 segment and early ischaemic change giving an ASPECTS of 8, with no haemorrhage. He is still on the CT table. What is the single best next action?
+- (a) Send him back to the emergency department and book a routine MRI
+- (b) Give intravenous antibiotics and admit under general medicine
+- (c) Refer to neurosurgery for immediate decompressive hemicraniectomy
+- (d) Perform a lumbar puncture before any further imaging
+- (e) Activate the stroke team immediately and proceed to CTA head and neck (± CT perfusion) while he remains on the table
+
+**Q4.** A 6-year-old child presents with reduced consciousness after an unwitnessed "fall from a sofa." CT shows an acute subdural haematoma of differing ages, plus interhemispheric blood. The history is inconsistent with the injuries. Beyond the acute neurosurgical management, which single further escalation is most appropriate?
+- (a) Discharge home once the child is stable, with GP follow-up
+- (b) Make a referral to the safeguarding/child protection team
+- (c) Arrange a routine outpatient developmental assessment
+- (d) Reassure the family that the mechanism explains the findings
+- (e) Book an elective MRI in six weeks and take no further action now
+
+**Q5.** A 40-year-old woman with known frontal sinusitis presents with fever, headache and new focal seizures. CT shows a crescentic hypodense-to-isodense extra-axial collection along the interhemispheric fissure with marked adjacent cortical swelling. What is the single most appropriate next action?
+- (a) Start oral antibiotics and review in clinic in one week
+- (b) Perform an immediate lumbar puncture to obtain CSF
+- (c) Urgently refer to neurosurgery and ENT for drainage, and start broad-spectrum intravenous antibiotics
+- (d) Arrange an outpatient MRI and defer treatment until it is available
+- (e) Reassure that this is a benign chronic subdural collection needing no action

@@ -170,3 +170,44 @@ When you find (or suspect) tSAH, your report should address each of these points
 - **Anchor the diagnosis** by correlating the SAH pattern with the rest of the study: fractures, contusions, and scalp injury confirm a traumatic aetiology.
 - **Systematically review** the tentorium, high convexities, interhemispheric fissure, and occipital horns — these are the areas most often missed.
 - **Say what it means for management** in your report. If the pattern warrants CTA or repeat imaging, state that clearly.
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 24-year-old motorcyclist is brought in after a high-speed collision. The non-contrast head CT shows thin, lace-like hyperattenuation tracking within the sulci over the right frontal convexity, immediately adjacent to a small frontal contusion, with an overlying scalp haematoma. Which single feature most strongly supports a traumatic rather than aneurysmal cause for the subarachnoid blood?
+- (a) The presence of intraventricular blood layering in the occipital horns
+- (b) The peripheral, sulcal-predominant distribution adjacent to a contusion and scalp injury
+- (c) Attenuation of the blood measuring above 45 HU
+- (d) Symmetrical filling of both Sylvian fissures
+- (e) Associated dilatation of the temporal horns
+
+**Q2.** A 71-year-old woman is found collapsed at the bottom of the stairs. Her non-contrast CT shows dense, star-shaped subarachnoid blood filling the suprasellar and interpeduncular cisterns and extending symmetrically into both Sylvian fissures, with only a trivial scalp abrasion and no fracture or contusion. What is the most appropriate next step by the reporting radiologist?
+- (a) Attribute the haemorrhage to the fall and recommend a routine repeat CT at 24 hours
+- (b) Recommend commencing nimodipine before any further imaging
+- (c) Recommend urgent CT angiography to exclude a ruptured aneurysm
+- (d) Recommend MRI to look for lobar microbleeds of amyloid angiopathy
+- (e) Report the appearances as pseudo-subarachnoid haemorrhage from cerebral oedema
+
+**Q3.** You are asked to review a non-contrast head CT performed 10 days after a witnessed head injury in which an earlier scan reportedly showed thin convexity tSAH. The current scan shows no visible subarachnoid blood. What is the most appropriate interpretation?
+- (a) The original report must have been in error, as tSAH does not resolve
+- (b) Resolution of visible blood by this stage is expected; the earlier imaging remains the reference for the acute finding
+- (c) The absence of blood indicates the haemorrhage was aneurysmal and has been treated
+- (d) A CT angiogram is now mandatory because the blood has cleared
+- (e) The blood has certainly converted to a chronic subdural collection
+
+**Q4.** A 68-year-old man on warfarin sustains a fall. CT confirms thin convexity tSAH without mass effect or IVH. Regarding the reporting radiologist's role in his ongoing management, which statement is most appropriate?
+- (a) The radiologist should prescribe vitamin K and prothrombin complex concentrate in the report
+- (b) The radiologist should recommend immediate craniotomy for evacuation
+- (c) The radiologist should promptly flag the anticoagulation and haemorrhage to the admitting team so urgent reversal can be arranged, and comment on stability for prophylaxis decisions
+- (d) The radiologist should advise that thromboprophylaxis be started immediately
+- (e) The radiologist should recommend nimodipine to reduce the risk of vasospasm
+
+**Q5.** A non-contrast head CT of an elderly patient shows subtle sulcal hyperattenuation. You suspect it is artefactual or a mimic rather than acute blood. Which finding would best support that the appearance is NOT true acute subarachnoid haemorrhage?
+- (a) The material measures 55 HU and moulds to the shape of the sulcus
+- (b) The density is asymmetric compared with the mirror-image sulcus
+- (c) The material is sharply marginated, measures over 100 HU, and lies along the falx unchanged on prior imaging
+- (d) The blood tracks within sulci adjacent to a frontal contusion
+- (e) There is dependent layering of hyperdensity in the occipital horns

@@ -294,3 +294,49 @@ Record the **time, recipient, and content** of the call in the report — this c
 ---
 
 Work through every scan the same way, tie the CT appearance back to the underlying pathophysiology, and describe findings precisely. Then say what you found, what it means, and what should happen next — and pick up the phone when it is time-critical. That is what makes an acute CT brain report safe, reproducible, and genuinely useful to the team looking after the patient.
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** You are reporting a non-contrast CT brain on a 72-year-old who fell 10 days ago. There is a right-sided crescentic extra-axial collection that is isodense to adjacent cortex, with effacement of the right cerebral sulci and 4 mm of leftward midline shift. Which single feature is the most reliable way to avoid missing this collection on the brain window?
+
+- (a) Measuring the attenuation of the collection in Hounsfield units
+- (b) Recognising unilateral sulcal effacement and mass effect with loss of the normal side-to-side sulcal symmetry
+- (c) Noting that the collection crosses suture lines
+- (d) Identifying an adjacent skull fracture on bone windows
+- (e) Looking for a biconvex, lens-shaped configuration
+
+**Q2.** A 55-year-old presents with thunderclap headache. Non-contrast CT within 4 hours shows hyperdense material in the basal cisterns and interhemispheric fissure, with early dilatation of both temporal horns and a periventricular low-attenuation halo. Which of the following best represents an accurate, actionable impression for this report?
+
+- (a) "Query subarachnoid haemorrhage. Clinical correlation advised."
+- (b) "Extensive subarachnoid blood. No further imaging indicated at this stage."
+- (c) "Subarachnoid haemorrhage. The reporter will proceed to coil the causative aneurysm."
+- (d) "Acute subarachnoid haemorrhage centred on the basal cisterns, with early obstructive hydrocephalus (transependymal oedema). Recommend urgent neurosurgical referral and urgent CTA to identify the aneurysm; findings phoned to the referring team."
+- (e) "Subarachnoid haemorrhage; consider lumbar puncture if symptoms persist."
+
+**Q3.** A radiology trainee is reporting a CT brain for suspected acute stroke that is being considered for thrombectomy. Which single statement in the impression is most likely to drive the correct management decision?
+
+- (a) "No intracranial haemorrhage. Left MCA hyperdense vessel sign present (HU 55, ratio 1.4 vs contralateral). ASPECTS 8. Findings support the thrombectomy pathway — please contact the stroke team."
+- (b) "There may be some early low-attenuation change in the left hemisphere; correlate clinically."
+- (c) "Possible haemorrhage cannot be fully excluded; suggest repeat imaging."
+- (d) "Appearances are within normal limits for age."
+- (e) "Left MCA territory changes noted; the reporter will administer thrombolysis."
+
+**Q4.** You are dictating a report on a large acute extradural haematoma with 18 mm thickness, 7 mm midline shift and effacement of the ipsilateral basal cistern. According to good acute reporting practice, what is the single most appropriate final step?
+
+- (a) Save the report and let the referring team read it in the normal workflow
+- (b) Add "urgent" to the report priority flag and take no further action
+- (c) Arrange the theatre list and consent the patient for craniotomy yourself
+- (d) Recommend a follow-up CT in 24 hours before escalating
+- (e) Phone the finding to the referring/neurosurgical team immediately and record the time, recipient and content of the call in the report
+
+**Q5.** A 34-year-old on the combined oral contraceptive pill presents with headache and a seizure. Non-contrast CT shows a right parietal subcortical haemorrhage that does not conform to an arterial territory, with surrounding oedema, and the right transverse sinus appears hyperdense (68 HU) relative to the left. Which single next step should the report recommend?
+
+- (a) Recommend CT perfusion to assess salvageable penumbra
+- (b) Recommend the referring team commence nimodipine and blood pressure control for presumed aneurysmal SAH
+- (c) Recommend CT venography to confirm suspected cerebral venous sinus thrombosis, and advise anticoagulation unless strongly contraindicated
+- (d) Report a hypertensive basal ganglia haemorrhage and recommend blood pressure control
+- (e) Attribute the hyperdense sinus to dehydration and recommend no further imaging

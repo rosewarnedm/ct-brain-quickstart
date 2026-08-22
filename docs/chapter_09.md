@@ -248,4 +248,54 @@ If the leak site is uncertain, CT cisternography (intrathecal iodinated contrast
 | Arachnoid granulation | Smooth, round, CSF-density defect within sinus; bony remodelling, not acute |
 | Synchondroses (children) | Smooth, corticated, symmetric, age-appropriate location |
 | Lytic metastasis/myeloma | Geographic or moth-eaten lucency, non-sclerotic margins, no trauma history |
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 34-year-old man is struck on the side of the head with a bat. Non-contrast CT shows a sharply marginated, non-corticated lucent line crossing the left temporoparietal bone. Which single feature of this fracture location most warrants careful scrutiny of the adjacent epidural space?
+
+- (a) It overlies the superior sagittal sinus groove
+- (b) It crosses the groove of the middle meningeal artery
+- (c) It involves the cribriform plate
+- (d) It runs through the carotid canal
+- (e) It traverses the otic capsule
+
+**Q2.** A 41-year-old woman fell down stairs. On the trauma CT you note tiny foci of −1000 HU air within the right cochlea and vestibule, with an adjacent fracture line running through the petrous temporal bone. Which term best describes this specific finding, and what does it indicate?
+
+- (a) Haemotympanum — blood in the middle ear cavity
+- (b) Haematosinus — blood within the sphenoid sinus
+- (c) Pneumolabyrinth — otic capsule violation
+- (d) Simple pneumocephalus — a dural breach only
+- (e) Mount Fuji sign — tension pneumocephalus
+
+**Q3.** A 27-year-old motorcyclist has a CT showing a fracture through the sphenoid body extending into the wall of the left carotid canal. He is neurologically stable. As the reporting radiologist, what is the single most appropriate next step?
+
+- (a) Report and take no further action, as he is neurologically stable
+- (b) Arrange temporal bone HRCT to assess the ossicles
+- (c) Recommend CT cisternography to exclude a CSF leak
+- (d) Recommend CTA and refer to neurosurgery/vascular for management
+- (e) Start antiplatelet therapy yourself before referral
+
+**Q4.** A 22-year-old man fell from height, landing on his feet. CT shows an occipital condyle fracture with an avulsed bony fragment at the alar ligament attachment (Anderson–Montesano type III). What is the single most appropriate recommendation in your report?
+
+- (a) The fracture is stable; no immobilisation or referral is needed
+- (b) Maintain cervical immobilisation, refer to the spine service, and request MRI for ligamentous assessment
+- (c) Refer urgently to ENT for surgical exploration of the facial nerve
+- (d) Recommend high-flow oxygen and conservative management only
+- (e) Arrange CT cisternography to localise a CSF leak
+
+**Q5.** A 3-year-old presents with a scalp swelling three months after a witnessed head injury. CT shows a widening, scalloped-edged calvarial defect at the site of a previously documented diastatic fracture. What is the single best explanation?
+
+- (a) An accessory suture that was previously overlooked
+- (b) A normal spheno-occipital synchondrosis
+- (c) A growing skull fracture (leptomeningeal cyst) from a dural tear
+- (d) A lytic metastasis
+- (e) An arachnoid granulation
+| Vascular grooves (MMA, sinuses) | Smooth, corticated, branching, intraosseous |
+| Arachnoid granulation | Smooth, round, CSF-density defect within sinus; bony remodelling, not acute |
+| Synchondroses (children) | Smooth, corticated, symmetric, age-appropriate location |
+| Lytic metastasis/myeloma | Geographic or moth-eaten lucency, non-sclerotic margins, no trauma history |
 | Congenital bony

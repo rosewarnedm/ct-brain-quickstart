@@ -218,3 +218,44 @@ When you review a CT for possible oedema, work through these in order:
 - **Anticipate peak swelling at 3–5 days** after large infarcts and contusions; communicate early if the trajectory looks malignant.
 - **Know the mimics**: pseudo-SAH in HIBI, fogging in subacute infarction, chronic white matter disease.
 - **Tie imaging directly to escalation**: PRES → escalate for BP control; malignant MCA infarction → urgent neurosurgical discussion re decompression; hydrocephalus with interstitial oedema → refer to neurosurgery for CSF diversion; CVT → discuss with stroke/neurology re anticoagulation; impending herniation → critical care/neurosurgery now for ICP-lowering measures.
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 58-year-old woman with known breast cancer presents with headache and a new left-sided weakness. Non-contrast CT shows confluent, finger-like low attenuation (measuring ~18 HU) in the right cerebral white matter with relative sparing of the overlying cortex and marked mass effect. Which single pattern of oedema does this best represent?
+- (a) Cytotoxic oedema
+- (b) Interstitial (hydrocephalic) oedema
+- (c) Vasogenic oedema
+- (d) Osmotic oedema
+- (e) Pseudo-subarachnoid haemorrhage
+
+**Q2.** A 72-year-old man is brought in 3 hours after sudden-onset dense left hemiplegia and gaze deviation. Non-contrast CT shows loss of the right insular cortical ribbon, obscuration of the right lentiform nucleus and a subtle 4 HU reduction in cortical attenuation involving both grey and white matter within the right MCA territory. Which single finding on this scan would most strongly support acute arterial thromboembolism as the cause?
+- (a) Bilateral posterior subcortical hypodensity
+- (b) Periventricular low-attenuation caps around the frontal horns
+- (c) Sulcal hyperattenuation measuring ~35 HU
+- (d) Effacement of the temporal horns with callosal bowing
+- (e) A hyperdense right middle cerebral artery measuring ~65 HU
+
+**Q3.** A comatose 40-year-old man is imaged after a prolonged cardiac arrest with successful resuscitation. Non-contrast CT shows diffuse loss of grey–white differentiation, effaced sulci and slit-like ventricles. The sulci and basal cisterns appear mildly hyperattenuating, measuring approximately 35–40 HU. What is the single most appropriate interpretation of the sulcal hyperattenuation?
+- (a) True subarachnoid haemorrhage requiring CT angiography for an aneurysm
+- (b) Pseudo-subarachnoid haemorrhage from diffuse cerebral oedema
+- (c) Acute cortical vein thrombosis (cord sign)
+- (d) Meningeal enhancement from bacterial meningitis
+- (e) Beam-hardening artefact confined to the posterior fossa
+
+**Q4.** A 34-year-old woman, 3 days post-partum with eclampsia and a blood pressure of 210/120 mmHg, has a seizure. Non-contrast CT shows bilateral, symmetric subcortical low attenuation in the parieto-occipital regions without a hyperdense artery and not conforming to any single arterial territory. In keeping with the atlas convention of recognise-then-escalate, what is the single most appropriate immediate action?
+- (a) Refer to neurosurgery urgently for decompressive hemicraniectomy
+- (b) Start therapeutic anticoagulation for suspected venous thrombosis
+- (c) Administer dexamethasone to reduce the oedema
+- (d) Escalate to the medical/critical care team for controlled BP reduction and seizure management
+- (e) Reassure and discharge as the CT changes are chronic small-vessel disease
+
+**Q5.** A 65-year-old man with a large right MCA infarct is rescanned on day 4 because of declining consciousness. Non-contrast CT now shows extensive right hemispheric hypodensity, effaced basal cisterns and 8 mm of midline shift at the septum pellucidum. What is the single most appropriate next step?
+- (a) Discuss urgently with neurosurgery for consideration of decompressive hemicraniectomy
+- (b) Start high-dose corticosteroids to reduce the cytotoxic oedema
+- (c) Arrange routine outpatient MRI to assess infarct age
+- (d) Attribute the appearances to fogging and take no further action
+- (e) Request CT venography to exclude cerebral venous thrombosis

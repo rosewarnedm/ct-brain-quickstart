@@ -258,3 +258,44 @@ Use this structure for every SAH report:
 - **Hydrocephalus or declining GCS** → call neurosurgery immediately.
 
 Measure HU, review thin slices in multiple planes, and always match the imaging pattern to the clinical context. A systematic approach saves lives.
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 48-year-old woman presents with sudden "worst headache of my life" during exertion. Non-contrast CT shows dense hyperattenuating blood filling and outlining the suprasellar, interpeduncular and ambient cisterns in a "star" configuration, with extension into both Sylvian fissures. What is the single most appropriate immediate action?
+- (a) Discharge with analgesia and safety-netting advice
+- (b) Perform a lumbar puncture for xanthochromia before any further imaging
+- (c) Arrange CT angiography in the same sitting and refer urgently to neurosurgery
+- (d) Arrange an outpatient MRI brain with FLAIR and SWI
+- (e) Request CT venography as the first-line vascular study
+
+**Q2.** A 55-year-old man has a thunderclap headache. Non-contrast CT shows blood confined to the prepontine and interpeduncular cisterns anterior to the brainstem, with no extension into the Sylvian fissures, suprasellar cistern or interhemispheric fissure, and no intraventricular haemorrhage. Which statement best reflects the appropriate approach?
+- (a) CT angiography is still required, but this pattern generally carries a low risk of rebleeding and vasospasm
+- (b) The classic perimesencephalic pattern excludes the need for any vascular imaging
+- (c) The pattern is diagnostic of a ruptured ACom aneurysm and requires immediate clipping
+- (d) The pattern is typical of traumatic SAH and management should focus on associated injuries
+- (e) This appearance indicates cerebral amyloid angiopathy and warrants MRI for superficial siderosis
+
+**Q3.** A patient with confirmed aneurysmal SAH is being monitored on the ward. Over several hours the GCS falls. Repeat non-contrast CT shows enlarging, rounded temporal horns and new periventricular low attenuation. What is the single most appropriate next step?
+- (a) Start intravenous mannitol and observe
+- (b) Refer urgently to neurosurgery for an external ventricular drain
+- (c) Arrange CT perfusion to assess for delayed cerebral ischaemia
+- (d) Proceed directly to digital subtraction angiography
+- (e) Commence therapeutic anticoagulation for presumed venous thrombosis
+
+**Q4.** A 72-year-old woman presents with a transient episode of right-arm weakness and headache. Non-contrast CT shows focal hyperdensity confined to one or two sulci over the left high convexity, with completely clear basal cisterns. Which underlying cause should be considered first in this demographic?
+- (a) Ruptured basilar tip aneurysm
+- (b) Perimesencephalic non-aneurysmal haemorrhage
+- (c) Cerebral amyloid angiopathy
+- (d) Ruptured posterior communicating artery aneurysm
+- (e) Traumatic subarachnoid haemorrhage
+
+**Q5.** A 60-year-old man with sudden severe headache has a non-contrast CT reported as normal by the ED registrar. It is now 10 hours since symptom onset and clinical suspicion of SAH remains high. What is the single most appropriate next step?
+- (a) Reassure the patient and discharge, as CT reliably excludes SAH at this time
+- (b) Proceed immediately to digital subtraction angiography
+- (c) Discuss lumbar puncture for xanthochromia with the admitting team
+- (d) Start empirical nimodipine and admit for observation
+- (e) Repeat the non-contrast CT in 24 hours

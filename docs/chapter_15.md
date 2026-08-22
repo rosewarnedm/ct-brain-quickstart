@@ -180,3 +180,44 @@ You do not direct treatment, but understanding the priorities helps you communic
 - **Always check the posterior fossa**: infratentorial PRES can obstruct CSF pathways and become life-threatening
 - **Always check the venous sinuses**: request CTV if haemorrhage, asymmetric oedema, or parasagittal involvement raises concern for CVT
 - **Haemorrhagic PRES** still often reverses — do not be reassured that it is benign, but do not assume it is non-PRES
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 34-year-old woman at 37 weeks' gestation presents with headache, cortical visual disturbance and a witnessed generalised seizure. Her blood pressure is 158/98 mmHg. Non-contrast CT of the head shows bilateral, fairly symmetric subcortical low attenuation in the parieto-occipital lobes with mild sulcal effacement and relative sparing of the calcarine cortex. Which single feature most strongly favours PRES over bilateral posterior cerebral artery territory infarction?
+- (a) Presence of a generalised seizure at onset
+- (b) Sparing of the calcarine cortex with subcortical predominance
+- (c) Blood pressure of 158/98 mmHg
+- (d) Mild sulcal effacement in the occipital lobes
+- (e) Involvement of the occipital lobes bilaterally
+
+**Q2.** A 52-year-old man on tacrolimus following renal transplant develops confusion and a seizure. His blood pressure is 142/88 mmHg. A non-contrast CT performed within 6 hours of symptom onset is reported as normal. Clinical suspicion of PRES remains high. What is the most appropriate next step?
+- (a) Reassure the team that a normal CT excludes PRES
+- (b) Proceed to intravenous thrombolysis for presumed stroke
+- (c) Recommend MRI including FLAIR, DWI and SWI
+- (d) Repeat the non-contrast CT immediately
+- (e) Recommend CT perfusion to confirm ischaemia
+
+**Q3.** A 45-year-old woman with malignant hypertension has a non-contrast CT showing bilateral cerebellar hemisphere and vermian low attenuation with effacement of the fourth ventricle and early dilatation of the temporal horns. As the reporting radiologist, which is the most appropriate immediate action?
+- (a) Advise MRI as an outpatient to characterise the oedema
+- (b) Reassure that infratentorial PRES is typically benign and self-limiting
+- (c) Arrange urgent neurosurgical review for potential obstructive hydrocephalus
+- (d) Refer to the obstetric team for magnesium sulphate
+- (e) Attribute the appearance to posterior fossa beam-hardening artefact
+
+**Q4.** A 60-year-old woman with SLE and acute kidney injury has a non-contrast CT showing bilateral parieto-occipital subcortical oedema. On careful review of blood windows there are small foci of hyperdensity measuring 65 HU within the oedematous cortex, and sulcal hyperdensity of 50 HU in the adjacent occipital sulci. Which statement best reflects the correct interpretation and reporting of these findings?
+- (a) The hyperdense foci exclude PRES and indicate PCA infarction
+- (b) These represent lobar and cortical subarachnoid haemorrhage; haemorrhagic PRES still often reverses but carries higher risk of deterioration
+- (c) The findings are diagnostic of cerebral venous thrombosis and require no further imaging
+- (d) The hyperdensity is beam-hardening artefact and should be disregarded
+- (e) Haemorrhage confirms cytotoxic infarction that will not reverse
+
+**Q5.** A 39-year-old woman, 5 days postpartum, presents with thunderclap headache and a non-contrast CT showing parasagittal oedema, a small parasagittal haemorrhage and a hyperdense superior sagittal sinus. Which is the most appropriate next investigation and referral?
+- (a) CTV and urgent neurology review for suspected cerebral venous thrombosis
+- (b) CTA and stroke referral for reversible cerebral vasoconstriction syndrome
+- (c) Obstetric referral for magnesium sulphate and delivery planning
+- (d) Immediate intravenous thrombolysis for presumed arterial stroke
+- (e) MRI as an outpatient with no acute referral

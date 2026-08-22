@@ -266,3 +266,44 @@ When reporting an acute CT with a suspected brain tumour, cover:
 - **Haemorrhagic lobar ICH in a cancer patient is a metastasis until proven otherwise** — this directly changes management.
 - **Bone windows are not optional** for extra-axial masses: hyperostosis confirms meningioma; bone destruction suggests metastasis.
 - **Flag herniation, hydrocephalus, and haemorrhagic metastasis immediately** — these are the life-threatening complications that will not wait for a routine report.
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 62-year-old man presents with a two-week history of progressive left-sided weakness and personality change. Contrast-enhanced CT shows a large heterogeneous mass with a thick, irregular enhancing rim around a low-attenuation (0–20 HU) necrotic core, extensive surrounding white-matter oedema, and extension across the splenium of the corpus callosum into the contralateral hemisphere. Which single feature most strongly favours glioblastoma over the main alternatives?
+- (a) Avid homogeneous enhancement of the whole mass
+- (b) A thin, smooth enhancing ring
+- (c) Extension across the corpus callosum producing a "butterfly" pattern
+- (d) A broad dural base with a CSF cleft
+- (e) Multiple lesions sited at the grey–white junction
+
+**Q2.** A 58-year-old woman with known breast cancer has an acute headache. Non-contrast CT shows several ill-defined areas of low density with disproportionately large surrounding oedema but no clearly defined masses. Which single next step is most appropriate to characterise the abnormality?
+- (a) Contrast-enhanced CT (CECT) of the brain
+- (b) Immediate lumbar puncture
+- (c) CT of the chest, abdomen and pelvis before any further brain imaging
+- (d) Repeat non-contrast CT in 24 hours
+- (e) Discharge with routine outpatient follow-up
+
+**Q3.** A 47-year-old woman has a headache. Non-contrast CT shows a well-defined, broad-based hyperdense (approximately 45 HU) extra-axial mass over the frontal convexity with a CSF cleft, inward buckling of the underlying cortex, internal punctate calcification, and ground-glass thickening of the adjacent skull on bone windows. Which is the single most likely diagnosis?
+- (a) Acute extradural haematoma
+- (b) Acute subdural haematoma
+- (c) Haemorrhagic glioblastoma
+- (d) Dural metastasis
+- (e) Meningioma
+
+**Q4.** A 70-year-old man on warfarin (for atrial fibrillation) with recently diagnosed renal cell carcinoma presents with sudden severe headache. Non-contrast CT shows a lobar haematoma with disproportionately large surrounding vasogenic oedema. Which is the single most appropriate immediate action?
+- (a) Attribute the bleed to hypertensive haemorrhage and observe
+- (b) Refer for immediate senior review and haematology input regarding anticoagulation reversal
+- (c) Perform a lumbar puncture to exclude subarachnoid haemorrhage
+- (d) Start dexamethasone and arrange routine outpatient MRI
+- (e) Give intravenous thrombolysis for presumed ischaemic stroke
+
+**Q5.** A cancer patient with a known cerebellar metastasis presents with vomiting and reduced consciousness. CT shows the posterior fossa mass now compressing the fourth ventricle with dilated temporal horns and effaced basal cisterns. Which single action is the most urgent priority?
+- (a) Arrange an outpatient MRI brain with contrast
+- (b) Perform a lumbar puncture to measure opening pressure
+- (c) Request CT venography to assess the venous sinuses
+- (d) Refer urgently to neurosurgery for consideration of CSF diversion
+- (e) Arrange CT chest/abdomen/pelvis to restage the primary tumour

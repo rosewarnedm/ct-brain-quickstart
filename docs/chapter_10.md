@@ -246,3 +246,44 @@ These are guides, not thresholds. Scanner calibration and beam hardening introdu
 3. **Posterior fossa EDH** — small volume, potentially lethal; look for lensiform hyperdensity near the transverse/sigmoid sinuses and correlate with occipital fractures.
 4. **Haemorrhage in anaemic infants** — may appear nearly isodense to cortex; rely on morphology and mass effect.
 5. **Pseudo-SAH** — do not over-call aneurysmal or traumatic subarachnoid haemorrhage when the brain is diffusely swollen and hypodense; the low-attenuation parenchyma makes the basal cisterns and vessels look relatively hyperdense. Measure HU (true subarachnoid blood is far denser), look for slit-like ventricles, and interpret the appearance in the context of hypoxic–ischaemic injury rather than reporting a bleed.
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 5-month-old infant is scanned after a reported fall from a sofa. On the non-contrast CT you identify bilateral convexity subdural collections, thin interhemispheric subdural blood, and diffuse loss of grey–white differentiation. What is the most appropriate action for the reporting radiologist?
+- (a) Report the findings as diagnostic of abusive head trauma and document that abuse has occurred
+- (b) Describe the findings accurately and objectively, then escalate immediately to the safeguarding/child-protection team and the on-call paediatric consultant
+- (c) Attribute the collections to birth-related subdural haemorrhage and advise routine outpatient follow-up
+- (d) Advise that no further imaging is required because CT has excluded significant injury
+- (e) Request a lumbar puncture to confirm the presence of subarachnoid blood
+
+**Q2.** A 9-month-old presents after a witnessed fall. CT shows a biconvex hyperdense collection in the right temporoparietal region that does not cross the coronal suture, with an overlying linear fracture on bone windows. Within the collection there are patchy hypodense areas. Which single feature most strongly indicates a surgical emergency?
+- (a) The biconvex (lentiform) shape of the collection
+- (b) The presence of an overlying calvarial fracture
+- (c) The hypodense (swirl sign) areas within the hyperdense clot
+- (d) The fact that the collection does not cross the suture line
+- (e) The temporoparietal location of the collection
+
+**Q3.** A 14-month-old with a large frontal convexity CSF space is referred with a small convexity subdural collection after a minor fall. On CT you are trying to distinguish benign enlargement of the subarachnoid spaces (BESS) from a subdural haemorrhage. Which finding best supports BESS rather than subdural haemorrhage?
+- (a) Cortical veins are displaced and compressed against the brain surface
+- (b) Cortical veins traverse (cross) the widened fluid space
+- (c) The fluid collection is of mixed hyperdense and hypodense attenuation
+- (d) There is midline shift with sulcal effacement
+- (e) The collection is crescentic and conforms to the brain surface
+
+**Q4.** A 2-year-old is brought in after a high-speed road traffic collision and is profoundly encephalopathic. The non-contrast CT shows diffusely low-attenuation white matter, slit-like ventricles, effaced basal cisterns, and apparent hyperdensity around the basal cisterns. What is the most appropriate interpretation and next step?
+- (a) Report definite basal subarachnoid haemorrhage and arrange CT angiography for a ruptured aneurysm
+- (b) Diagnose bilateral chronic subdural collections and recommend outpatient review
+- (c) Conclude the study is normal because no discrete haematoma is seen
+- (d) Recognise diffuse cerebral oedema with pseudo-SAH and escalate urgently to the paediatric neurosurgical team and critical care
+- (e) Attribute the appearance to physiologically hyperdense choroid plexus and take no further action
+
+**Q5.** A 4-year-old sustains a severe deceleration injury and has a Glasgow Coma Scale far lower than expected from the CT, which appears near-normal apart from a few punctate hyperdense foci at grey–white junctions and in the splenium of the corpus callosum. Which is the most appropriate next investigation?
+- (a) Repeat non-contrast CT in 6 hours and take no other action
+- (b) CT angiography of the intracranial and cervical vessels
+- (c) MRI brain including susceptibility-weighted (SWI) and diffusion-weighted (DWI) sequences
+- (d) Lumbar puncture to assess for subarachnoid blood
+- (e) Skull radiograph series to characterise the fracture pattern

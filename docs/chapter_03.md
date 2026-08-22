@@ -242,3 +242,44 @@ ASPECTS divides the MCA territory into 10 regions. Start at 10 (normal) and subt
 **Key pitfall:** High haematocrit or dehydration makes all venous blood denser. Check whether vessels are uniformly hyperdense throughout rather than focally.
 
 **When to escalate:** If DVST is suspected, request CT venography urgently. Standard treatment is anticoagulation — even in the presence of haem
+
+---
+
+## Self-Assessment
+
+*FRCR-style multiple true/false — decide True or False for each stem (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1. Regarding Hounsfield units and density on non-contrast brain CT:**
+- (a) Acute clotted blood typically measures approximately 50–80 HU.
+- (b) Cerebrospinal fluid measures around 0–15 HU.
+- (c) Acute cerebral ischaemia appears hyperdense relative to normal brain.
+- (d) Anaemia can render acute haemorrhage nearly isodense to brain.
+- (e) Calcification measures lower on the HU scale than grey matter.
+
+**Q2. Concerning windowing and the systematic reading technique:**
+- (a) A dedicated blood/SAH window uses a wider window width than the standard brain window.
+- (b) Bone windows are the correct setting for detecting a skull fracture beneath a scalp haematoma.
+- (c) The systematic checklist should begin at the suspected site of pathology to save time.
+- (d) The posterior fossa is routinely degraded by beam-hardening artefact.
+- (e) Effaced basal cisterns are an early and serious sign of raised intracranial pressure.
+
+**Q3. Regarding extra-axial haemorrhage:**
+- (a) An extradural haematoma is typically biconvex (lens-shaped) and does not cross suture lines.
+- (b) A subdural haematoma is crescent-shaped and can extend along the falx and tentorium.
+- (c) An extradural haematoma is nearly always associated with an underlying skull fracture.
+- (d) The isodense (subacute) phase is the safest time to detect a subdural haematoma.
+- (e) A subdural haematoma is limited by dural reflections whereas an extradural is limited by suture lines.
+
+**Q4. Concerning subarachnoid and intraparenchymal haemorrhage:**
+- (a) CT sensitivity for subarachnoid haemorrhage is highest within the first six hours of onset.
+- (b) A perimesencephalic-only pattern of SAH is typically aneurysmal in origin.
+- (c) Lobar haemorrhage in an elderly patient should raise suspicion of cerebral amyloid angiopathy.
+- (d) Hypertensive intraparenchymal haemorrhage characteristically involves sites such as the putamen, thalamus, pons and cerebellum.
+- (e) Cerebellar haemorrhage larger than 3 cm with brainstem compression is a neurosurgical emergency.
+
+**Q5. Regarding acute ischaemia and dural venous sinus thrombosis on NCCT:**
+- (a) Loss of the insular ribbon is a recognised early sign of MCA territory infarction.
+- (b) The ASPECTS scoring system starts at 10 and subtracts a point for each region of acute ischaemic change.
+- (c) Points on ASPECTS should be subtracted for established old infarcts as well as acute change.
+- (d) A hyperdense sinus sign with attenuation above 60–70 HU is suspicious for venous thrombosis.
+- (e) A high haematocrit or dehydration can cause venous blood to appear falsely hyperdense.

@@ -301,3 +301,44 @@ The finding on CT drives who you call — the reader recognises the pattern, rec
 - **Quantify HU:** acute blood ~50–80, calcification >100, grey 35–45, white 20–30 — small shifts matter.
 - Know the pitfalls (pseudo-SAH, isodense subdural, motion artefact) and use a structured checklist.
 - The imaging finding drives the pathway — recognise it, recommend the next step, and escalate to the team that acts (neurology, stroke, neurosurgery, medical/critical care, infection/ID).
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 34-year-old woman, 6 days post-partum, presents with a first generalised seizure and a two-week history of worsening headache. Non-contrast CT shows a wedge of cortical–subcortical low attenuation with a small area of haemorrhage in the left parietal region that does not conform to an arterial territory, and a subtle hyperdensity in the adjacent superior sagittal sinus. What is the single most appropriate next imaging step?
+- (a) CT perfusion to distinguish ictal hyperperfusion from stroke
+- (b) CT angiography to exclude a large-vessel arterial occlusion
+- (c) CT venography to confirm cerebral venous sinus thrombosis
+- (d) Immediate lumbar puncture to look for xanthochromia
+- (e) Repeat non-contrast CT in 24 hours to assess for blossoming
+
+**Q2.** A 68-year-old man is brought in after a witnessed first seizure with subsequent right-sided weakness. Non-contrast CT is unremarkable. CT perfusion shows increased CBF and CBV with reduced MTT in a patchy, non-territorial cortical distribution, and CTA shows no arterial occlusion. Which interpretation and action is most appropriate?
+- (a) Findings support an ictal cause; avoid thrombolysis and seek neurology input
+- (b) Findings are diagnostic of acute ischaemic stroke; activate thrombolysis
+- (c) Findings indicate postictal Todd's paresis with completed infarction
+- (d) Findings represent herpes encephalitis; start aciclovir immediately
+- (e) Findings are artefactual; no further action or imaging is required
+
+**Q3.** A 52-year-old man presents with a first seizure, fever, and confusion. Non-contrast CT shows asymmetric low attenuation in the medial temporal lobes and insulae bilaterally with sparing of the basal ganglia. Alongside recommending urgent MRI and LP, which action should you flag as the priority to the treating team?
+- (a) Withhold all treatment until MRI confirms the diagnosis
+- (b) Arrange immediate lumbar puncture before any imaging is reviewed
+- (c) Refer to neurosurgery for urgent decompression of the temporal lobes
+- (d) Start empirical broad-spectrum antibiotics and observe for 24 hours
+- (e) Ensure the acute team starts empirical aciclovir without waiting for confirmation
+
+**Q4.** A 45-year-old woman with no significant history has a single self-terminating first seizure. Non-contrast CT, performed to exclude time-critical pathology, is entirely normal and she has returned to baseline neurologically. What is the most appropriate onward pathway?
+- (a) Discharge with no follow-up as the CT has excluded serious pathology
+- (b) Refer to neurology / first-seizure clinic for EEG, MRI and antiepileptic decisions
+- (c) Refer to neurosurgery for consideration of a structural lesion
+- (d) Admit under critical care for benzodiazepine infusion
+- (e) Start empirical aciclovir pending further imaging
+
+**Q5.** A 60-year-old man presents with a first seizure and a three-month history of morning headaches. Non-contrast CT shows a heterogeneous mass with a low-density necrotic core, surrounding vasogenic oedema and mass effect. Which is the single most appropriate management recommendation?
+- (a) Perform an urgent lumbar puncture to exclude infection
+- (b) Discharge to first-seizure clinic for outpatient EEG
+- (c) Give empirical aciclovir and reassess in 48 hours
+- (d) Refer to neurosurgery/neuro-oncology, recommend MRI, and avoid LP given the mass effect
+- (e) Repeat CT in one week to see if the lesion resolves

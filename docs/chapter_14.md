@@ -218,3 +218,44 @@ For patients who deteriorate despite anticoagulation, discuss urgently with neur
 **Prove it:** CTV is reliable, fast, and should follow any suspicious NCCT. Know the pitfalls — poor timing, sinus variants, and arachnoid granulations — to avoid false positives and negatives.
 
 **Act on it:** CVST is a neurological emergency. Prompt escalation, clear communication about anticoagulation (including in the presence of haemorrhage), and identification of treatable causes (infection, trauma) directly improve patient outcomes.
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 28-year-old woman on the combined oral contraceptive pill presents with a 3-day history of progressive headache and a single seizure. Non-contrast CT shows a right parietal lobar haematoma with surrounding subcortical oedema that does not conform to an arterial territory, and there is sulcal hyperdensity over the adjacent convexity with sparing of the basal cisterns. Which is the single most appropriate next imaging step?
+- (a) Digital subtraction angiography to exclude an aneurysm
+- (b) CT venography in the same sitting
+- (c) Repeat non-contrast CT in 24 hours
+- (d) CT perfusion of the middle cerebral artery territory
+- (e) No further imaging; the appearances are diagnostic of hypertensive haemorrhage
+
+**Q2.** A 34-year-old woman, ten days postpartum, has a non-contrast CT for headache. The reporting radiologist measures the posterior superior sagittal sinus at 68 HU and notes a triangular hyperdensity, while the internal carotid arteries measure 42 HU. The haematocrit is normal. Which single statement best interprets these findings?
+- (a) The sinus density is within normal limits at 40–50 HU
+- (b) The high sinus attenuation reflects haemoconcentration from dehydration
+- (c) The hyperdense sinus is conspicuously denser than arterial blood and is suspicious for acute thrombus (dense triangle sign)
+- (d) Post-contrast residual iodine is the most likely explanation
+- (e) Beam-hardening artefact at the vertex accounts for the appearance
+
+**Q3.** A 40-year-old man presents with reduced consciousness. Non-contrast CT demonstrates symmetrical hypodensity of both thalami with scattered petechial haemorrhage. Which single additional non-contrast CT finding would most support the underlying diagnosis?
+- (a) A hyperdense straight sinus
+- (b) A dense middle cerebral artery on one side
+- (c) Effacement of the basal cisterns with diffuse subarachnoid haemorrhage
+- (d) A hypoplastic transverse sinus with a small bony groove
+- (e) An ovoid CSF-density filling defect at the transverse–sigmoid junction
+
+**Q4.** A CT venogram is performed for suspected CVST. The right transverse sinus shows no opacification. Which single feature would most reliably indicate a congenital hypoplastic sinus rather than thrombosis?
+- (a) A central intraluminal filling defect surrounded by enhancing dural collaterals
+- (b) Expansion of the affected sinus
+- (c) Smooth tapering from the torcula with a small ipsilateral bony groove and jugular foramen, a dominant contralateral sinus, and no parenchymal changes
+- (d) Adjacent parasagittal vasogenic oedema
+- (e) Non-opacification of overlying cortical veins with prominent collateral channels
+
+**Q5.** CTV confirms extensive superior sagittal sinus thrombosis in a patient whose non-contrast CT also showed a lobar haemorrhage. As the reporting radiologist, which single action is most appropriate?
+- (a) Recommend that anticoagulation be withheld until the haemorrhage resolves
+- (b) Advise immediate endovascular thrombectomy as the first-line treatment for all patients
+- (c) Directly prescribe therapeutic heparin from the CT console
+- (d) Escalate to the stroke/neurology team, stating explicitly that the haemorrhage does not preclude anticoagulation
+- (e) Take no urgent action, as CVST is a chronic condition managed in outpatient clinic

@@ -161,3 +161,44 @@ When dictating or handing over, cover:
 - **EDH does not cross sutures or dural reflections.** If it does, think subdural haematoma, or paediatric sutural diastasis.
 - **Posterior fossa and vertex collections are the classic misses** — use reformats and a low threshold for neurosurgical discussion.
 - Your report directly drives the speed of neurosurgical response. Always state **volume, mass effect, herniation risk, and urgency** explicitly.
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 19-year-old is brought to the ED after a assault with a blow to the side of the head. Non-contrast CT shows a biconvex hyperdense extra-axial collection over the right temporoparietal region. Which single feature most strongly favours an extradural rather than a subdural haematoma?
+- (a) The collection is hyperdense relative to brain
+- (b) The collection does not cross the coronal suture
+- (c) The collection does not cross the falx
+- (d) There is associated mass effect with sulcal effacement
+- (e) The patient is young and presented after direct trauma
+
+**Q2.** A CT of a patient with a temporal EDH shows an otherwise homogeneous hyperdense clot containing several irregular hypodense foci (the swirl sign). What does this appearance most specifically indicate?
+- (a) Subacute evolution of the haematoma over several days
+- (b) Chronic, partially resorbed haematoma
+- (c) Active ongoing haemorrhage with high risk of expansion
+- (d) A coincidental scalp haematoma superimposed on the image
+- (e) Beam-hardening artefact of no clinical significance
+
+**Q3.** You are reporting the head CT of a 25-year-old with a large right temporal EDH. The GCS has fallen from 15 to 9 during scanning and the right pupil is now dilated. The estimated volume is 45 ml with 8 mm of midline shift. What is the single most appropriate next action for you as the reporting radiologist?
+- (a) Recommend a repeat CT in 6–8 hours to assess for expansion
+- (b) Advise conservative management with close neurological observation
+- (c) Request CT venography to exclude venous sinus injury before escalating
+- (d) Contact neurosurgery immediately to convey the findings and clinical deterioration
+- (e) Arrange transfer to the ward for hourly neurological observations
+
+**Q4.** An 8-month-old infant is imaged after a fall. CT shows a biconvex extradural collection that appears to extend across a widened (diastatic) suture. How should this finding be interpreted?
+- (a) The collection must be a subdural haematoma because it crosses a suture
+- (b) EDH can cross a diastatic suture in young children, so this remains consistent with EDH
+- (c) The appearance is diagnostic of a chronic EDH
+- (d) Suture crossing excludes any surgical lesion
+- (e) The finding represents artefact and can be disregarded
+
+**Q5.** A patient with a posterior fossa EDH abutting the transverse sinus is being discussed with neurosurgery, who ask whether the sinus is injured or thrombosed as this alters their operative approach. Which further imaging is most appropriate to recommend?
+- (a) Non-contrast CT of the whole spine
+- (b) Plain skull radiographs
+- (c) CT venography (CTV) of the head
+- (d) Contrast-enhanced CT of the chest
+- (e) Repeat non-contrast head CT with thinner slices only

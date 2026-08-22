@@ -308,3 +308,44 @@ Use this every time:
 - [ ] **Windows** — reviewed on brain, subdural, and bone windows?
 - [ ] **Patient alignment** — rotation/tilt accounted for?
 - [ ] **Scalp and skull** — intact? Sutures vs fractures distinguished?
+
+---
+
+## Self-Assessment
+
+*FRCR-style multiple true/false — decide True or False for each stem (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1. Regarding Hounsfield unit (HU) values on non-contrast CT of the brain:**
+- (a) Normal grey matter is of lower attenuation than adjacent white matter.
+- (b) Acute clotted haemorrhage measures approximately 60–80 HU.
+- (c) Calcification is typically less dense than acute haemorrhage.
+- (d) CSF measures approximately 0–15 HU.
+- (e) The density of blood rises with increasing haematocrit.
+
+**Q2. Concerning windowing and technical pitfalls in acute CT brain interpretation:**
+- (a) An isodense subdural collection is best appreciated on the bone window.
+- (b) Beam hardening from the petrous temporal bones can mimic a posterior fossa infarct.
+- (c) Patient rotation or tilt can produce apparent asymmetry and pseudo-midline shift.
+- (d) Thick 5 mm slices reduce the risk of missing small subdural collections through partial volume averaging.
+- (e) Recent intravenous contrast or angiography can make venous sinuses appear abnormally dense.
+
+**Q3. Regarding the ventricular system, CSF spaces and their variants:**
+- (a) An Evans index below 0.30 is considered normal.
+- (b) Normal temporal horns are usually barely visible, measuring 2 mm or less.
+- (c) A cavum septi pellucidi is a sinister finding requiring urgent referral.
+- (d) Effacement of the basal cisterns is a red flag for raised intracranial pressure.
+- (e) In pseudo-subarachnoid haemorrhage the ventricles are typically markedly dilated.
+
+**Q4. Concerning grey–white matter differentiation and deep grey structures:**
+- (a) Loss of grey–white differentiation is the earliest CT sign of ischaemia.
+- (b) The insular ribbon and lentiform nucleus are sensitive sites for early MCA infarct.
+- (c) The internal capsule is hyperdense relative to the adjacent deep grey nuclei.
+- (d) The putamen and globus pallidus together form the lentiform nucleus.
+- (e) Globus pallidus calcification is a rare finding that should raise concern for haemorrhage in adults over 40 years.
+
+**Q5. Regarding vascular structures and calcifications on non-contrast CT:**
+- (a) A hyperdense artery sign due to thrombus is typically bilateral and symmetric.
+- (b) Arachnoid granulations in the transverse sinus are rounded CSF-density filling defects and are a normal finding.
+- (c) The cord sign in the straight sinus can indicate venous sinus thrombosis.
+- (d) Choroid plexus calcification is typically bilateral at the atria and measures over 100 HU.
+- (e) Physiological globus pallidus calcification is usually punctate, bilateral and symmetric with no surrounding oedema.

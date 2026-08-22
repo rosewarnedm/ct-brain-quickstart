@@ -252,3 +252,44 @@ Include all of the following in your documentation or handover:
 - **Cerebellar haemorrhage** and **IVH with hydrocephalus** are neurosurgical emergencies — do not wait for clinical deterioration before calling the team.
 - Always **exclude an underlying lesion** in lobar ICH, particularly in younger patients — arrange interval MRI/CTA when the acute haematoma allows.
 - Distinguish blood from calcification and contrast staining using HU values, distribution, clinical context, and DECT or delayed imaging if available.
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 68-year-old with poorly controlled hypertension presents with sudden dense right-sided weakness. Non-contrast CT shows a well-defined, homogeneous ovoid hyperdense haematoma centred on the left putamen and external capsule, with background periventricular white matter hypodensity and a few lacunes. Which single aetiology is most likely?
+- (a) Cerebral amyloid angiopathy
+- (b) Ruptured arteriovenous malformation
+- (c) Haemorrhagic metastasis
+- (d) Hypertensive arteriolopathy
+- (e) Cerebral venous thrombosis
+
+**Q2.** You are reviewing an acute intracerebral haematoma on non-contrast CT and note hypodense swirls within the otherwise hyperdense clot. What is the significance of this "swirl sign"?
+- (a) It indicates chronic resolving haematoma
+- (b) It represents unclotted/actively bleeding blood and marks a risk of haematoma expansion
+- (c) It confirms an underlying calcified lesion
+- (d) It is a normal appearance of clotted blood
+- (e) It reliably indicates an underlying tumour
+
+**Q3.** On the largest axial slice an acute haematoma measures 4 cm by 3 cm; it is present on 5 contiguous 1 cm-thick slices. Using the ABC/2 method, what is the approximate haematoma volume?
+- (a) 12 ml
+- (b) 20 ml
+- (c) 60 ml
+- (d) 120 ml
+- (e) 30 ml
+
+**Q4.** A patient with a cerebellar hemisphere haematoma measuring 3.5 cm has effacement of the fourth ventricle, early hydrocephalus, and a falling GCS. As the CT reader, what is the most appropriate immediate action?
+- (a) Refer urgently to neurosurgery for consideration of evacuation and/or CSF diversion (EVD)
+- (b) Recommend outpatient interval MRI
+- (c) Start therapeutic anticoagulation
+- (d) Reassure that cerebellar bleeds rarely deteriorate and observe on the ward
+- (e) Recommend a delayed post-contrast CT to characterise the lesion
+
+**Q5.** An elderly patient on edoxaban presents with a large parieto-occipital lobar haematoma showing a fluid–fluid (haematocrit) level. Beyond documenting the imaging findings, which is the most appropriate escalation the CT reader should prompt?
+- (a) Immediate surgical clipping of an aneurysm
+- (b) Reassurance that anticoagulation is irrelevant to management
+- (c) Flag the anticoagulation and fluid–fluid level for urgent anticoagulation reversal, involving haematology/pharmacy
+- (d) Arrange a routine follow-up scan in six weeks with no acute action
+- (e) Commence intravenous thrombolysis

@@ -183,3 +183,44 @@ When you report a suspected brain abscess, include:
 - Major mimics are **necrotic metastasis, high-grade glioma, subacute infarct, and resolving haematoma** — morphology and clinical context help, but **MRI is often required** for confident differentiation.
 - **LP is contraindicated** with mass effect — say so in your report.
 - **Call neurosurgery early** — your CT report directly determines whether the patient gets to theatre or gets an LP that could kill them.
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 44-year-old with poorly controlled diabetes and a febrile illness has a right frontal ring-enhancing lesion on CECT. Both an abscess and a necrotic high-grade glioma are considered. Which single MRI feature most reliably favours a pyogenic abscess over a necrotic tumour?
+- (a) Thick, irregular enhancing rim on post-contrast T1
+- (b) High signal (restricted diffusion) within the central cavity on DWI
+- (c) Surrounding vasogenic oedema on T2/FLAIR
+- (d) Central low signal on post-contrast T1
+- (e) Mass effect with midline shift
+
+**Q2.** A 30-year-old with a two-day history of fever and worsening headache has a non-contrast CT showing an ill-defined area of frontal hypodensity with mild mass effect and no discernible ring. There is adjacent frontal sinus opacification. What is the most appropriate next step?
+- (a) Reassure that the scan excludes intracranial infection
+- (b) Recommend immediate lumbar puncture to obtain CSF
+- (c) Arrange routine outpatient follow-up CT in six weeks
+- (d) Proceed to contrast-enhanced CT and/or MRI, as early cerebritis may show no ring
+- (e) Report the appearances as a resolving infarct
+
+**Q3.** A 58-year-old presents with fever and confusion following recent dental sepsis. CECT shows a solitary 3 cm ring-enhancing left temporal lesion with a thin, smooth, complete rim, a homogeneous low-attenuation core, and disproportionately marked surrounding oedema. Which single management action best reflects the radiologist's role and the appropriate pathway?
+- (a) Urgent referral to neurosurgery for consideration of aspiration/drainage, with early involvement of infection/microbiology for targeted antimicrobials
+- (b) Recommend immediate lumbar puncture before any imaging follow-up
+- (c) Advise steroids alone with no surgical or microbiology referral
+- (d) Recommend palliative referral given the likely necrotic tumour
+- (e) Arrange interval CT in three months with no acute referral
+
+**Q4.** A patient with a known supratentorial abscess deteriorates. Repeat CECT shows linear enhancement lining the lateral ventricles, intraventricular debris, and new hydrocephalus. What does this appearance most likely represent?
+- (a) Uncomplicated capsule-stage maturation of the abscess
+- (b) A coincidental subdural empyema
+- (c) Contrast reaction artefact within the ventricles
+- (d) Resolving vasogenic oedema
+- (e) Ventriculitis / ventricular rupture — a neurosurgical emergency
+
+**Q5.** On non-contrast CT of a suspected abscess you identify a focus within the cavity that you must characterise correctly, as it changes the differential and urgency. Intralesional gas and capsule calcification can look similar on a poorly windowed image. Which statement is correct and best distinguishes them?
+- (a) Gas measures greater than 100 HU and calcification is strongly negative
+- (b) Both measure close to 0 HU and cannot be distinguished on CT
+- (c) Gas is markedly negative (around −300 to −1000 HU) whereas calcification is greater than 100 HU
+- (d) Gas excludes abscess, whereas calcification confirms it
+- (e) Neither can be assessed without contrast administration

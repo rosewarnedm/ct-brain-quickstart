@@ -211,3 +211,44 @@ Choroid plexus calcification appears very hyperdense and does **not** suppress o
 - **SAH and interval imaging**: one normal CT is not enough if the patient deteriorates.
 - **Small fourth ventricle** with enlarged lateral and third ventricles = aqueductal obstruction until proven otherwise — look at the sagittal reformat.
 - **Posterior fossa mass + hydrocephalus** = tell neurosurgery before anyone touches the drainage plan.
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 72-year-old presents with gradually progressive cognitive decline over two years. Non-contrast CT shows enlarged lateral ventricles. Which single finding on the CT would most favour ex vacuo ventriculomegaly (atrophy) over hydrocephalus?
+- (a) A smooth low-attenuation rim tracking the entire ventricular margin
+- (b) Prominent, widened sulci at the high convexities
+- (c) Temporal horns enlarged out of proportion to the rest of the system
+- (d) A callosal angle measured at less than 80°
+- (e) Rounding and ballooning of the frontal horns
+
+**Q2.** A 45-year-old is brought in with sudden-onset headache and a fluctuating conscious level. Non-contrast CT shows both lateral ventricles and the third ventricle dilated, with a normal-sized fourth ventricle. What is the most likely level of obstruction?
+- (a) Both foramina of Monro
+- (b) The foramina of Magendie and Luschka
+- (c) The arachnoid granulations
+- (d) The aqueduct of Sylvius
+- (e) A single foramen of Monro
+
+**Q3.** A patient with a proven cerebellar haematoma has non-contrast CT showing all four ventricles enlarged, an effaced cisterna magna, and a mass compressing the fourth ventricle. The referring team asks whether a supratentorial external ventricular drain (EVD) can be sited on the ward. What is the most appropriate response?
+- (a) Do not recommend isolated supratentorial drainage; flag the risk of upward transtentorial herniation and discuss the drainage plan with neurosurgery first
+- (b) Advise immediate bedside supratentorial EVD insertion to relieve the raised pressure
+- (c) Reassure that no intervention is needed as the fourth ventricle outlet obstruction is self-limiting
+- (d) Recommend a lumbar puncture to drain CSF from below
+- (e) Advise starting acetazolamide and repeating the CT in one week
+
+**Q4.** A 30-year-old with a good-recovery subarachnoid haemorrhage had a normal-appearing ventricular system on the day-1 CT. Three days later the GCS drops. Which statement best reflects correct practice?
+- (a) The initial normal CT reliably excludes hydrocephalus for the admission
+- (b) Deterioration after a normal early CT is almost always due to rebleeding, not hydrocephalus
+- (c) Communicating hydrocephalus cannot occur after subarachnoid haemorrhage
+- (d) Transependymal oedema would be expected before any ventricular enlargement in this setting
+- (e) Hydrocephalus can evolve over hours to days, so repeat imaging is warranted and progressive ventriculomegaly should prompt urgent neurosurgical referral for CSF diversion
+
+**Q5.** A patient with a long-standing ventriculoperitoneal shunt attends with recurrent headache and vomiting. CT shows the ventricles are larger than on the previous post-shunt study and there is a new smooth low-attenuation rim around the frontal horns. What is the most appropriate next step?
+- (a) Attribute the appearance to leukoaraiosis and reassure the patient
+- (b) Diagnose shunt overdrainage and arrange outpatient review
+- (c) Recognise likely shunt failure with re-accumulating hydrocephalus and discuss urgently with neurosurgery for shunt assessment and possible revision
+- (d) Conclude the ventricular change represents new cerebral atrophy
+- (e) Advise that catheter tip position within the parenchyma is the expected normal location

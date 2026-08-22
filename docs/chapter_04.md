@@ -247,3 +247,44 @@ Chiari I is defined as ≥5 mm tonsillar descent in adults **with symptoms** (oc
 7. **Ventricles** — mild asymmetry is common; look for an obstructive point and periventricular oedema before calling hydrocephalus.
 8. **Pineal region** — CSF-density lesion with peripheral calcification = pineal cyst; check for aqueduct obstruction.
 9. **Infants** — symmetric anterior subarachnoid spaces with traversing veins = BESSI; check vein position
+
+---
+
+## Self-Assessment
+
+*FRCR-style multiple true/false — decide True or False for each stem (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1. Regarding the neonatal and infant brain on CT:**
+- (a) Unmyelinated neonatal white matter is relatively low in attenuation (~15–20 HU), reducing normal grey–white differentiation.
+- (b) Myelination proceeds from superficial to deep and from the hemispheres inward.
+- (c) Patent cranial sutures appear as hypodense linear gaps and should not be reported as diastatic fractures.
+- (d) In benign enlargement of the subarachnoid spaces in infancy (BESSI), cortical veins are displaced inward against the cortex.
+- (e) BESSI typically peaks around 6–12 months of age and is associated with macrocephaly.
+
+**Q2. Regarding normal intracranial variants:**
+- (a) A cavum septum pellucidum lies in the midline between the frontal horns, anterior to the foramina of Monro.
+- (b) Cavum vergae is the posterior extension of a cavum septum pellucidum above the third ventricle.
+- (c) A mega cisterna magna is characterised by vermian hypoplasia and an enlarged fourth ventricle.
+- (d) Mild lateral ventricular asymmetry is common and is often more marked on the left.
+- (e) Prominent perivascular (Virchow–Robin) spaces follow penetrating vessel trajectories and are typically less than 3–5 mm.
+
+**Q3. Regarding the ageing brain and physiological calcification:**
+- (a) Age-related involutional change produces enlarged ventricles with sharp margins and no periventricular oedema.
+- (b) Normal pressure hydrocephalus is suggested by ventricular enlargement disproportionate to sulcal loss with tight high-convexity sulci.
+- (c) The globus pallidus is the most common site of physiological basal ganglia calcification.
+- (d) Extensive, asymmetric basal ganglia calcification under the age of 30 warrants a metabolic screen.
+- (e) Falx calcification is best confirmed as calcification rather than acute subdural on narrow brain windows.
+
+**Q4. Regarding chronic small-vessel disease and lacunar infarcts:**
+- (a) Chronic small-vessel disease produces symmetric periventricular low attenuation with frontal "caps" and periventricular "bands".
+- (b) Extensive small-vessel disease increases the risk of haemorrhagic transformation with thrombolysis and its severity should be stated.
+- (c) A chronic lacune is a CSF-attenuation (0–15 HU) ovoid cavity, typically 3–15 mm.
+- (d) An acute lacunar infarct is usually conspicuous as a well-formed CSF-density cavity on CT.
+- (e) U-fibres are typically spared in small-vessel disease until the disease is advanced.
+
+**Q5. Regarding common background masses and posterior fossa findings:**
+- (a) A meningioma is an intra-axial mass that typically forms an acute angle with the skull.
+- (b) A pineal cyst characteristically has peripheral rim calcification displaced outward by the cyst.
+- (c) Arachnoid cysts are extra-axial, CSF-attenuation lesions that may scallop adjacent bone and predispose to subdural haemorrhage in trauma.
+- (d) On CT, low-lying cerebellar tonsils in the absence of supratentorial mass effect should be reported as tonsillar herniation.
+- (e) Chiari I malformation is defined as tonsillar descent of at least 5 mm in a symptomatic adult.

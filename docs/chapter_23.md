@@ -325,3 +325,44 @@ CT is commonly normal in the first 24–48 hours of ODS. If a patient deteriorat
 - Beware the pseudo-subarachnoid sign in severe cerebral oedema; do not over-call SAH.
 - Several entities need urgent, specific therapy regardless of imaging (glucose, thiamine, antidotes, controlled sodium correction) — flag these to the treating team when the pattern is suggestive so they are not delayed.
 - A normal CT does not exclude early ODS, Wernicke, or early hypoglycaemia — recommend MRI when clinical suspicion persists.
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 42-year-old man is found unconscious in a poorly ventilated garage with a running car engine. His non-contrast CT head shows symmetric hypoattenuation (~22 HU) confined to the globus pallidus bilaterally, with otherwise preserved grey–white differentiation. Which pattern-and-cause pairing does this represent?
+- (a) Bilateral putaminal low attenuation with haemorrhagic flecks — methanol
+- (b) Symmetric globus pallidus hypoattenuation — carbon monoxide poisoning
+- (c) Bilateral medial thalamic low attenuation — Wernicke encephalopathy
+- (d) Symmetric central pontine hypoattenuation — osmotic demyelination
+- (e) Parieto-occipital subcortical low attenuation — PRES
+
+**Q2.** A 34-year-old woman with chronic hyponatraemia (Na 108 mmol/L on admission) is corrected to 128 mmol/L over 18 hours. Six days later she develops quadriparesis and reduced consciousness. Her non-contrast CT head is reported as normal. What is the most appropriate next step?
+- (a) Immediately administer high-flow 100% oxygen
+- (b) Reassure the team that a normal CT excludes a structural cause
+- (c) Request urgent CT cerebral venous angiography for suspected sinus thrombosis
+- (d) Recommend urgent MRI and flag the concern to the treating team
+- (e) Arrange emergency neurosurgical decompression of the posterior fossa
+
+**Q3.** A 68-year-old woman with poorly controlled type 2 diabetes presents with sudden involuntary flinging movements of her left arm and leg. Non-contrast CT shows a well-defined hyperattenuating right putamen and caudate measuring approximately 45 HU, with no surrounding oedema and no mass effect. What is the most likely diagnosis?
+- (a) Non-ketotic hyperglycaemia with hemichorea–hemiballismus
+- (b) Acute hypertensive basal ganglia haemorrhage
+- (c) Physiological basal ganglia calcification
+- (d) Methanol-induced putaminal necrosis
+- (e) Carbon monoxide poisoning
+
+**Q4.** A 55-year-old man with alcohol dependence presents with confusion, ophthalmoplegia and ataxia. His non-contrast CT head is normal. Regarding immediate management, which statement is most appropriate?
+- (a) A normal CT reliably excludes Wernicke encephalopathy, so no further imaging is needed
+- (b) IV glucose should be given first, followed by thiamine once he is stable
+- (c) The reader should arrange emergency hyperbaric oxygen therapy
+- (d) Diffuse cerebral oedema is expected and warrants immediate osmotherapy
+- (e) Communicate the suspicion so the treating team gives IV thiamine before IV glucose, and recommend MRI
+
+**Q5.** A 60-year-old man presents with visual disturbance and severe metabolic acidosis after drinking a home-distilled spirit. Non-contrast CT head shows bilateral putaminal low attenuation containing scattered hyperdense haemorrhagic flecks (mixed densities 30–80 HU), with possible optic nerve sheath swelling. Which is the single most likely cause?
+- (a) Carbon monoxide poisoning
+- (b) Cyanide poisoning
+- (c) Methanol poisoning
+- (d) Non-ketotic hyperglycaemic chorea
+- (e) Posterior reversible encephalopathy syndrome

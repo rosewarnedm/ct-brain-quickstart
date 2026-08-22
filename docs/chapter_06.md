@@ -198,3 +198,44 @@ When reporting a CT head with SDH, document:
 - The **cortical vein sign** separates subdural collections (veins displaced medially, away from the skull) from enlarged subarachnoid spaces (veins visible within the fluid, abutting the skull).
 - **Mixed density or a swirl sign = unstable collection** — treat with urgency until proved otherwise.
 - Bilateral thin collections can have significant cumulative effect — **always assess midline shift and basal cisterns, not just collection thickness**.
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 78-year-old man on warfarin presents after a minor fall. Non-contrast CT shows a hyperdense crescentic extra-axial collection over the right cerebral convexity, measuring 14 mm in maximum thickness, with 7 mm of midline shift and effacement of the ipsilateral basal cistern. Which is the single most appropriate next action for the reporting radiologist?
+- (a) Reassure the team that the collection is chronic and can be managed conservatively
+- (b) Arrange an urgent MRI brain before contacting any clinical team
+- (c) Make an immediate neurosurgical referral and flag the warfarin for haematology-guided reversal
+- (d) Personally perform an emergency burr-hole drainage
+- (e) Recommend routine follow-up CT in six weeks
+
+**Q2.** A subdural haematoma is distinguished from an epidural (extradural) haematoma on CT most reliably by which single feature?
+- (a) A subdural is biconvex (lentiform) whereas an epidural is crescentic
+- (b) A subdural crosses suture lines but is stopped by dural reflections, whereas an epidural does not cross sutures
+- (c) A subdural is always associated with an overlying skull fracture
+- (d) A subdural is hypodense in the acute phase whereas an epidural is hyperdense
+- (e) An epidural displaces cortical veins away from the skull whereas a subdural does not
+
+**Q3.** A 70-year-old woman is imaged 5 days after a head injury. She has unilateral sulcal effacement and buckling of the grey–white junction on the left, but no clearly hyperdense collection is visible on standard brain windows. Which measured density and phase best explain this appearance?
+- (a) ~35 HU — early subacute (isodense) subdural, around 3–7 days old
+- (b) ~55 HU — acute subdural, less than three days old
+- (c) ~5 HU — chronic subdural, more than three weeks old
+- (d) >100 HU — calcified tentorium
+- (e) ~0 HU — subdural hygroma of pure CSF density
+
+**Q4.** On a non-contrast CT there is a thin extra-axial fluid collection over the convexity, and cortical veins are clearly seen coursing through the fluid, abutting the inner table of the skull. Which is the single best interpretation?
+- (a) Acute subdural haematoma
+- (b) Subdural haematoma with a swirl sign
+- (c) Chronic subdural haematoma with internal membranes
+- (d) Enlarged subarachnoid space due to cerebral atrophy
+- (e) Epidural haematoma
+
+**Q5.** An 18-month-old child is brought in with reduced consciousness and no consistent history of trauma. CT shows bilateral convexity and interhemispheric subdural collections. Beyond documenting the imaging findings, which is the single most appropriate action?
+- (a) Attribute the collections to benign enlargement of the subarachnoid spaces and take no further action
+- (b) Recommend outpatient MRI and discharge home
+- (c) Advise that bilateral collections are always due to intracranial hypotension
+- (d) Recommend surgical drainage as the sole priority
+- (e) Escalate immediately for safeguarding review as non-accidental injury must be considered

@@ -262,3 +262,44 @@ CT in suspected CNS infection is primarily a **triage and complication-detection
 - **HSV encephalitis:** Asymmetric medial temporal/insula low attenuation + petechial haemorrhage + non-territorial + acute fever
 - **Ventriculitis:** Dependent debris in occipital horns — measure it, do not assume it is normal
 - **Subdural empyema:** Isoattenuating crescentic collection with rim enhancement + adjacent sinusitis = surgical emergency
+
+---
+
+## Self-Assessment
+
+*FRCR-style single best answer — select the one best option (a–e). Answers are collated on the Self-Assessment Answers page after Chapter 26.*
+
+**Q1.** A 22-year-old presents with fever, neck stiffness and photophobia. GCS is 15 with no focal neurological deficit and no papilloedema. The clinical team asks whether an urgent CT head is required before lumbar puncture and whether antibiotics should wait for the scan. What is the most appropriate advice?
+- (a) Delay antibiotics until CT and LP have both been completed to avoid masking CSF culture results
+- (b) A normal CT reliably excludes bacterial meningitis, so if the scan is normal no LP is needed
+- (c) Empirical antibiotics should be given immediately and must not be delayed for CT or LP
+- (d) CT is mandatory in all suspected meningitis before any treatment can be started
+- (e) MRI should replace CT as the first-line investigation in this patient
+
+**Q2.** A 40-year-old with HIV presents with headache and confusion over two weeks. NCCT shows iso-to-mildly hyperattenuating material (approximately 25 HU) obliterating the interpeduncular and suprasellar cisterns, dilated lateral ventricles, and patchy bilateral low attenuation in the basal ganglia. CECT shows intense basal leptomeningeal enhancement. Which diagnosis best fits this pattern?
+- (a) Tuberculous meningitis
+- (b) Aneurysmal subarachnoid haemorrhage
+- (c) HSV-1 encephalitis
+- (d) Acute pyogenic (bacterial) meningitis with convexity exudate
+- (e) Autoimmune limbic encephalitis
+
+**Q3.** A 58-year-old presents with a 3-day history of fever, confusion and dysphasia. NCCT shows confluent low attenuation in the right medial temporal lobe and insula with local swelling and a few petechial hyperdense foci, sparing the basal ganglia and not conforming to a vascular territory. Which is the single most appropriate immediate management step?
+- (a) Withhold treatment and repeat CT in 48 hours to see if the changes progress
+- (b) Start broad-spectrum antibiotics alone, as this appearance is diagnostic of bacterial meningitis
+- (c) Refer to neurosurgery for urgent decompression of the temporal lobe
+- (d) Commence immunotherapy for autoimmune limbic encephalitis
+- (e) Start empirical IV aciclovir immediately without waiting for further imaging
+
+**Q4.** A 35-year-old with frontal sinusitis develops fever, seizures and rapid deterioration. CECT shows a thin crescentic left frontal extra-axial collection measuring approximately 30 HU with peripheral rim enhancement and significant mass effect. In addition to continuing empirical IV antibiotics, which referral is most appropriate?
+- (a) Refer to neurology for an autoimmune antibody panel and MRI
+- (b) Refer urgently to neurosurgery for drainage
+- (c) Refer to ENT alone, as sinus washout will resolve the collection
+- (d) Refer to the stroke team, as this represents an acute subdural haematoma
+- (e) No referral needed; the collection will resolve with antibiotics alone
+
+**Q5.** On an NCCT performed for suspected CNS infection, you scroll carefully through the ventricles and note dependent hyperattenuating debris (measured at approximately 28 HU) layering in both occipital horns, with irregular ventricular CSF and periventricular low attenuation. CECT shows ependymal enhancement. Which complication does this most likely represent?
+- (a) Communicating hydrocephalus from impaired CSF resorption alone
+- (b) Subdural empyema
+- (c) Intraventricular haemorrhage
+- (d) Ventriculitis
+- (e) Beam-hardening artefact at the skull base
