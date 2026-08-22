@@ -306,4 +306,22 @@ CT is commonly normal in the first 24–48 hours of ODS. If a patient deteriorat
 
 | Diagnosis | Time-critical action |
 |---|---|
-| Hypoglycaemia | Flag to treating team for immediate IV dextrose — do not wait for
+| Hypoglycaemia | Flag to the treating team for immediate IV dextrose — do not wait for imaging. |
+| Wernicke encephalopathy | Communicate the suspicion so the treating team gives IV thiamine *before* IV glucose, without delay. |
+| Diffuse cerebral oedema / raised ICP | Escalate immediately to critical care, who direct ICP-lowering measures. |
+| Hepatic (hyperammonaemic) encephalopathy | Escalate urgently to acute medicine/critical care and hepatology for ammonia reduction and neurocritical care. |
+| Osmotic demyelination (ODS) | Alert the team directing sodium correction to correct it slowly; request urgent MRI if the patient deteriorates. |
+| Carbon monoxide poisoning | High-flow 100% oxygen without delay; escalate to acute medicine/critical care (± toxicology) regarding hyperbaric oxygen. |
+| Methanol / ethylene glycol | Escalate immediately to the toxicology/poisons and renal teams (fomepizole or ethanol, bicarbonate, haemodialysis). |
+| Cyanide | Resuscitation-level emergency — escalate immediately to resuscitation/critical care (± toxicology) for antidote (hydroxocobalamin). |
+| PRES | Escalate to acute medicine/critical care (± the specialty managing the causative drug; obstetrics if eclampsia) for blood-pressure control and seizure management. |
+
+---
+
+## Key Take-home Messages
+
+- CT is often subtle, but pattern recognition is powerful: putaminal injury (methanol), globus pallidus (CO/cyanide), unilateral striatal hyperdensity (hyperglycaemic chorea), central pontine low attenuation (ODS), and parieto-occipital subcortical low attenuation (PRES).
+- Early cytotoxic oedema drops attenuation by only a few HU and blunts grey–white differentiation — actively search the insular ribbon and deep grey nuclei.
+- Beware the pseudo-subarachnoid sign in severe cerebral oedema; do not over-call SAH.
+- Several entities need urgent, specific therapy regardless of imaging (glucose, thiamine, antidotes, controlled sodium correction) — flag these to the treating team when the pattern is suggestive so they are not delayed.
+- A normal CT does not exclude early ODS, Wernicke, or early hypoglycaemia — recommend MRI when clinical suspicion persists.

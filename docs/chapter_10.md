@@ -245,4 +245,4 @@ These are guides, not thresholds. Scanner calibration and beam hardening introdu
 2. **Thin interhemispheric/tentorial SDH** — invisible on axials alone; always review coronal and sagittal reformats using subdural windowing.
 3. **Posterior fossa EDH** — small volume, potentially lethal; look for lensiform hyperdensity near the transverse/sigmoid sinuses and correlate with occipital fractures.
 4. **Haemorrhage in anaemic infants** — may appear nearly isodense to cortex; rely on morphology and mass effect.
-5. **Pseudo-SAH** — do not over-call aneur
+5. **Pseudo-SAH** — do not over-call aneurysmal or traumatic subarachnoid haemorrhage when the brain is diffusely swollen and hypodense; the low-attenuation parenchyma makes the basal cisterns and vessels look relatively hyperdense. Measure HU (true subarachnoid blood is far denser), look for slit-like ventricles, and interpret the appearance in the context of hypoxic–ischaemic injury rather than reporting a bleed.
