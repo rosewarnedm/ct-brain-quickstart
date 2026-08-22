@@ -55,6 +55,10 @@ The hallmark is **bilateral, fairly symmetric, subcortical low attenuation in th
 - **Relative sparing of the calcarine cortex and paramedian occipital lobes** — helps distinguish PRES from posterior cerebral artery (PCA) infarction
 - May extend into the posterior frontal lobes, superior parietal lobules, or splenium of the corpus callosum
 
+![Axial T2 MRI in PRES showing bilateral cortico-subcortical hyperintensity in the occipital and parietal regions]({{ '/docs/img/ctb_pres_occipital_parietal_mri.jpg' | relative_url }})
+
+*Figure 14.1 — MRI (axial T2) in posterior reversible encephalopathy syndrome, showing bilateral, fairly symmetric cortico-subcortical high signal involving the occipital and parietal lobes (with pontine involvement in this case). MRI is more sensitive than CT for this vasogenic oedema, which is often subtle or occult on non-contrast CT. Source: Rashmi Chawla, Daniel Smith and Paul E Marik, CC BY 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Posterior_reversible_encephalopathy_syndrome_MRI.jpg).*
+
 ### Atypical Distributions
 
 Do not anchor on "posterior." Involvement can also affect:

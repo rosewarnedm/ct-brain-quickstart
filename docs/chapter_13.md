@@ -107,6 +107,9 @@ Check for:
 - **Evans index >0.3** (maximum frontal horn width divided by maximum biparietal diameter)
 - **Periventricular low attenuation** — indicates transependymal CSF flow under pressure
 
+![Axial non-contrast CT showing hyperdense subarachnoid blood in the suprasellar cistern with dilated, rounded temporal horns indicating early hydrocephalus.]({{ '/docs/img/ctb_sah_basal_hydrocephalus.jpg' | relative_url }})
+*Figure 12.4 — Acute hydrocephalus complicating aneurysmal SAH. Axial non-contrast CT shows hyperdense blood filling the suprasellar/basal cisterns with early enlargement and rounding of the temporal horns — the earliest and most reliable sign of acute obstructive hydrocephalus after SAH. Blood in the cisterns and ventricular system impairs CSF resorption and flow; a rising ventricular size with a falling GCS mandates urgent neurosurgical referral for an external ventricular drain. Source: Dr. George Jallo, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Subarachnoid_hemorrhage_CT_(uncropped).jpg).*
+
 Hydrocephalus with a declining conscious level is a **neurosurgical emergency** requiring urgent external ventricular drain (EVD) insertion. Escalate immediately.
 
 ### Parenchymal Haematoma
@@ -139,6 +142,12 @@ Look for:
 - Saccular aneurysm at arterial branching points — note size, neck, dome morphology, and relationship to adjacent vessels
 - Multiple aneurysms (present in 10–30%); correlate with blood distribution to identify the culprit
 - Vasospasm: focal or diffuse arterial narrowing, usually days 3–14 post-rupture
+
+![Three-panel CT: axial non-contrast CT with dense basal-cistern subarachnoid blood, CT angiography MIP, and 3D volume-rendered CTA showing a middle cerebral artery aneurysm.]({{ '/docs/img/ctb_sah_mca_cta_mip_vr.jpg' | relative_url }})
+*Figure 12.5 — Extensive aneurysmal SAH with the culprit aneurysm identified on CTA. Left: axial non-contrast CT shows dense hyperattenuating blood filling the basal cisterns and Sylvian fissures with early temporal-horn dilatation. Centre: CT angiography maximum-intensity projection (MIP). Right: 3D volume-rendered CTA (viewed from above) demonstrates a saccular aneurysm of the right middle cerebral artery — the ruptured source. Requesting CTA in the same sitting as the non-contrast scan lets you match the blood distribution to the aneurysm and secure it early. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ausgedehnte_Subarachnoidalblutung_bei_Aneurysma_der_Media_63M_-_CT_nativ_und_CTA_als_MIP_und_VR_-_001.jpg).*
+
+![CT angiography reconstruction showing a small anterior communicating artery aneurysm with labelled A1 and A2 segments.]({{ '/docs/img/ctb_sah_acom_aneurysm_cta.jpg' | relative_url }})
+*Figure 12.6 — Anterior communicating artery (ACom) aneurysm on CT angiography. CTA reconstruction shows a 2.6 mm saccular aneurysm arising at the ACom complex, with the dominant left A1 and both A2 segments labelled. ACom aneurysms are a common cause of aneurysmal SAH and typically bleed into the anterior interhemispheric fissure and suprasellar cistern (see the blood-distribution table above); note that even small aneurysms can rupture. Source: Cerevisae, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CT_angiography_showing_aneurysm_at_the_ACOM.jpg).*
 
 **If CTA is negative but the SAH pattern is diffuse or does not fit a classic perimesencephalic distribution,** formal digital subtraction angiography (DSA) is required. Repeat vascular imaging at 7–10 days is recommended if the initial workup is negative and the pattern is atypical.
 

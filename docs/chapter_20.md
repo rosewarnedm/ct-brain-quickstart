@@ -27,6 +27,10 @@ Before diving into individual herniation types, use this checklist on every scan
 8. **Secondary complications** — territorial infarcts (PCA, ACA), brainstem haemorrhages (Duret), new hydrocephalus
 9. **Devices and skull defects** — craniectomy, EVD, shunt; risk of paradoxical herniation
 
+![Axial non-contrast CT showing a large right frontotemporal intracerebral haematoma with a fluid–fluid level, marked midline shift to the left, compression of the right lateral ventricle and dilatation of the trapped left lateral ventricle.]({{ '/docs/img/ctb_herniation_midline_shift_haematoma.png' | relative_url }})
+
+*Figure 19.1 — Large intracerebral haematoma (arrow) driving mass effect: marked midline shift to the left, effaced right ventricle and a dilated, trapped contralateral ventricle. Identifying the cause of mass effect and measuring midline shift are the first two checklist steps. Source: James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Intracranial_bleed_with_significant_midline_shift.png).*
+
 **Window settings:** Brain window (W80/L40) for parenchyma and cisterns. Always obtain sagittal and coronal reformats — the foramen magnum and tentorial incisura are easily missed on axials alone. Use thin-section reconstructions; thick slices miss subtle cisternal obliteration and small brainstem haemorrhages.
 
 **Useful numbers:**
@@ -47,6 +51,10 @@ Before diving into individual herniation types, use this checklist on every scan
 - MLS at the septum pellucidum — mild 3–5 mm, moderate 6–10 mm, severe >10 mm
 - Ipsilateral frontal horn compressed; contralateral ventricle may be disproportionately enlarged (trapping)
 - Cingulate gyrus abutting or crossing under the falx; pericallosal sulci crowded
+
+![Axial non-contrast CT showing an acute right convexity subdural haematoma (arrow) with midline shift to the left, effacement of the right lateral ventricle and dilatation of the contralateral left lateral ventricle.]({{ '/docs/img/ctb_herniation_subfalcine_sdh.png' | relative_url }})
+
+*Figure 19.2 — Acute right convexity subdural haematoma (arrow) causing subfalcine herniation: midline shift to the left with the ipsilateral ventricle effaced and the contralateral ventricle enlarged (trapping). Source: James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Subduralandherniation.PNG).*
 
 **Key complication:** Compression of the pericallosal arteries → ACA territory infarct. Look for evolving parasagittal frontal hypodensity (~20–30 HU) on delayed scans.
 
@@ -69,6 +77,10 @@ Before diving into individual herniation types, use this checklist on every scan
 - Progressive midbrain compression and loss of quadrigeminal cistern contour
 - Hyperdense PCA sign occasionally visible acutely; wedge-shaped medial occipital hypodensity (PCA infarct) on later scans
 
+![Multi-panel coronal and axial CT figure of uncal (descending transtentorial) herniation, showing medial temporal lobe displacement and progressive effacement of the suprasellar and perimesencephalic cisterns around the midbrain.]({{ '/docs/img/ctb_herniation_uncal_composite.png' | relative_url }})
+
+*Figure 19.3 — Uncal / descending transtentorial herniation. Coronal (A–C) and axial (D–G) non-contrast CT panels demonstrate medial temporal lobe displacement with progressive effacement of the suprasellar and perimesencephalic cisterns around the midbrain. Source: Dr. Miki Katzir, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sliding_uncus_syndrome.tif).*
+
 **Key complication:** Ipsilateral PCA infarct (medial occipital low attenuation, usually sparing the lateral convexity). Kernohan's notch — contralateral peduncle compressed by the tentorial edge — may cause ipsilateral hemiparesis (false localising sign, more reliably seen on MRI).
 
 **Clinical significance:** Correlate immediately with pupillary examination. A unilateral fixed dilated pupil with ipsilateral mass effect = uncal herniation until proven otherwise. Immediate neurosurgical escalation, reverse any coagulopathy, consider osmotherapy. This is a surgical emergency.
@@ -88,6 +100,10 @@ Before diving into individual herniation types, use this checklist on every scan
 - Slit-like lateral and third ventricles; fourth ventricle also narrows
 - Global sulcal effacement with poor grey–white differentiation (grey approaching mid-30s HU, white approaching high-20s HU)
 - **Duret haemorrhages:** linear or oval acute haemorrhages (60–80 HU) in the midline or paramedian midbrain and pons — a gravely sinister finding
+
+![Axial non-contrast CT of bifrontal contusions with surrounding oedema and effacement of the basal cisterns, in a case that progressed to transtentorial herniation.]({{ '/docs/img/ctb_herniation_transtentorial_contusions.jpg' | relative_url }})
+
+*Figure 19.4 — Bifrontal traumatic contusions with surrounding oedema and effacement of the basal (perimesencephalic) cisterns in a patient whose injury progressed to transtentorial herniation. Source: Rehman T, Ali R, Tawil I, Yonas H, CC BY 2.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brain_trauma_CT.jpg).*
 
 **Clinical significance:** Duret haemorrhages indicate severe, often irreversible brainstem injury. Prognosis is extremely poor once they appear. Management shifts to aggressive ICP control and treating the precipitating cause; avoid anything that further raises ICP (agitation, hypercapnia, hypotension).
 

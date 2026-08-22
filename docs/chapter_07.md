@@ -29,6 +29,9 @@ Acute tSAH appears as **hyperattenuating (bright) material filling sulci**, conf
 - **Morphology:** thin, linear or lace-like; it *tracks within* sulci rather than forming a smooth extra-axial layer.
 - **Practical tip:** if you're unsure, measure the HU directly. Values >45 HU in a sulcus strongly favour blood. Compare the suspect sulcus with its mirror image on the opposite side — asymmetric density is significant.
 
+![Axial, coronal and sagittal non-contrast CT showing hyperdense blood tracking within the right cerebral convexity sulci in a lace-like pattern]({{ '/docs/img/ctb_tsah_convexity_sulcal.jpg' | relative_url }})
+*Figure 6.1 — Traumatic SAH in an 83-year-old: hyperattenuating blood conforms to and tracks within the right convexity sulci (best appreciated on the sagittal reconstruction, right panel), the archetypal thin, lace-like sulcal pattern of tSAH. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Subarachnoidalblutung_traumatisch_83W_-_CT_-_001.jpg).*
+
 ### Where to Find It
 
 tSAH has a characteristic distribution that differs from aneurysmal SAH:
@@ -41,6 +44,9 @@ tSAH has a characteristic distribution that differs from aneurysmal SAH:
 | **Tentorial leaflets** | Fine hyperdense lines along the tentorium — easily missed |
 | **Occipital horns** | Dependent layering of blood indicating intraventricular extension |
 
+![Axial non-contrast CT showing subarachnoid hyperdensity within the basal cisterns and around the midbrain]({{ '/docs/img/ctb_tsah_axial_001.png' | relative_url }})
+*Figure 6.2 — Axial non-contrast CT demonstrating subarachnoid blood, with hyperattenuation in the perimesencephalic region and posterior interhemispheric fissure. Correlate the distribution with the mechanism: a peripheral, sulcal-predominant pattern favours trauma, whereas central cisternal-dominant blood should prompt consideration of an aneurysmal source. Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Traumatische_SAB_001.png).*
+
 ### What Else to Look For
 
 Always look for associated traumatic findings that confirm the aetiology:
@@ -48,6 +54,9 @@ Always look for associated traumatic findings that confirm the aetiology:
 - Subdural or extradural haematoma
 - Skull or skull base fractures; scalp haematoma
 - Small haemorrhages at the grey–white junction or corpus callosum (diffuse axonal injury)
+
+![Axial non-contrast CT with arrowheads marking thin sulcal blood over the right convexity and an arrow marking a posterior scalp haematoma]({{ '/docs/img/ctb_tsah_convexity_scalp.png' | relative_url }})
+*Figure 6.3 — Thin convexity subarachnoid blood (arrowheads) with an overlying/posterior scalp haematoma (arrow). Anchoring the sulcal haemorrhage to an external sign of impact confirms the traumatic aetiology — always survey the scalp and skull for the point of injury. Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Traumatische_SAB_002.png).*
 
 ---
 
@@ -71,6 +80,9 @@ The most important distinction is **traumatic versus aneurysmal SAH**, because t
 - Often associated with **intraventricular haemorrhage and hydrocephalus**
 - Contusions, fractures, and scalp injury are absent or minor relative to the haemorrhage burden
 - **Action:** any central cisternal-dominant pattern in a trauma patient requires urgent CTA to exclude aneurysm rupture — a pre-existing aneurysm can rupture as the precipitant of the fall, not the consequence of it
+
+![Axial non-contrast CT showing dense star-shaped subarachnoid blood filling the suprasellar and interpeduncular cisterns and both Sylvian fissures]({{ '/docs/img/ctb_sah_basal_cisterns_star.jpg' | relative_url }})
+*Figure 6.4 — The contrasting red-flag pattern: dense, "star-shaped" subarachnoid blood filling the suprasellar/interpeduncular cisterns and extending into both Sylvian fissures. This central, cisternal-dominant distribution is typical of aneurysmal SAH and, in a trauma patient, mandates urgent CTA rather than being attributed to the injury. Source: Lipothymia, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Subarachnoid_haemorrhage.jpg).*
 
 ### Other Differentials Worth Knowing
 

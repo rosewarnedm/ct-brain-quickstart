@@ -67,6 +67,14 @@ On CECT, look for **smooth or nodular gyriform/sulcal enhancement** over convexi
 | **Arterial infarction** | Low attenuation in cortical/deep perforator territories from vasculitis or vasospasm |
 | **Venous sinus thrombosis** | Hyperdense sinus sign; haemorrhagic venous infarcts; confirm with CTV |
 
+![Contrast-enhanced axial CT showing a thin crescentic left frontal extra-axial collection with peripheral rim enhancement and an overlying scalp abscess]({{ '/docs/img/ctb_subdural_empyema_ct.png' | relative_url }})
+
+*Figure 15.1 — Subdural empyema (CECT). Thin crescentic extra-axial collection along the left frontal convexity with peripheral rim enhancement (arrows), plus an overlying scalp abscess — a neurosurgical emergency. Source: James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Subduralempyemaandskinabscess.png).*
+
+![Axial T1 post-contrast MRI showing a left posterior ring-enhancing lesion with a thin smooth enhancing wall and central non-enhancing content, with ventricular dilatation]({{ '/docs/img/ctb_brain_abscess_ring_mri.jpg' | relative_url }})
+
+*Figure 15.2 — Cerebral abscess (post-contrast T1 MRI). A ring-enhancing lesion in the left posterior hemisphere with a thin, smooth enhancing capsule and central near-CSF content, alongside ventricular dilatation. On CT the abscess capsule shows analogous thin ring enhancement. Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brain_abscess_-_MRI_T1_KM_axial.jpg).*
+
 ### Tuberculous Meningitis (TBM)
 
 Think: **"Basal, blocked, and bilateral"**
@@ -78,6 +86,10 @@ Think: **"Basal, blocked, and bilateral"**
 On CECT: intense basal leptomeningeal enhancement extending along the Sylvian fissures is characteristic.
 
 Coexisting tuberculomas appear as isodense or hypodense nodules with ring or nodular enhancement; they may calcify chronically.
+
+![Contrast-enhanced axial CT showing markedly dilated lateral ventricles with periventricular low attenuation and basal enhancement in tuberculous meningitis]({{ '/docs/img/ctb_tb_meningitis_hydrocephalus_ct.jpg' | relative_url }})
+
+*Figure 15.3 — Tuberculous meningitis (CECT). Marked communicating hydrocephalus with dilated lateral ventricles and periventricular transependymal low attenuation, together with basal leptomeningeal enhancement — the "blocked and basal" pattern. Source: Komolafe, M., Sunmonu, T., Esan, O., CC BY 2.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Tuberculous-meningitis-scan.jpg).*
 
 **Escalate:** TBM carries high risk of rapid deterioration from hydrocephalus and vasculitic stroke — early neurosurgical involvement and urgent anti-tuberculous therapy plus corticosteroids are indicated.
 
@@ -120,6 +132,10 @@ Think: **"Limbic and leaky"**
 - CECT: patchy/gyriform cortical and subcortical enhancement (may be minimal early)
 
 **Do not wait for CT confirmation before starting IV aciclovir** — treatment should begin immediately on clinical suspicion. A normal CT does not exclude HSV encephalitis.
+
+![Coronal T2 MRI showing asymmetric high signal and swelling in the right medial temporal lobe and insula in herpes simplex encephalitis]({{ '/docs/img/ctb_hsv_encephalitis_temporal_mri.jpg' | relative_url }})
+
+*Figure 15.4 — HSV-1 encephalitis (coronal T2 MRI). Asymmetric high T2 signal and swelling involving the right medial temporal lobe and insula, sparing the basal ganglia — the classic "limbic" distribution. CT is frequently normal early or shows only subtle mesial temporal/insular hypoattenuation, so MRI is the more sensitive modality. Source: dr Laughlin Dawes, CC BY 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Hsv_encephalitis.jpg).*
 
 ### Arboviral Encephalitis (e.g., Japanese Encephalitis, West Nile)
 

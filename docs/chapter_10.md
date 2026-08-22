@@ -51,6 +51,18 @@ A focal scalp haematoma predicts an underlying fracture — scrutinise the adjac
 - **Ping-pong fractures (infants):** inward buckling of the calvarium without cortical break. Easy to miss on axials — look at sagittal and coronal reformats for a subtle contour deformity.
 - **Growing skull fracture:** a delayed complication in young children with an underlying dural tear. Progressive widening of a fracture gap, smooth edges, and a low-density extra-axial collection contiguous with the fracture line. Needs neurosurgical referral for dural repair. Flag any diastatic fracture with an overlying collection for follow-up imaging.
 
+![Infant axial CT bone window showing a lucent linear parietal skull fracture]({{ '/docs/img/ctb_paed_aht_linear_fracture_bone.png' | relative_url }})
+
+*Figure 9.1 — Infant head CT (bone window): a sharp lucent linear fracture in the parietal calvarium. Assess the entire diploë on bone algorithm and correlate with any overlying scalp swelling. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:AbusiveheadtraumaBonewindows.png).*
+
+![3D CT reconstruction of an infant skull showing a fracture line alongside the normal open cranial sutures]({{ '/docs/img/ctb_paed_skull_fracture_3d.png' | relative_url }})
+
+*Figure 9.2 — 3D CT reconstruction of an infant skull. The serrated, symmetric lines are normal open sutures; the smoother, more linear defect crossing the parietal bone is a fracture. Comparing the two helps distinguish a fracture from a normal suture. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:SkullFracAHT.png).*
+
+![Two lateral skull radiographs of the same infant at 6 and 14 months showing progressive widening of a parieto-occipital fracture gap]({{ '/docs/img/ctb_paed_growing_skull_fracture_xr.jpg' | relative_url }})
+
+*Figure 9.3 — Growing skull fracture (lateral skull radiographs, not CT). Same child at 6 months (left) and 14 months (right): a narrow parieto-occipital fracture has widened markedly with growth, reflecting an underlying dural tear (leptomeningeal cyst). This is the delayed complication that mandates follow-up and neurosurgical referral. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Wachsende_Schaedelfraktur_6mo-14moW_-_CR_seitlich_-_001.jpg).*
+
 ### Skull Base Fractures
 
 Look for indirect signs: mastoid/middle ear opacification, haemotympanum, sphenoid sinus fluid level, pneumocephalus, or air in the cavernous sinus. Assess whether the fracture involves the carotid canal (request CTA if so) or otic capsule. Complications include CSF leak, cranial nerve palsies, and venous sinus injury.
@@ -166,6 +178,10 @@ Radiology's role is to describe findings accurately and flag inconsistencies —
 - **Parenchyma:** diffuse oedema, hypoxic–ischaemic injury pattern, DAI stigmata.
 - **Skull:** multiple fractures, complex or diastatic fractures, non-parietal fractures, or fractures inconsistent with the stated history.
 - **Spine:** spinal subdural haemorrhage and ligamentous injury (requires MRI of the whole spine).
+
+![Infant axial CT showing a focal parenchymal haemorrhage with overlying scalp swelling, marked by an arrow]({{ '/docs/img/ctb_paed_aht_parenchymal_arrow.png' | relative_url }})
+
+*Figure 9.4 — Infant head CT: a focal parenchymal haemorrhage in the parietal region with overlying scalp swelling (arrow), in a case of abusive head trauma. Findings should be described accurately and objectively; the safeguarding conclusion rests with the multidisciplinary team. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CTheatInfantAbusiveheadtrauma.png).*
 
 **CT alone is insufficient for AHT assessment.** CT identifies acute haemorrhage and fractures. MRI brain and whole spine with SWI and DWI are essential for complete evaluation. Arrange ophthalmology review (retinal haemorrhages) and skeletal survey. Activate your trust's safeguarding pathway.
 

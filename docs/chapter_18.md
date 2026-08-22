@@ -38,6 +38,9 @@ In the emergency department, your job with hydrocephalus on CT is to answer four
 
 **Downward bowing of the third ventricular floor** is a sign of significant pressure from above, and in the right context suggests the patient may be a candidate for endoscopic third ventriculostomy (ETV) — worth mentioning in your assessment.
 
+![Axial, bone-window, coronal and sagittal CT of long-standing hydrocephalus showing grossly ballooned, dilated ventricles]({{ '/docs/img/ctb_hydrocephalus_ballooned_ventricles.jpg' | relative_url }})
+*Figure 17.1 — Long-standing hydrocephalus in an adult: the lateral ventricles are grossly dilated and ballooned (axial brain and bone windows, top; coronal and sagittal reformats, bottom). The sagittal panel (bottom right) shows the enlarged, rounded temporal horn. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Langjaehrig_bestehender_Hydrocephalus_48M_-_CT_-_001.jpg).*
+
 ---
 
 ## Localising the obstruction: which ventricles are enlarged?
@@ -57,6 +60,9 @@ The aqueduct of Sylvius is blocked. Causes include aqueductal stenosis, a tectal
 
 - On sagittal reformats, check the aqueduct region and tectal plate carefully.
 - A triventricular pattern with a small fourth ventricle should always prompt a search for the obstructing lesion.
+
+![Axial CT showing dilated, rounded frontal horns and enlarged temporal horns from aqueduct-level obstruction]({{ '/docs/img/ctb_hydrocephalus_obstructive_tectal_glioma.jpg' | relative_url }})
+*Figure 17.2 — Obstructive hydrocephalus from a tectal plate glioma: the frontal horns are dilated and rounded and the temporal horns are enlarged bilaterally, reflecting obstruction at the aqueduct. Source: Jto410, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Tectal_plate_glioma_CT.jpg).*
 
 ### All four ventricles enlarged → Fourth ventricular outlet obstruction or communicating hydrocephalus (tetraventricular hydrocephalus)
 
@@ -84,6 +90,9 @@ A focally enlarged ventricle or segment isolated by adhesions (post-haemorrhage 
 ## Distinguishing hydrocephalus from atrophy (ex vacuo ventriculomegaly)
 
 This is a common pitfall. The key discriminators:
+
+![Coronal CT (left) and coronal MRI (right) with the callosal angle marked, crowded high-convexity sulci circled, and disproportionately widened Sylvian fissures arrowed]({{ '/docs/img/ctb_hydrocephalus_vs_atrophy_callosal_angle.jpg' | relative_url }})
+*Figure 17.3 — Assessing hydrocephalus versus atrophy on a coronal image (CT left, MRI right of the same patient): the callosal angle is measured between the lateral ventricle roofs (blue lines), the high-convexity sulci are crowded/tight (red circle) and the Sylvian fissures are disproportionately widened (blue arrows) — the DESH pattern that favours (normal pressure) hydrocephalus over atrophy. Source: Benito Pereira Damasceno, CC BY 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Normal_pressure_hydrocephalus_versus_atrophy.jpg).*
 
 | Feature | Hydrocephalus | Atrophy |
 |---|---|---|
@@ -135,7 +144,14 @@ Choroid plexus calcification appears very hyperdense and does **not** suppress o
 ## After CSF diversion: what to look for on follow-up CT
 
 - **Expected**: reduction in temporal horn size, resolution of transependymal oedema, and reappearance of sulci.
+
+![Two axial CT slices of the same patient: before CSF diversion (left) with dilated ventricles and after diversion (right) with markedly reduced ventricular size]({{ '/docs/img/ctb_hydrocephalus_pre_post_diversion.jpg' | relative_url }})
+*Figure 17.4 — Response to CSF diversion: before treatment (left) the lateral ventricles, third ventricle and temporal horns are dilated; after diversion (right) the ventricles have decompressed to near-normal size. Source: MBq, Public domain, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:MBq_Hydrocephalus.jpg).*
+
 - **Failure to improve**: suggests ongoing obstruction, loculation, or catheter dysfunction — check tip position (should be in the frontal horn or third ventricle, not in parenchyma or the interhemispheric fissure).
+
+![Axial CT showing a radiopaque ventricular shunt catheter passing into a dilated lateral ventricle]({{ '/docs/img/ctb_hydrocephalus_shunt_catheter.png' | relative_url }})
+*Figure 17.5 — Ventricular shunt catheter: the beaded, hyperdense radiopaque catheter is seen passing into the dilated lateral ventricle — always confirm the tip lies within the frontal horn or third ventricle rather than in parenchyma. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:ShuntCT.png).*
 - **Overdrainage**: slit-like ventricles with subdural hygromas (crescentic low-attenuation extra-axial collections) or haematomas (hyperattenuating). May cause low-pressure headaches or intermittent symptoms.
 - **Trapped fourth ventricle**: dilated fourth ventricle with brainstem compression after supratentorial shunting — a distinct complication requiring its own drainage procedure.
 

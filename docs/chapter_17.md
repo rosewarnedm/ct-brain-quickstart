@@ -59,6 +59,10 @@ If you find an abscess, look for the source on the same scan — sinuses, mastoi
 - **Meningeal enhancement** suggests concurrent meningitis.
 - **Ependymal enhancement** (linear periventricular) or **intraventricular debris** indicates ventricular rupture or ventriculitis — see escalation section below.
 
+![Axial post-contrast T1 MRI showing a left posterior brain abscess with a thin, smooth, complete enhancing ring around a non-enhancing low-signal core.]({{ '/docs/img/ctb_brain_abscess_ring_mri.jpg' | relative_url }})
+
+*Figure 16.1 — The hallmark appearance: a thin, smooth, complete enhancing ring around a non-enhancing central cavity (axial post-contrast T1 MRI; the same thin, uniform ring is what you look for on CECT). Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brain_abscess_-_MRI_T1_KM_axial.jpg).*
+
 ### How the CT appearance evolves over time
 
 | Stage | Timing | CT Appearance |
@@ -81,6 +85,10 @@ These findings require **immediate escalation to neurosurgery**:
 - **Subdural or epidural empyema**: crescentic (subdural) or lentiform (epidural) extra-axial collection with peripheral enhancement and marked mass effect, typically arising from adjacent sinusitis or mastoiditis. Do not mistake these for intra-axial abscess — the distinction matters surgically.
 - **Venous sinus thrombosis**: look for a hyperdense venous sinus on NCCT in otogenic or sinonasal sepsis; confirm with CT venography.
 
+![Axial post-contrast T1 MRI showing a small ring-enhancing abscess adjacent to a ventricular catheter with dilated lateral ventricles.]({{ '/docs/img/ctb_brain_abscess_shunt_ring.jpg' | relative_url }})
+
+*Figure 16.2 — A small ring-enhancing abscess arising adjacent to a ventricular (CSF shunt) catheter, with associated ventricular dilatation — a reminder to scrutinise the periventricular region and shunt tracks (axial post-contrast T1 MRI). Source: Aimun AB Jamjoom, Abrar R Waliuddin and Abdulhakim B Jamjoom, CC BY 2.5, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brain_Abscess_at_MRI_(T1_%2B_contrast)_--_showing_a_small_ring-enhancing_lesion_with_mild_surrounding_edema_adjacent_to_the_ventricular_catheter_and_ventricular_dilatation..jpg).*
+
 ---
 
 ## Key Differential Diagnoses for Ring-Enhancing Lesions
@@ -97,6 +105,10 @@ CT cannot always distinguish these with certainty — that is when you push for 
 | **Toxoplasmosis** | Immunocompromised; multiple lesions, often basal ganglia/thalamus; variable ring |
 | **Tumefactive demyelination** | **Open ring** (incomplete enhancement, open towards cortex); mild mass effect relative to size; young adult |
 | **Neurocysticercosis** | Thin-walled cysts, often smaller and more numerous; eccentric scolex; colloidal stage has ring enhancement |
+
+![Multi-sequence MRI montage of extensive multiloculated brain abscesses; the diffusion-weighted image shows bright signal (restricted diffusion) within the pus-filled cavities.]({{ '/docs/img/ctb_brain_abscess_dwi_multiloculated.jpg' | relative_url }})
+
+*Figure 16.3 — Why MRI settles the question: multi-sequence MRI of extensive multiloculated abscesses. The diffusion-weighted (DWI) panel shows bright signal (restricted diffusion) within the pus-filled cavities — the key feature that distinguishes an abscess from a necrotic tumour, whose cavity does not restrict. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ausgedehnte_Hirnabszesse_-_verschiedene_Wichtungen_in_der_MRT_3M_-_MR_-_001.jpg).*
 
 **Pointers that favour abscess on CT:**
 - Thin, smooth, complete ring with a homogeneous very low-attenuation core (5–25 HU)

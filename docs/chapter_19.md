@@ -60,6 +60,10 @@ Oedematous white matter typically falls to **10–25 HU**. Early cytotoxic chang
 
 **Key point**: the oedema itself does not enhance — any enhancement is from the causative lesion (tumour capsule, abscess wall). Oedema does not respect vascular territories.
 
+![Pre- and post-contrast axial CT showing three enhancing brain metastases surrounded by extensive low-density white-matter oedema]({{ '/docs/img/ctb_edema_vasogenic_metastases.jpg' | relative_url }})
+
+*Figure 18.1 — Vasogenic oedema. Non-contrast (left) and post-contrast (right) axial CT: three enhancing metastases from breast cancer with disproportionate, confluent low-density oedema in the surrounding white matter. The oedema does not enhance; only the lesions do. Source: Jmarchn, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:BrainMetastasisFromBreastCancer.jpg).*
+
 **Common causes and clues**:
 - *Tumour/metastasis*: focal or multifocal, oedema radiates from a mass
 - *Abscess*: ring-enhancing lesion on contrast CT; surrounding vasogenic oedema; MRI (diffusion) confirms if available
@@ -69,12 +73,20 @@ Oedematous white matter typically falls to **10–25 HU**. Early cytotoxic chang
 
 **Appearance**: loss of grey–white differentiation involving **both cortex and deep grey nuclei**. Distribution follows an **arterial territory**. Sulcal effacement and cortical swelling are prominent. Early changes may be very subtle (2–6 HU).
 
+![Axial CT showing extensive right hemispheric hypodensity with loss of grey-white differentiation, sulcal effacement and compression of the right lateral ventricle]({{ '/docs/img/ctb_edema_cytotoxic_mca_pca.jpg' | relative_url }})
+
+*Figure 18.2 — Cytotoxic oedema in an arterial territory. Axial non-contrast CT: extensive right MCA/PCA-territory infarct with loss of grey–white differentiation, sulcal effacement and mass effect compressing the right lateral ventricle. Cortex and deep grey structures are both involved, confined to the vascular territory. Source: Cerevisae, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Right_MCA_and_PCA_territories_infarct.jpg).*
+
 **Specific signs in acute ischaemic stroke (AIS)**:
 - *Insular ribbon sign*: loss of definition of the insular cortex (MCA territory)
 - *Lentiform nucleus obscuration*: basal ganglia become indistinct
 - *Hyperdense artery sign*: acute thrombus in MCA or basilar (~55–70 HU) — not oedema itself, but a key supporting finding
 
 **Global hypoxic–ischaemic brain injury (HIBI)**: diffuse loss of grey–white differentiation throughout the brain. Watch for the **pseudo-SAH sign** — apparent sulcal hyperattenuation (~30–45 HU) due to venous engorgement and compressed CSF against swollen brain. Do not mistake this for true SAH (which measures ~60–70 HU and coats basal cisterns uniformly).
+
+![Axial CT showing diffuse loss of grey-white differentiation, effaced sulci and slit-like ventricles in a swollen brain]({{ '/docs/img/ctb_edema_diffuse_hibi.png' | relative_url }})
+
+*Figure 18.3 — Diffuse cerebral oedema (hypoxic–ischaemic injury). Axial non-contrast CT after anoxic injury: global loss of grey–white differentiation, effacement of the sulci and small, slit-like ventricles from a diffusely swollen "tight" brain. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Anoxicbraininjury.png).*
 
 ### Interstitial (hydrocephalic) oedema
 
