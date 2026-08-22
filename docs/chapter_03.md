@@ -241,7 +241,7 @@ ASPECTS divides the MCA territory into 10 regions. Start at 10 (normal) and subt
 
 **Key pitfall:** High haematocrit or dehydration makes all venous blood denser. Check whether vessels are uniformly hyperdense throughout rather than focally.
 
-**When to escalate:** If DVST is suspected, request CT venography urgently. Standard treatment is anticoagulation — even in the presence of haem
+**When to escalate:** If DVST is suspected, request CT venography urgently. Standard treatment is anticoagulation — appropriate even in the presence of haemorrhagic venous infarction, and it should not be withheld solely because of haemorrhage unless there is severe mass effect or impending herniation requiring surgical decompression.
 
 ---
 

@@ -294,8 +294,3 @@ If the leak site is uncertain, CT cisternography (intrathecal iodinated contrast
 - (c) A growing skull fracture (leptomeningeal cyst) from a dural tear
 - (d) A lytic metastasis
 - (e) An arachnoid granulation
-| Vascular grooves (MMA, sinuses) | Smooth, corticated, branching, intraosseous |
-| Arachnoid granulation | Smooth, round, CSF-density defect within sinus; bony remodelling, not acute |
-| Synchondroses (children) | Smooth, corticated, symmetric, age-appropriate location |
-| Lytic metastasis/myeloma | Geographic or moth-eaten lucency, non-sclerotic margins, no trauma history |
-| Congenital bony
