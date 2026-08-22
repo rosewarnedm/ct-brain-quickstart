@@ -164,13 +164,13 @@ A hygroma is a CSF-density subdural collection (0–15 HU), smooth and thin, wit
 
 ### Always consider and document:
 
-- **Anticoagulation or antiplatelet use** — mixed density, fluid–fluid levels, or rapid expansion in this context should prompt urgent reversal
-- **Coagulopathy** — request urgent correction and involve haematology if needed
+- **Anticoagulation or antiplatelet use** — mixed density, fluid–fluid levels, or rapid expansion in this context should prompt an urgent discussion with haematology to arrange anticoagulation reversal
+- **Coagulopathy** — involve haematology urgently to arrange correction
 - **NAI in children** — bilateral or interhemispheric SDH in a young child with an inconsistent or no history of trauma requires immediate safeguarding escalation; do not delay
 
 ### Intracranial hypotension
 
-Bilateral thin SDH with a disproportionately small-looking brain may reflect a CSF leak rather than trauma. Do not rush to drain surgically if the patient is clinically stable — addressing the underlying leak is the priority. MRI is more sensitive for this diagnosis.
+Bilateral thin SDH with a disproportionately small-looking brain may reflect a CSF leak rather than trauma. This matters because it changes management — surgical drainage is generally not the answer in a clinically stable patient, and addressing the underlying leak is the priority. Flag this possibility explicitly when you discuss the case with neurosurgery, and note that MRI is more sensitive for this diagnosis.
 
 ---
 
@@ -186,7 +186,7 @@ When reporting a CT head with SDH, document:
 6. **Swirl sign** — if present, flag as potentially active bleeding
 7. **Clinical modifiers** — anticoagulation, anaemia, known coagulopathy
 8. **Comparison with prior imaging** — interval change, new hyperdense foci within a chronic collection
-9. **Recommendation** — urgent neurosurgical discussion if surgical criteria are met or herniation is threatened; urgent coagulopathy reversal if relevant; consider MRI if an isodense collection is suspected but equivocal
+9. **Recommendation** — urgent neurosurgical referral/discussion if surgical criteria are met or herniation is threatened; urgent referral to haematology for coagulopathy reversal if relevant; consider MRI if an isodense collection is suspected but equivocal
 
 ---
 

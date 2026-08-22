@@ -113,7 +113,7 @@ Always use HU to distinguish blood from mucus from CSF — it directly changes m
 
 **Complications:** CSF rhinorrhoea, anosmia (CN I), delayed meningitis or brain abscess.
 
-**Escalate if:** suspected CSF leak (low-attenuation sinonasal fluid + adjacent bony defect), pneumocephalus, or orbital apex involvement with visual deficit. ENT and/or neurosurgical review. Most traumatic CSF leaks resolve conservatively within 5–7 days; persistent leak requires surgical repair.
+**Escalate if:** suspected CSF leak (low-attenuation sinonasal fluid + adjacent bony defect), pneumocephalus, or orbital apex involvement with visual deficit. Refer to neurosurgery (± ENT/maxillofacial as appropriate for the base-of-skull/sinus site) for review. Most traumatic CSF leaks resolve conservatively within 5–7 days; a persistent leak warrants referral to neurosurgery (± ENT) for consideration of surgical repair.
 
 ### Middle cranial fossa — temporal bone fractures
 This is the most clinically nuanced BOS region. Use the **otic capsule sparing (OCS) vs otic capsule violating (OCV)** classification rather than the traditional longitudinal/transverse scheme — it is more clinically relevant.
@@ -139,7 +139,7 @@ This is the most clinically nuanced BOS region. Use the **otic capsule sparing (
 - Haemotympanum and mastoid opacification
 - Ossicular alignment on coronal HRCT (incudomalleolar and incudostapedial joints, stapes footplate)
 
-**Escalate:** immediate or complete facial palsy → urgent ENT (may need surgical exploration); delayed incomplete palsy is more likely neuropraxia and managed conservatively. Suspected ossicular injury, CSF otorrhoea, or pneumolabyrinth → HRCT temporal bones and ENT review. Carotid canal involvement → CTA.
+**Escalate:** immediate or complete facial palsy → refer urgently to ENT for consideration of surgical exploration; delayed incomplete palsy is more likely neuropraxia and is usually managed conservatively (flag to ENT for confirmation). Suspected ossicular injury, CSF otorrhoea, or pneumolabyrinth → HRCT temporal bones and refer to ENT. Carotid canal involvement → CTA (and discuss with neurosurgery/vascular).
 
 ### Middle cranial fossa — sphenoid and parasellar region
 **Structures at risk:** sphenoid sinus walls, carotid canals, optic canals, SOF.
@@ -165,7 +165,7 @@ This is the most clinically nuanced BOS region. Use the **otic capsule sparing (
 
 **Complications:** lower cranial neuropathies (CN IX–XII), vertebral artery injury, craniocervical instability.
 
-**Escalate:** cervical immobilisation for any condyle fracture until stability is confirmed. Type III → spine service review; MRI for ligamentous assessment. Consider CTA if vertebral artery territory involved.
+**Escalate:** maintain cervical immobilisation for any condyle fracture until stability is confirmed, and refer to the spine service (neurosurgery/spinal). Type III → urgent spine service review with a request for MRI for ligamentous assessment. Consider CTA if vertebral artery territory involved (discuss with neurosurgery/vascular).
 
 ---
 
@@ -175,10 +175,10 @@ This is the most clinically nuanced BOS region. Use the **otic capsule sparing (
 **CT:** biconvex, sharply marginated hyperdensity (50–80 HU), limited by sutures. Overlying fracture in ~85–95%. Venous EDH from sinus injury tends to occur along the occipital or temporo-occipital inner table and may be larger and slower to develop.
 
 ### Pneumocephalus
-**Mount Fuji sign:** bilateral frontal air separating the frontal lobes — indicates tension pneumocephalus. **Escalate immediately** if there is mass effect, sulcal effacement, or midline shift. Urgent neurosurgical decompression required.
+**Mount Fuji sign:** bilateral frontal air separating the frontal lobes — indicates tension pneumocephalus. **Escalate immediately** if there is mass effect, sulcal effacement, or midline shift — refer urgently to neurosurgery for consideration of decompression (and involve critical care if the patient is deteriorating).
 
 ![Axial CT showing a large volume of very low-attenuation air over both frontal lobes, separating them — pneumocephalus]({{ '/docs/img/ctb_pneumocephalus.jpg' | relative_url }})
-*Figure 9.5 — Pneumocephalus. Intracranial air (−1000 HU, sharply black) collects over both frontal lobes; air this far inside the cranium signals a dural breach and mandates a hunt for the fracture site. Watch for air separating and compressing the frontal lobes (Mount Fuji / tension pattern), which requires urgent decompression. Source: Cerevisae, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CT_brain_shwoing_pneumocephalus_of_bilateral_frontal_lobes.jpg).*
+*Figure 9.5 — Pneumocephalus. Intracranial air (−1000 HU, sharply black) collects over both frontal lobes; air this far inside the cranium signals a dural breach and mandates a hunt for the fracture site. Watch for air separating and compressing the frontal lobes (Mount Fuji / tension pattern), which requires urgent referral to neurosurgery for consideration of decompression. Source: Cerevisae, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CT_brain_shwoing_pneumocephalus_of_bilateral_frontal_lobes.jpg).*
 
 Simple pneumocephalus without mass effect is managed conservatively with high-flow oxygen to accelerate reabsorption.
 
@@ -194,7 +194,7 @@ BCVI is under-recognised and under-imaged. Request CTA if any of the following a
 - Occipital condyle Type III fracture
 - Petrous apex fracture
 
-**CTA findings:** luminal irregularity, mural haematoma (wall thickening), pseudoaneurysm, occlusion, or arteriovenous fistula. Prompt neurosurgical and/or vascular input required; antithrombotic therapy guided by Biffl grade and local trauma protocol.
+**CTA findings:** luminal irregularity, mural haematoma (wall thickening), pseudoaneurysm, occlusion, or arteriovenous fistula. Refer promptly to neurosurgery and/or the vascular/trauma service for management — antithrombotic therapy is decided by that team, guided by Biffl grade and local trauma protocol.
 
 ### Dural venous sinus injury
 Suspect when a fracture crosses a sinus groove with adjacent hyperdensity (60–80 HU acutely = thrombus or EDH). Consider CTV. Unrecognised sinus thrombosis can cause venous infarction.
@@ -210,7 +210,7 @@ Suspect when a fracture crosses a sinus groove with adjacent hyperdensity (60–
 
 **Direct signs:** a visible osseous defect with a CSF-density tract.
 
-If the leak site is uncertain, CT cisternography (intrathecal iodinated contrast, 100–250 HU in CSF) or MRI cisternography can localise it. Most traumatic leaks resolve with conservative measures; persistent leak beyond 5–7 days warrants surgical repair. Counsel regarding meningitis risk.
+If the leak site is uncertain, CT cisternography (intrathecal iodinated contrast, 100–250 HU in CSF) or MRI cisternography can localise it. Most traumatic leaks resolve with conservative measures; a leak persisting beyond 5–7 days warrants referral to neurosurgery (± ENT/maxillofacial) for consideration of surgical repair. Flag the meningitis risk to the receiving team.
 
 ---
 

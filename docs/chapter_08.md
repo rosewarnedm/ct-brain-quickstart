@@ -54,7 +54,7 @@ Contusions are focal areas of cortical and subcortical bruising — a mixture of
 
 ### Key Pattern: Burst Lobe
 
-A burst lobe is a large, lobar haemorrhagic contusion with irregular margins, markedly heterogeneous density, significant mass effect, and often an overlying acute subdural haematoma. This is a surgical pattern — escalate immediately.
+A burst lobe is a large, lobar haemorrhagic contusion with irregular margins, markedly heterogeneous density, significant mass effect, and often an overlying acute subdural haematoma. This is a surgical pattern — discuss urgently with neurosurgery for consideration of surgical management.
 
 ### Differentiating Contusions from Other Findings
 
@@ -136,9 +136,9 @@ Higher grade correlates with worse prognosis.
 
 ### When to Escalate
 
-- Any brainstem haemorrhagic foci (Grade III DAI) — these patients need ICU admission
+- Any brainstem haemorrhagic foci (Grade III DAI) — refer to critical care/anaesthetics for admission and ICU-level monitoring
 - Diffuse cerebral swelling with effaced basal cisterns
-- Severe or unexplained coma — even with a normal CT, these patients need intensive monitoring and consideration of urgent MRI
+- Severe or unexplained coma — even with a normal CT, refer to critical care/anaesthetics for intensive monitoring and airway protection, and arrange urgent MRI
 
 ---
 
@@ -153,7 +153,7 @@ Both contusions and haemorrhagic DAI lesions can enlarge substantially in the fi
 - Hypotension
 - Older age
 
-**Practical action:** Always ask about anticoagulants. Reversal should be considered urgently. Planned repeat CT at 6–24 hours is standard in moderate-to-severe TBI; rescan earlier if the patient deteriorates at all.
+**Practical action:** Always ask about anticoagulants and flag them to the referring/treating team so urgent reversal can be considered (with haematology input where needed). Planned repeat CT at 6–24 hours is standard in moderate-to-severe TBI; rescan earlier if the patient deteriorates at all.
 
 ---
 
@@ -200,7 +200,7 @@ When reporting a head CT after trauma, work through the following:
 
 - **Classic contusion sites** are the anteroinferior frontal lobes and temporal poles — the skull base funnels impact energy here. Expect contrecoup injury opposite the site of scalp trauma.
 - **CT appearance:** mixed-density gyriform cortical/subcortical lesions with hyperdense petechiae (50–80 HU) in surrounding hypodense oedema (20–30 HU).
-- **Blossoming at 24–72 hours is expected** — plan a repeat CT and reverse anticoagulation promptly.
+- **Blossoming at 24–72 hours is expected** — plan a repeat CT and flag any anticoagulation to the treating team for prompt reversal.
 - **DAI is predominantly a clinical and MRI diagnosis.** A normal CT with a severely injured patient is not reassuring — escalate and arrange MRI.
 - **When DAI is visible on CT**, look for punctate haemorrhages at the grey–white junction, corpus callosum splenium, and dorsolateral brainstem. Brainstem lesions (Grade III) indicate severe injury.
 - **Duret haemorrhages are not DAI** — they are midline, in the context of herniation and mass effect.

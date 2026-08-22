@@ -140,7 +140,7 @@ CT cannot always distinguish these with certainty — that is when you push for 
 If there is a space-occupying lesion with mass effect, **do not perform LP** — state this clearly in your report. The herniation risk is real.
 
 ### When does surgery happen?
-Lesions **>2.5 cm**, posterior fossa abscesses, and those with significant mass effect will generally need **neurosurgical drainage or aspiration** in addition to intravenous antibiotics. Aspirate culture guides targeted antimicrobial therapy.
+Lesions **>2.5 cm**, posterior fossa abscesses, and those with significant mass effect generally warrant **surgical drainage or aspiration** — so these features should prompt **urgent referral to neurosurgery** for consideration of drainage/aspiration alongside intravenous antibiotics. Neurosurgical aspirate typically provides the sample that lets **infection/microbiology (ID)** guide targeted antimicrobial therapy; flag suspected abscess to them early so antimicrobials can be directed (often after neurosurgical sampling).
 
 ### What to communicate urgently
 Immediately contact the neurosurgical team if you identify:

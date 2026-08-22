@@ -113,7 +113,7 @@ Look for indirect signs: mastoid/middle ear opacification, haemotympanum, spheno
 - **Birth-related SDH:** Small, thin collections along the tentorium and posterior interhemispheric fissure are common after normal vaginal delivery and typically resolve within 2–3 months. They are usually symmetric and cause no mass effect.
 - **Benign enlargement of the subarachnoid spaces (BESS):** Enlarged frontal convexity CSF spaces (peak age 6–24 months). Key distinguishing feature: cortical veins traverse the fluid space (the "cortical vein sign"). In SDH, the cortical veins are displaced against the brain surface. Children with BESS have long bridging veins and are at increased risk of SDH after minor trauma — finding BESS does not exclude abuse, and any SDH in an infant still warrants thorough evaluation.
 
-**Clinical significance:** Thin, non-compressive SDH in a stable child may be observed with frequent neuro checks. Expanding or symptomatic collections need neurosurgery. SDH with encephalopathy in an infant needs urgent MRI and safeguarding assessment.
+**Clinical significance:** Thin, non-compressive SDH in a stable child may be observed with frequent neuro checks. Expanding or symptomatic collections warrant urgent referral to (paediatric) neurosurgery. SDH with encephalopathy in an infant needs urgent MRI — escalate to the safeguarding/child-protection team, who will lead the safeguarding assessment.
 
 ### Subarachnoid Haemorrhage (tSAH)
 
@@ -156,7 +156,7 @@ Paediatric-specific hazard. After even moderate trauma, children can develop rap
 - Slit-like ventricles and compressed basal cisterns.
 - Pseudo-SAH may appear at peak swelling.
 
-**If you see effaced cisterns, slit ventricles, or loss of grey–white differentiation — escalate immediately.** These are signs of critically raised intracranial pressure. Alert the neurosurgical team and initiate ICP reduction measures (head positioning, hyperosmolar therapy).
+**If you see effaced cisterns, slit ventricles, or loss of grey–white differentiation — escalate immediately.** These are signs of critically raised intracranial pressure. Alert the (paediatric) neurosurgical team urgently and involve paediatric critical care/anaesthetics, who will institute ICP-reduction measures (e.g. head positioning, hyperosmolar therapy) and definitive management.
 
 Hypoxic–ischaemic injury (common in abusive head trauma and severe trauma) may look normal on early CT. MRI DWI detects it earlier. Watershed distribution or deep grey nuclei involvement may appear on later imaging.
 
@@ -183,7 +183,7 @@ Radiology's role is to describe findings accurately and flag inconsistencies —
 
 *Figure 10.4 — Infant head CT: a focal parenchymal haemorrhage in the parietal region with overlying scalp swelling (arrow), in a case of abusive head trauma. Findings should be described accurately and objectively; the safeguarding conclusion rests with the multidisciplinary team. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CTheatInfantAbusiveheadtrauma.png).*
 
-**CT alone is insufficient for AHT assessment.** CT identifies acute haemorrhage and fractures. MRI brain and whole spine with SWI and DWI are essential for complete evaluation. Arrange ophthalmology review (retinal haemorrhages) and skeletal survey. Activate your trust's safeguarding pathway.
+**CT alone is insufficient for AHT assessment.** CT identifies acute haemorrhage and fractures. MRI brain and whole spine with SWI and DWI are essential for complete evaluation. If your findings raise concern, escalate immediately to the safeguarding/child-protection team and the named/on-call paediatric consultant via your trust's safeguarding pathway; they will coordinate the child-protection investigation (e.g. skeletal survey, ophthalmology review for retinal haemorrhages) and the further imaging.
 
 **Important caveats:** Birth-related tentorial SDH is common and typically minor. BESS can coexist with SDH caused by minor trauma. Neither finding excludes AHT, and neither confirms it. Age, clinical context, history, and the full multidisciplinary assessment determine the conclusion.
 

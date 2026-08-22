@@ -91,7 +91,7 @@ Coexisting tuberculomas appear as isodense or hypodense nodules with ring or nod
 
 *Figure 16.3 — Tuberculous meningitis (CECT). Marked communicating hydrocephalus with dilated lateral ventricles and periventricular transependymal low attenuation, together with basal leptomeningeal enhancement — the "blocked and basal" pattern. Source: Komolafe, M., Sunmonu, T., Esan, O., CC BY 2.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Tuberculous-meningitis-scan.jpg).*
 
-**Escalate:** TBM carries high risk of rapid deterioration from hydrocephalus and vasculitic stroke — early neurosurgical involvement and urgent anti-tuberculous therapy plus corticosteroids are indicated.
+**Escalate:** TBM carries high risk of rapid deterioration from hydrocephalus and vasculitic stroke — refer urgently to infection/ID and acute medicine (anti-tuberculous therapy plus corticosteroids are indicated and directed by them) and discuss early with neurosurgery re: hydrocephalus/CSF diversion.
 
 ### Fungal Meningitis
 
@@ -131,7 +131,7 @@ Think: **"Limbic and leaky"**
   - >1 week: cortical necrosis, eventual volume loss
 - CECT: patchy/gyriform cortical and subcortical enhancement (may be minimal early)
 
-**Do not wait for CT confirmation before starting IV aciclovir** — treatment should begin immediately on clinical suspicion. A normal CT does not exclude HSV encephalitis.
+**Do not let CT delay IV aciclovir** — empirical treatment must not wait for imaging and should begin immediately on clinical suspicion per local protocol; refer urgently to acute medicine and infection/ID to direct ongoing antiviral care. A normal CT does not exclude HSV encephalitis.
 
 ![Coronal T2 MRI showing asymmetric high signal and swelling in the right medial temporal lobe and insula in herpes simplex encephalitis]({{ '/docs/img/ctb_hsv_encephalitis_temporal_mri.jpg' | relative_url }})
 
@@ -151,7 +151,7 @@ Think: **"Limbic and leaky"**
 
 - CT often normal; if abnormal, shows mild bilateral mesial temporal low attenuation **without haemorrhage**
 - Subacute presentation (days to weeks) with memory impairment or psychiatric features — contrast with the acute febrile presentation of HSV
-- Escalate: requires MRI and autoimmune antibody panel; treatment is immunotherapy not antivirals
+- Escalate: refer to neurology/acute medicine — requires MRI and autoimmune antibody panel; definitive treatment is immunotherapy (directed by the specialist team) rather than antivirals
 
 ---
 
@@ -218,14 +218,14 @@ Think: **"Limbic and leaky"**
 
 | Finding | Action |
 |---|---|
-| **Mass effect, obliterated basal cisterns, midline shift, or obstructive hydrocephalus** | Unsafe for LP — neurosurgical review; do not delay antibiotics |
-| **Communicating hydrocephalus with clinical deterioration** | Urgent neurosurgical review; EVD may be needed |
-| **Subdural empyema or cerebral abscess** | Neurosurgical emergency — urgent drainage and IV antibiotics |
-| **Ventriculitis** | Senior review; consider device removal, CSF diversion, and specialist microbiology input |
-| **TBM pattern** | Infectious diseases and neurosurgery early; start anti-tuberculous therapy and corticosteroids promptly |
-| **HSV encephalitis pattern or clinical suspicion** | IV aciclovir immediately — do not wait for CT, MRI, or LP result |
-| **Suspected invasive fungal sinusitis** | ENT and neurosurgical emergency |
-| **Hyperdense sinus on NCCT (venous thrombosis)** | CTV to confirm; anticoagulation decision with senior input |
+| **Mass effect, obliterated basal cisterns, midline shift, or obstructive hydrocephalus** | Advise imaging shows a contraindication to LP; refer urgently to neurosurgery — do not delay empirical antibiotics per local protocol |
+| **Communicating hydrocephalus with clinical deterioration** | Discuss urgently with neurosurgery for CSF diversion (EVD may be needed) |
+| **Subdural empyema or cerebral abscess** | Refer urgently to neurosurgery for drainage; do not delay empirical IV antibiotics per local protocol (ongoing antimicrobials directed by infection/microbiology) |
+| **Ventriculitis** | Escalate to seniors; discuss with neurosurgery re: device removal/CSF diversion and with microbiology/ID re: antimicrobials |
+| **TBM pattern** | Refer early to infection/ID and neurosurgery; anti-tuberculous therapy and corticosteroids are indicated (directed by the treating team) |
+| **HSV encephalitis pattern or clinical suspicion** | Do not let imaging delay empirical IV aciclovir per local protocol; refer urgently to acute medicine and infection/ID |
+| **Suspected invasive fungal sinusitis** | Refer urgently to ENT and neurosurgery (emergency) |
+| **Hyperdense sinus on NCCT (venous thrombosis)** | CTV to confirm; discuss anticoagulation decision with the treating/senior team |
 
 ---
 
@@ -240,7 +240,7 @@ When reporting or reviewing a CT in suspected CNS infection, work through system
 5. **Extra-axial spaces:** Collections (attenuation, enhancement, mass effect)
 6. **Vessels and sinuses:** Hyperdense artery or sinus sign; CTA/CTV if indicated
 7. **Skull base, sinuses, mastoids, orbits:** Source of infection, bone erosion, cavernous sinus involvement
-8. **Impression:** Likely diagnosis, key complications, specific management recommendations (LP safety, neurosurgical review, empirical treatment)
+8. **Impression:** Likely diagnosis, key complications, and clear escalation advice (whether imaging contraindicates LP, which team to refer to — neurosurgery/infection/acute medicine — and a reminder not to delay empirical treatment per local protocol)
 
 ---
 

@@ -92,9 +92,9 @@ Tumefactive demyelination mimics tumour but shows an **incomplete "open" ring** 
 
 ### When to escalate
 
-- Impending herniation (effaced basal cisterns, uncal shift, midline shift >5 mm) → **immediate neurosurgical review**
-- Obstructive hydrocephalus from a posterior fossa mass → **urgent neurosurgical review**
-- Significant vasogenic oedema + mass effect → commence dexamethasone (if clinically appropriate) and discuss with neurosurgery/oncology
+- Impending herniation (effaced basal cisterns, uncal shift, midline shift >5 mm) → **refer immediately to neurosurgery** (and involve critical care if the patient is deteriorating)
+- Obstructive hydrocephalus from a posterior fossa mass → **refer urgently to neurosurgery** (for consideration of CSF diversion, e.g. EVD)
+- Significant vasogenic oedema + mass effect → start dexamethasone per local guidance if clinically appropriate, and refer to neurosurgery and the neuro-oncology MDT for ongoing management
 - **Do not perform lumbar puncture** in the presence of significant mass effect
 
 ---
@@ -134,11 +134,11 @@ Metastases classically present as **multiple lesions at the grey–white junctio
 
 ### When to escalate
 
-- Mass effect / herniation / obstructive hydrocephalus → **urgent neurosurgery**
-- Haemorrhagic metastasis in a patient on anticoagulants → **immediate senior review and haematology input**
-- Posterior fossa lesion with fourth ventricle compression → **urgent neurosurgical review**
-- New diagnosis of brain metastases → CT chest/abdomen/pelvis to find primary (after stabilising ICP)
-- Dexamethasone for significant oedema; CT venography if venous sinus involvement suspected
+- Mass effect / herniation / obstructive hydrocephalus → **refer urgently to neurosurgery**
+- Haemorrhagic metastasis in a patient on anticoagulants → **refer for immediate senior review and haematology input** (for decisions on reversal/anticoagulation)
+- Posterior fossa lesion with fourth ventricle compression → **refer urgently to neurosurgery**
+- New diagnosis of brain metastases → CT chest/abdomen/pelvis to find primary (after stabilising ICP), and refer to the neuro-oncology MDT and primary oncology team for staging and oncological management
+- Start dexamethasone per local guidance for significant oedema; request CT venography if venous sinus involvement suspected
 
 ---
 
@@ -188,9 +188,9 @@ Meningioma is an **extra-axial** tumour. Recognising extra-axial location is the
 
 ### When to escalate
 
-- Mass effect, significant oedema, or impending herniation → **urgent neurosurgical review** and dexamethasone
-- Suspected venous sinus involvement with venous infarction pattern → **CT venography** and neurosurgical input
-- Acute cranial neuropathy attributable to skull-base meningioma → urgent ophthalmology/neurosurgical review
+- Mass effect, significant oedema, or impending herniation → **refer urgently to neurosurgery**; start dexamethasone per local guidance
+- Suspected venous sinus involvement with venous infarction pattern → request **CT venography** and refer to neurosurgery
+- Acute cranial neuropathy attributable to skull-base meningioma → refer urgently to ophthalmology/neurosurgery
 
 ---
 
@@ -249,8 +249,8 @@ When reporting an acute CT with a suspected brain tumour, cover:
 - Ranked differential with key supporting CT features
 
 **Recommendations:**
-- Dexamethasone if significant oedema/mass effect (flag for clinical team)
-- Urgent neurosurgical/oncology input if herniation risk, posterior fossa mass, or hydrocephalus
+- Dexamethasone per local guidance if significant oedema/mass effect (flag for the clinical team to initiate)
+- Refer for urgent neurosurgical input if herniation risk, posterior fossa mass, or hydrocephalus; refer to the neuro-oncology MDT for ongoing oncological management
 - MRI brain with contrast (± perfusion/spectroscopy) for definitive characterisation
 - CT chest/abdomen/pelvis if metastatic work-up needed
 - CT/MR venography if sinus involvement suspected

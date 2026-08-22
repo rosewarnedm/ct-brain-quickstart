@@ -36,7 +36,7 @@ In the emergency department, your job with hydrocephalus on CT is to answer four
 
 **Rounding and ballooning of the frontal horns** — normally pointed, they become rounded and expanded under pressure.
 
-**Downward bowing of the third ventricular floor** is a sign of significant pressure from above, and in the right context suggests the patient may be a candidate for endoscopic third ventriculostomy (ETV) — worth mentioning in your assessment.
+**Downward bowing of the third ventricular floor** is a sign of significant pressure from above, and in the right context flags the patient as a potential candidate for endoscopic third ventriculostomy (ETV) — worth mentioning in your assessment so neurosurgery can consider it.
 
 ![Axial, bone-window, coronal and sagittal CT of long-standing hydrocephalus showing grossly ballooned, dilated ventricles]({{ '/docs/img/ctb_hydrocephalus_ballooned_ventricles.jpg' | relative_url }})
 *Figure 18.1 — Long-standing hydrocephalus in an adult: the lateral ventricles are grossly dilated and ballooned (axial brain and bone windows, top; coronal and sagittal reformats, bottom). The sagittal panel (bottom right) shows the enlarged, rounded temporal horn. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Langjaehrig_bestehender_Hydrocephalus_48M_-_CT_-_001.jpg).*
@@ -76,7 +76,7 @@ This is tetraventricular enlargement. The distinction between outlet obstruction
 **Communicating hydrocephalus** (CSF resorption failure):
 - All four ventricles enlarged but the aqueduct and fourth ventricle outlets are patent.
 - Common causes in the ED: subarachnoid haemorrhage (SAH), meningitis/ventriculitis, leptomeningeal malignancy.
-- In chronic communicating hydrocephalus (e.g., normal pressure hydrocephalus, NPH), look for the **DESH pattern**: enlarged ventricles, tight high-convexity subarachnoid spaces (sulci appear crowded at the top despite ventricular enlargement), widened Sylvian fissures, and a narrow callosal angle (50–80°). This pattern alone does not confirm NPH — that requires clinical assessment and further testing — but it supports a referral.
+- In chronic communicating hydrocephalus (e.g., normal pressure hydrocephalus, NPH), look for the **DESH pattern**: enlarged ventricles, tight high-convexity subarachnoid spaces (sulci appear crowded at the top despite ventricular enlargement), widened Sylvian fissures, and a narrow callosal angle (50–80°). This pattern alone does not confirm NPH — that requires clinical assessment and further testing — but it supports referral to neurosurgery for consideration of shunting.
 
 ### Trapped compartment
 
@@ -110,11 +110,11 @@ Chronic leukoaraiosis (small vessel disease) can mimic transependymal oedema. Le
 
 ### Subarachnoid haemorrhage
 
-Hyperdense blood (50–70 HU) in basal cisterns and sulci. Hydrocephalus develops via clot occluding arachnoid granulations or IVH plugging ventricular outlets. It may develop or worsen over hours to days — **a single early CT does not exclude evolving hydrocephalus**. IVH clot often layers in the occipital horns. Acute hydrocephalus with declining GCS → urgent EVD.
+Hyperdense blood (50–70 HU) in basal cisterns and sulci. Hydrocephalus develops via clot occluding arachnoid granulations or IVH plugging ventricular outlets. It may develop or worsen over hours to days — **a single early CT does not exclude evolving hydrocephalus**. IVH clot often layers in the occipital horns. Acute hydrocephalus with declining GCS → refer urgently to neurosurgery for CSF diversion (typically an EVD), and involve critical care if the patient is acutely deteriorating.
 
 ### Intraventricular haemorrhage
 
-Hyperdense clot within the ventricles. Look for clot at the foramina of Monro, within the aqueduct, or filling the fourth ventricle. A "casted" ventricle (entirely filled with clot) with surrounding hypodensity indicates significant obstruction. Requires EVD; intraventricular fibrinolysis is used in selected centres.
+Hyperdense clot within the ventricles. Look for clot at the foramina of Monro, within the aqueduct, or filling the fourth ventricle. A "casted" ventricle (entirely filled with clot) with surrounding hypodensity indicates significant obstruction. Refer urgently to neurosurgery for CSF diversion (EVD); intraventricular fibrinolysis is used by some neurosurgical centres in selected cases.
 
 ### Posterior fossa mass or cerebellar infarct
 
@@ -122,7 +122,7 @@ Obstructive tetraventricular hydrocephalus with posterior fossa mass effect. On 
 
 ### Meningitis and ventriculitis
 
-Communicating hydrocephalus from exudative blockage of arachnoid granulations. On non-contrast CT, basal cisterns may appear slightly hyperdense. Ventriculitis causes intraventricular debris or layering, ependymal thickening (best seen on contrast CT), and frank pus (which may be hyperattenuating and mimic blood on non-contrast CT). Management: antibiotics first; EVD if there is neurological decline.
+Communicating hydrocephalus from exudative blockage of arachnoid granulations. On non-contrast CT, basal cisterns may appear slightly hyperdense. Ventriculitis causes intraventricular debris or layering, ependymal thickening (best seen on contrast CT), and frank pus (which may be hyperattenuating and mimic blood on non-contrast CT). Management is antibiotics first (start urgently per local sepsis/meningitis pathway); if there is neurological decline, refer urgently to neurosurgery for CSF diversion (EVD).
 
 ---
 
@@ -148,12 +148,12 @@ Choroid plexus calcification appears very hyperdense and does **not** suppress o
 ![Two axial CT slices of the same patient: before CSF diversion (left) with dilated ventricles and after diversion (right) with markedly reduced ventricular size]({{ '/docs/img/ctb_hydrocephalus_pre_post_diversion.jpg' | relative_url }})
 *Figure 18.4 — Response to CSF diversion: before treatment (left) the lateral ventricles, third ventricle and temporal horns are dilated; after diversion (right) the ventricles have decompressed to near-normal size. Source: MBq, Public domain, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:MBq_Hydrocephalus.jpg).*
 
-- **Failure to improve**: suggests ongoing obstruction, loculation, or catheter dysfunction — check tip position (should be in the frontal horn or third ventricle, not in parenchyma or the interhemispheric fissure).
+- **Failure to improve**: suggests ongoing obstruction, loculation, or catheter dysfunction — check tip position (should be in the frontal horn or third ventricle, not in parenchyma or the interhemispheric fissure). If you suspect shunt/EVD failure, discuss urgently with neurosurgery for shunt assessment and possible revision.
 
 ![Axial CT showing a radiopaque ventricular shunt catheter passing into a dilated lateral ventricle]({{ '/docs/img/ctb_hydrocephalus_shunt_catheter.png' | relative_url }})
 *Figure 18.5 — Ventricular shunt catheter: the beaded, hyperdense radiopaque catheter is seen passing into the dilated lateral ventricle — always confirm the tip lies within the frontal horn or third ventricle rather than in parenchyma. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:ShuntCT.png).*
 - **Overdrainage**: slit-like ventricles with subdural hygromas (crescentic low-attenuation extra-axial collections) or haematomas (hyperattenuating). May cause low-pressure headaches or intermittent symptoms.
-- **Trapped fourth ventricle**: dilated fourth ventricle with brainstem compression after supratentorial shunting — a distinct complication requiring its own drainage procedure.
+- **Trapped fourth ventricle**: dilated fourth ventricle with brainstem compression after supratentorial shunting — a distinct complication that needs its own drainage procedure; flag it and discuss urgently with neurosurgery.
 
 ---
 

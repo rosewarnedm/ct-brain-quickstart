@@ -13,7 +13,7 @@ nav_order: 5
 
 ## Overview and Definition
 
-An extradural haematoma (EDH) is a collection of blood between the inner skull table and the outer (periosteal) layer of the dura. Most are arterial, caused by a torn middle meningeal artery (MMA), and can expand rapidly. They are neurosurgical emergencies. Prompt, accurate CT recognition is essential because clinical deterioration can be sudden and surgical decompression is life-saving.
+An extradural haematoma (EDH) is a collection of blood between the inner skull table and the outer (periosteal) layer of the dura. Most are arterial, caused by a torn middle meningeal artery (MMA), and can expand rapidly. They are neurosurgical emergencies. Prompt, accurate CT recognition is essential because clinical deterioration can be sudden and surgical decompression (performed by neurosurgery) is life-saving — your role is to recognise the finding and escalate immediately.
 
 ---
 
@@ -124,14 +124,14 @@ Contact neurosurgery **immediately** if any of the following are present:
 - EDH volume **>30 ml**
 - Maximum thickness **>15 mm**
 - Midline shift **>5 mm**
-- **Any neurological deterioration** — falling GCS, new focal deficit, or anisocoria — regardless of haematoma size
+- **Any neurological deterioration** — falling GCS, new focal deficit, or anisocoria — regardless of haematoma size (a falling GCS or airway/ICP concern also warrants involving critical care and anaesthetics alongside the neurosurgical referral)
 - **Posterior fossa EDH** with any mass effect — brainstem compression can develop rapidly
 - **Swirl sign** or mixed density — indicates active bleeding and risk of rapid expansion
-- **Basal cistern effacement or herniation signs** — these require immediate decompression
+- **Basal cistern effacement or herniation signs** — these indicate a need for immediate decompression by neurosurgery, so refer without delay
 
 **Conservative management** (close observation and serial CT) may be appropriate for small EDH (<30 ml, <15 mm thick, <5 mm shift) in a neurologically intact patient, but this is a neurosurgical decision, not an ED one. Arrange repeat CT within 6–8 hours, or sooner if there is any clinical change.
 
-**Coagulopathy:** Mixed density or a fluid–fluid level suggests coagulopathy — identify and correct urgently, and flag the high re-bleeding risk explicitly.
+**Coagulopathy:** Mixed density or a fluid–fluid level suggests coagulopathy — flag it and the high re-bleeding risk explicitly, and arrange urgent reversal of any anticoagulation and correction of coagulopathy by involving haematology.
 
 **Venous sinus proximity:** If the EDH abuts the transverse, sigmoid, or superior sagittal sinus, consider requesting CT venography (CTV) to assess for sinus injury or thrombosis — this changes operative strategy significantly.
 

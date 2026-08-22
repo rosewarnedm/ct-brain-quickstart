@@ -110,7 +110,7 @@ Check for:
 ![Axial non-contrast CT showing hyperdense subarachnoid blood in the suprasellar cistern with dilated, rounded temporal horns indicating early hydrocephalus.]({{ '/docs/img/ctb_sah_basal_hydrocephalus.jpg' | relative_url }})
 *Figure 13.4 — Acute hydrocephalus complicating aneurysmal SAH. Axial non-contrast CT shows hyperdense blood filling the suprasellar/basal cisterns with early enlargement and rounding of the temporal horns — the earliest and most reliable sign of acute obstructive hydrocephalus after SAH. Blood in the cisterns and ventricular system impairs CSF resorption and flow; a rising ventricular size with a falling GCS mandates urgent neurosurgical referral for an external ventricular drain. Source: Dr. George Jallo, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Subarachnoid_hemorrhage_CT_(uncropped).jpg).*
 
-Hydrocephalus with a declining conscious level is a **neurosurgical emergency** requiring urgent external ventricular drain (EVD) insertion. Escalate immediately.
+Hydrocephalus with a declining conscious level is a **neurosurgical emergency**. Escalate immediately: discuss urgently with neurosurgery for CSF diversion (external ventricular drain, EVD), which they will insert.
 
 ### Parenchymal Haematoma
 
@@ -144,7 +144,7 @@ Look for:
 - Vasospasm: focal or diffuse arterial narrowing, usually days 3–14 post-rupture
 
 ![Three-panel CT: axial non-contrast CT with dense basal-cistern subarachnoid blood, CT angiography MIP, and 3D volume-rendered CTA showing a middle cerebral artery aneurysm.]({{ '/docs/img/ctb_sah_mca_cta_mip_vr.jpg' | relative_url }})
-*Figure 13.5 — Extensive aneurysmal SAH with the culprit aneurysm identified on CTA. Left: axial non-contrast CT shows dense hyperattenuating blood filling the basal cisterns and Sylvian fissures with early temporal-horn dilatation. Centre: CT angiography maximum-intensity projection (MIP). Right: 3D volume-rendered CTA (viewed from above) demonstrates a saccular aneurysm of the right middle cerebral artery — the ruptured source. Requesting CTA in the same sitting as the non-contrast scan lets you match the blood distribution to the aneurysm and secure it early. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ausgedehnte_Subarachnoidalblutung_bei_Aneurysma_der_Media_63M_-_CT_nativ_und_CTA_als_MIP_und_VR_-_001.jpg).*
+*Figure 13.5 — Extensive aneurysmal SAH with the culprit aneurysm identified on CTA. Left: axial non-contrast CT shows dense hyperattenuating blood filling the basal cisterns and Sylvian fissures with early temporal-horn dilatation. Centre: CT angiography maximum-intensity projection (MIP). Right: 3D volume-rendered CTA (viewed from above) demonstrates a saccular aneurysm of the right middle cerebral artery — the ruptured source. Requesting CTA in the same sitting as the non-contrast scan lets you match the blood distribution to the aneurysm and refer early to neurosurgery and the neurointerventional (INR) team, who will secure it. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ausgedehnte_Subarachnoidalblutung_bei_Aneurysma_der_Media_63M_-_CT_nativ_und_CTA_als_MIP_und_VR_-_001.jpg).*
 
 ![CT angiography reconstruction showing a small anterior communicating artery aneurysm with labelled A1 and A2 segments.]({{ '/docs/img/ctb_sah_acom_aneurysm_cta.jpg' | relative_url }})
 *Figure 13.6 — Anterior communicating artery (ACom) aneurysm on CT angiography. CTA reconstruction shows a 2.6 mm saccular aneurysm arising at the ACom complex, with the dominant left A1 and both A2 segments labelled. ACom aneurysms are a common cause of aneurysmal SAH and typically bleed into the anterior interhemispheric fissure and suprasellar cistern (see the blood-distribution table above); note that even small aneurysms can rupture. Source: Cerevisae, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CT_angiography_showing_aneurysm_at_the_ACOM.jpg).*
@@ -157,7 +157,7 @@ Consider if you suspect CVST as a cause of convexity SAH — look for filling de
 
 ### CT Perfusion
 
-Used during the vasospasm window (days 3–14) in monitored patients. Prolonged mean transit time, reduced cerebral blood flow, and perfusion deficits indicate delayed cerebral ischaemia (DCI) and may prompt endovascular treatment. This is typically arranged by the neurosurgical or neurology team rather than initiated in the ED.
+Used during the vasospasm window (days 3–14) in monitored patients. Prolonged mean transit time, reduced cerebral blood flow, and perfusion deficits indicate delayed cerebral ischaemia (DCI) and may prompt the neurointerventional (INR) team to offer endovascular treatment (e.g. intra-arterial vasodilators or angioplasty). This is typically arranged by the neurosurgical/neuro-ICU or neurology team rather than initiated in the ED.
 
 ---
 
@@ -208,12 +208,12 @@ A hyperdense MCA sign or cortical vein thrombosis can look like sulcal blood. Th
 |---|---|
 | Any SAH with suspected aneurysmal pattern | Urgent neurosurgical referral; CTA same sitting |
 | Hydrocephalus, especially with reduced GCS | Immediate neurosurgical referral for EVD |
-| Large parenchymal haematoma with mass effect or herniation | Immediate neurosurgery |
+| Large parenchymal haematoma with mass effect or herniation | Immediate neurosurgical referral (they will decide on clot evacuation/decompression) |
 | SAH with no aneurysm on CTA (non-perimesencephalic pattern) | Discuss DSA urgently with neurosurgery / neuroradiology |
 | Convexity SAH with suspected CVST | Expedited CTV; haematology/neurology involvement |
 | Normal CT >6 hours post-thunderclap headache | Discuss LP for xanthochromia with admitting team |
 
-**Rebleeding risk is highest in the first 24–48 hours.** Clear, prompt communication about aneurysm suspicion and likely location is essential — it directly influences the urgency of aneurysm securing (typically endovascular coiling or surgical clipping).
+**Rebleeding risk is highest in the first 24–48 hours.** Clear, prompt communication about aneurysm suspicion and likely location is essential — it directly influences how urgently the neurosurgical and neurointerventional (INR) teams, to whom you should refer, secure the aneurysm (typically endovascular coiling or surgical clipping).
 
 ---
 
@@ -229,7 +229,7 @@ Used to predict vasospasm / delayed cerebral ischaemia (DCI) risk. Include this 
 | 3 | Thick SAH, no IVH |
 | 4 | Thick SAH + IVH |
 
-Grades 3 and 4 carry the highest DCI risk. All patients with aneurysmal SAH receive **nimodipine** as standard, regardless of radiological grade.
+Grades 3 and 4 carry the highest DCI risk. As standard, the neurosurgical/critical care team manages vasospasm prophylaxis — all patients with aneurysmal SAH receive **nimodipine** regardless of radiological grade.
 
 ---
 

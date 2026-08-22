@@ -117,7 +117,7 @@ Location is your most useful guide to aetiology.
 
 - Consider **cerebral venous thrombosis (CVT)**, especially if the haemorrhage crosses arterial territories, is bilateral, or involves both thalami
 - Look for a hyperdense cortical vein ("cord sign") or dense dural sinus
-- Confirm with CTV; anticoagulation is standard treatment even with haemorrhagic infarction — flag this for the team urgently
+- Confirm with CTV; anticoagulation is standard treatment even with haemorrhagic infarction — flag this urgently for the stroke/neurology team, who will make the anticoagulation decision
 
 ---
 
@@ -203,21 +203,21 @@ Report the volume explicitly — it feeds into the ICH score (along with GCS, ag
 
 ### Neurosurgery — escalate urgently if:
 
-- **Cerebellar haemorrhage** >3 cm, with brainstem compression, fourth ventricular effacement, deteriorating GCS, or hydrocephalus → likely to need surgical evacuation or EVD
-- **IVH with obstructive hydrocephalus** → EVD
-- **Lobar ICH** with significant mass effect, deteriorating conscious level, or superficial location where evacuation may be considered
-- **Any ICH with clinical deterioration** — reassess imaging and repeat CT early
+- **Cerebellar haemorrhage** >3 cm, with brainstem compression, fourth ventricular effacement, deteriorating GCS, or hydrocephalus → refer urgently for neurosurgical consideration of evacuation or CSF diversion (EVD)
+- **IVH with obstructive hydrocephalus** → refer urgently to neurosurgery for consideration of an EVD
+- **Lobar ICH** with significant mass effect, deteriorating conscious level, or superficial location → discuss with neurosurgery, who will decide whether evacuation is appropriate
+- **Any ICH with clinical deterioration** — reassess imaging and repeat CT early, and escalate to neurosurgery
 
 ### Haematology/pharmacy — escalate if:
 
-- Fluid–fluid levels, multifocal haemorrhage, or known anticoagulation → urgent reversal
+- Fluid–fluid levels, multifocal haemorrhage, or known anticoagulation → arrange urgent anticoagulation reversal (may be ED-initiated per protocol) and involve haematology
 - Document these CT features explicitly in your assessment
 
 ### Neurology/specialist stroke team — escalate if:
 
-- Suspicion of CVT (non-territorial haemorrhage, hyperdense sinus) → urgent CTV and anticoagulation decision
-- Lobar ICH in elderly patient suggesting CAA → MRI for microbleeds, antithrombotic decisions
-- Disproportionate oedema, nodular enhancement, or atypical features suggesting tumour → contrast MRI
+- Suspicion of CVT (non-territorial haemorrhage, hyperdense sinus) → request urgent CTV and refer to the stroke/neurology team for the anticoagulation decision
+- Lobar ICH in elderly patient suggesting CAA → refer for MRI (microbleeds) and stroke/neurology review of antithrombotic decisions
+- Disproportionate oedema, nodular enhancement, or atypical features suggesting tumour → refer for contrast MRI and specialist review
 
 ### Repeat CT:
 

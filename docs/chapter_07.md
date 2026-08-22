@@ -133,7 +133,7 @@ Less common and milder than in aneurysmal SAH. Routine nimodipine is not standar
 Uncommon with thin convexity tSAH. Risk rises significantly with IVH or thick basal cisternal blood. Report ventricular size and look for transependymal oedema — acute hydrocephalus requires urgent neurosurgical input.
 
 ### Anticoagulation and VTE prophylaxis
-Your report directly informs decisions about reversing anticoagulation and timing thromboprophylaxis. Many centres perform a **repeat CT at 6–24 hours** to confirm stability before commencing pharmacological prophylaxis. State clearly whether tSAH is present, its extent, and whether there is progression.
+Your report directly informs decisions about reversing anticoagulation and timing thromboprophylaxis. Where the patient is anticoagulated, flag this promptly to the referring/admitting team so that urgent reversal can be arranged (involving haematology as needed) — you are recognising the need, not prescribing the agent. Many centres perform a **repeat CT at 6–24 hours** to confirm stability before commencing pharmacological prophylaxis. State clearly whether tSAH is present, its extent, and whether there is progression.
 
 ### Repeat imaging
 Repeat CT is indicated for:
@@ -159,7 +159,7 @@ When you find (or suspect) tSAH, your report should address each of these points
 6. **Mass effect:** Midline shift, cistern patency.
 7. **Associated injuries:** Contusions, SDH/EDH, fractures, DAI features.
 8. **Red flags:** Does the pattern raise concern for aneurysmal SAH? If so, recommend CTA explicitly.
-9. **Management statement:** Stability for anticoagulation decisions, recommendation for repeat CT or MRI where appropriate.
+9. **Management statement:** Stability for anticoagulation decisions, recommendation for repeat CT or MRI where appropriate, and prompt neurosurgical referral where the pattern or associated injuries warrant it (definitive management sits with the receiving team).
 
 ---
 

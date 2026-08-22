@@ -83,7 +83,7 @@ Before diving into individual herniation types, use this checklist on every scan
 
 **Key complication:** Ipsilateral PCA infarct (medial occipital low attenuation, usually sparing the lateral convexity). Kernohan's notch — contralateral peduncle compressed by the tentorial edge — may cause ipsilateral hemiparesis (false localising sign, more reliably seen on MRI).
 
-**Clinical significance:** Correlate immediately with pupillary examination. A unilateral fixed dilated pupil with ipsilateral mass effect = uncal herniation until proven otherwise. Immediate neurosurgical escalation, reverse any coagulopathy, consider osmotherapy. This is a surgical emergency.
+**Clinical significance:** Correlate immediately with pupillary examination. A unilateral fixed dilated pupil with ipsilateral mass effect = uncal herniation until proven otherwise. This is a surgical emergency: escalate immediately and simultaneously to neurosurgery (for consideration of emergency evacuation/decompression) and critical care/anaesthetics (for airway protection and ICP-lowering measures such as osmotherapy). If the patient is anticoagulated, arrange urgent reversal in parallel, involving haematology. Your role is instant recognition and simultaneous escalation, not delivering the definitive treatment yourself.
 
 **Pitfalls:**
 - Failing to inspect the ambient cisterns on every trauma or headache CT is the commonest miss in this diagnosis.
@@ -105,7 +105,7 @@ Before diving into individual herniation types, use this checklist on every scan
 
 *Figure 20.4 — Bifrontal traumatic contusions with surrounding oedema and effacement of the basal (perimesencephalic) cisterns in a patient whose injury progressed to transtentorial herniation. Source: Rehman T, Ali R, Tawil I, Yonas H, CC BY 2.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brain_trauma_CT.jpg).*
 
-**Clinical significance:** Duret haemorrhages indicate severe, often irreversible brainstem injury. Prognosis is extremely poor once they appear. Management shifts to aggressive ICP control and treating the precipitating cause; avoid anything that further raises ICP (agitation, hypercapnia, hypotension).
+**Clinical significance:** Duret haemorrhages indicate severe, often irreversible brainstem injury. Prognosis is extremely poor once they appear. Escalate immediately to the critical care/anaesthetic and neurosurgical teams, who will direct aggressive ICP control and treatment of the precipitating cause; in the interim, avoid anything that further raises ICP (agitation, hypercapnia, hypotension).
 
 **Key differential:** Intracranial hypotension can mimic central herniation — look for diffuse dural venous engorgement, subdural hygromas (0–15 HU), slit ventricles, and a history of lumbar puncture, shunt, or spontaneous CSF leak. Severe hypoxic–ischaemic injury also causes diffuse oedema and cisternal effacement — clinical context is decisive.
 
@@ -123,7 +123,7 @@ Before diving into individual herniation types, use this checklist on every scan
 - **Dilated lateral and third ventricles out of proportion to a compressed or effaced fourth ventricle** — this pattern is the key diagnostic clue
 - Compressed cisterna magna and prepontine cistern; mass or haemorrhage in the cerebellum or brainstem
 
-**Clinical significance:** Do not drain supratentorial CSF alone — this can precipitate or worsen upward herniation. The posterior fossa pathology must be addressed urgently (suboccipital decompression, with an EVD placed simultaneously if needed).
+**Clinical significance:** Flag urgently that supratentorial CSF should not be drained in isolation — this can precipitate or worsen upward herniation. The posterior fossa pathology must be addressed urgently: refer emergently to neurosurgery for consideration of suboccipital decompression (with simultaneous EVD placement if needed) and ensure this caution about isolated CSF diversion is communicated explicitly.
 
 **Pitfalls:** Quadrigeminal cistern effacement can be subtle on axials. Use sagittal reformats to inspect the tentorial incisura and the aqueduct — a key habit in any posterior fossa pathology.
 
@@ -158,8 +158,8 @@ Before diving into individual herniation types, use this checklist on every scan
 - *Paradoxical ("sinking skin flap"):* Inwardly concave scalp over the defect; MLS towards the defect (not away from it); slit ventricles; cisternal effacement; possible subdural hygromas (0–15 HU)
 
 **Clinical significance:**
-- *External:* Continue ICP-directed care; consider further decompression.
-- *Paradoxical:* Urgent positioning (supine or Trendelenburg), clamp EVD or shunt, give IV fluids. Definitive treatment is cranioplasty.
+- *External:* Escalate to neurosurgery and critical care, who will continue ICP-directed care and consider further decompression.
+- *Paradoxical:* This is a time-critical reversal of the usual physiology — escalate immediately to neurosurgery and critical care. Simple temporising measures the reader can flag or initiate include urgent supine/Trendelenburg positioning and stopping CSF overdrainage; the teams will direct clamping of an EVD or shunt and IV fluid administration. Definitive treatment is cranioplasty, performed by neurosurgery.
 
 **Pitfalls:**
 - Do not assume a decompressive craniectomy has eliminated the risk of herniation.

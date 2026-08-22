@@ -151,9 +151,9 @@ Structure your report to include:
 ## When to Escalate
 
 - **Infratentorial PRES with fourth ventricle effacement** → urgent neurosurgical review for potential obstructive hydrocephalus
-- **Haemorrhagic PRES** → discuss with neurosurgery and consider ITU-level monitoring
+- **Haemorrhagic PRES** → discuss with neurosurgery, and flag to the acute medical/critical care team the potential need for ITU-level monitoring
 - **Deteriorating consciousness or signs of raised intracranial pressure** → immediate escalation
-- **Any suspicion of eclampsia** → obstetric team immediately; magnesium sulphate and delivery planning
+- **Any suspicion of eclampsia** → involve the obstetric team immediately for management of eclampsia (e.g. magnesium sulphate, delivery planning)
 - **Suspicion of RCVS** (thunderclap headache, postpartum, vasoconstriction on CTA) → discuss with stroke/neurology
 - **Suspicion of CVT** (atypical distribution, hyperdense sinus, parasagittal haemorrhage) → urgent CTV and neurology review
 
@@ -161,13 +161,13 @@ Structure your report to include:
 
 ## Clinical Management Correlations
 
-You do not prescribe, but understanding the priorities helps you communicate urgency appropriately:
+You do not direct treatment, but understanding the priorities helps you communicate urgency appropriately and escalate to the right team:
 
-- **Controlled BP reduction** is the goal in hypertensive emergencies — precipitous drops risk ischaemia, particularly in patients with chronic hypertension
-- **Eclampsia**: magnesium sulphate and expedited delivery
-- **Immunosuppressant-related PRES**: dose reduction or cessation of the offending agent
-- **Seizure management**: ongoing cortical swelling warrants assessment for status epilepticus
-- **Reversibility**: with prompt treatment, CT changes typically resolve over days to weeks; failure to resolve suggests cytotoxic conversion and permanent injury
+- **Controlled BP reduction** is the goal in hypertensive emergencies — the acute medical/critical care team will undertake controlled BP reduction, as precipitous drops risk ischaemia, particularly in patients with chronic hypertension
+- **Eclampsia**: involve obstetrics urgently for management of eclampsia (e.g. magnesium sulphate, expedited delivery)
+- **Immunosuppressant-related PRES**: the responsible medical/oncology team should review and reduce or withdraw the offending agent
+- **Seizure management**: the acute medical/critical care team should assess for status epilepticus where there is ongoing cortical swelling
+- **Reversibility**: with prompt treatment by the responsible team, CT changes typically resolve over days to weeks; failure to resolve suggests cytotoxic conversion and permanent injury
 
 ---
 

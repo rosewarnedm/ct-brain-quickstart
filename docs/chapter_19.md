@@ -112,19 +112,19 @@ CT is often normal or shows only subtle diffuse hypodensity with mild sulcal eff
 | ~2 weeks | **Fogging**: infarct may appear near-isodense as inflammation and protein transiently raise attenuation; do not underestimate infarct extent |
 | >3 weeks | Encephalomalacia — CSF-density with ex vacuo ventricular dilatation |
 
-**When to escalate**: >1/3 MCA territory hypodensity early on predicts malignant oedema and haemorrhagic transformation risk. Midline shift ≥5 mm with basal cistern effacement requires immediate senior/neurosurgical review. Decompressive hemicraniectomy may be considered within 48 hours in eligible patients.
+**When to escalate**: >1/3 MCA territory hypodensity early on predicts malignant oedema and haemorrhagic transformation risk. Midline shift ≥5 mm with basal cistern effacement requires immediate senior/neurosurgical review. In eligible patients, refer to neurosurgery urgently for consideration of decompressive hemicraniectomy, which may be performed within 48 hours.
 
 ### Cerebral venous thrombosis (CVT)
 
 **CT appearance**: cortical and subcortical hypodensity **not conforming to any arterial territory**, commonly with haemorrhagic components (mixed hypo- and hyperdensity). The **cord sign** (hyperdense cortical vein) or **dense sinus** on non-contrast CT supports the diagnosis. Request **CT venography** whenever the distribution is atypical or CVT is suspected.
 
-**Escalate**: anticoagulate even if haemorrhagic venous infarction is present — this is different from arterial haemorrhagic transformation.
+**Escalate**: discuss urgently with the stroke/neurology team, who will direct anticoagulation even if haemorrhagic venous infarction is present — this is different from arterial haemorrhagic transformation.
 
 ### PRES
 
 Bilateral posterior-predominant subcortical white matter hypodensity. May extend to cerebellum, brainstem, or frontal lobes. Haemorrhage occurs in a minority.
 
-**Action**: urgent blood pressure control (avoid precipitous drops), seizure management, remove offending drug if applicable. Expect reversibility with prompt treatment.
+**Action**: escalate urgently to the medical/critical care team, who will institute blood pressure control (avoiding precipitous drops), seizure management, and withdrawal of any offending drug. Expect reversibility with prompt treatment.
 
 ### Traumatic brain injury (TBI)
 
@@ -144,13 +144,13 @@ Diffuse loss of grey–white differentiation and sulcal/ventricular effacement. 
 
 ### Encephalitis (e.g., HSV)
 
-Hypodensity in the medial temporal lobes, insula, and cingulate — often asymmetric, may have haemorrhagic foci. **CT can be entirely normal early**. If clinical suspicion exists, request urgent MRI and start empirical aciclovir without waiting for imaging confirmation.
+Hypodensity in the medial temporal lobes, insula, and cingulate — often asymmetric, may have haemorrhagic foci. **CT can be entirely normal early**. If clinical suspicion exists, request urgent MRI and alert the referring/medical team so empirical aciclovir is started without waiting for imaging confirmation.
 
 ### Metabolic and toxic causes
 
-- *Hyponatraemia*: diffuse swelling with sulcal effacement; correct slowly — rapid correction risks osmotic demyelination (an MRI diagnosis, not a CT oedema finding)
+- *Hyponatraemia*: diffuse swelling with sulcal effacement; flag to the managing/critical care team that correction must be slow — rapid correction risks osmotic demyelination (an MRI diagnosis, not a CT oedema finding)
 - *Hepatic failure, DKA*: diffuse hypodensity; CT may be normal
-- *DKA in children*: avoid aggressive fluid resuscitation which can worsen cerebral oedema; CT for any neurological decline
+- *DKA in children*: diffuse cerebral oedema can be worsened by aggressive fluid resuscitation — alert the treating paediatric/critical care team; CT for any neurological decline
 
 ---
 
@@ -181,18 +181,18 @@ Hypodensity in the medial temporal lobes, insula, and cingulate — often asymme
 
 ## Clinical and management correlations
 
-| Scenario | Action |
+| Scenario | Action (recognise → escalate; team delivering treatment) |
 |---|---|
-| Vasogenic oedema from tumour/metastasis | Dexamethasone reduces oedema rapidly |
-| Cytotoxic oedema (AIS, HIBI) | Steroids are **not** beneficial |
-| Abscess-related oedema | Steroids after antibiotics initiated |
-| Impending herniation (any cause) | Osmotherapy (hypertonic saline or mannitol), urgent neurosurgical review |
-| Malignant MCA infarction (≥5 mm shift, cisternal effacement, <48 h) | Consider decompressive hemicraniectomy; discuss with neurosurgery urgently |
-| Posterior fossa mass effect with brainstem compression | Urgent neurosurgical decompression |
-| Interstitial oedema + clinical deterioration | Urgent CSF diversion (EVD or shunt) |
-| PRES | Controlled BP reduction; avoid precipitous drops; seizure management |
-| CVT with haemorrhagic infarction | Anticoagulate |
-| Hyponatraemia | Cautious correction; rapid correction risks osmotic demyelination |
+| Vasogenic oedema from tumour/metastasis | Flag to the referring/oncology team — dexamethasone (which they will direct) reduces oedema rapidly |
+| Cytotoxic oedema (AIS, HIBI) | Note for the treating team that steroids are **not** beneficial |
+| Abscess-related oedema | Discuss with the treating team — steroids only after antibiotics initiated |
+| Impending herniation (any cause) | Escalate immediately to critical care/neurosurgery, who will institute ICP-lowering measures (e.g. osmotherapy — hypertonic saline or mannitol) |
+| Malignant MCA infarction (≥5 mm shift, cisternal effacement, <48 h) | Discuss with neurosurgery urgently for consideration of decompressive hemicraniectomy |
+| Posterior fossa mass effect with brainstem compression | Refer to neurosurgery urgently for consideration of decompression |
+| Interstitial oedema + clinical deterioration | Refer to neurosurgery urgently for consideration of CSF diversion (EVD or shunt) |
+| PRES | Escalate to the medical/critical care team for controlled BP reduction (avoid precipitous drops) and seizure management |
+| CVT with haemorrhagic infarction | Discuss with stroke/neurology — anticoagulation is directed by them |
+| Hyponatraemia | Alert the managing team to correct cautiously; rapid correction risks osmotic demyelination |
 
 ---
 
@@ -217,4 +217,4 @@ When you review a CT for possible oedema, work through these in order:
 - **Oedema on CT = hypodensity + mass effect**. Small HU differences matter — use narrow windowing and compare sides.
 - **Anticipate peak swelling at 3–5 days** after large infarcts and contusions; communicate early if the trajectory looks malignant.
 - **Know the mimics**: pseudo-SAH in HIBI, fogging in subacute infarction, chronic white matter disease.
-- **Tie imaging directly to action**: PRES → BP control; malignant MCA infarction → decompression discussion; hydrocephalus with interstitial oedema → CSF diversion; CVT → anticoagulation; impending herniation → osmotherapy and neurosurgery now.
+- **Tie imaging directly to escalation**: PRES → escalate for BP control; malignant MCA infarction → urgent neurosurgical discussion re decompression; hydrocephalus with interstitial oedema → refer to neurosurgery for CSF diversion; CVT → discuss with stroke/neurology re anticoagulation; impending herniation → critical care/neurosurgery now for ICP-lowering measures.

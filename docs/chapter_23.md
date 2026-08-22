@@ -63,7 +63,7 @@ Work through these areas every time:
 
 **Causes to consider:** severe hypoxia–ischaemia, acute liver failure, profound hyponatraemia, heat stroke, toxic ingestion (cyanide), malignant status epilepticus
 
-**When to escalate:** Cisternal effacement indicates critical raised ICP. Escalate immediately — start head-of-bed elevation, consider osmotherapy, target normocapnia, and treat the underlying cause in parallel. Involve intensive care early.
+**When to escalate:** Cisternal effacement indicates critical raised ICP. Escalate immediately to critical care — flag the imaging as showing critical raised ICP so the team can direct urgent measures (e.g. head-of-bed elevation, osmotherapy, ventilation targeting normocapnia) alongside the medical specialty correcting the underlying cause.
 
 ---
 
@@ -78,7 +78,7 @@ Work through these areas every time:
 
 **Key differential:** Hypoxic–ischaemic encephalopathy (HIE) tends to affect the thalami, brainstem, and cerebellum more prominently. Post-ictal change is often unilateral or asymmetric.
 
-**Action:** Give IV dextrose immediately — do not wait for imaging. CT is not used to prognosticate; that requires clinical course and MRI.
+**Action:** IV dextrose is time-critical and should not wait for imaging — communicate the suspicion to the treating team immediately so it is given without delay. CT is not used to prognosticate; that requires clinical course and MRI.
 
 ---
 
@@ -92,7 +92,7 @@ Work through these areas every time:
 - Acute basal ganglia haemorrhage: 60–80 HU, with oedema and mass effect
 - Calcification: >100 HU, sharply marginated
 
-**Action:** Confirm hyperglycaemia/hyperosmolar state; glycaemic correction usually resolves symptoms over days to weeks. No acute neurosurgical input needed.
+**Action:** Correlate with biochemistry to confirm a hyperglycaemic/hyperosmolar state and refer to the medical team for glycaemic correction, which usually resolves symptoms over days to weeks. No acute neurosurgical input needed.
 
 ---
 
@@ -106,7 +106,7 @@ Work through these areas every time:
 - Brain cell shrinkage → bridging vein tearing
 - CT may show widened sulci/ventricles (global volume loss), acute subdural or subarachnoid haemorrhage, particularly in infants and elderly patients
 
-**Action:** Slow, controlled sodium correction in both directions. If CT shows unexpected subdural haemorrhage in an elderly patient with hypernatraemia, the cause may be the sodium disorder rather than trauma.
+**Action:** Sodium correction in both directions must be slow and controlled — refer to the acute medical/critical care team to direct and monitor the correction. If CT shows unexpected subdural haemorrhage in an elderly patient with hypernatraemia, communicate that the cause may be the sodium disorder rather than trauma.
 
 ---
 
@@ -124,7 +124,7 @@ Work through these areas every time:
 ![Sagittal T2 MRI of the brainstem showing a rounded hyperintense lesion in the central pons]({{ '/docs/img/ctb_ods_central_pontine_mri.jpg' | relative_url }})
 *Figure 23.1 — Osmotic demyelination syndrome (MRI). Sagittal T2-weighted image; the arrow indicates the symmetric hyperintense lesion in the central pons characteristic of central pontine myelinolysis. CT is frequently normal in the first 24–48 hours, so MRI is the confirmatory investigation. Source: MBq, CC0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Centralpontinemyelinolysis.JPG).*
 
-**Action:** Prevention is everything — correct sodium slowly. If a patient deteriorates neurologically days after sodium correction, request urgent MRI even if CT is normal. There is no acute CT-specific intervention.
+**Action:** Prevention is everything — the medical/critical care team directing sodium correction should be alerted to correct it slowly. If a patient deteriorates neurologically days after sodium correction, request urgent MRI even if CT is normal, and flag the concern to the treating team. There is no acute CT-specific intervention.
 
 ---
 
@@ -134,7 +134,7 @@ Work through these areas every time:
 - **Acute liver failure/hyperammonaemic crisis:** diffuse cerebral oedema, potentially with pseudo-subarachnoid sign in severe cases — this is a neurocritical emergency
 - **Chronic hepatic encephalopathy:** CT usually normal or shows cerebral atrophy; basal ganglia manganese changes visible on MRI T1 sequences, not on CT
 
-**Action:** Urgent ammonia reduction (lactulose, rifaximin), treat the precipitant, neurocritical care for ICP monitoring. In immunocompromised cirrhotics, always consider co-existing infection. Escalate to liver team for transplant assessment where appropriate.
+**Action:** Escalate urgently to the acute medical/critical care and hepatology teams, who will direct ammonia reduction (e.g. lactulose, rifaximin), treat the precipitant, and provide neurocritical care for ICP monitoring; diffuse oedema is a neurocritical emergency. In immunocompromised cirrhotics, always consider and communicate the possibility of co-existing infection. Refer to the liver team for transplant assessment where appropriate.
 
 ---
 
@@ -157,7 +157,7 @@ Work through these areas every time:
 ![Axial FLAIR MRI showing symmetric hyperintense signal in the medial thalami around the third ventricle]({{ '/docs/img/ctb_wernicke_flair_thalami.jpg' | relative_url }})
 *Figure 23.2 — Wernicke encephalopathy (MRI). Axial FLAIR image showing symmetric hyperintense signal in the medial thalami adjacent to the third ventricle — a classic distribution. CT is usually normal, so a normal CT does not exclude the diagnosis; MRI is far more sensitive. Source: Jto410, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:MRI_FLAIR_sequence_Wernicke_Encephalopathy.jpg).*
 
-**Action:** Give **IV thiamine before IV glucose** in any patient with altered consciousness and suspected nutritional deficiency, alcohol dependence, or prolonged vomiting. Do not delay for imaging. A normal CT does not exclude Wernicke's — MRI is far more sensitive.
+**Action:** **IV thiamine before IV glucose** is time-critical in any patient with altered consciousness and suspected nutritional deficiency, alcohol dependence, or prolonged vomiting — communicate the suspicion to the treating team immediately so thiamine is given without delay (and not delayed for imaging); the acute medical team then directs ongoing management. A normal CT does not exclude Wernicke's — MRI is far more sensitive.
 
 ---
 
@@ -172,7 +172,7 @@ Work through these areas every time:
 
 **Key differential:** Cyanide (similar pattern but typically more cortical involvement and profound lactic acidosis)
 
-**Action:** 100% high-flow oxygen immediately; consider hyperbaric oxygen in selected cases (severe toxicity, pregnancy, neurological features); cardiac monitoring essential.
+**Action:** High-flow 100% oxygen is time-critical and should be started without delay — communicate the suspicion to the treating team. Escalate to the acute medical/critical care team (± toxicology/poisons service), who will direct ongoing management including cardiac monitoring and referral for hyperbaric oxygen in selected cases (severe toxicity, pregnancy, neurological features).
 
 ---
 
@@ -187,7 +187,7 @@ Work through these areas every time:
 
 **Key differential:** CO poisoning preferentially affects the globus pallidus, not the putamen.
 
-**Action:** Fomepizole (or ethanol where fomepizole unavailable), sodium bicarbonate, urgent haemodialysis, folinic acid. Bilateral putaminal changes on CT strongly support this diagnosis — escalate toxicology and renal input immediately.
+**Action:** Bilateral putaminal changes on CT strongly support this diagnosis — escalate immediately to toxicology/poisons service and the renal team, who will direct treatment (e.g. fomepizole, or ethanol where fomepizole is unavailable; sodium bicarbonate; urgent haemodialysis; folinic acid).
 
 ---
 
@@ -197,7 +197,7 @@ Work through these areas every time:
 - Low attenuation in basal ganglia and thalami; cerebellar involvement possible
 - Non-specific on CT; clinical context and metabolic acidosis with high osmolar gap are key
 
-**Action:** Fomepizole, bicarbonate, haemodialysis.
+**Action:** Escalate to toxicology/poisons service and the renal team, who will direct treatment (e.g. fomepizole, bicarbonate, haemodialysis).
 
 ---
 
@@ -208,7 +208,7 @@ Work through these areas every time:
 
 **Key differential:** CO (globus pallidus pattern is similar — clinical context, carboxyhaemoglobin level, and lactic acidosis distinguish them)
 
-**Action:** Hydroxocobalamin (first-line in the UK); or nitrite–thiosulphate. This is a resuscitation-level emergency.
+**Action:** This is a resuscitation-level emergency — escalate immediately to the resuscitation/critical care team (± toxicology/poisons service), who will direct antidote treatment (e.g. hydroxocobalamin, first-line in the UK; or nitrite–thiosulphate).
 
 ---
 
@@ -236,7 +236,7 @@ Work through these areas every time:
 - Diffuse anoxic injury — more cortical and deep grey involvement
 - Posterior circulation infarction — wedge-shaped, involving cortex, with vascular occlusion signs
 
-**Action:** Urgent blood pressure control; remove or adjust the causative drug; seizure management. PRES is largely reversible with prompt treatment.
+**Action:** Escalate to the acute medical/critical care team (± the relevant specialty managing the causative drug), who will direct urgent blood pressure control, removal or adjustment of the causative drug, and seizure management. PRES is largely reversible with prompt treatment.
 
 ---
 
@@ -306,4 +306,4 @@ CT is commonly normal in the first 24–48 hours of ODS. If a patient deteriorat
 
 | Diagnosis | Time-critical action |
 |---|---|
-| Hypoglycaemia | IV dextrose immediately — do not wait for
+| Hypoglycaemia | Flag to treating team for immediate IV dextrose — do not wait for

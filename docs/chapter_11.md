@@ -15,9 +15,9 @@ nav_order: 11
 
 Non-contrast CT (NCCT) is your first imaging step in suspected acute ischaemic stroke (AIS). Its three jobs are:
 
-1. **Exclude haemorrhage** before giving thrombolysis.
-2. **Identify early ischaemic change** to estimate infarct size and guide treatment.
-3. **Flag large vessel occlusion (LVO)** surrogates so you can fast-track CT angiography (CTA) and thrombectomy.
+1. **Exclude haemorrhage** — the stroke team must know this before they can consider thrombolysis.
+2. **Identify early ischaemic change** to estimate infarct size and give the stroke team the information they need to guide treatment.
+3. **Flag large vessel occlusion (LVO)** surrogates so you can fast-track CT angiography (CTA) and rapidly escalate for thrombectomy assessment.
 
 A normal NCCT does **not** exclude AIS. If clinical suspicion is high, press on to CTA regardless.
 
@@ -204,7 +204,7 @@ CTA defines the exact occlusion site, identifies tandem cervical ICA lesions, es
 **A normal NCCT parenchyma with a convincing hyperdense M1 is still an emergency — do not be falsely reassured.**
 
 ![Paired axial non-contrast CT and CT angiography maximum-intensity-projection images demonstrating a right carotid terminus occlusion.]({{ '/docs/img/ctb_carotid_t_dense_cta.jpg' | relative_url }})
-*Figure 11.7 — Carotid "T" (terminus) occlusion — NCCT clue confirmed on CTA. Left panel (axial non-contrast CT) shows a dense artery sign at the right carotid terminus. Right panel (axial CT angiography maximum-intensity projection through the circle of Willis) confirms the large vessel occlusion, with absent opacification of the right intracranial ICA/proximal MCA compared with the patent left-sided vessels. A hyperdense-artery clue on NCCT should trigger immediate CTA to define the occlusion site and plan thrombectomy. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Dense_artery_sign_bei_Carotis-T-Verschluss_rechts_88W_-_CT_-_001.jpg).*
+*Figure 11.7 — Carotid "T" (terminus) occlusion — NCCT clue confirmed on CTA. Left panel (axial non-contrast CT) shows a dense artery sign at the right carotid terminus. Right panel (axial CT angiography maximum-intensity projection through the circle of Willis) confirms the large vessel occlusion, with absent opacification of the right intracranial ICA/proximal MCA compared with the patent left-sided vessels. A hyperdense-artery clue on NCCT should trigger immediate CTA to define the occlusion site, and prompt urgent referral to the stroke team / interventional neuroradiology to plan thrombectomy. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Dense_artery_sign_bei_Carotis-T-Verschluss_rechts_88W_-_CT_-_001.jpg).*
 
 ---
 
@@ -253,10 +253,10 @@ CTA defines the exact occlusion site, identifies tandem cervical ICA lesions, es
 ## Clinical and Management Correlations
 
 **Intravenous thrombolysis (IVT)**
-Target window is 4.5 hours from onset. NCCT excludes haemorrhage and gross established infarction. Extensive hypoattenuation involving more than one-third of the MCA territory increases haemorrhagic transformation risk but is not an absolute contraindication — weigh against clinical factors and current guidelines.
+Target window is 4.5 hours from onset. Your NCCT read excludes haemorrhage and gross established infarction so the hyperacute stroke team can consider thrombolysis — activate the hyperacute stroke pathway immediately when the picture fits; the stroke physician decides on and delivers thrombolysis and confirms eligibility. Extensive hypoattenuation involving more than one-third of the MCA territory increases haemorrhagic transformation risk but is not an absolute contraindication — report it clearly so the team can weigh it against clinical factors and current guidelines.
 
 **Endovascular thrombectomy (EVT)**
-Indicated for confirmed anterior circulation LVO up to 6 hours, and up to 24 hours with imaging-based selection (clinical–core mismatch and/or collateral status). Low ASPECTS alone no longer excludes EVT in many centres. Treatment decisions are **multidisciplinary** — your job is to provide accurate, complete imaging information promptly.
+Indicated for confirmed anterior circulation LVO up to 6 hours, and up to 24 hours with imaging-based selection (clinical–core mismatch and/or collateral status). Low ASPECTS alone no longer excludes EVT in many centres. When you identify an LVO, refer urgently to the stroke team / interventional neuroradiology for consideration of mechanical thrombectomy. Treatment decisions are **multidisciplinary** and made by the treating team — your job is to provide accurate, complete imaging information (ASPECTS, occlusion site, clot burden, collaterals) promptly so they can decide.
 
 **When to escalate immediately**
 - Any hyperdense artery sign.
@@ -265,7 +265,7 @@ Indicated for confirmed anterior circulation LVO up to 6 hours, and up to 24 hou
 - Any uncertainty — call the stroke team and the on-call radiologist, and arrange CTA without delay.
 
 **Tandem occlusions**
-A hyperdense ICA terminus plus a hyperdense M1 should prompt urgent CTA to look for cervical ICA stenosis or occlusion. This changes the EVT approach (may require combined carotid intervention).
+A hyperdense ICA terminus plus a hyperdense M1 should prompt urgent CTA to look for cervical ICA stenosis or occlusion, and be communicated explicitly to the stroke team / interventional neuroradiology — it changes the EVT approach they will plan (may require combined carotid intervention).
 
 **Inferior division MCA strokes**
 These can score well on NIHSS despite significant ischaemia. Do not undercall subtle insular ribbon loss just because the patient appears less disabled than expected.

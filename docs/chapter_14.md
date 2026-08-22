@@ -166,11 +166,11 @@ Triangular central non-enhancing filling defect in the posterior SSS, rimmed by 
 
 1. **Probable or confirmed CVST** — location and extent of thrombosis
 2. **Presence of haemorrhage does not exclude anticoagulation** — make this explicit; therapeutic hesitancy is a common and avoidable error
-3. **Bilateral thalamic involvement or significant mass effect** — high-dependency monitoring warranted; may need neurosurgical or interventional input
+3. **Bilateral thalamic involvement or significant mass effect** — flag for critical care review of high-dependency monitoring, and for neurosurgery (consideration of decompression) and/or interventional neuroradiology involvement
 4. **Mastoiditis or sinusitis identified alongside lateral sinus thrombosis** — prompt ENT referral for source control
 5. **Skull fracture crossing a dural sinus groove** — CTV required; anticoagulation decisions are multidisciplinary in polytrauma
 
-Consider endovascular thrombectomy or thrombolysis for patients who deteriorate despite anticoagulation — your CTV report should document thrombus burden and venous outflow clearly to aid planning.
+For patients who deteriorate despite anticoagulation, discuss urgently with neurology and interventional neuroradiology for consideration of endovascular thrombectomy or thrombolysis — your CTV report should document thrombus burden and venous outflow clearly to aid their planning.
 
 ---
 
@@ -196,7 +196,7 @@ Consider endovascular thrombectomy or thrombolysis for patients who deteriorate 
 - Mastoiditis, sinusitis, skull fractures, intracranial masses
 
 **Impression:**
-- Diagnosis and extent; clinical urgency; explicitly state anticoagulation is appropriate including in the presence of haemorrhage; recommend MRI/MRV or follow-up CTV if needed
+- Diagnosis and extent; clinical urgency; flag for the stroke/neurology team that anticoagulation (the mainstay) is appropriate including in the presence of haemorrhage; recommend MRI/MRV or follow-up CTV if needed
 
 ---
 
