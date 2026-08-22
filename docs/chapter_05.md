@@ -7,7 +7,7 @@ nav_order: 5
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 4: Extradural Haematoma
+# Chapter 5: Extradural Haematoma
 
 ---
 
@@ -29,7 +29,7 @@ An extradural haematoma (EDH) is a collection of blood between the inner skull t
 - **Overlying skull fracture** in >80% of arterial EDH — look along the MMA groove in the temporal squama
 
 ![Axial non-contrast CT showing a large biconvex hyperdense extradural haematoma along the right convexity with an arrow, effacing the adjacent sulci and shifting the midline]({{ '/docs/img/ctb_edh_lentiform_arrow.jpg' | relative_url }})
-*Figure 4.1 — The classic EDH: a biconvex (lentiform) hyperdense collection hugging the inner skull table (arrow), brighter than brain and tapering at both ends. Note the associated mass effect with sulcal effacement and midline shift — this appearance plus an overlying fracture is EDH until proven otherwise. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:EpiduralHematoma.jpg).*
+*Figure 5.1 — The classic EDH: a biconvex (lentiform) hyperdense collection hugging the inner skull table (arrow), brighter than brain and tapering at both ends. Note the associated mass effect with sulcal effacement and midline shift — this appearance plus an overlying fracture is EDH until proven otherwise. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:EpiduralHematoma.jpg).*
 
 ### Attenuation and What It Tells You
 
@@ -53,7 +53,7 @@ An extradural haematoma (EDH) is a collection of blood between the inner skull t
 **Search routine:** Trace the inner table all the way round on every slice. Pay particular attention to the temporal squama, high convexity (vertex), and posterior fossa — these are where collections are most often missed.
 
 ![Side-by-side axial CT of the same slice: brain window (left) shows a left frontal biconvex hyperdense extradural collection; bone window (right) of the same level]({{ '/docs/img/ctb_edh_brain_bone_window.jpg' | relative_url }})
-*Figure 4.2 — The same slice on two windows. The brain window (left) shows the biconvex extradural collection and lets you judge its density; always also review the bone window (right) at the same level to trace the inner table and hunt for the source fracture. Reviewing both windows is part of the routine, not optional. Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Epidurale_Blutung_-_CT_-_WT-KF.jpg).*
+*Figure 5.2 — The same slice on two windows. The brain window (left) shows the biconvex extradural collection and lets you judge its density; always also review the bone window (right) at the same level to trace the inner table and hunt for the source fracture. Reviewing both windows is part of the routine, not optional. Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Epidurale_Blutung_-_CT_-_WT-KF.jpg).*
 
 ---
 
@@ -68,7 +68,7 @@ These findings determine urgency. Always comment on:
 - **Brainstem compression** — Duret haemorrhages in the brainstem indicate severe, often irreversible herniation
 
 ![Four-panel CT of a large right extradural haematoma: axial brain window, axial bone window, and sagittal and coronal reformats, showing a biconvex hyperdense collection with brain compression]({{ '/docs/img/ctb_edh_large_masseffect.jpg' | relative_url }})
-*Figure 4.3 — A large right-sided EDH shown across axial, sagittal and coronal images. The biconvex collection is compressing the underlying brain and displacing the midline structures — exactly the mass effect that drives urgency. Multiplanar reformats (bottom row) confirm the craniocaudal extent and help estimate volume. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Grosses_epidurales_Haematom_nach_Sturz_87W_-_CT_-_001.jpg).*
+*Figure 5.3 — A large right-sided EDH shown across axial, sagittal and coronal images. The biconvex collection is compressing the underlying brain and displacing the midline structures — exactly the mass effect that drives urgency. Multiplanar reformats (bottom row) confirm the craniocaudal extent and help estimate volume. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Grosses_epidurales_Haematom_nach_Sturz_87W_-_CT_-_001.jpg).*
 
 ---
 
@@ -87,7 +87,7 @@ Often **venous** (transverse or sigmoid sinus injury) with an occipital fracture
 EDH may **cross a diastatic suture** in young children — an important exception to the "does not cross sutures" rule. Venous sources are more common. Always consider non-accidental injury when the mechanism is unclear.
 
 ![Multi-panel CT in an 8-month-old: axial and coronal brain windows show a biconvex frontal extradural haematoma with mixed density, and the bone window (arrowed) shows the overlying skull fracture]({{ '/docs/img/ctb_edh_skull_fracture_paed.jpg' | relative_url }})
-*Figure 4.4 — Paediatric EDH (8-month-old) with the source fracture arrowed on the bone window (bottom right). The collection is biconvex with mixed internal density; the accompanying fracture is the critical surgical-planning finding, and in a young child EDH may cross a diastatic suture. Failing to identify the fracture means missing a key piece of the picture. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Epidurales_Haematom_bei_Schaedelfraktur_8monW_-_CT_-_001_-_Annotation.jpg).*
+*Figure 5.4 — Paediatric EDH (8-month-old) with the source fracture arrowed on the bone window (bottom right). The collection is biconvex with mixed internal density; the accompanying fracture is the critical surgical-planning finding, and in a young child EDH may cross a diastatic suture. Failing to identify the fracture means missing a key piece of the picture. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Epidurales_Haematom_bei_Schaedelfraktur_8monW_-_CT_-_001_-_Annotation.jpg).*
 
 ---
 

@@ -9,7 +9,7 @@ nav_order: 25
 
 ---
 
-# Chapter 24: Reading the Acute CT Brain Report
+# Chapter 25: Reading the Acute CT Brain Report
 
 ## Why this matters to you
 

@@ -7,7 +7,7 @@ nav_order: 9
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 8: Skull Fractures and Base of Skull Injury
+# Chapter 9: Skull Fractures and Base of Skull Injury
 
 ---
 
@@ -65,10 +65,10 @@ Work through this on every head trauma CT:
 - Fracture crossing a dural sinus groove → venous EDH or sinus thrombosis risk.
 
 ![Axial CT bone window through the frontal region with an arrow marking a sharp, non-corticated lucent line through the anterior frontal sinus wall — a linear fracture]({{ '/docs/img/ctb_fracture_linear_bone_window.png' | relative_url }})
-*Figure 8.1 — Linear fracture (bone window). The arrow marks a sharply marginated, non-corticated lucent line — the defining feature of a fracture, best seen on bone windows. Contrast this with a suture, which is serrated, corticated and symmetric. Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Fraktur_Stirnhoehle_axial.png).*
+*Figure 9.1 — Linear fracture (bone window). The arrow marks a sharply marginated, non-corticated lucent line — the defining feature of a fracture, best seen on bone windows. Contrast this with a suture, which is serrated, corticated and symmetric. Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Fraktur_Stirnhoehle_axial.png).*
 
 ![3D volume-rendered reconstruction of the skull showing branching lucent fracture lines crossing the corticated sutures]({{ '/docs/img/ctb_fracture_3d_vs_suture.png' | relative_url }})
-*Figure 8.2 — Fracture versus suture (3D reformat). The fracture lines run an irregular course and cross the sutures, whereas the sutures themselves are the smoothly serrated, symmetric lines — a 3D reformat can make this distinction obvious. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:SkullFracAHT.png).*
+*Figure 9.2 — Fracture versus suture (3D reformat). The fracture lines run an irregular course and cross the sutures, whereas the sutures themselves are the smoothly serrated, symmetric lines — a 3D reformat can make this distinction obvious. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:SkullFracAHT.png).*
 
 ### Depressed fractures
 **What to look for:** inward displacement of bony fragments, step-off deformity, pneumocephalus. The inner table is typically more comminuted than the outer. Check for overlying scalp laceration (open fracture).
@@ -76,7 +76,7 @@ Work through this on every head trauma CT:
 **Why it matters:** higher risk of dural tear, cortical contusion, and venous injury. Neurosurgical discussion is appropriate when depression exceeds skull table thickness, when there is contamination, or when there is a neurological deficit.
 
 ![Axial and sagittal CT bone windows with a 3D reconstruction, showing inwardly displaced bony fragments of the frontal sinus — a depressed fracture]({{ '/docs/img/ctb_fracture_depressed.jpg' | relative_url }})
-*Figure 8.3 — Depressed fracture (bone windows, axial and sagittal, with 3D reformat). Bone windows show inward displacement of the fragments and the step-off deformity; the 3D reformat gives an overview of the depressed segment. Assess depression relative to skull table thickness and look for overlying scalp breach (open fracture). Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Impressionsfraktur_Stirnhoehle_links_ohne_Beteiligung_der_dorsalen_Wand_91M_-_CT_-_001.jpg).*
+*Figure 9.3 — Depressed fracture (bone windows, axial and sagittal, with 3D reformat). Bone windows show inward displacement of the fragments and the step-off deformity; the 3D reformat gives an overview of the depressed segment. Assess depression relative to skull table thickness and look for overlying scalp breach (open fracture). Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Impressionsfraktur_Stirnhoehle_links_ohne_Beteiligung_der_dorsalen_Wand_91M_-_CT_-_001.jpg).*
 
 ### Diastatic fractures and sutural injury
 **What to look for:** suture widening >2 mm in adults (age-adjusted in children), loss of interdigitations.
@@ -119,7 +119,7 @@ Always use HU to distinguish blood from mucus from CSF — it directly changes m
 This is the most clinically nuanced BOS region. Use the **otic capsule sparing (OCS) vs otic capsule violating (OCV)** classification rather than the traditional longitudinal/transverse scheme — it is more clinically relevant.
 
 ![Axial CT bone window at the skull base with an annotated lucent fracture line through the right temporal bone]({{ '/docs/img/ctb_temporal_bone_fracture.jpg' | relative_url }})
-*Figure 8.4 — Right temporal bone fracture (bone window). A lucent fracture line runs through the right petrous/temporal bone. Bone windows are essential here — trace the line in relation to the otic capsule (OCS vs OCV) and check the carotid canal, ossicles and mastoid air cells for haemotympanum. Source: Cerevisae, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CT_brain_bone_window_showing_right_temporal_bone_fracture.jpg).*
+*Figure 9.4 — Right temporal bone fracture (bone window). A lucent fracture line runs through the right petrous/temporal bone. Bone windows are essential here — trace the line in relation to the otic capsule (OCS vs OCV) and check the carotid canal, ossicles and mastoid air cells for haemotympanum. Source: Cerevisae, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CT_brain_bone_window_showing_right_temporal_bone_fracture.jpg).*
 
 **OCS fractures** (equivalent to longitudinal):
 - Fracture through the external auditory canal (EAC), mastoid, tegmen, and tympanic cavity
@@ -178,7 +178,7 @@ This is the most clinically nuanced BOS region. Use the **otic capsule sparing (
 **Mount Fuji sign:** bilateral frontal air separating the frontal lobes — indicates tension pneumocephalus. **Escalate immediately** if there is mass effect, sulcal effacement, or midline shift. Urgent neurosurgical decompression required.
 
 ![Axial CT showing a large volume of very low-attenuation air over both frontal lobes, separating them — pneumocephalus]({{ '/docs/img/ctb_pneumocephalus.jpg' | relative_url }})
-*Figure 8.5 — Pneumocephalus. Intracranial air (−1000 HU, sharply black) collects over both frontal lobes; air this far inside the cranium signals a dural breach and mandates a hunt for the fracture site. Watch for air separating and compressing the frontal lobes (Mount Fuji / tension pattern), which requires urgent decompression. Source: Cerevisae, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CT_brain_shwoing_pneumocephalus_of_bilateral_frontal_lobes.jpg).*
+*Figure 9.5 — Pneumocephalus. Intracranial air (−1000 HU, sharply black) collects over both frontal lobes; air this far inside the cranium signals a dural breach and mandates a hunt for the fracture site. Watch for air separating and compressing the frontal lobes (Mount Fuji / tension pattern), which requires urgent decompression. Source: Cerevisae, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CT_brain_shwoing_pneumocephalus_of_bilateral_frontal_lobes.jpg).*
 
 Simple pneumocephalus without mass effect is managed conservatively with high-flow oxygen to accelerate reabsorption.
 

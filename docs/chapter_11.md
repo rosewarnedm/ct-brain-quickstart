@@ -7,7 +7,7 @@ nav_order: 11
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 10: Ischaemic Stroke — Early CT Signs, ASPECTS, Large Vessel Occlusion
+# Chapter 11: Ischaemic Stroke — Early CT Signs, ASPECTS, Large Vessel Occlusion
 
 ---
 
@@ -92,13 +92,13 @@ Dense linear structure along the M1 segment, typically >50 HU and >1.2 times the
 - Not subtle when present — a clearly bright MCA trunk is an LVO until proven otherwise.
 
 ![Axial non-contrast CT showing a hyperdense left middle cerebral artery with the resulting established territorial infarct on a higher slice.]({{ '/docs/img/ctb_hyperdense_mca_dense_media.jpg' | relative_url }})
-*Figure 10.1 — Hyperdense MCA sign (dense artery sign) with the resulting infarct. Left panel (axial non-contrast CT at the suprasellar level) shows an abnormally bright, linear left M1 segment — acute intraluminal thrombus is denser than flowing blood. Right panel (higher axial slice) shows the established left MCA-territory hypoattenuation and sulcal effacement that develops from the same occlusion. Compare the affected artery directly with the contralateral side. Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Dens_media_sign_mit_Mediainfarkt_-_CCT_001.jpg).*
+*Figure 11.1 — Hyperdense MCA sign (dense artery sign) with the resulting infarct. Left panel (axial non-contrast CT at the suprasellar level) shows an abnormally bright, linear left M1 segment — acute intraluminal thrombus is denser than flowing blood. Right panel (higher axial slice) shows the established left MCA-territory hypoattenuation and sulcal effacement that develops from the same occlusion. Compare the affected artery directly with the contralateral side. Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Dens_media_sign_mit_Mediainfarkt_-_CCT_001.jpg).*
 
 **MCA "dot" sign**
 A focal round/ovoid hyperdensity in the Sylvian fissure. Represents thrombus in an M2 or M3 branch. If it is brighter than the contralateral side and nearby veins, treat it as an M2 thrombus until CTA says otherwise.
 
 ![Axial non-contrast CT showing a focal hyperdense dot in the right Sylvian fissure representing an M2-segment thrombus.]({{ '/docs/img/ctb_mca_dot_sign_axial.jpg' | relative_url }})
-*Figure 10.2 — MCA "dot" sign. Axial non-contrast CT shows a focal round hyperdensity in the right Sylvian fissure (labelled), representing thrombus within an M2-segment branch of the right middle cerebral artery. Distinguish it from a normal vessel or calcification by comparing with the contralateral side and adjacent veins. Source: Cerevisae, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Axial_view_of_dot_sign_at_right_M2_segment_on_CT_Brain.jpg).*
+*Figure 11.2 — MCA "dot" sign. Axial non-contrast CT shows a focal round hyperdensity in the right Sylvian fissure (labelled), representing thrombus within an M2-segment branch of the right middle cerebral artery. Distinguish it from a normal vessel or calcification by comparing with the contralateral side and adjacent veins. Source: Cerevisae, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Axial_view_of_dot_sign_at_right_M2_segment_on_CT_Brain.jpg).*
 
 **Hyperdense ICA terminus sign**
 Increased attenuation at the carotid "T." Can be subtle due to beam hardening near the skull base — use thin slices and reformats.
@@ -116,16 +116,16 @@ A bright basilar trunk on axial images through the clivus. Specific but not sens
 | Watershed | Linear/serpiginous cortical hypodensity at ACA–MCA or MCA–PCA junctions; think haemodynamic cause if bilateral |
 
 ![Axial non-contrast CT showing an acute left posterior cerebral artery territory infarct in the left occipital lobe.]({{ '/docs/img/ctb_pca_infarct_left.png' | relative_url }})
-*Figure 10.3 — Acute left PCA-territory infarct. Axial non-contrast CT shows established low attenuation with loss of grey–white matter differentiation in the left occipital lobe (medial occipital/calcarine cortex), conforming to the PCA territory. Note the characteristically limited early mass effect — PCA infarcts are easy to overlook, so interrogate the occipital lobes deliberately whenever visual symptoms are reported.*
+*Figure 11.3 — Acute left PCA-territory infarct. Axial non-contrast CT shows established low attenuation with loss of grey–white matter differentiation in the left occipital lobe (medial occipital/calcarine cortex), conforming to the PCA territory. Note the characteristically limited early mass effect — PCA infarcts are easy to overlook, so interrogate the occipital lobes deliberately whenever visual symptoms are reported.*
 
 ![Axial non-contrast CT showing an acute right posterior cerebral artery territory infarct in the right occipital lobe.]({{ '/docs/img/ctb_pca_infarct_right.png' | relative_url }})
-*Figure 10.4 — Acute right PCA-territory infarct. Axial non-contrast CT shows low attenuation and loss of grey–white matter differentiation in the right occipital lobe. Shown alongside Figure 10.3 to demonstrate the same territory on the contralateral side and reinforce a symmetrical, side-to-side reading pattern.*
+*Figure 11.4 — Acute right PCA-territory infarct. Axial non-contrast CT shows low attenuation and loss of grey–white matter differentiation in the right occipital lobe. Shown alongside Figure 10.3 to demonstrate the same territory on the contralateral side and reinforce a symmetrical, side-to-side reading pattern.*
 
 ![Axial non-contrast CT showing loss of the right insular ribbon in acute right MCA-territory ischaemia.]({{ '/docs/img/ctb_infarct_insular_right.png' | relative_url }})
-*Figure 10.5 — Right insular cortex acute infarct. Elderly patient presenting with left-sided weakness, facial droop and left-sided inattention (known atrial fibrillation, recently off anticoagulation). Axial non-contrast CT shows loss of the normal grey–white boundary of the right insular cortex — the insular ribbon sign — with early adjacent cortical hypoattenuation. This is frequently the earliest visible sign of MCA-territory ischaemia; narrow the window and compare directly with the contralateral insula whenever the clinical picture fits.*
+*Figure 11.5 — Right insular cortex acute infarct. Elderly patient presenting with left-sided weakness, facial droop and left-sided inattention (known atrial fibrillation, recently off anticoagulation). Axial non-contrast CT shows loss of the normal grey–white boundary of the right insular cortex — the insular ribbon sign — with early adjacent cortical hypoattenuation. This is frequently the earliest visible sign of MCA-territory ischaemia; narrow the window and compare directly with the contralateral insula whenever the clinical picture fits.*
 
 ![Axial non-contrast CT showing early ischaemic change in the right MCA territory from an M1 segment occlusion.]({{ '/docs/img/ctb_mca_infarct_right.png' | relative_url }})
-*Figure 10.6 — Acute right MCA infarct from M1-segment occlusion. Wake-up presentation with left-sided weakness, facial droop, slurred speech and left-sided neglect (anticoagulated; prior aortic valve replacement). Axial non-contrast CT shows established right MCA-territory hypoattenuation with loss of grey–white differentiation and early sulcal effacement, the appearance of a large vessel occlusion. A left-sided clinical syndrome maps to the right hemisphere — confirm the occlusion on CTA and fast-track for thrombectomy assessment.*
+*Figure 11.6 — Acute right MCA infarct from M1-segment occlusion. Wake-up presentation with left-sided weakness, facial droop, slurred speech and left-sided neglect (anticoagulated; prior aortic valve replacement). Axial non-contrast CT shows established right MCA-territory hypoattenuation with loss of grey–white differentiation and early sulcal effacement, the appearance of a large vessel occlusion. A left-sided clinical syndrome maps to the right hemisphere — confirm the occlusion on CTA and fast-track for thrombectomy assessment.*
 
 ---
 
@@ -204,7 +204,7 @@ CTA defines the exact occlusion site, identifies tandem cervical ICA lesions, es
 **A normal NCCT parenchyma with a convincing hyperdense M1 is still an emergency — do not be falsely reassured.**
 
 ![Paired axial non-contrast CT and CT angiography maximum-intensity-projection images demonstrating a right carotid terminus occlusion.]({{ '/docs/img/ctb_carotid_t_dense_cta.jpg' | relative_url }})
-*Figure 10.7 — Carotid "T" (terminus) occlusion — NCCT clue confirmed on CTA. Left panel (axial non-contrast CT) shows a dense artery sign at the right carotid terminus. Right panel (axial CT angiography maximum-intensity projection through the circle of Willis) confirms the large vessel occlusion, with absent opacification of the right intracranial ICA/proximal MCA compared with the patent left-sided vessels. A hyperdense-artery clue on NCCT should trigger immediate CTA to define the occlusion site and plan thrombectomy. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Dense_artery_sign_bei_Carotis-T-Verschluss_rechts_88W_-_CT_-_001.jpg).*
+*Figure 11.7 — Carotid "T" (terminus) occlusion — NCCT clue confirmed on CTA. Left panel (axial non-contrast CT) shows a dense artery sign at the right carotid terminus. Right panel (axial CT angiography maximum-intensity projection through the circle of Willis) confirms the large vessel occlusion, with absent opacification of the right intracranial ICA/proximal MCA compared with the patent left-sided vessels. A hyperdense-artery clue on NCCT should trigger immediate CTA to define the occlusion site and plan thrombectomy. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Dense_artery_sign_bei_Carotis-T-Verschluss_rechts_88W_-_CT_-_001.jpg).*
 
 ---
 
@@ -218,10 +218,10 @@ CTA defines the exact occlusion site, identifies tandem cervical ICA lesions, es
 | Chronic | >1 month | Encephalomalacia, volume loss, ex vacuo ventricular dilatation; attenuation approaches CSF (0–15 HU); well-defined margins. |
 
 ![Axial non-contrast CT showing an established large middle cerebral artery territory infarct with hypoattenuation, loss of grey-white differentiation and mass effect.]({{ '/docs/img/ctb_mca_infarct_established.jpg' | relative_url }})
-*Figure 10.8 — Established large-territory MCA infarct with mass effect. Axial non-contrast CT shows extensive wedge-shaped hypoattenuation with complete loss of grey–white differentiation across a large MCA territory, sulcal effacement and early compression of the adjacent ventricle — the appearance of a maturing large infarct. Extensive established hypodensity like this raises the risk of haemorrhagic transformation and of malignant oedema, and influences reperfusion decisions. Source: Lucien Monfils, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CT_Brain_MCA_Infarct.jpg).*
+*Figure 11.8 — Established large-territory MCA infarct with mass effect. Axial non-contrast CT shows extensive wedge-shaped hypoattenuation with complete loss of grey–white differentiation across a large MCA territory, sulcal effacement and early compression of the adjacent ventricle — the appearance of a maturing large infarct. Extensive established hypodensity like this raises the risk of haemorrhagic transformation and of malignant oedema, and influences reperfusion decisions. Source: Lucien Monfils, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CT_Brain_MCA_Infarct.jpg).*
 
 ![Axial non-contrast CT showing an established left middle cerebral artery territory infarct.]({{ '/docs/img/ctb_mca_infarct_left.png' | relative_url }})
-*Figure 10.9 — Established left MCA-territory infarct with interval extension. Axial non-contrast CT at the basal ganglia level shows extensive hypoattenuation and loss of grey–white matter differentiation across the left MCA territory, involving the insula and lentiform nucleus, with effacement of the adjacent sulci. On comparison with the patient's earlier CT the hypodensity had become more extensive, indicating progression of the infarct — always review prior imaging to distinguish an evolving infarct from a new one.*
+*Figure 11.9 — Established left MCA-territory infarct with interval extension. Axial non-contrast CT at the basal ganglia level shows extensive hypoattenuation and loss of grey–white matter differentiation across the left MCA territory, involving the insula and lentiform nucleus, with effacement of the adjacent sulci. On comparison with the patient's earlier CT the hypodensity had become more extensive, indicating progression of the infarct — always review prior imaging to distinguish an evolving infarct from a new one.*
 
 ---
 

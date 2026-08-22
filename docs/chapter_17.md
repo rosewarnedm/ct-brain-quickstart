@@ -7,7 +7,7 @@ nav_order: 17
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 16: Brain Abscess
+# Chapter 17: Brain Abscess
 
 ---
 
@@ -61,7 +61,7 @@ If you find an abscess, look for the source on the same scan — sinuses, mastoi
 
 ![Axial post-contrast T1 MRI showing a left posterior brain abscess with a thin, smooth, complete enhancing ring around a non-enhancing low-signal core.]({{ '/docs/img/ctb_brain_abscess_ring_mri.jpg' | relative_url }})
 
-*Figure 16.1 — The hallmark appearance: a thin, smooth, complete enhancing ring around a non-enhancing central cavity (axial post-contrast T1 MRI; the same thin, uniform ring is what you look for on CECT). Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brain_abscess_-_MRI_T1_KM_axial.jpg).*
+*Figure 17.1 — The hallmark appearance: a thin, smooth, complete enhancing ring around a non-enhancing central cavity (axial post-contrast T1 MRI; the same thin, uniform ring is what you look for on CECT). Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brain_abscess_-_MRI_T1_KM_axial.jpg).*
 
 ### How the CT appearance evolves over time
 
@@ -87,7 +87,7 @@ These findings require **immediate escalation to neurosurgery**:
 
 ![Axial post-contrast T1 MRI showing a small ring-enhancing abscess adjacent to a ventricular catheter with dilated lateral ventricles.]({{ '/docs/img/ctb_brain_abscess_shunt_ring.jpg' | relative_url }})
 
-*Figure 16.2 — A small ring-enhancing abscess arising adjacent to a ventricular (CSF shunt) catheter, with associated ventricular dilatation — a reminder to scrutinise the periventricular region and shunt tracks (axial post-contrast T1 MRI). Source: Aimun AB Jamjoom, Abrar R Waliuddin and Abdulhakim B Jamjoom, CC BY 2.5, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brain_Abscess_at_MRI_(T1_%2B_contrast)_--_showing_a_small_ring-enhancing_lesion_with_mild_surrounding_edema_adjacent_to_the_ventricular_catheter_and_ventricular_dilatation..jpg).*
+*Figure 17.2 — A small ring-enhancing abscess arising adjacent to a ventricular (CSF shunt) catheter, with associated ventricular dilatation — a reminder to scrutinise the periventricular region and shunt tracks (axial post-contrast T1 MRI). Source: Aimun AB Jamjoom, Abrar R Waliuddin and Abdulhakim B Jamjoom, CC BY 2.5, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brain_Abscess_at_MRI_(T1_%2B_contrast)_--_showing_a_small_ring-enhancing_lesion_with_mild_surrounding_edema_adjacent_to_the_ventricular_catheter_and_ventricular_dilatation..jpg).*
 
 ---
 
@@ -108,7 +108,7 @@ CT cannot always distinguish these with certainty — that is when you push for 
 
 ![Multi-sequence MRI montage of extensive multiloculated brain abscesses; the diffusion-weighted image shows bright signal (restricted diffusion) within the pus-filled cavities.]({{ '/docs/img/ctb_brain_abscess_dwi_multiloculated.jpg' | relative_url }})
 
-*Figure 16.3 — Why MRI settles the question: multi-sequence MRI of extensive multiloculated abscesses. The diffusion-weighted (DWI) panel shows bright signal (restricted diffusion) within the pus-filled cavities — the key feature that distinguishes an abscess from a necrotic tumour, whose cavity does not restrict. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ausgedehnte_Hirnabszesse_-_verschiedene_Wichtungen_in_der_MRT_3M_-_MR_-_001.jpg).*
+*Figure 17.3 — Why MRI settles the question: multi-sequence MRI of extensive multiloculated abscesses. The diffusion-weighted (DWI) panel shows bright signal (restricted diffusion) within the pus-filled cavities — the key feature that distinguishes an abscess from a necrotic tumour, whose cavity does not restrict. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ausgedehnte_Hirnabszesse_-_verschiedene_Wichtungen_in_der_MRT_3M_-_MR_-_001.jpg).*
 
 **Pointers that favour abscess on CT:**
 - Thin, smooth, complete ring with a homogeneous very low-attenuation core (5–25 HU)

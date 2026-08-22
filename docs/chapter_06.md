@@ -9,7 +9,7 @@ nav_order: 6
 
 ---
 
-# Chapter 5: Subdural Haematoma
+# Chapter 6: Subdural Haematoma
 
 ## Overview
 
@@ -62,10 +62,10 @@ Hyperdense crescent on standard brain windows. Look for:
 - **Swirl sign** — hypodense swirling areas within a hyperdense clot indicate active bleeding or unclotted blood; treat as an unstable, expanding haematoma
 
 ![Coronal non-contrast CT showing a hyperdense crescentic collection over the left cerebral convexity.]({{ '/docs/img/ctb_sdh_acute_left.png' | relative_url }})
-*Figure 5.1 — Left acute subdural haematoma. Elderly patient presenting with dysarthria and left-sided weakness. Coronal non-contrast CT shows a hyperdense crescentic extra-axial collection over the left cerebral convexity with a concave inner margin — the classic acute SDH appearance. Coronal reformats are invaluable for confirming the crescentic shape and for judging convexity and vertex collections that can be underestimated on axial images alone. Assess midline shift and basal cistern patency before handing over.*
+*Figure 6.1 — Left acute subdural haematoma. Elderly patient presenting with dysarthria and left-sided weakness. Coronal non-contrast CT shows a hyperdense crescentic extra-axial collection over the left cerebral convexity with a concave inner margin — the classic acute SDH appearance. Coronal reformats are invaluable for confirming the crescentic shape and for judging convexity and vertex collections that can be underestimated on axial images alone. Assess midline shift and basal cistern patency before handing over.*
 
 ![Axial non-contrast CT showing a thin hyperdense crescentic collection along the cerebral convexity, arrowed.]({{ '/docs/img/ctb_sdh_acute_convexity_axial.jpg' | relative_url }})
-*Figure 5.2 — Acute convexity subdural haematoma on the axial view. Non-contrast CT shows a thin hyperdense crescent (arrows) tracking along the inner table of the skull with a concave inner margin — note how it follows the curve of the convexity rather than forming a lens. This is the appearance to lock in as the reference for "crescentic." Source: Lucien Monfils, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ct-scan_of_the_brain_with_an_subdural_hematoma.jpg).*
+*Figure 6.2 — Acute convexity subdural haematoma on the axial view. Non-contrast CT shows a thin hyperdense crescent (arrows) tracking along the inner table of the skull with a concave inner margin — note how it follows the curve of the convexity rather than forming a lens. This is the appearance to lock in as the reference for "crescentic." Source: Lucien Monfils, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ct-scan_of_the_brain_with_an_subdural_hematoma.jpg).*
 
 ### Subacute / isodense SDH
 
@@ -80,7 +80,7 @@ This is the most common diagnostic trap. The collection may be invisible on stan
 Hypodense collection, often bilateral. May have internal septations and membranes. Patients often present with surprisingly few symptoms despite large collections. Bilateral chronic SDH is easy to underestimate — **assess cumulative mass effect** and always measure midline shift and check basal cisterns.
 
 ![Axial non-contrast CT showing bilateral low-density subdural collections over both cerebral convexities, arrowed.]({{ '/docs/img/ctb_sdh_bilateral_chronic.png' | relative_url }})
-*Figure 5.3 — Bilateral (chronic) subdural collections. Non-contrast CT shows low-density crescentic collections over both convexities (arrows) with effaced cortical sulci and compressed, slit-like frontal horns. Because the mass effect is symmetrical the midline can look deceptively central — the clue is the "too smooth," sulcus-free brain surface on both sides. Judge the cumulative effect, not each side in isolation. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:BilateralSubDurMark.png).*
+*Figure 6.3 — Bilateral (chronic) subdural collections. Non-contrast CT shows low-density crescentic collections over both convexities (arrows) with effaced cortical sulci and compressed, slit-like frontal horns. Because the mass effect is symmetrical the midline can look deceptively central — the clue is the "too smooth," sulcus-free brain surface on both sides. Judge the cumulative effect, not each side in isolation. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:BilateralSubDurMark.png).*
 
 ### Acute-on-chronic SDH
 
@@ -96,10 +96,10 @@ Classic mixed density: **hyperdense acute blood layering against or within a hyp
 - **Vertex SDH:** Easily missed on axial slices due to partial volume and beam hardening — **always review coronal reformats** of the parasagittal region.
 
 ![Axial and coronal non-contrast CT showing a linear hyperdensity along the falx in the interhemispheric fissure.]({{ '/docs/img/ctb_sdh_interhemispheric.jpg' | relative_url }})
-*Figure 5.4 — Interhemispheric (parafalcine) subdural haematoma. Paired axial (left) and coronal (right) non-contrast CT show a band of hyperdensity hugging one side of the falx. Unlike subarachnoid blood, which fans out into the adjacent sulci, this collection stays flat against the dural reflection with a straight medial margin. The coronal reformat makes the parafalcine location obvious and is the view to reach for when an interhemispheric SDH is suspected. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Links_parafalzin_subdurales_Haematom_80W_-_CT_-_001.jpg).*
+*Figure 6.4 — Interhemispheric (parafalcine) subdural haematoma. Paired axial (left) and coronal (right) non-contrast CT show a band of hyperdensity hugging one side of the falx. Unlike subarachnoid blood, which fans out into the adjacent sulci, this collection stays flat against the dural reflection with a straight medial margin. The coronal reformat makes the parafalcine location obvious and is the view to reach for when an interhemispheric SDH is suspected. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Links_parafalzin_subdurales_Haematom_80W_-_CT_-_001.jpg).*
 
 ![Coronal non-contrast CT showing a linear hyperdensity along the left tentorium cerebelli.]({{ '/docs/img/ctb_sdh_tentorial_left.png' | relative_url }})
-*Figure 5.5 — Left tentorial subdural haematoma. Elderly patient on clopidogrel following an unwitnessed fall, with periorbital bruising and a frontal contusion. Coronal non-contrast CT shows a linear band of hyperdensity along the left tentorium cerebelli — the typical appearance of a tentorial SDH, best appreciated on coronal and sagittal reformats. Distinguish it from tentorial calcification, which is far denser (>100 HU), sharply marginated and usually symmetric. Antiplatelet therapy in this context lowers the threshold for a delayed rebleed, so recommend appropriate observation and review of the agent.*
+*Figure 6.5 — Left tentorial subdural haematoma. Elderly patient on clopidogrel following an unwitnessed fall, with periorbital bruising and a frontal contusion. Coronal non-contrast CT shows a linear band of hyperdensity along the left tentorium cerebelli — the typical appearance of a tentorial SDH, best appreciated on coronal and sagittal reformats. Distinguish it from tentorial calcification, which is far denser (>100 HU), sharply marginated and usually symmetric. Antiplatelet therapy in this context lowers the threshold for a delayed rebleed, so recommend appropriate observation and review of the agent.*
 
 ---
 
@@ -118,7 +118,7 @@ Classic mixed density: **hyperdense acute blood layering against or within a hyp
 Occasionally a loculated SDH appears biconvex — look for crescentic spread elsewhere, extension along the falx, and the position of cortical veins.
 
 ![Axial non-contrast CT showing a biconvex (lentiform) hyperdense extra-axial collection.]({{ '/docs/img/ctb_edh_biconvex.jpg' | relative_url }})
-*Figure 5.6 — Extradural (epidural) haematoma for contrast — not an SDH. Non-contrast CT shows a hyperdense collection with a biconvex, lens (lentiform) shape that pushes the brain inward, bounded by the sutures. Compare this convex outer-and-inner profile with the crescentic, concave-inner margin of the subdural in Figures 5.1–5.2: the shape is the single most useful discriminator at a glance. Source: Jpogi (Bobjgalindo), CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Traumatic_acute_epidual_hematoma.jpg).*
+*Figure 6.6 — Extradural (epidural) haematoma for contrast — not an SDH. Non-contrast CT shows a hyperdense collection with a biconvex, lens (lentiform) shape that pushes the brain inward, bounded by the sutures. Compare this convex outer-and-inner profile with the crescentic, concave-inner margin of the subdural in Figures 5.1–5.2: the shape is the single most useful discriminator at a glance. Source: Jpogi (Bobjgalindo), CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Traumatic_acute_epidual_hematoma.jpg).*
 
 ### SDH vs. enlarged subarachnoid spaces (atrophy)
 
@@ -131,7 +131,7 @@ Use the **cortical vein sign**:
 A hygroma is a CSF-density subdural collection (0–15 HU), smooth and thin, without membranes. It can evolve into a chronic SDH over time. Use HU measurement and the cortical vein sign to distinguish it from atrophic widening.
 
 ![Axial non-contrast CT showing bilateral frontal CSF-density subdural collections.]({{ '/docs/img/ctb_sdh_hygroma.jpg' | relative_url }})
-*Figure 5.7 — Subdural hygromas. Non-contrast CT shows smooth, thin CSF-density collections over the frontal convexities with no internal membranes and no hyperdense blood. The density tracking with CSF (rather than the ~10–20 HU of a chronic SDH) and the absence of septations are the distinguishing features; confirm with a formal HU measurement and the cortical vein sign. Source: Jmarchn, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Subdural_hygroma,_frontal_and_temporal.jpg).*
+*Figure 6.7 — Subdural hygromas. Non-contrast CT shows smooth, thin CSF-density collections over the frontal convexities with no internal membranes and no hyperdense blood. The density tracking with CSF (rather than the ~10–20 HU of a chronic SDH) and the absence of septations are the distinguishing features; confirm with a formal HU measurement and the cortical vein sign. Source: Jmarchn, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Subdural_hygroma,_frontal_and_temporal.jpg).*
 
 ---
 
@@ -160,7 +160,7 @@ A hygroma is a CSF-density subdural collection (0–15 HU), smooth and thin, wit
 - **Acute-on-chronic SDH with mass effect**
 
 ![Axial non-contrast CT showing a large left subdural haematoma with midline shift.]({{ '/docs/img/ctb_sdh_midline_shift.png' | relative_url }})
-*Figure 5.8 — Large left frontoparietal subdural haematoma with mass effect — a scan to escalate. Non-contrast CT shows an extensive extra-axial collection (arrow) with effacement of the ipsilateral sulci and ventricle and midline shift of the septum pellucidum away from the collection. Measure the midline shift at the foramen of Monro and check the basal cisterns; findings like these meet neurosurgical thresholds and warrant an immediate referral. Source: James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Subduralandherniation.PNG).*
+*Figure 6.8 — Large left frontoparietal subdural haematoma with mass effect — a scan to escalate. Non-contrast CT shows an extensive extra-axial collection (arrow) with effacement of the ipsilateral sulci and ventricle and midline shift of the septum pellucidum away from the collection. Measure the midline shift at the foramen of Monro and check the basal cisterns; findings like these meet neurosurgical thresholds and warrant an immediate referral. Source: James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Subduralandherniation.PNG).*
 
 ### Always consider and document:
 

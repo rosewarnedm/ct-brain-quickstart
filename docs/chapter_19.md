@@ -7,7 +7,7 @@ nav_order: 19
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 18: Cerebral Oedema
+# Chapter 19: Cerebral Oedema
 
 ---
 
@@ -62,7 +62,7 @@ Oedematous white matter typically falls to **10–25 HU**. Early cytotoxic chang
 
 ![Pre- and post-contrast axial CT showing three enhancing brain metastases surrounded by extensive low-density white-matter oedema]({{ '/docs/img/ctb_edema_vasogenic_metastases.jpg' | relative_url }})
 
-*Figure 18.1 — Vasogenic oedema. Non-contrast (left) and post-contrast (right) axial CT: three enhancing metastases from breast cancer with disproportionate, confluent low-density oedema in the surrounding white matter. The oedema does not enhance; only the lesions do. Source: Jmarchn, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:BrainMetastasisFromBreastCancer.jpg).*
+*Figure 19.1 — Vasogenic oedema. Non-contrast (left) and post-contrast (right) axial CT: three enhancing metastases from breast cancer with disproportionate, confluent low-density oedema in the surrounding white matter. The oedema does not enhance; only the lesions do. Source: Jmarchn, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:BrainMetastasisFromBreastCancer.jpg).*
 
 **Common causes and clues**:
 - *Tumour/metastasis*: focal or multifocal, oedema radiates from a mass
@@ -75,7 +75,7 @@ Oedematous white matter typically falls to **10–25 HU**. Early cytotoxic chang
 
 ![Axial CT showing extensive right hemispheric hypodensity with loss of grey-white differentiation, sulcal effacement and compression of the right lateral ventricle]({{ '/docs/img/ctb_edema_cytotoxic_mca_pca.jpg' | relative_url }})
 
-*Figure 18.2 — Cytotoxic oedema in an arterial territory. Axial non-contrast CT: extensive right MCA/PCA-territory infarct with loss of grey–white differentiation, sulcal effacement and mass effect compressing the right lateral ventricle. Cortex and deep grey structures are both involved, confined to the vascular territory. Source: Cerevisae, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Right_MCA_and_PCA_territories_infarct.jpg).*
+*Figure 19.2 — Cytotoxic oedema in an arterial territory. Axial non-contrast CT: extensive right MCA/PCA-territory infarct with loss of grey–white differentiation, sulcal effacement and mass effect compressing the right lateral ventricle. Cortex and deep grey structures are both involved, confined to the vascular territory. Source: Cerevisae, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Right_MCA_and_PCA_territories_infarct.jpg).*
 
 **Specific signs in acute ischaemic stroke (AIS)**:
 - *Insular ribbon sign*: loss of definition of the insular cortex (MCA territory)
@@ -86,7 +86,7 @@ Oedematous white matter typically falls to **10–25 HU**. Early cytotoxic chang
 
 ![Axial CT showing diffuse loss of grey-white differentiation, effaced sulci and slit-like ventricles in a swollen brain]({{ '/docs/img/ctb_edema_diffuse_hibi.png' | relative_url }})
 
-*Figure 18.3 — Diffuse cerebral oedema (hypoxic–ischaemic injury). Axial non-contrast CT after anoxic injury: global loss of grey–white differentiation, effacement of the sulci and small, slit-like ventricles from a diffusely swollen "tight" brain. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Anoxicbraininjury.png).*
+*Figure 19.3 — Diffuse cerebral oedema (hypoxic–ischaemic injury). Axial non-contrast CT after anoxic injury: global loss of grey–white differentiation, effacement of the sulci and small, slit-like ventricles from a diffusely swollen "tight" brain. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Anoxicbraininjury.png).*
 
 ### Interstitial (hydrocephalic) oedema
 

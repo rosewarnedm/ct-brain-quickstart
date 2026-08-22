@@ -7,7 +7,7 @@ nav_order: 16
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 15: Meningitis and Encephalitis on CT
+# Chapter 16: Meningitis and Encephalitis on CT
 
 ## Scope and Key Points
 
@@ -69,11 +69,11 @@ On CECT, look for **smooth or nodular gyriform/sulcal enhancement** over convexi
 
 ![Contrast-enhanced axial CT showing a thin crescentic left frontal extra-axial collection with peripheral rim enhancement and an overlying scalp abscess]({{ '/docs/img/ctb_subdural_empyema_ct.png' | relative_url }})
 
-*Figure 15.1 — Subdural empyema (CECT). Thin crescentic extra-axial collection along the left frontal convexity with peripheral rim enhancement (arrows), plus an overlying scalp abscess — a neurosurgical emergency. Source: James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Subduralempyemaandskinabscess.png).*
+*Figure 16.1 — Subdural empyema (CECT). Thin crescentic extra-axial collection along the left frontal convexity with peripheral rim enhancement (arrows), plus an overlying scalp abscess — a neurosurgical emergency. Source: James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Subduralempyemaandskinabscess.png).*
 
 ![Axial T1 post-contrast MRI showing a left posterior ring-enhancing lesion with a thin smooth enhancing wall and central non-enhancing content, with ventricular dilatation]({{ '/docs/img/ctb_brain_abscess_ring_mri.jpg' | relative_url }})
 
-*Figure 15.2 — Cerebral abscess (post-contrast T1 MRI). A ring-enhancing lesion in the left posterior hemisphere with a thin, smooth enhancing capsule and central near-CSF content, alongside ventricular dilatation. On CT the abscess capsule shows analogous thin ring enhancement. Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brain_abscess_-_MRI_T1_KM_axial.jpg).*
+*Figure 16.2 — Cerebral abscess (post-contrast T1 MRI). A ring-enhancing lesion in the left posterior hemisphere with a thin, smooth enhancing capsule and central near-CSF content, alongside ventricular dilatation. On CT the abscess capsule shows analogous thin ring enhancement. Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brain_abscess_-_MRI_T1_KM_axial.jpg).*
 
 ### Tuberculous Meningitis (TBM)
 
@@ -89,7 +89,7 @@ Coexisting tuberculomas appear as isodense or hypodense nodules with ring or nod
 
 ![Contrast-enhanced axial CT showing markedly dilated lateral ventricles with periventricular low attenuation and basal enhancement in tuberculous meningitis]({{ '/docs/img/ctb_tb_meningitis_hydrocephalus_ct.jpg' | relative_url }})
 
-*Figure 15.3 — Tuberculous meningitis (CECT). Marked communicating hydrocephalus with dilated lateral ventricles and periventricular transependymal low attenuation, together with basal leptomeningeal enhancement — the "blocked and basal" pattern. Source: Komolafe, M., Sunmonu, T., Esan, O., CC BY 2.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Tuberculous-meningitis-scan.jpg).*
+*Figure 16.3 — Tuberculous meningitis (CECT). Marked communicating hydrocephalus with dilated lateral ventricles and periventricular transependymal low attenuation, together with basal leptomeningeal enhancement — the "blocked and basal" pattern. Source: Komolafe, M., Sunmonu, T., Esan, O., CC BY 2.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Tuberculous-meningitis-scan.jpg).*
 
 **Escalate:** TBM carries high risk of rapid deterioration from hydrocephalus and vasculitic stroke — early neurosurgical involvement and urgent anti-tuberculous therapy plus corticosteroids are indicated.
 
@@ -135,7 +135,7 @@ Think: **"Limbic and leaky"**
 
 ![Coronal T2 MRI showing asymmetric high signal and swelling in the right medial temporal lobe and insula in herpes simplex encephalitis]({{ '/docs/img/ctb_hsv_encephalitis_temporal_mri.jpg' | relative_url }})
 
-*Figure 15.4 — HSV-1 encephalitis (coronal T2 MRI). Asymmetric high T2 signal and swelling involving the right medial temporal lobe and insula, sparing the basal ganglia — the classic "limbic" distribution. CT is frequently normal early or shows only subtle mesial temporal/insular hypoattenuation, so MRI is the more sensitive modality. Source: dr Laughlin Dawes, CC BY 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Hsv_encephalitis.jpg).*
+*Figure 16.4 — HSV-1 encephalitis (coronal T2 MRI). Asymmetric high T2 signal and swelling involving the right medial temporal lobe and insula, sparing the basal ganglia — the classic "limbic" distribution. CT is frequently normal early or shows only subtle mesial temporal/insular hypoattenuation, so MRI is the more sensitive modality. Source: dr Laughlin Dawes, CC BY 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Hsv_encephalitis.jpg).*
 
 ### Arboviral Encephalitis (e.g., Japanese Encephalitis, West Nile)
 

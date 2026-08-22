@@ -7,7 +7,7 @@ nav_order: 23
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 22: Metabolic and Toxic Encephalopathy
+# Chapter 23: Metabolic and Toxic Encephalopathy
 
 ---
 
@@ -122,7 +122,7 @@ Work through these areas every time:
 **Key differentials:** Pontine infarction (usually asymmetric, vascular territory); pontine glioma (mass effect)
 
 ![Sagittal T2 MRI of the brainstem showing a rounded hyperintense lesion in the central pons]({{ '/docs/img/ctb_ods_central_pontine_mri.jpg' | relative_url }})
-*Figure 22.1 — Osmotic demyelination syndrome (MRI). Sagittal T2-weighted image; the arrow indicates the symmetric hyperintense lesion in the central pons characteristic of central pontine myelinolysis. CT is frequently normal in the first 24–48 hours, so MRI is the confirmatory investigation. Source: MBq, CC0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Centralpontinemyelinolysis.JPG).*
+*Figure 23.1 — Osmotic demyelination syndrome (MRI). Sagittal T2-weighted image; the arrow indicates the symmetric hyperintense lesion in the central pons characteristic of central pontine myelinolysis. CT is frequently normal in the first 24–48 hours, so MRI is the confirmatory investigation. Source: MBq, CC0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Centralpontinemyelinolysis.JPG).*
 
 **Action:** Prevention is everything — correct sodium slowly. If a patient deteriorates neurologically days after sodium correction, request urgent MRI even if CT is normal. There is no acute CT-specific intervention.
 
@@ -155,7 +155,7 @@ Work through these areas every time:
 **Key differentials:** Bithalamic infarcts (artery of Percheron territory); deep cerebral venous thrombosis (haemorrhagic thalamic lesions, look for dense straight sinus); viral encephalitis
 
 ![Axial FLAIR MRI showing symmetric hyperintense signal in the medial thalami around the third ventricle]({{ '/docs/img/ctb_wernicke_flair_thalami.jpg' | relative_url }})
-*Figure 22.2 — Wernicke encephalopathy (MRI). Axial FLAIR image showing symmetric hyperintense signal in the medial thalami adjacent to the third ventricle — a classic distribution. CT is usually normal, so a normal CT does not exclude the diagnosis; MRI is far more sensitive. Source: Jto410, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:MRI_FLAIR_sequence_Wernicke_Encephalopathy.jpg).*
+*Figure 23.2 — Wernicke encephalopathy (MRI). Axial FLAIR image showing symmetric hyperintense signal in the medial thalami adjacent to the third ventricle — a classic distribution. CT is usually normal, so a normal CT does not exclude the diagnosis; MRI is far more sensitive. Source: Jto410, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:MRI_FLAIR_sequence_Wernicke_Encephalopathy.jpg).*
 
 **Action:** Give **IV thiamine before IV glucose** in any patient with altered consciousness and suspected nutritional deficiency, alcohol dependence, or prolonged vomiting. Do not delay for imaging. A normal CT does not exclude Wernicke's — MRI is far more sensitive.
 

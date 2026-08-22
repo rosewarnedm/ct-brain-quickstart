@@ -7,7 +7,7 @@ nav_order: 10
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 9: Paediatric Head Injury
+# Chapter 10: Paediatric Head Injury
 
 ---
 
@@ -53,15 +53,15 @@ A focal scalp haematoma predicts an underlying fracture — scrutinise the adjac
 
 ![Infant axial CT bone window showing a lucent linear parietal skull fracture]({{ '/docs/img/ctb_paed_aht_linear_fracture_bone.png' | relative_url }})
 
-*Figure 9.1 — Infant head CT (bone window): a sharp lucent linear fracture in the parietal calvarium. Assess the entire diploë on bone algorithm and correlate with any overlying scalp swelling. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:AbusiveheadtraumaBonewindows.png).*
+*Figure 10.1 — Infant head CT (bone window): a sharp lucent linear fracture in the parietal calvarium. Assess the entire diploë on bone algorithm and correlate with any overlying scalp swelling. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:AbusiveheadtraumaBonewindows.png).*
 
 ![3D CT reconstruction of an infant skull showing a fracture line alongside the normal open cranial sutures]({{ '/docs/img/ctb_paed_skull_fracture_3d.png' | relative_url }})
 
-*Figure 9.2 — 3D CT reconstruction of an infant skull. The serrated, symmetric lines are normal open sutures; the smoother, more linear defect crossing the parietal bone is a fracture. Comparing the two helps distinguish a fracture from a normal suture. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:SkullFracAHT.png).*
+*Figure 10.2 — 3D CT reconstruction of an infant skull. The serrated, symmetric lines are normal open sutures; the smoother, more linear defect crossing the parietal bone is a fracture. Comparing the two helps distinguish a fracture from a normal suture. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:SkullFracAHT.png).*
 
 ![Two lateral skull radiographs of the same infant at 6 and 14 months showing progressive widening of a parieto-occipital fracture gap]({{ '/docs/img/ctb_paed_growing_skull_fracture_xr.jpg' | relative_url }})
 
-*Figure 9.3 — Growing skull fracture (lateral skull radiographs, not CT). Same child at 6 months (left) and 14 months (right): a narrow parieto-occipital fracture has widened markedly with growth, reflecting an underlying dural tear (leptomeningeal cyst). This is the delayed complication that mandates follow-up and neurosurgical referral. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Wachsende_Schaedelfraktur_6mo-14moW_-_CR_seitlich_-_001.jpg).*
+*Figure 10.3 — Growing skull fracture (lateral skull radiographs, not CT). Same child at 6 months (left) and 14 months (right): a narrow parieto-occipital fracture has widened markedly with growth, reflecting an underlying dural tear (leptomeningeal cyst). This is the delayed complication that mandates follow-up and neurosurgical referral. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Wachsende_Schaedelfraktur_6mo-14moW_-_CR_seitlich_-_001.jpg).*
 
 ### Skull Base Fractures
 
@@ -181,7 +181,7 @@ Radiology's role is to describe findings accurately and flag inconsistencies —
 
 ![Infant axial CT showing a focal parenchymal haemorrhage with overlying scalp swelling, marked by an arrow]({{ '/docs/img/ctb_paed_aht_parenchymal_arrow.png' | relative_url }})
 
-*Figure 9.4 — Infant head CT: a focal parenchymal haemorrhage in the parietal region with overlying scalp swelling (arrow), in a case of abusive head trauma. Findings should be described accurately and objectively; the safeguarding conclusion rests with the multidisciplinary team. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CTheatInfantAbusiveheadtrauma.png).*
+*Figure 10.4 — Infant head CT: a focal parenchymal haemorrhage in the parietal region with overlying scalp swelling (arrow), in a case of abusive head trauma. Findings should be described accurately and objectively; the safeguarding conclusion rests with the multidisciplinary team. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CTheatInfantAbusiveheadtrauma.png).*
 
 **CT alone is insufficient for AHT assessment.** CT identifies acute haemorrhage and fractures. MRI brain and whole spine with SWI and DWI are essential for complete evaluation. Arrange ophthalmology review (retinal haemorrhages) and skeletal survey. Activate your trust's safeguarding pathway.
 

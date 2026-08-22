@@ -7,7 +7,7 @@ nav_order: 22
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 21: Acute Headache
+# Chapter 22: Acute Headache
 
 ---
 

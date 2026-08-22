@@ -7,7 +7,7 @@ nav_order: 8
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 7: Contusions and Diffuse Axonal Injury
+# Chapter 8: Contusions and Diffuse Axonal Injury
 
 ---
 
@@ -42,7 +42,7 @@ Contusions are focal areas of cortical and subcortical bruising — a mixture of
 - Check for overlying skull fractures, especially at the orbital roofs and sphenoid ridge
 
 ![Axial non-contrast CT showing bifrontal mixed-density haemorrhagic contusions with hyperdense petechiae in surrounding hypodensity]({{ '/docs/img/ctb_contusion_bifrontal.jpg' | relative_url }})
-*Figure 7.1 — Bifrontal haemorrhagic contusions on non-contrast CT: mixed-density lesions at the anteroinferior frontal lobes, the classic polar site where the skull base funnels impact energy. Source: Rehman T, Ali R, Tawil I, Yonas H, CC BY 2.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brain_trauma_CT.jpg).*
+*Figure 8.1 — Bifrontal haemorrhagic contusions on non-contrast CT: mixed-density lesions at the anteroinferior frontal lobes, the classic polar site where the skull base funnels impact energy. Source: Rehman T, Ali R, Tawil I, Yonas H, CC BY 2.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brain_trauma_CT.jpg).*
 
 **24–72 hours ("blossoming"):**
 - Haemorrhagic components enlarge and coalesce — this is expected and common
@@ -95,7 +95,7 @@ DAI results from rotational (angular) acceleration, which generates shear forces
 **A normal CT does not exclude DAI.** If a patient is in unexplained coma disproportionate to the CT findings, DAI is the diagnosis until proven otherwise. MRI (particularly susceptibility-weighted imaging and diffusion-weighted imaging) is far more sensitive and should be arranged once the patient is stable.
 
 ![Axial susceptibility-weighted MRI showing multiple small dark microhaemorrhages, including a cluster at the anterior midline near the corpus callosum]({{ '/docs/img/ctb_dai_microbleeds_mri.jpg' | relative_url }})
-*Figure 7.2 — Susceptibility-weighted MRI (not CT) demonstrating why MRI outperforms CT for DAI: numerous punctate traumatic microbleeds "bloom" as dark foci, including a cluster near the anterior corpus callosum (circled), many of which would be invisible on CT. Source: NIH Image Gallery, Public domain, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brain_Microbleed_(48904875681).jpg).*
+*Figure 8.2 — Susceptibility-weighted MRI (not CT) demonstrating why MRI outperforms CT for DAI: numerous punctate traumatic microbleeds "bloom" as dark foci, including a cluster near the anterior corpus callosum (circled), many of which would be invisible on CT. Source: NIH Image Gallery, Public domain, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brain_Microbleed_(48904875681).jpg).*
 
 ### What to Look for on CT
 
@@ -108,7 +108,7 @@ When DAI is haemorrhagic, look for **small punctate hyperdense foci (2–10 mm, 
 These lesions have minimal surrounding oedema and limited mass effect individually. Associated small intraventricular haemorrhage may occur with callosal lesions.
 
 ![Two axial CT images of DAI showing a small callosal-region haemorrhage that enlarges on the six-hour follow-up]({{ '/docs/img/ctb_dai_callosal_blossoming.jpg' | relative_url }})
-*Figure 7.3 — Haemorrhagic DAI on CT after a high-speed injury: a small hyperdense focus adjacent to the corpus callosum on the initial scan (left) that has enlarged slightly on the six-hour follow-up (right) — illustrating both a subtle callosal shearing haemorrhage and early blossoming. Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Diffuse_axonal_injury-CCT_Unfallaufnahme_und_nach_6h.jpg).*
+*Figure 8.3 — Haemorrhagic DAI on CT after a high-speed injury: a small hyperdense focus adjacent to the corpus callosum on the initial scan (left) that has enlarged slightly on the six-hour follow-up (right) — illustrating both a subtle callosal shearing haemorrhage and early blossoming. Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Diffuse_axonal_injury-CCT_Unfallaufnahme_und_nach_6h.jpg).*
 
 In severe non-haemorrhagic DAI, you may see only **diffuse cerebral swelling** — loss of sulci, compressed ventricles, effaced basal cisterns — with no discrete lesions. This appearance with a severely reduced GCS should prompt urgent escalation.
 
@@ -168,7 +168,7 @@ Both contusions and haemorrhagic DAI lesions can enlarge substantially in the fi
 | Months | Encephalomalacia; callosal thinning; diffuse atrophy |
 
 ![Axial CT years after traumatic brain injury showing a focal CSF-density cystic cavity at the site of prior injury]({{ '/docs/img/ctb_encephalomalacia_chronic.jpg' | relative_url }})
-*Figure 7.4 — The chronic end-stage on CT: years after a traumatic brain injury, the contused parenchyma has resolved to a focal CSF-density cavity (arrow) — encephalomalacia with local volume loss. Source: James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Traumaticbraininjury2010.jpg).*
+*Figure 8.4 — The chronic end-stage on CT: years after a traumatic brain injury, the contused parenchyma has resolved to a focal CSF-density cavity (arrow) — encephalomalacia with local volume loss. Source: James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Traumaticbraininjury2010.jpg).*
 
 ---
 

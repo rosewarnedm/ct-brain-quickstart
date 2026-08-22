@@ -7,7 +7,7 @@ nav_order: 15
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 14: Hypertensive Encephalopathy and PRES
+# Chapter 15: Hypertensive Encephalopathy and PRES
 
 ---
 
@@ -57,7 +57,7 @@ The hallmark is **bilateral, fairly symmetric, subcortical low attenuation in th
 
 ![Axial T2 MRI in PRES showing bilateral cortico-subcortical hyperintensity in the occipital and parietal regions]({{ '/docs/img/ctb_pres_occipital_parietal_mri.jpg' | relative_url }})
 
-*Figure 14.1 — MRI (axial T2) in posterior reversible encephalopathy syndrome, showing bilateral, fairly symmetric cortico-subcortical high signal involving the occipital and parietal lobes (with pontine involvement in this case). MRI is more sensitive than CT for this vasogenic oedema, which is often subtle or occult on non-contrast CT. Source: Rashmi Chawla, Daniel Smith and Paul E Marik, CC BY 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Posterior_reversible_encephalopathy_syndrome_MRI.jpg).*
+*Figure 15.1 — MRI (axial T2) in posterior reversible encephalopathy syndrome, showing bilateral, fairly symmetric cortico-subcortical high signal involving the occipital and parietal lobes (with pontine involvement in this case). MRI is more sensitive than CT for this vasogenic oedema, which is often subtle or occult on non-contrast CT. Source: Rashmi Chawla, Daniel Smith and Paul E Marik, CC BY 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Posterior_reversible_encephalopathy_syndrome_MRI.jpg).*
 
 ### Atypical Distributions
 

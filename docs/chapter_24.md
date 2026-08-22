@@ -7,7 +7,7 @@ nav_order: 24
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 23: Brain Tumours — Glioma, Metastases, and Meningioma
+# Chapter 24: Brain Tumours — Glioma, Metastases, and Meningioma
 
 ---
 
@@ -66,11 +66,11 @@ You do not need detailed pathophysiology, but three concepts directly shape what
 
 ![Axial contrast-enhanced T1 MRI showing a glioblastoma with a thick, irregular enhancing rim around a necrotic centre]({{ '/docs/img/ctb_glioblastoma_ring_mri.jpg' | relative_url }})
 
-*Figure 23.1 — Glioblastoma (MRI, axial T1 post-contrast). Thick, irregular ring of enhancement surrounding a heterogeneous necrotic core — the classic high-grade glioma appearance (mirrors the thick-walled ring-enhancing mass seen on CECT). Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Glioblastoma_multiforme_-_MRT_T1KM_ax.jpg).*
+*Figure 24.1 — Glioblastoma (MRI, axial T1 post-contrast). Thick, irregular ring of enhancement surrounding a heterogeneous necrotic core — the classic high-grade glioma appearance (mirrors the thick-walled ring-enhancing mass seen on CECT). Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Glioblastoma_multiforme_-_MRT_T1KM_ax.jpg).*
 
 ![Axial contrast-enhanced MRI showing a butterfly glioblastoma crossing the midline through the corpus callosum]({{ '/docs/img/ctb_glioblastoma_butterfly_mri.png' | relative_url }})
 
-*Figure 23.2 — Butterfly glioblastoma (MRI, axial post-contrast). Heterogeneously enhancing mass crossing the midline through the splenium of the corpus callosum to give the symmetrical "butterfly" pattern that strongly suggests GBM. Source: John H. Rossmeisl et al., CC BY 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Butterfly_glioblastoma.png).*
+*Figure 24.2 — Butterfly glioblastoma (MRI, axial post-contrast). Heterogeneously enhancing mass crossing the midline through the splenium of the corpus callosum to give the symmetrical "butterfly" pattern that strongly suggests GBM. Source: John H. Rossmeisl et al., CC BY 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Butterfly_glioblastoma.png).*
 
 ### Key differentials
 
@@ -111,11 +111,11 @@ Metastases classically present as **multiple lesions at the grey–white junctio
 
 ![Non-contrast (left) and contrast-enhanced (right) axial CT showing multiple enhancing brain metastases at the grey–white junction]({{ '/docs/img/ctb_metastases_multiple_ct.jpg' | relative_url }})
 
-*Figure 23.3 — Cerebral metastases (CT; non-contrast left, contrast-enhanced right). Lesions are near-occult on the plain scan but multiple enhancing deposits at the grey–white junction (arrowed) become obvious after contrast — the classic multiplicity that points to metastatic disease. Source: Jmarchn, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:BrainMetastasisFromBreastCancer.jpg).*
+*Figure 24.3 — Cerebral metastases (CT; non-contrast left, contrast-enhanced right). Lesions are near-occult on the plain scan but multiple enhancing deposits at the grey–white junction (arrowed) become obvious after contrast — the classic multiplicity that points to metastatic disease. Source: Jmarchn, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:BrainMetastasisFromBreastCancer.jpg).*
 
 ![Contrast-enhanced axial CT showing a ring-enhancing metastasis with surrounding vasogenic oedema]({{ '/docs/img/ctb_metastasis_ring_ct.png' | relative_url }})
 
-*Figure 23.4 — Ring-enhancing cerebral metastasis (CT, contrast-enhanced). A right frontal ring-enhancing deposit with disproportionately large surrounding vasogenic oedema and local mass effect. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:MetstoBrain(LungPri).png).*
+*Figure 24.4 — Ring-enhancing cerebral metastasis (CT, contrast-enhanced). A right frontal ring-enhancing deposit with disproportionately large surrounding vasogenic oedema and local mass effect. Source: James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:MetstoBrain(LungPri).png).*
 
 **Special appearances by primary tumour type:**
 - *Haemorrhagic* (50–90 HU): melanoma, renal cell, choriocarcinoma, thyroid — but lung adenocarcinoma can also bleed
@@ -160,11 +160,11 @@ Meningioma is an **extra-axial** tumour. Recognising extra-axial location is the
 
 ![Contrast-enhanced axial CT showing an avidly enhancing extra-axial convexity meningioma with mass effect]({{ '/docs/img/ctb_meningioma_enhancing_ct.jpg' | relative_url }})
 
-*Figure 23.5 — Meningioma (CT, contrast-enhanced). Broad-based extra-axial convexity mass showing avid, largely homogeneous enhancement and causing mass effect with midline shift — note the dural (skull) base rather than an intra-axial origin. Source: Glitzy queen00, Public domain, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Contrast_enhanced_meningioma.jpg).*
+*Figure 24.5 — Meningioma (CT, contrast-enhanced). Broad-based extra-axial convexity mass showing avid, largely homogeneous enhancement and causing mass effect with midline shift — note the dural (skull) base rather than an intra-axial origin. Source: Glitzy queen00, Public domain, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Contrast_enhanced_meningioma.jpg).*
 
 ![Contrast-enhanced MRI panels showing an enhancing extra-axial meningioma with a dural tail]({{ '/docs/img/ctb_meningioma_dural_tail_mri.jpg' | relative_url }})
 
-*Figure 23.6 — Meningioma with dural tail (MRI, post-contrast axial, coronal and sagittal). Avidly enhancing extra-axial mass with an enhancing "dural tail" tapering along the adjacent dura — a common, though not specific, meningioma sign best appreciated on contrast MRI. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Meningeom_am_Tentorium_mit_dural_tail_53W_-_MR_-_001.jpg).*
+*Figure 24.6 — Meningioma with dural tail (MRI, post-contrast axial, coronal and sagittal). Avidly enhancing extra-axial mass with an enhancing "dural tail" tapering along the adjacent dura — a common, though not specific, meningioma sign best appreciated on contrast MRI. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Meningeom_am_Tentorium_mit_dural_tail_53W_-_MR_-_001.jpg).*
 
 **Bone windows are essential:** Hyperostosis is ground-glass or dense thickening of adjacent skull. Permeative or destructive bone change is atypical for a benign meningioma — consider atypical/malignant grade or dural metastasis instead.
 

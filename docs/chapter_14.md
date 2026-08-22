@@ -7,7 +7,7 @@ nav_order: 14
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 13: Cerebral Venous Sinus Thrombosis
+# Chapter 14: Cerebral Venous Sinus Thrombosis
 
 ---
 
@@ -58,10 +58,10 @@ Acute thrombus is clot-packed and protein-rich, making it denser than normal blo
 - **Cord sign** — linear hyperdense cortical vein over the convexity; often short segment and easy to miss
 
 ![Non-contrast CT montage showing hyperdense superior sagittal sinus, straight sinus and deep cerebral veins in extensive sinus thrombosis]({{ '/docs/img/ctb_cvst_dense_sinus_ncct.jpg' | relative_url }})
-*Figure 13.1 — Non-contrast CT: extensive sinus thrombosis with hyperdense (clot-packed) superior sagittal sinus, straight sinus and deep cerebral veins — the venous equivalent of the "dense artery" sign. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ausgedehnte_Sinusthrombose_in_der_nativen_Computertomografie_24W_-_CT_nativ_-_001.jpg).*
+*Figure 14.1 — Non-contrast CT: extensive sinus thrombosis with hyperdense (clot-packed) superior sagittal sinus, straight sinus and deep cerebral veins — the venous equivalent of the "dense artery" sign. Source: Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ausgedehnte_Sinusthrombose_in_der_nativen_Computertomografie_24W_-_CT_nativ_-_001.jpg).*
 
 ![Axial non-contrast CT (left) with hyperdense left lateral sinus and matched post-contrast T1 MRI (right), arrows on the same thrombosed sinus]({{ '/docs/img/ctb_cvst_dense_lateral_sinus_ct_mr.jpg' | relative_url }})
-*Figure 13.2 — Same case, non-contrast CT (left) and post-contrast T1 MRI (right): the arrow marks a hyperdense, thrombosed left lateral (transverse/sigmoid) sinus on NCCT with MR correlation. Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sinusvenenthrombose_CT-MR.jpg).*
+*Figure 14.2 — Same case, non-contrast CT (left) and post-contrast T1 MRI (right): the arrow marks a hyperdense, thrombosed left lateral (transverse/sigmoid) sinus on NCCT with MR correlation. Source: Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sinusvenenthrombose_CT-MR.jpg).*
 
 **Practical measurement tips:**
 - Use thin slices (≤1.25 mm) and review in multiple planes

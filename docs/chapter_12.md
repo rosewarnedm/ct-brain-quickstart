@@ -7,7 +7,7 @@ nav_order: 12
 > **⚠️ AI-generated content — requires human review.**
 > This chapter was produced automatically by a large language model and has not been verified by a clinician. It may contain errors or omissions. Do not rely on it for clinical decisions until it has been reviewed and approved by a qualified specialist.
 
-# Chapter 11: Intracerebral Haemorrhage
+# Chapter 12: Intracerebral Haemorrhage
 
 ---
 
@@ -62,7 +62,7 @@ Any of these signs should raise concern for active or ongoing bleeding. Combined
 **Intraventricular extension** appears as hyperdense blood layering dependently in the occipital horns or casting the ventricles. This increases the risk of obstructive hydrocephalus — check temporal horn size and look for periventricular hypodensity (transependymal CSF seepage).
 
 ![Axial non-contrast CT showing hyperdense blood casting and expanding the lateral ventricles.]({{ '/docs/img/ctb_ich_intraventricular_extension.jpg' | relative_url }})
-*Figure 11.1 — Intraventricular haemorrhage. Axial non-contrast CT shows hyperdense blood casting the frontal horns and bodies of both lateral ventricles, which are dilated — the pattern of intraventricular extension that raises the risk of obstructive hydrocephalus. Trace the blood through all ventricular components and reassess ventricular size. Source: Glitzy queen00, Public domain, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Intracerebral_hemorrage_(CT_scan).jpg).*
+*Figure 12.1 — Intraventricular haemorrhage. Axial non-contrast CT shows hyperdense blood casting the frontal horns and bodies of both lateral ventricles, which are dilated — the pattern of intraventricular extension that raises the risk of obstructive hydrocephalus. Trace the blood through all ventricular components and reassess ventricular size. Source: Glitzy queen00, Public domain, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Intracerebral_hemorrage_(CT_scan).jpg).*
 
 ### Subacute (3 days–2 weeks)
 
@@ -88,10 +88,10 @@ Location is your most useful guide to aetiology.
 - Background CT may show small vessel change: lacunes and periventricular white matter hypodensity
 
 ![Axial non-contrast CT showing an acute hyperdense haematoma in the left basal ganglia.]({{ '/docs/img/ctb_ich_basal_ganglia_left.png' | relative_url }})
-*Figure 11.2 — Acute hypertensive-related intracerebral haemorrhage, left basal ganglia. Elderly patient on an anticoagulant (edoxaban) presenting with sudden right arm weakness and expressive dysphasia. Axial non-contrast CT shows a well-defined ovoid hyperdense haematoma centred on the left basal ganglia (putamen/external capsule) — the classic site for hypertensive arteriolopathy. Note the homogeneous acute clot; the anticoagulation history raises the priority for urgent reversal, so flag it explicitly.*
+*Figure 12.2 — Acute hypertensive-related intracerebral haemorrhage, left basal ganglia. Elderly patient on an anticoagulant (edoxaban) presenting with sudden right arm weakness and expressive dysphasia. Axial non-contrast CT shows a well-defined ovoid hyperdense haematoma centred on the left basal ganglia (putamen/external capsule) — the classic site for hypertensive arteriolopathy. Note the homogeneous acute clot; the anticoagulation history raises the priority for urgent reversal, so flag it explicitly.*
 
 ![Axial non-contrast CT showing a large heterogeneous hyperdense haematoma centred on the right basal ganglia with mass effect.]({{ '/docs/img/ctb_ich_basal_ganglia_heterogeneous.png' | relative_url }})
-*Figure 11.3 — Large deep (basal ganglia) intracerebral haemorrhage with heterogeneous internal architecture. Axial non-contrast CT shows a bulky hyperdense haematoma centred on the right basal ganglia (asterisk) with an irregular, heterogeneous appearance and adjacent lower-density regions (arrows) — internal heterogeneity of this kind is a marker of expansion risk. There is surrounding mass effect on the adjacent ventricle. Source: Shazia Mirza and Sankalp Gokhale, CC BY 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CT_of_basal_ganglionic_hemorrhage.png).*
+*Figure 12.3 — Large deep (basal ganglia) intracerebral haemorrhage with heterogeneous internal architecture. Axial non-contrast CT shows a bulky hyperdense haematoma centred on the right basal ganglia (asterisk) with an irregular, heterogeneous appearance and adjacent lower-density regions (arrows) — internal heterogeneity of this kind is a marker of expansion risk. There is surrounding mass effect on the adjacent ventricle. Source: Shazia Mirza and Sankalp Gokhale, CC BY 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CT_of_basal_ganglionic_hemorrhage.png).*
 
 ### Lobar (cortical–subcortical)
 
@@ -103,10 +103,10 @@ Location is your most useful guide to aetiology.
 - **In younger patients or atypical presentations: AVM, cavernoma, tumour, venous thrombosis, drug-related**
 
 ![Axial non-contrast CT showing a large right temporal lobe haematoma with mass effect and subfalcine herniation.]({{ '/docs/img/ctb_ich_temporal_subfalcine.png' | relative_url }})
-*Figure 11.4 — Right temporal lobe haemorrhage with significant mass effect and subfalcine herniation, following aneurysm rupture. Patient with a previously clipped aneurysm (two decades earlier) presenting with headache and contralateral leg weakness. Axial non-contrast CT shows a large heterogeneous right temporal haematoma with surrounding hypodense oedema, effacement of the adjacent sulci and ventricle, and midline shift with subfalcine herniation of the midline structures across the falx. A ruptured aneurysm can bleed directly into adjacent brain parenchyma, so correlate with any subarachnoid blood and interrogate the vasculature on CTA — and always report the herniation and midline shift explicitly.*
+*Figure 12.4 — Right temporal lobe haemorrhage with significant mass effect and subfalcine herniation, following aneurysm rupture. Patient with a previously clipped aneurysm (two decades earlier) presenting with headache and contralateral leg weakness. Axial non-contrast CT shows a large heterogeneous right temporal haematoma with surrounding hypodense oedema, effacement of the adjacent sulci and ventricle, and midline shift with subfalcine herniation of the midline structures across the falx. A ruptured aneurysm can bleed directly into adjacent brain parenchyma, so correlate with any subarachnoid blood and interrogate the vasculature on CTA — and always report the herniation and midline shift explicitly.*
 
 ![Sagittal CT angiography showing a vascular malformation with abnormal serpiginous vessels and associated intraventricular haemorrhage.]({{ '/docs/img/ctb_ich_cta_vascular_malformation.png' | relative_url }})
-*Figure 11.5 — Underlying vascular malformation demonstrated on CT angiography. Sagittal CT angiogram shows a tangle of abnormal serpiginous vessels (asterisks) with an associated draining vein (arrow) and haemorrhage — the kind of underlying lesion that must be excluded in lobar or atypical ICH, particularly in younger patients. Modality: CT angiography (not non-contrast CT). Arrange vascular imaging (CTA/CTV) and interval MRI once the patient is stable. Source: Shazia Mirza and Sankalp Gokhale, CC BY 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CT_angiography_of_a_vascular_malformation_with_intraventricular_hemorrhage.png).*
+*Figure 12.5 — Underlying vascular malformation demonstrated on CT angiography. Sagittal CT angiogram shows a tangle of abnormal serpiginous vessels (asterisks) with an associated draining vein (arrow) and haemorrhage — the kind of underlying lesion that must be excluded in lobar or atypical ICH, particularly in younger patients. Modality: CT angiography (not non-contrast CT). Arrange vascular imaging (CTA/CTV) and interval MRI once the patient is stable. Source: Shazia Mirza and Sankalp Gokhale, CC BY 4.0, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:CT_angiography_of_a_vascular_malformation_with_intraventricular_hemorrhage.png).*
 
 ### Posterior Fossa
 
