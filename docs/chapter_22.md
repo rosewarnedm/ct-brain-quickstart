@@ -70,7 +70,7 @@ Sensitivity is highest within 6 hours. By 3–5 days the blood becomes less cons
 
 ### When to escalate
 
-**Immediately.** Contact neurosurgery/neurovascular. Arrange urgent CTA to identify the aneurysm. If acute hydrocephalus and reduced consciousness, an external ventricular drain may be needed urgently. Start nimodipine.
+**Immediately.** Refer urgently to neurosurgery and the neurointerventional (INR) team, who will secure the aneurysm (coil or clip). Arrange urgent CTA to identify the aneurysm. If there is acute hydrocephalus and reduced consciousness, flag this as time-critical — the neurosurgical team may need to place an external ventricular drain urgently. Nimodipine and definitive management are directed by the treating neurosurgical/stroke team; escalate to critical care if the patient is deteriorating.
 
 ---
 
@@ -131,7 +131,7 @@ Acute haematoma: **hyperdense core (60–80 HU)**, often with a heterogeneous "s
 
 ### When to escalate
 
-**Urgent neurosurgical opinion** for cerebellar haemorrhage >3 cm, any haemorrhage with hydrocephalus or brainstem compression, or lobar haemorrhage with clinical deterioration. Manage blood pressure; reverse anticoagulation.
+Request an **urgent neurosurgical opinion** for cerebellar haemorrhage >3 cm, any haemorrhage with hydrocephalus or brainstem compression, or lobar haemorrhage with clinical deterioration — the neurosurgical team will decide on evacuation or CSF diversion. Blood-pressure control and reversal of anticoagulation are time-critical: escalate immediately to the acute medical/stroke team (and haematology for reversal agents) so these are started without delay.
 
 ---
 
@@ -160,7 +160,7 @@ Mass effect out of proportion to collection thickness suggests chronic SDH on an
 
 ### When to escalate
 
-Acute SDH or EDH with mass effect or herniation is a **neurosurgical emergency**. Reverse coagulopathy urgently.
+Acute SDH or EDH with mass effect or herniation is a **neurosurgical emergency** — refer immediately to neurosurgery for evacuation. Coagulopathy reversal is time-critical: escalate at once to the acute medical/trauma team (and haematology) to arrange urgent reversal.
 
 ---
 
@@ -185,7 +185,7 @@ Acute SDH or EDH with mass effect or herniation is a **neurosurgical emergency**
 
 ### When to escalate
 
-Confirm with **CT venography or MR venography**. If confirmed, start anticoagulation — this applies even in the setting of haemorrhagic venous infarction unless there is a specific contraindication. Investigate for precipitants (postpartum state, oral contraceptive pill, thrombophilia, intracranial infection).
+Confirm with **CT venography or MR venography**. If confirmed, refer urgently to the stroke/neurology team, who will initiate anticoagulation — this is indicated even in the setting of haemorrhagic venous infarction unless there is a specific contraindication. Flag the need to investigate for precipitants (postpartum state, oral contraceptive pill, thrombophilia, intracranial infection) so the treating team can pursue them.
 
 ---
 
@@ -203,7 +203,7 @@ A non-haemorrhagic macroadenoma will measure ~30–45 HU and appear as a soft-ti
 
 ### When to escalate
 
-This is an **endocrine emergency**. Give **IV hydrocortisone** immediately for possible adrenal insufficiency. Urgent neurosurgical review if there is visual deterioration or ophthalmoplegia. Arrange **urgent MRI** to define chiasmal compression.
+This is an **endocrine emergency** — refer urgently to endocrinology and neurosurgery. Corticosteroid replacement for possible adrenal insufficiency is time-critical and must not be delayed: escalate immediately to the acute medical/endocrine team so **IV hydrocortisone** is given without delay. Request an **urgent neurosurgical review** if there is visual deterioration or ophthalmoplegia — the neurosurgical team will decide on surgery. Arrange **urgent MRI** to define chiasmal compression.
 
 ---
 
@@ -215,7 +215,7 @@ A round, well-defined lesion at the **anterosuperior third ventricle near the fo
 
 ### When to escalate
 
-**Neurosurgical emergency** if the patient is deteriorating. Endoscopic removal is definitive.
+**Neurosurgical emergency** if the patient is deteriorating — refer immediately to neurosurgery, who will manage the hydrocephalus and perform definitive endoscopic removal. Escalate to critical care if consciousness is declining.
 
 ---
 
@@ -238,7 +238,7 @@ Think PRES in: severe hypertension, eclampsia, patients on calcineurin inhibitor
 
 ### Management
 
-Treat blood pressure, remove or adjust causative agents. In eclampsia: obstetric emergency — magnesium sulphate, BP control.
+Refer to the acute medical team for blood-pressure control and review of causative agents. In eclampsia this is an obstetric emergency — refer urgently to the obstetric team, who will give magnesium sulphate and control blood pressure.
 
 ---
 
@@ -259,7 +259,7 @@ Recurrent thunderclap headaches in a postpartum woman or someone using vasoactiv
 
 ### Management
 
-Avoid vasoconstrictors; control blood pressure; calcium-channel blockers (nimodipine) are commonly used.
+Refer to the stroke/neurology team, who will direct management — avoidance of vasoconstrictors, blood-pressure control, and calcium-channel blockers (nimodipine) are commonly used.
 
 ---
 
@@ -279,7 +279,7 @@ The headache is **orthostatic** — worse on standing, better when lying flat. T
 
 ### Management
 
-Epidural blood patch is first-line. Neurosurgical review if subdural haematomas are large or symptomatic.
+Refer to the team that manages SIH locally (commonly neurology and/or the pain/anaesthetic service), who will arrange an epidural blood patch — the first-line treatment. Request a neurosurgical review if the subdural haematomas are large or symptomatic.
 
 ---
 
@@ -294,7 +294,7 @@ Epidural blood patch is first-line. Neurosurgical review if subdural haematomas 
 
 ### When to escalate
 
-**Neurosurgical and ENT emergency.** Urgent IV antibiotics; surgical drainage of empyema and sinus; anticoagulation considered for cavernous sinus thrombosis.
+**Neurosurgical and ENT emergency** — refer immediately to neurosurgery and ENT for surgical drainage of the empyema and sinus. Urgent IV antibiotics are time-critical and must not wait for the surgical teams: escalate at once to acute medicine and infection/ID so antibiotics are started immediately. Anticoagulation for cavernous sinus thrombosis is a decision for the treating team (neurology/stroke with the surgical teams).
 
 ---
 
@@ -308,4 +308,30 @@ Epidural blood patch is first-line. Neurosurgical review if subdural haematomas 
 
 ## Common pitfalls and how to avoid them
 
-| Pitfall
+| Pitfall | How to avoid it |
+|---|---|
+| Missed SAH | Review the basal cisterns and high convexities on thin slices with a blood window; anaemia lowers blood attenuation, so do not rely on "whiteness" alone. |
+| Pseudo-SAH | In diffuse oedema the cisterns can look dense but measure lower (~30–40 HU) with generalised swelling and effaced cisterns — measure HU before calling SAH. |
+| Venous thrombosis overlooked | Survey the superior sagittal, straight, transverse and sigmoid sinuses for unexpected hyperdensity (compare with the MCA); look for haemorrhagic lesions outside arterial territories. |
+| Iso-/hypodense acute SDH | Suspect in anaemia or anticoagulation; rely on sulcal effacement, asymmetry and midline shift, not density alone. |
+| Posterior fossa artefact | Beam hardening can obscure SAH or small haemorrhage — use thin coronal/sagittal reformats and adjust windows (dual-energy CT if available). |
+| Calcification mistaken for blood | Check HU (>100 HU suggests calcification), shape, and stability on prior imaging. |
+| Under-calling acute hydrocephalus | Assess temporal horn distension, Evans' index and transependymal oedema. |
+| Anchoring on an incidental aneurysm | An incidental aneurysm on CTA with a negative NCCT and low pre-test probability does not confirm a bleed — proceed with LP/further evaluation per guideline. |
+
+---
+
+## CT reporting checklist for acute headache
+
+- **Extra-axial:** SAH (distribution — cisternal vs convexity, thickness, IVH); subdural/epidural collections (side, thickness, attenuation, mass effect).
+- **Ventricles/CSF:** hydrocephalus pattern, transependymal oedema, foramen of Monro (colloid cyst); intraventricular blood.
+- **Parenchyma:** ICH (location, ABC/2 volume, oedema, mass effect, herniation); PRES pattern; venous-infarct low attenuation in a non-arterial distribution.
+- **Vascular:** dense vessel/sinus signs (estimate HU if uncertain).
+- **Skull/sinuses/orbits/sella:** fractures, aggressive sinus disease with intracranial extension, pituitary enlargement/hyperdensity.
+- **Compare with prior imaging**, and **recommend the next step** when indicated: CTA (aSAH/RCVS/dissection), CTV/MRV (CVST), MRI brain/pituitary (apoplexy/PRES), or LP where suspicion of SAH persists beyond the early window with a negative NCCT.
+
+---
+
+## Summary
+
+In acute headache, NCCT read systematically can rapidly identify or strongly suggest life-threatening causes. Know the haematocrit effects on attenuation, scrutinise the basal cisterns and dural sinuses with appropriate windows, and interpret in the clinical context. Recommend targeted vascular or MR follow-up where needed, avoid the common pitfalls (anaemia, pseudo-SAH, beam hardening, calcification), and — when the imaging pattern mandates immediate intervention — escalate at once to the team that will act (e.g. the stroke team/interventional neuroradiology, neurosurgery, or the relevant medical/obstetric team).

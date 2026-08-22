@@ -81,7 +81,7 @@ A drop of just 3–5 HU in grey matter can signify early oedema. Use thin slices
 - Look for a hyperdense sinus or cortical vein ("cord sign") >60–70 HU on NCCT.
 - Associated infarcts are cortical–subcortical, do not respect arterial territories, and may be haemorrhagic.
 - **Confirm with CTV** (non-opacified sinus, intraluminal filling defect).
-- **Anticoagulate promptly**, even in the presence of haemorrhagic venous infarction, unless there is a strong contraindication — do not withhold solely because of haemorrhage.
+- **Discuss urgently with stroke/neurology:** anticoagulation is indicated promptly, even in the presence of haemorrhagic venous infarction, and should not be withheld solely because of haemorrhage — flag this to the treating team so it is not delayed.
 
 ---
 
@@ -107,7 +107,7 @@ A drop of just 3–5 HU in grey matter can signify early oedema. Use thin slices
 - Early CT is often completely normal.
 - As disease evolves: asymmetric low attenuation in the mesial temporal lobes and insulae with sulcal effacement; petechial haemorrhage may be present.
 - Crucially, basal ganglia are typically spared (unlike MCA infarction).
-- **Do not wait for CT to confirm before starting aciclovir.** Commence treatment on clinical suspicion; obtain urgent MRI and LP to confirm.
+- **Aciclovir must not wait for CT confirmation.** Ensure the treating medical/acute team (with infection/ID input) starts empirical aciclovir on clinical suspicion — flag this immediately so it is not delayed; recommend urgent MRI and LP to confirm.
 
 **Brain abscess**
 - Hypoattenuating mass with surrounding oedema and mass effect.
@@ -118,7 +118,7 @@ A drop of just 3–5 HU in grey matter can signify early oedema. Use thin slices
 - Presents with seizures and encephalopathy; triggers include severe hypertension, eclampsia, calcineurin inhibitors, and renal failure.
 - CT: low attenuation predominantly in subcortical white matter of the parieto-occipital lobes; may extend to frontal lobes, cerebellum, and brainstem.
 - Haemorrhage occurs in ~15–25% of cases.
-- **Management:** blood pressure control and removal of offending agents. MRI confirms the diagnosis.
+- **Escalate to the treating medical team:** management centres on blood pressure control and removal of offending agents — flag the suspected diagnosis so these are addressed. Recommend MRI to confirm.
 
 ---
 
@@ -261,4 +261,43 @@ This distinction matters because thrombolysing a postictal patient with Todd's p
 - Focal cortical/subcortical low attenuation and swelling — territorial or non-territorial?
 - Medial temporal/insular involvement → consider HSV
 - Posterior subcortical white matter low attenuation → consider PRES
-- Pulvinar, claustrum, hippoc
+- Pulvinar, claustrum, hippocampus and other seizure-prone regions — note involvement
+
+**Mass lesions**
+- Space-occupying lesions, calcification, haemorrhagic metastases, lymphoma-like hyperattenuation
+
+**Trauma**
+- Fractures on bone windows, contusions, isodense subdural collections
+
+**Unusual materials**
+- Fat droplets (dermoid rupture), gas (abscess/trauma)
+
+**Recommend / escalate**
+- CTA/CTV/CTP as indicated
+- Urgent MRI if CT is normal but suspicion for encephalitis, PRES, subtle cortical abnormality, or stroke mimic persists
+- Clinical correlation: blood pressure, medications, immunosuppression, pregnancy/post-partum, malignancy, coagulopathy
+
+---
+
+## Referral and management correlations
+
+The finding on CT drives who you call — the reader recognises the pattern, recommends the next test, and escalates; the definitive action is delivered by the relevant team.
+
+- **Intracranial haemorrhage / mass effect** → urgent senior review; aneurysmal SAH → immediate CTA and **neurovascular/neurosurgery** referral.
+- **CVST** → discuss with **stroke/neurology**; prompt anticoagulation is not withheld solely for haemorrhagic venous infarction — flag so it is not delayed.
+- **Causative mass or bleed** → **neurosurgery / neuro-oncology** for management; MRI to characterise; avoid LP if mass effect.
+- **Suspected HSV encephalitis** → empirical **aciclovir must start immediately** on clinical suspicion, coordinated by the treating medical/acute team with **infection/ID** input; do not wait for CT/MRI/LP.
+- **Status epilepticus / airway compromise** → immediate **benzodiazepines and antiepileptics**, delivered by the **medical/critical care** team; a normal CT does not exclude ongoing seizure injury.
+- **PRES** → flag to the treating **medical team** for blood pressure control and removal of offending agents.
+- **First seizure workup** (EEG, MRI, antiepileptic decisions) → refer to **neurology / first-seizure clinic**.
+
+---
+
+## Summary: key take-home points
+
+- In a first seizure, NCCT is a **triage tool** for haemorrhage, mass effect, venous thrombosis, tumour, infection, trauma, and characteristic oedema patterns — many seizure-related changes are subtle or absent, so MRI often follows.
+- **CTP + CTA** patterns distinguish seizure from stroke: ictal hyperperfusion supports seizure; hypoperfusion needs careful territorial/CTA/history assessment before thrombolysis.
+- Actively hunt the easy misses: small convexity SAH, hyperdense venous sinus, haemorrhagic metastases, and subtle medial temporal low attenuation (HSV).
+- **Quantify HU:** acute blood ~50–80, calcification >100, grey 35–45, white 20–30 — small shifts matter.
+- Know the pitfalls (pseudo-SAH, isodense subdural, motion artefact) and use a structured checklist.
+- The imaging finding drives the pathway — recognise it, recommend the next step, and escalate to the team that acts (neurology, stroke, neurosurgery, medical/critical care, infection/ID).

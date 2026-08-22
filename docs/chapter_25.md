@@ -67,7 +67,7 @@ Hounsfield units (HU) describe how bright or dark something appears on CT. Knowi
 
 **Why it matters:** This is usually arterial bleeding (middle meningeal artery). It can expand rapidly. Even a patient with a lucid interval can deteriorate suddenly.
 
-**Escalate immediately if:** thickness ≥15 mm, midline shift ≥5 mm, or any neurological deterioration. Reverse anticoagulation urgently if relevant.
+**Escalate immediately if:** thickness ≥15 mm, midline shift ≥5 mm, or any neurological deterioration. If anticoagulated, flag this in the report and recommend urgent haematology discussion for reversal.
 
 ---
 
@@ -98,7 +98,7 @@ Hounsfield units (HU) describe how bright or dark something appears on CT. Knowi
 
 **Complications to report explicitly:** hydrocephalus (ventricular enlargement with transependymal oedema) — this may need an emergency external ventricular drain (EVD).
 
-**Escalate immediately:** neurosurgical referral, urgent CTA to identify the aneurysm, blood pressure management, nimodipine.
+**Escalate immediately:** urgent neurosurgical referral, request urgent CTA to identify the aneurysm, and recommend the referring team institute blood pressure management and nimodipine.
 
 ---
 
@@ -121,7 +121,7 @@ Hounsfield units (HU) describe how bright or dark something appears on CT. Knowi
 
 **Haemorrhagic metastasis** can look similar but tends to have irregular margins, disproportionate oedema, and may be multiple. Check for a known primary (melanoma, renal cell carcinoma, choriocarcinoma are particularly prone to bleed).
 
-**Escalate:** urgent blood pressure control, anticoagulation reversal, neurosurgical review. Consider CTA to exclude underlying vascular lesion, especially in lobar ICH or young patients.
+**Escalate:** recommend the referring team institute urgent blood pressure control, and if anticoagulated, recommend urgent haematology discussion for reversal; refer for neurosurgical review. Consider requesting CTA to exclude an underlying vascular lesion, especially in lobar ICH or young patients.
 
 ---
 
@@ -168,7 +168,7 @@ Blood appearing within an established infarct. Two patterns to know:
 - **Haemorrhagic venous infarcts** — subcortical haemorrhage that does not conform to any arterial territory, often bilateral or crossing arterial boundaries, with surrounding oedema.
 - On contrast CT: **empty delta sign** (filling defect in the sinus with enhancing walls).
 
-**Escalate:** Confirm with CT venography (CTV) or MR venography (MRV). Anticoagulate unless strongly contraindicated. Check for mastoiditis or sinusitis as the underlying cause.
+**Escalate:** Confirm with CT venography (CTV) or MR venography (MRV). Recommend the referring team anticoagulate unless strongly contraindicated. Check for mastoiditis or sinusitis as the underlying cause.
 
 ---
 
@@ -231,4 +231,66 @@ The **basal cisterns** are your most important indicator of raised intracranial 
 
 **Key sign:** **Transependymal oedema** — a halo of low attenuation in the periventricular white matter indicating CSF is being forced across the ependymal lining under pressure. This is acute and indicates raised ICP requiring urgent action.
 
-**When to escalate urgently:** Hydrocephalus with SAH, intraventricular haemorrhage,
+**When to escalate urgently:** Hydrocephalus with SAH, intraventricular haemorrhage, or a posterior fossa lesion can be lifesaving to treat early — flag transependymal oedema and any 4th ventricle obstruction explicitly, and refer for urgent neurosurgical review for an external ventricular drain (EVD).
+
+---
+
+## Writing the report: make it actionable
+
+A good report is accurate, prioritised, and unambiguous. The clinician acts on your words, not your images.
+
+**Structure:**
+- **Technique** — non-contrast axial CT, slice thickness, reformats, bone windows reviewed. State limitations (motion, dental streak, posterior fossa beam hardening) and any prior contrast.
+- **Findings** — lead with the acute, life-threatening abnormality. Cover blood (type, site, size/volume, HU, intraventricular extension, hydrocephalus), ischaemia (early signs, ASPECTS, hyperdense vessel), mass effect (midline shift in mm, basal cistern patency, herniation), CSF spaces, then skull/face/orbits/sinuses/soft tissues, vascular signs, and incidentals last.
+- **Impression** — name the diagnosis first, state acuity, quantify the key metrics, and add the consequence (hydrocephalus, herniation). Give a specific next step: recommend CTA/CTV/MRI, refer to the stroke team or neurosurgery, or advise repeat CT.
+
+**Language that works:** avoid equivocal wording. In suspected stroke give a binary answer on haemorrhage. Quantify what changes management (thickness, midline shift, ASPECTS, HU and side-to-side ratio for a hyperdense artery).
+
+**Measurement tips:**
+- **Midline shift** — measure at the septum pellucidum, report in mm.
+- **Haematoma volume** — ABC/2 for an ellipsoid ICH.
+- **Ventricular size** — describe qualitatively and note transependymal oedema.
+
+**Reporting pearls:**
+- Always state haemorrhage present or absent; if present, type, location, and complications.
+- Always comment on the basal cisterns: open / partially effaced / obliterated.
+- For any extra-axial collection, give maximal thickness and midline shift.
+- For SAH, describe distribution to suggest the aneurysm site and comment on hydrocephalus.
+- Bone windows are not optional — fractures, pneumocephalus, and otic capsule integrity change management.
+
+---
+
+## Closed-loop communication: phone the critical result
+
+Time-critical findings need immediate verbal communication and a documented note in the report. Do not rely on the report being read in time.
+
+**Phone straight away for:**
+- Any acute haemorrhage with mass effect or herniation
+- Hydrocephalus (especially with SAH, IVH, or a posterior fossa lesion)
+- Large-vessel occlusion signs with a salvageable window
+- An expanding or large EDH/SDH
+- Posterior fossa infarct or haemorrhage with brainstem compression
+- Suspected CVST
+- Retrobulbar haemorrhage with globe compromise
+- Depressed/open skull fracture, or skull base fracture involving the carotid canal
+
+Record the **time, recipient, and content** of the call in the report — this closes the loop.
+
+---
+
+## Appendix: quick-reference reporting checklist
+
+- **Clinical** — onset, anticoagulation, trauma, seizure, BP, infection.
+- **Technique/quality** — non-contrast; artefacts; prior contrast.
+- **Blood** — intra-axial (site, size/volume, HU, oedema, IVH); extra-axial (EDH/SDH/SAH; thickness; distribution; HU).
+- **Parenchyma** — early ischaemia signs; ASPECTS; masses; haemorrhagic transformation.
+- **Mass effect/herniation** — midline shift (mm); cisterns; herniation pattern.
+- **CSF spaces** — ventricle size; transependymal oedema; level of obstruction.
+- **Vascular** — hyperdense artery; hyperdense sinus; carotid canal integrity.
+- **Skull/face/orbits/sinuses/soft tissues** — fractures; pneumocephalus; retrobulbar haemorrhage; mastoiditis.
+- **Impression** — diagnosis first; action items; recommend next imaging (CTA/CTV/MRI) when it changes management.
+- **Communication** — critical alerts documented (time, recipient, content).
+
+---
+
+Work through every scan the same way, tie the CT appearance back to the underlying pathophysiology, and describe findings precisely. Then say what you found, what it means, and what should happen next — and pick up the phone when it is time-critical. That is what makes an acute CT brain report safe, reproducible, and genuinely useful to the team looking after the patient.

@@ -55,7 +55,7 @@ The grey–white matter (GM–WM) difference is normally 5–10 HU and falls ear
 **What to do next:**
 - **Call neurosurgery immediately** if: EDH volume >30 mL, thickness >15 mm, or shift >5 mm; ASDH thickness >10 mm or shift >5 mm; or any neurological deterioration regardless of these thresholds
 - Request **CTA** if the fracture crosses vascular channels (middle meningeal groove, skull base, carotid canal), or if active bleeding ("spot sign") is suspected on contrast CT
-- Reverse anticoagulation promptly
+- Flag any anticoagulation for urgent reversal — involve haematology
 
 **Pitfalls:**
 - In severe anaemia or coagulopathy, acute SDH can be iso- or hypodense relative to brain — look for mass effect and sulcal effacement rather than density alone. Narrow your window settings (WW/WL) to improve conspicuity
@@ -79,7 +79,7 @@ The grey–white matter (GM–WM) difference is normally 5–10 HU and falls ear
 **What to do next:**
 - **Call neurosurgery urgently** for: cerebellar haemorrhage ≥3 cm, brainstem compression, hydrocephalus, or any ICH causing obstructive hydrocephalus — external ventricular drain (EVD) or surgical decompression may be needed
 - Consider **CTA** to look for a "spot sign" (active contrast extravasation within the haematoma) — this predicts haematoma expansion and informs blood pressure targets
-- Flag anticoagulant or antiplatelet use for immediate reversal
+- Flag anticoagulant or antiplatelet use for immediate reversal — involve haematology
 
 **Pitfalls:**
 - Post-procedural contrast staining can mimic haemorrhage. Very high HU (>100–150) that washes out on delayed imaging suggests contrast; dual-energy CT can help distinguish the two
@@ -133,8 +133,8 @@ The grey–white matter (GM–WM) difference is normally 5–10 HU and falls ear
 | Tonsillar | Low-lying cerebellar tonsils crowding foramen magnum; effaced fourth ventricle |
 
 **What to do next:**
-- **Immediate escalation** to neurosurgery and ICU. Temporising measures (head elevation, hypertonic saline, controlled ventilation) should follow local protocol
-- In suspected **malignant MCA infarction**: report ASPECTS explicitly. If large territory infarct with clinical decline, discuss decompressive hemicraniectomy — ideally within 48 hours in selected patients
+- **Immediate escalation** to neurosurgery and critical care/anaesthetics. Temporising measures (head elevation, hypertonic saline, controlled ventilation) are delivered by the critical care/anaesthetic team per local protocol
+- In suspected **malignant MCA infarction**: report ASPECTS explicitly. If large territory infarct with clinical decline, discuss decompressive hemicraniectomy with neurosurgery — ideally within 48 hours in selected patients
 
 **Pitfalls:**
 - Small posterior fossa lesions or haemorrhages can cause disproportionate deterioration. Always scrutinise the fourth ventricle and basal cisterns on every scan — do not stop once you have found a supratentorial abnormality
@@ -149,7 +149,7 @@ The grey–white matter (GM–WM) difference is normally 5–10 HU and falls ear
 - Multiple loculated air collections with mass effect
 
 **What to do next:**
-- **Call neurosurgery immediately.** High-flow oxygen, supine positioning, and burr-hole release if there is tension physiology
+- **Call neurosurgery immediately** for emergency decompression (e.g. burr-hole release) if there is tension physiology; high-flow oxygen and supine positioning are supportive measures while you await them
 - Small amounts of postoperative pneumocephalus are expected — it is mass effect and cisternal/sulcal compression that identifies a tension component
 
 ---
@@ -203,7 +203,7 @@ The grey–white matter (GM–WM) difference is normally 5–10 HU and falls ear
 - Associated sinusitis or mastoiditis on bone windows; look for osteomyelitis
 
 **What to do next:**
-- **Call neurosurgery and ENT urgently** — this is a surgical emergency requiring drainage and immediate broad-spectrum intravenous antibiotics
+- **Call neurosurgery and ENT urgently** — this is a surgical emergency: neurosurgery will drain the collection, and broad-spectrum intravenous antibiotics should be started urgently (escalate to acute medicine/infection)
 - Do not delay treatment if CT is strongly suspicious and the patient is septic or deteriorating. If MRI is unavailable, **contrast-enhanced CT (CECT)** can improve delineation of the collection and rim enhancement
 - MRI with diffusion-weighted imaging (DWI) is the most sensitive modality and will show restricted diffusion within pus
 
@@ -237,4 +237,96 @@ The grey–white matter (GM–WM) difference is normally 5–10 HU and falls ear
 ### 11) Ventricular Shunts and External Ventricular Drains (EVDs)
 
 **What to look for on CT:**
-- Shunt catheter tip position (ideally in frontal horn or third vent
+- Shunt/EVD catheter tip position (ideally in frontal horn or third ventricle); calcified/aged tubing along the subcutaneous track; hardware disconnection or fracture
+- **Malfunction:** ventricular enlargement compared with prior imaging, with transependymal low attenuation
+- **Over-drainage:** slit ventricles with new subdural hygromas or haematomas
+
+**What to do next:**
+- Suspected malfunction with symptoms: **refer to neurosurgery** — do not delay for further imaging if the picture is clear
+- New subdural collections in a shunted patient: **neurosurgery** to consider valve adjustment and haematoma management
+
+**Pitfalls:**
+- Ventricular size varies between patients — always compare with the patient's own prior imaging, not a textbook "normal"
+
+---
+
+### 12) Early Post-operative Brain and Post-procedural Haemorrhage
+
+**What to look for on CT:**
+- **Expected:** small operative-bed blood products, pneumocephalus, parenchymal enhancement if contrast was given
+- **Concerning:** expanding haematoma with mass effect, intraventricular extension, new midline shift
+
+**What to do next:**
+- Any new mass effect or deterioration: **contact neurosurgery immediately** for evacuation
+- High-density material after thrombectomy or intra-arterial therapy: use dual-energy CT or a delayed phase to separate contrast staining from haemorrhage — management diverges (antithrombotic continuation vs reversal via haematology)
+
+---
+
+## Metabolic and Mimic Scenarios (Medical Escalation)
+
+### 13) Diffuse Oedema and Hypoxic–Ischaemic Injury
+
+**What to look for on CT:**
+- Diffuse loss of grey–white differentiation, effaced sulci, compressed ventricles; hyperattenuated vessels and falx (pseudo-SAH sign)
+
+**What to do next:**
+- **Refer to critical care urgently.** CT is confirmatory; MRI may refine prognostication but should not delay supportive care decisions. Convey poor-prognosis features sensitively
+
+---
+
+### 14) PRES and Hypertensive Encephalopathy (When CT is Subtle)
+
+**What to look for on CT:**
+- Low attenuation in parieto-occipital white matter, often bilateral and symmetric; haemorrhage possible
+
+**What to do next:**
+- Urgent blood pressure control (acute medicine/critical care); MRI confirms if needed; exclude posterior fossa mass effect
+
+**Pitfalls:**
+- Do not misattribute acute occipital hypodensity to infarction alone — ask about hypertension, eclampsia, and cytotoxic drugs
+
+---
+
+## Quantification, Red Flags and How to Communicate
+
+**Measurements to include in your report:**
+- Midline shift (at septum pellucidum and pineal)
+- Basal cistern status (patent/effaced)
+- Ventricular size (temporal horn diameter; Evans index if relevant)
+- Haematoma dimensions and ABC/2 volume; presence and extent of IVH
+- ASPECTS for anterior circulation stroke
+- Hyperdense artery HU and side-to-side ratio; sinus attenuation HU (with haematocrit) if suspecting CVST
+
+**Who to call and when:**
+- **Neurosurgery immediately:** EDH/ASDH meeting operative criteria, posterior fossa ICH >3 cm or with hydrocephalus, obstructive hydrocephalus, tension pneumocephalus, herniation
+- **Stroke team immediately:** suspected LVO or basilar territory symptoms — even if NCCT is non-diagnostic; obtain CTA ± CTP without delay
+- **ENT/maxillofacial urgently:** empyema with sinusitis, skull base fractures with CSF leak
+- **Neurology/haematology urgently:** CVST confirmation and anticoagulation
+- **Critical care early:** raised ICP, diffuse oedema, or airway risk
+
+**Typical imaging next steps:**
+- SAH on NCCT → CTA head/neck now; DSA if equivocal or atypical
+- Suspected LVO/AIS → CTA ± CTP per thrombectomy pathway
+- Suspected CVST → CTV or MRV urgently
+- Suspected empyema/abscess, MRI unavailable → CECT to refine surgical planning; do not delay antibiotics
+- Trauma with vascular injury risk → CTA head/neck
+- Indeterminate haemorrhage vs contrast → dual-energy CT or 2–6 h delayed CT
+
+---
+
+## Structured Communication Template (SBAR)
+
+- **Situation:** "Acute CT brain at 14:12 shows a 38 mL left temporoparietal ICH with 7 mm midline shift and early uncal herniation."
+- **Background:** "On apixaban for AF; sudden headache and right hemiplegia; GCS 10."
+- **Assessment:** "Intraventricular extension into the left lateral ventricle with early hydrocephalus; basal cisterns partially effaced."
+- **Recommendation:** "Urgent neurosurgical review for CSF diversion and haemorrhage control; immediate anticoagulation reversal (haematology). Recommend CTA to assess for spot sign."
+
+---
+
+## Key Take-Home Messages
+
+- Escalate from the scanner for operative bleeds, obstructive hydrocephalus, herniation, tension pneumocephalus, and time-critical revascularisation candidates.
+- Quantify what you see — numbers drive decisions (thickness, shift, volume, ASPECTS).
+- Direct the pathway: NCCT is the gate; CTA/CTV/CECT/MRI are the next doors — know which to open and when.
+- Beware the pitfalls that delay life-saving intervention: posterior fossa disease, isoattenuating SDH, pseudo-SAH, calcification mimicking clot.
+- Clear, urgent, specific communication is as important as accurate image interpretation.
