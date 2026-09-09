@@ -78,6 +78,45 @@ Work top-to-bottom (or bottom-to-top — be consistent). At each level confirm:
 7. High convexities, falx, cortical sulci
 8. Vertex
 
+<!-- ANATOMY-FIGURES BEGIN -->
+
+### Labelled axial levels
+
+Ten labelled axial levels, ascending from the skull base to the vertex. On every image the arrow colour indicates which window the structure is best judged on — **blue parenchymal**, **green ventricular**, **orange skull/bone** — as shown in the key on each slice.
+
+![Labelled axial non-contrast CT, level 1 of 10 (inferior → superior). Structures labelled: Ethmoid sinus, Orbit, Temporal lobe, Clivus, Medulla, Mastoid air cells.]({{ '/docs/img/ctb_anatomy_axial_01.jpg' | relative_url }})
+*Labelled axial non-contrast CT, level 1 of 10 (inferior → superior). Structures labelled: Ethmoid sinus, Orbit, Temporal lobe, Clivus, Medulla, Mastoid air cells.*
+
+![Labelled axial non-contrast CT, level 2 of 10 (inferior → superior). Structures labelled: Frontal lobe, Pituitary fossa, Temporal lobe, Pons, Cerebellum.]({{ '/docs/img/ctb_anatomy_axial_02.jpg' | relative_url }})
+*Labelled axial non-contrast CT, level 2 of 10 (inferior → superior). Structures labelled: Frontal lobe, Pituitary fossa, Temporal lobe, Pons, Cerebellum.*
+
+![Labelled axial non-contrast CT, level 3 of 10 (inferior → superior). Structures labelled: Frontal lobe, Temporal horn of lateral ventricle, Temporal lobe, Pons, Cerebellar hemisphere.]({{ '/docs/img/ctb_anatomy_axial_03.jpg' | relative_url }})
+*Labelled axial non-contrast CT, level 3 of 10 (inferior → superior). Structures labelled: Frontal lobe, Temporal horn of lateral ventricle, Temporal lobe, Pons, Cerebellar hemisphere.*
+
+![Labelled axial non-contrast CT, level 4 of 10 (inferior → superior). Structures labelled: Frontal lobe, Insular cortex, Middle cerebral artery, Fourth ventricle, Cerebellar vermis, Pentagonal cistern, Sylvian fissure, Sigmoid sinus.]({{ '/docs/img/ctb_anatomy_axial_04.jpg' | relative_url }})
+*Labelled axial non-contrast CT, level 4 of 10 (inferior → superior). Structures labelled: Frontal lobe, Insular cortex, Middle cerebral artery, Fourth ventricle, Cerebellar vermis, Pentagonal cistern, Sylvian fissure, Sigmoid sinus.*
+
+![Labelled axial non-contrast CT, level 5 of 10 (inferior → superior). Structures labelled: Tentorium cerebelli, Frontal lobe, Head of caudate nucleus, Frontal horn lat. vent., Foramen of Monro, Internal capsule, Third ventricle, Cerebellar hemisphere.]({{ '/docs/img/ctb_anatomy_axial_05.jpg' | relative_url }})
+*Labelled axial non-contrast CT, level 5 of 10 (inferior → superior). Structures labelled: Tentorium cerebelli, Frontal lobe, Head of caudate nucleus, Frontal horn lat. vent., Foramen of Monro, Internal capsule, Third ventricle, Cerebellar hemisphere.*
+
+![Labelled axial non-contrast CT, level 6 of 10 (inferior → superior). Structures labelled: Falx cerebri, Septum pellucidum, Body lat. ventricle, Choroid plexus, Parietal lobe, Occipital lobe.]({{ '/docs/img/ctb_anatomy_axial_06.jpg' | relative_url }})
+*Labelled axial non-contrast CT, level 6 of 10 (inferior → superior). Structures labelled: Falx cerebri, Septum pellucidum, Body lat. ventricle, Choroid plexus, Parietal lobe, Occipital lobe.*
+
+![Labelled axial non-contrast CT, level 7 of 10 (inferior → superior). Structures labelled: Falx cerebri, Frontal lobe, Centrum semiovale, Posterior horn lat. ventricle, Parietal lobe.]({{ '/docs/img/ctb_anatomy_axial_07.jpg' | relative_url }})
+*Labelled axial non-contrast CT, level 7 of 10 (inferior → superior). Structures labelled: Falx cerebri, Frontal lobe, Centrum semiovale, Posterior horn lat. ventricle, Parietal lobe.*
+
+![Labelled axial non-contrast CT, level 8 of 10 (inferior → superior). Structures labelled: Falx cerebri, Frontal lobe, Centrum semiovale, Parietal lobe, Occipital lobe, Lateral ventricle.]({{ '/docs/img/ctb_anatomy_axial_08.jpg' | relative_url }})
+*Labelled axial non-contrast CT, level 8 of 10 (inferior → superior). Structures labelled: Falx cerebri, Frontal lobe, Centrum semiovale, Parietal lobe, Occipital lobe, Lateral ventricle.*
+
+![Labelled axial non-contrast CT, level 9 of 10 (inferior → superior). Structures labelled: Superior sagittal sinus, Falx cerebri, Frontal lobe, Cortical sulci, Parietal lobe.]({{ '/docs/img/ctb_anatomy_axial_09.jpg' | relative_url }})
+*Labelled axial non-contrast CT, level 9 of 10 (inferior → superior). Structures labelled: Superior sagittal sinus, Falx cerebri, Frontal lobe, Cortical sulci, Parietal lobe.*
+
+![Labelled axial non-contrast CT, level 10 of 10 (inferior → superior). Structures labelled: Superior sagittal sinus, Falx cerebri, Frontal lobe, Central sulcus, Parietal cortex.]({{ '/docs/img/ctb_anatomy_axial_10.jpg' | relative_url }})
+*Labelled axial non-contrast CT, level 10 of 10 (inferior → superior). Structures labelled: Superior sagittal sinus, Falx cerebri, Frontal lobe, Central sulcus, Parietal cortex.*
+
+<!-- ANATOMY-FIGURES END -->
+
+
 ---
 
 ## The ventricular system and CSF spaces
