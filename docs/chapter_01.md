@@ -117,7 +117,8 @@ In severe hypoxic–ischaemic injury (e.g. post-cardiac arrest), the brain paren
 - Diffusely low brain attenuation throughout
 - No true sulcal layering of blood
 - Clinical context (post-arrest, anoxic injury)
-- Do not phone the neurosurgeons for an aneurysm coiling in this situation
+
+Do not phone the neurosurgeons for an aneurysm coiling in this situation.
 
 ### Motion artefact
 Blurring and double contours — ask the clinical team whether the patient was moving. A limited repeat of a critical area may be warranted. Do not over-interpret subtle findings on a motion-degraded study.
